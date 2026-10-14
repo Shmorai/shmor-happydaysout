@@ -1,0 +1,334 @@
+{
+  "updated": "2026-10-14",
+  "slug": "free-days-out",
+  "nav": "Free days out",
+  "navOrder": 6,
+  "title": "Free Days Out for Families in the UK, US and Europe",
+  "description": "Brilliant free days out with kids: free museums, parks, beaches, heritage open days, free museum weekends in the US and free first Sundays in Europe.",
+  "eyebrow": "Free days out",
+  "h1": "Free days out the whole family will love",
+  "intro": "Dinosaurs, beaches, forests and festivals, all free. Here are the best free family days out at home and abroad, plus the schemes that make paid attractions free for kids.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1475503572774-15a45e5d60b9",
+    "alt": "Two parents and a child holding hands on the seashore",
+    "credit": "Natalya Zaritskaya",
+    "creditUrl": "https://unsplash.com/@goodmood77"
+  },
+  "chips": [
+    {
+      "label": "Free London museums",
+      "slug": "blog/free-museums-london-kids"
+    },
+    {
+      "label": "Free US days out",
+      "slug": "blog/free-days-out-usa-kids"
+    },
+    {
+      "label": "Picnic checklist",
+      "slug": "blog/picnic-day-out-checklist"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "scout",
+      "mood": "verdict",
+      "title": "Scout’s verdict",
+      "text": "<p>Free doesn’t mean second best. The Natural History Museum and the Smithsonian are among the best days out anywhere, and they cost nothing to get in. Budget for the extras instead: travel, parking and the gift shop.</p>",
+      "facts": [
+        [
+          "Best free indoor",
+          "National museums"
+        ],
+        [
+          "Best free outdoor",
+          "Beaches, forests, parks"
+        ],
+        [
+          "Hidden cost",
+          "Parking & gift shops"
+        ]
+      ],
+      "position": "top"
+    },
+    {
+      "type": "attractions",
+      "title": "Free favourites",
+      "tabs": true,
+      "items": [
+        {
+          "title": "Natural History Museum",
+          "kind": "Free museum",
+          "where": "South Kensington, London",
+          "region": "uk",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1491156855053-9cdff72c7f85",
+            "alt": "The vaulted Hintze Hall at the Natural History Museum, London",
+            "credit": "Claudio Testa",
+            "creditUrl": "https://unsplash.com/@claudiotesta"
+          },
+          "text": "Dinosaurs, a blue whale skeleton and an earthquake room. General admission is free.",
+          "tags": [
+            "All ages",
+            "Free entry",
+            "Rainy day"
+          ],
+          "saves": [
+            "General admission is free (some special exhibitions charge)",
+            "Book a free timed slot online at busy times"
+          ],
+          "scout": "The Science Museum and V&A are next door, so you can mix and match one free day.",
+          "url": "https://www.nhm.ac.uk/",
+          "slug": "blog/free-museums-london-kids",
+          "more": "Free London museums"
+        },
+        {
+          "title": "Platform 9¾ at King’s Cross",
+          "kind": "Free photo spot",
+          "where": "King’s Cross station, London",
+          "region": "uk",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1547756536-cde3673fa2e5",
+            "alt": "A red steam locomotive on a railway line",
+            "credit": "B K",
+            "creditUrl": "https://unsplash.com/@woolyart"
+          },
+          "text": "A luggage trolley disappearing into the wall at King’s Cross station, with a themed shop next to it. Taking your own photo is free.",
+          "tags": [
+            "All ages",
+            "Free",
+            "Queues at peak times"
+          ],
+          "saves": [
+            "Free to visit: you only pay if you want the official photo or shop souvenirs",
+            "Go early in the morning to beat the queue"
+          ],
+          "scout": "A fun free stop on a London day out. Combine it with the free museums in South Kensington.",
+          "slug": "blog/free-museums-london-kids",
+          "more": "Free London museums"
+        },
+        {
+          "title": "Smithsonian museums",
+          "kind": "Free museums",
+          "where": "Washington, DC, USA",
+          "region": "us",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1513038630932-13873b1a7f29",
+            "alt": "Visitors exploring a dinosaur fossil gallery",
+            "credit": "Chris Nguyen",
+            "creditUrl": "https://unsplash.com/@cspek"
+          },
+          "text": "Most Smithsonian museums on and around the National Mall are free, including Natural History and Air and Space.",
+          "tags": [
+            "All ages",
+            "Free entry",
+            "Rainy day"
+          ],
+          "saves": [
+            "Free admission at most Smithsonian museums",
+            "Some popular museums use free timed-entry passes: check before you go"
+          ],
+          "scout": "A whole free holiday in one city! Pick two museums a day max with younger kids.",
+          "url": "https://www.si.edu/",
+          "slug": "blog/free-days-out-usa-kids",
+          "more": "Free US days out"
+        },
+        {
+          "title": "US national parks",
+          "kind": "Outdoors",
+          "where": "Across the USA",
+          "region": "us",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1472396961693-142e6e269027",
+            "alt": "Deer grazing in a meadow below Half Dome in Yosemite",
+            "credit": "Johannes Andersson",
+            "creditUrl": "https://unsplash.com/@thejoltjoker"
+          },
+          "text": "From Yosemite to the Great Smoky Mountains, America’s national parks are some of the best-value family days out there are.",
+          "tags": [
+            "All ages",
+            "Junior Rangers",
+            "Outdoors"
+          ],
+          "saves": [
+            "Fourth graders can get a free Every Kid Outdoors pass for the 2026–27 school year",
+            "An annual America the Beautiful pass covers entrance fees at federal sites",
+            "Junior Ranger programmes are free at many parks"
+          ],
+          "scout": "Pick up a Junior Ranger booklet at the visitor centre. Kids love earning the badge.",
+          "url": "https://www.nps.gov/",
+          "slug": "blog/us-national-parks-with-kids",
+          "more": "National parks with kids"
+        }
+      ]
+    },
+    {
+      "type": "codes",
+      "title": "Schemes that make days out free",
+      "tabs": true,
+      "items": [
+        {
+          "merchant": "BBC Blue Peter badge",
+          "title": "Free child entry at 200+ UK attractions",
+          "region": "uk",
+          "icon": "star",
+          "stub": "Kids go free",
+          "text": "Children under 16 who earn a Blue Peter badge get free entry at participating attractions when an adult pays and they show their badge and ID card.",
+          "nocode": "Show badge + badge ID card",
+          "terms": "Merlin attractions stopped taking badges in 2017. Badges can take weeks to arrive.",
+          "url": "https://www.bbc.co.uk/cbbc/joinin/about-blue-peter-badges",
+          "urlLabel": "bbc.co.uk",
+          "slug": "blog/blue-peter-badge-free-entry",
+          "more": "How to get one",
+          "checked": "2026-10-14"
+        },
+        {
+          "merchant": "National Trust & English Heritage",
+          "title": "Under-5s go free at most properties",
+          "region": "uk",
+          "icon": "users",
+          "stub": "Little ones free",
+          "text": "Both charities let children under 5 in free at most sites, and family memberships can cover the rest of the gang for a year.",
+          "nocode": "No code needed",
+          "terms": "Check each property: some events and car parks charge extra.",
+          "url": "https://www.nationaltrust.org.uk/",
+          "urlLabel": "nationaltrust.org.uk",
+          "slug": "blog/national-trust-vs-english-heritage",
+          "more": "Which membership?",
+          "checked": "2026-10-14"
+        },
+        {
+          "merchant": "Bank of America Museums on Us",
+          "title": "Free museum entry on the first full weekend of every month",
+          "region": "us",
+          "icon": "calendar",
+          "stub": "Free weekend",
+          "text": "Bank of America, Merrill and Private Bank cardholders get one free general admission at participating museums. The next weekend is 7–8 November 2026.",
+          "nocode": "Show your card + photo ID",
+          "terms": "Cardholder only, no guests. Special exhibitions excluded.",
+          "url": "https://about.bankofamerica.com/en/making-an-impact/museums-on-us-partners",
+          "urlLabel": "Bank of America",
+          "slug": "blog/free-days-out-usa-kids",
+          "more": "Free US days out",
+          "checked": "2026-10-14"
+        },
+        {
+          "merchant": "Museums for All",
+          "title": "Free or reduced entry with an EBT card",
+          "region": "us",
+          "icon": "heart",
+          "stub": "Access offer",
+          "text": "Families receiving SNAP benefits can show an EBT card for free or reduced admission at hundreds of participating museums across the US.",
+          "nocode": "Show EBT card + ID",
+          "terms": "Rules (group size, price) vary by museum.",
+          "url": "https://museums4all.org/",
+          "urlLabel": "museums4all.org",
+          "slug": "blog/free-days-out-usa-kids",
+          "more": "Free US days out",
+          "checked": "2026-10-14"
+        },
+        {
+          "merchant": "Every Kid Outdoors",
+          "title": "Free national parks pass for fourth graders",
+          "region": "us",
+          "icon": "compass",
+          "stub": "Free pass",
+          "text": "US fourth graders (and home-schooled 10-year-olds) can get a free pass that covers entrance fees for the family at federal lands. The 2026–27 pass runs to 31 August 2027.",
+          "nocode": "Download the voucher online",
+          "terms": "Covers entrance fees, not camping or tours.",
+          "url": "https://everykidoutdoors.gov/",
+          "urlLabel": "everykidoutdoors.gov",
+          "slug": "blog/every-kid-outdoors-pass",
+          "more": "How to get it",
+          "checked": "2026-10-14"
+        },
+        {
+          "merchant": "French national museums",
+          "title": "Free for under-18s at national museums",
+          "region": "europe",
+          "icon": "users",
+          "stub": "Kids free",
+          "text": "France’s national museums, including the Louvre, admit under-18s free. EU/EEA residents aged 18–25 usually go free too.",
+          "nocode": "Bring ID for older kids",
+          "terms": "Timed booking is often still required, even for free tickets.",
+          "url": "https://www.louvre.fr/en/visit/hours-admission",
+          "urlLabel": "louvre.fr",
+          "checked": "2026-10-14"
+        },
+        {
+          "merchant": "Italy’s state museums",
+          "title": "“Domenica al museo”: free state museums on the first Sunday of the month",
+          "region": "europe",
+          "icon": "calendar",
+          "stub": "Free Sunday",
+          "text": "Italian state museums and archaeological sites have opened for free on the first Sunday of the month. Expect crowds and check booking rules.",
+          "nocode": "No code needed",
+          "terms": "Some sites need advance reservation on free days.",
+          "url": "https://cultura.gov.it/domenicalmuseo",
+          "urlLabel": "cultura.gov.it",
+          "checked": "2026-10-14"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Free days out in the UK",
+      "html": "<ul><li><strong>National museums:</strong> general admission is free at the UK’s national museums, including the Natural History Museum, Science Museum, British Museum and Young V&A in London, and the national museums of Scotland and Wales.</li><li><strong>Heritage Open Days:</strong> every September, hundreds of buildings in England that normally charge (or are closed) open for free.</li><li><strong>Beaches, parks and forests:</strong> free to enjoy, though car parks may charge.</li><li><strong>Blue Peter badge:</strong> badge holders under 16 get free entry at 200+ attractions.</li></ul>"
+    },
+    {
+      "h2": "Free days out in the US",
+      "html": "<ul><li><strong>Smithsonian museums</strong> in Washington, DC are free.</li><li><strong>Museums on Us:</strong> Bank of America cardholders get free museum entry on the first full weekend of each month.</li><li><strong>Library museum passes:</strong> many public libraries lend free or discounted passes to local museums and zoos.</li><li><strong>National park fee-free days:</strong> the National Park Service publishes free-entry days each year. Check nps.gov for the current list.</li></ul><p>More in our <a href=\"/blog/free-days-out-usa-kids/\">free US days out guide</a>.</p>"
+    },
+    {
+      "h2": "Free days out in Europe",
+      "html": "<p>French national museums admit under-18s free, and Italy’s state museums have opened free on the first Sunday of the month. Many cities also have free parks, playgrounds and festivals. Planning a city break? See <a href=\"https://traveldeals.shmor.ai/city-breaks/\">city breaks on TravelDeals</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What are the best free days out with kids in the UK?",
+      "a": "National museums like the Natural History Museum and Science Museum, beaches, country parks, forests and free festivals. Heritage Open Days in September open many paid buildings for free."
+    },
+    {
+      "q": "Are London museums really free?",
+      "a": "Yes. General admission to the national museums is free. Some special exhibitions charge, and some museums ask you to book a free timed ticket at busy times."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Natural History Museum",
+      "url": "https://www.nhm.ac.uk/"
+    },
+    {
+      "title": "Heritage Open Days",
+      "url": "https://www.heritageopendays.org.uk/"
+    },
+    {
+      "title": "Smithsonian Institution",
+      "url": "https://www.si.edu/"
+    },
+    {
+      "title": "National Park Service: passes and fee-free days",
+      "url": "https://www.nps.gov/planyourvisit/passes.htm"
+    }
+  ],
+  "related": [
+    "blog/free-museums-london-kids",
+    "blog/free-days-out-usa-kids",
+    "blog/days-out-on-a-budget",
+    "local-days-out"
+  ],
+  "keywords": [
+    "free days out",
+    "free things to do with kids",
+    "free museums",
+    "free days out with kids",
+    "free activities",
+    "free family days out",
+    "cheap days out",
+    "heritage open days",
+    "smithsonian",
+    "free museum day"
+  ],
+  "cardText": "Free museums, beaches, open days and schemes that let kids in free."
+}

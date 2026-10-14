@@ -1,15 +1,300 @@
 {
+  "updated": "2026-10-14",
   "slug": "",
-  "title": "HappyDaysOut: Family days out for less: theme park deals, ki",
-  "description": "Family days out for less: theme park deals, kids-go-free offers, experience days and honest value tips. Free to use, part of the Shmor.ai network.",
-  "eyebrow": "Part of the Shmor.ai network",
-  "h1": "HappyDaysOut",
-  "intro": "Family days out for less: theme park deals, kids-go-free offers, experience days and honest value tips.",
-  "related": [],
+  "title": "HappyDaysOut: Family Days Out, Offers & Kids-Go-Free Deals",
+  "description": "Family days out for less: theme park offers, kids-go-free deals, real discount ideas, free days out and experience days in the UK, US and Europe.",
+  "eyebrow": "Days out · Theme parks · Experiences",
+  "h1": "Big days out. Little prices.",
+  "h1Html": "Big days out.<br><span class=\"hl\">Little prices.</span>",
+  "intro": "Family days out near you, across the country and around the world: theme park offers, kids-go-free deals, free days out and experience days, with honest tips from Scout the Fox.",
+  "chips": [
+    {
+      "label": "Theme parks",
+      "slug": "theme-parks"
+    },
+    {
+      "label": "Harry Potter",
+      "slug": "harry-potter-days-out"
+    },
+    {
+      "label": "Disney",
+      "slug": "disney-deals"
+    },
+    {
+      "label": "Free days out",
+      "slug": "free-days-out"
+    },
+    {
+      "label": "Discount codes",
+      "slug": "discount-codes"
+    },
+    {
+      "label": "Experience days",
+      "slug": "experience-days"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "strip",
+      "position": "top",
+      "items": [
+        {
+          "icon": "check",
+          "title": "Real offers only.",
+          "text": "No made-up codes."
+        },
+        {
+          "icon": "globe",
+          "title": "UK, US & Europe",
+          "text": "local to international"
+        },
+        {
+          "icon": "heart",
+          "title": "Free to use",
+          "text": "never a booking fee"
+        },
+        {
+          "icon": "star",
+          "title": "Scout-checked tips",
+          "text": "for every budget"
+        }
+      ]
+    },
+    {
+      "type": "scout",
+      "mood": "tip",
+      "title": "Hello! I’m Scout the Fox 🦊",
+      "text": "<p>I sniff out the best-value family days out, from free museums down the road to Disney across the ocean. Look for my tips on every page: who each day out suits, how to pay less, and what to watch out for.</p>",
+      "points": [
+        "Start with a <a href=\"/discount-codes/\">real discount or kids-go-free offer</a>",
+        "Or try a <a href=\"/free-days-out/\">totally free day out</a>",
+        "Planning something big? See <a href=\"/theme-parks/\">theme parks</a> and <a href=\"/disney-deals/\">Disney</a>"
+      ],
+      "position": "top",
+      "label": "Meet your guide"
+    },
+    {
+      "type": "tiles",
+      "title": "Pick your kind of adventure",
+      "items": [
+        {
+          "slug": "theme-parks",
+          "badge": "Most popular",
+          "title": "Theme parks",
+          "text": "Coasters, castles and LEGO bricks"
+        },
+        {
+          "slug": "harry-potter-days-out",
+          "title": "Harry Potter days out",
+          "text": "Studio Tour, castles and steam trains"
+        },
+        {
+          "slug": "disney-deals",
+          "title": "Disney",
+          "text": "Paris, Florida and California"
+        },
+        {
+          "slug": "zoos-and-aquariums",
+          "title": "Zoos & aquariums",
+          "text": "Penguins, giraffes and sharks"
+        },
+        {
+          "slug": "free-days-out",
+          "title": "Free days out",
+          "text": "Museums, parks and beaches"
+        },
+        {
+          "slug": "experience-days",
+          "title": "Experience days",
+          "text": "Balloon flights to animal encounters"
+        },
+        {
+          "slug": "international-days-out",
+          "title": "Around the world",
+          "text": "Efteling, Orlando, Tokyo and more"
+        }
+      ]
+    },
+    {
+      "type": "codes",
+      "title": "Top ways to pay less right now",
+      "intro": "Real schemes we’ve checked against official sources. Most of the best savings don’t even need a code. <a href=\"/discount-codes/\">See every offer →</a>",
+      "items": [
+        {
+          "merchant": "National Rail Days Out Guide",
+          "title": "2FOR1 and money off attractions when you travel by train",
+          "region": "uk",
+          "icon": "tag",
+          "stub": "2FOR1",
+          "text": "Travel by train and show a valid National Rail ticket to get 2FOR1 entry or other discounts at attractions across the UK.",
+          "nocode": "No code: voucher or booking reference",
+          "terms": "Valid National Rail ticket needed. Oyster, contactless and TfL tickets don’t qualify. Some offers need pre-booking.",
+          "url": "https://www.daysoutguide.co.uk/",
+          "urlLabel": "daysoutguide.co.uk",
+          "slug": "blog/national-rail-2for1-days-out",
+          "more": "How it works",
+          "checked": "2026-10-14"
+        },
+        {
+          "merchant": "Merlin Annual Pass",
+          "title": "One pass for LEGOLAND, Alton Towers, Thorpe Park, Chessington, SEA LIFE and more",
+          "region": "uk",
+          "icon": "tag",
+          "stub": "Annual pass",
+          "text": "For 2026 there are three passes: Essential, Gold and Platinum. Discovery and Silver have been withdrawn, and Blackpool attractions aren’t included on new or renewed passes.",
+          "nocode": "No code: buy direct",
+          "terms": "You still need to pre-book visits. Exclusion dates vary by pass.",
+          "url": "https://www.merlinannualpass.co.uk/",
+          "urlLabel": "merlinannualpass.co.uk",
+          "slug": "merlin-annual-pass",
+          "more": "Is it worth it?",
+          "checked": "2026-10-14"
+        },
+        {
+          "merchant": "BBC Blue Peter badge",
+          "title": "Free child entry at 200+ UK attractions",
+          "region": "uk",
+          "icon": "star",
+          "stub": "Kids go free",
+          "text": "Children under 16 who earn a Blue Peter badge get free entry at participating attractions when an adult pays and they show their badge and ID card.",
+          "nocode": "Show badge + badge ID card",
+          "terms": "Merlin attractions stopped taking badges in 2017. Badges can take weeks to arrive.",
+          "url": "https://www.bbc.co.uk/cbbc/joinin/about-blue-peter-badges",
+          "urlLabel": "bbc.co.uk",
+          "slug": "blog/blue-peter-badge-free-entry",
+          "more": "How to get one",
+          "checked": "2026-10-14"
+        },
+        {
+          "merchant": "Warner Bros. Studio Tour London",
+          "title": "Book direct, and under-5s go free",
+          "region": "uk",
+          "icon": "tag",
+          "stub": "Book direct",
+          "text": "Children aged 4 and under go free with a ticket. Booking on the official site avoids reseller mark-ups. Transport packages cost more.",
+          "nocode": "No code needed",
+          "terms": "Advance booking only: no tickets on arrival.",
+          "url": "https://www.wbstudiotour.co.uk/",
+          "urlLabel": "wbstudiotour.co.uk",
+          "slug": "blog/harry-potter-studio-tour-tips",
+          "more": "Studio Tour tips",
+          "checked": "2026-10-14"
+        },
+        {
+          "merchant": "Every Kid Outdoors",
+          "title": "Free national parks pass for fourth graders",
+          "region": "us",
+          "icon": "compass",
+          "stub": "Free pass",
+          "text": "US fourth graders (and home-schooled 10-year-olds) can get a free pass that covers entrance fees for the family at federal lands. The 2026–27 pass runs to 31 August 2027.",
+          "nocode": "Download the voucher online",
+          "terms": "Covers entrance fees, not camping or tours.",
+          "url": "https://everykidoutdoors.gov/",
+          "urlLabel": "everykidoutdoors.gov",
+          "slug": "blog/every-kid-outdoors-pass",
+          "more": "How to get it",
+          "checked": "2026-10-14"
+        },
+        {
+          "merchant": "Bank of America Museums on Us",
+          "title": "Free museum entry on the first full weekend of every month",
+          "region": "us",
+          "icon": "calendar",
+          "stub": "Free weekend",
+          "text": "Bank of America, Merrill and Private Bank cardholders get one free general admission at participating museums. The next weekend is 7–8 November 2026.",
+          "nocode": "Show your card + photo ID",
+          "terms": "Cardholder only, no guests. Special exhibitions excluded.",
+          "url": "https://about.bankofamerica.com/en/making-an-impact/museums-on-us-partners",
+          "urlLabel": "Bank of America",
+          "slug": "blog/free-days-out-usa-kids",
+          "more": "Free US days out",
+          "checked": "2026-10-14"
+        }
+      ]
+    },
+    {
+      "type": "steps",
+      "title": "How to plan a great-value day out",
+      "items": [
+        {
+          "icon": "search",
+          "title": "Pick the right fit",
+          "text": "Match the day to your kids’ ages and energy. Scout’s “best for” notes help."
+        },
+        {
+          "icon": "percent",
+          "title": "Stack the savings",
+          "text": "Kids-go-free deals, 2FOR1 with train tickets, memberships and off-peak dates."
+        },
+        {
+          "icon": "calendar",
+          "title": "Book ahead",
+          "text": "Online, date-based tickets are usually cheaper than the gate, and popular days sell out."
+        },
+        {
+          "icon": "heart",
+          "title": "Pack smart",
+          "text": "Picnic, water bottles and a rain plan save money and meltdowns."
+        }
+      ]
+    }
+  ],
+  "highlightsTitle": "Why families use HappyDaysOut",
+  "highlights": [
+    {
+      "icon": "🎟️",
+      "title": "Real deals, no fake codes",
+      "text": "Lots of “voucher” sites list codes that don’t work. We only list offers we’ve checked on official sites, with the date we checked them."
+    },
+    {
+      "icon": "🦊",
+      "title": "Honest tips from Scout",
+      "text": "Who each day out suits, how to save, and what to watch out for. Scout gives advice, never fake star ratings or made-up reviews."
+    },
+    {
+      "icon": "🌍",
+      "title": "Near you or far away",
+      "text": "Local farm parks and free museums, big national attractions, and family trips abroad, all in one place."
+    }
+  ],
   "sections": [
     {
-      "h2": "Why use HappyDaysOut?",
-      "html": "<p>Family days out for less: theme park deals, kids-go-free offers, experience days and honest value tips.</p>"
+      "h2": "Family days out for every budget",
+      "html": "<p>A great day out doesn’t have to cost a fortune. Some of the happiest family days are completely free: a museum full of dinosaurs, a beach, a forest trail or a heritage open day. When you do want the big stuff (theme parks, Disney, the <a href=\"/harry-potter-days-out/\">Harry Potter Studio Tour</a>), a little planning can cut the cost a lot.</p><ul><li><strong>Kids go free:</strong> under-3s are free at most theme parks, and many attractions let under-5s in free.</li><li><strong>2FOR1 with the train:</strong> the <a href=\"/blog/national-rail-2for1-days-out/\">National Rail Days Out Guide</a> gives money off attractions when you travel by rail.</li><li><strong>Annual passes:</strong> if you’ll visit more than a couple of times, a pass like the <a href=\"/merlin-annual-pass/\">Merlin Annual Pass</a> can pay for itself.</li><li><strong>Off-peak dates:</strong> date-based pricing means quieter days usually cost less.</li></ul>"
+    },
+    {
+      "h2": "Local, national and international",
+      "html": "<p>Start close to home with our guide to <a href=\"/local-days-out/\">days out near you</a>, browse the best <a href=\"/uk-days-out/\">UK days out</a>, or plan something bigger with our <a href=\"/international-days-out/\">international family days out</a> guide. Turning a day out into a holiday? Our sister site <a href=\"https://traveldeals.shmor.ai/family-holidays/\">TravelDeals compares family holidays</a>, and <a href=\"https://cruisedeals.shmor.ai/family-cruises/\">CruiseDeals covers family cruises</a>.</p>"
     }
-  ]
+  ],
+  "faqs": [
+    {
+      "q": "Are the discount codes on HappyDaysOut real?",
+      "a": "Yes. We only list codes and offers we have checked against the attraction’s or scheme’s official website, and we show the date we checked. Many of the best savings, like under-5s free or 2FOR1 with a train ticket, don’t need a code at all."
+    },
+    {
+      "q": "Who is Scout the Fox?",
+      "a": "Scout is the HappyDaysOut mascot. Scout’s tips sum up who a day out suits, how to save and what to watch out for. They are editorial guidance, not paid reviews or star ratings. <a href=\"/meet-scout/\">Meet Scout</a>."
+    },
+    {
+      "q": "Does HappyDaysOut cost anything?",
+      "a": "No. HappyDaysOut is free. Some links may be affiliate links, so we may earn a commission if you book, at no extra cost to you."
+    },
+    {
+      "q": "Do you cover the US and Europe as well as the UK?",
+      "a": "Yes. We cover family days out in the UK, the US and Europe, plus big international attractions like Walt Disney World and the Harry Potter Studio Tour in Tokyo."
+    }
+  ],
+  "related": [
+    "local-days-out",
+    "uk-days-out",
+    "international-days-out",
+    "merlin-annual-pass",
+    "zoos-and-aquariums",
+    "meet-scout"
+  ],
+  "relatedTitle": "More ways to explore",
+  "latestPosts": 3,
+  "latestTitle": "Fresh from Scout’s blog",
+  "ctaTitle": "Where shall we go next?"
 }

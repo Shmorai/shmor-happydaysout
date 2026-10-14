@@ -1,0 +1,76 @@
+{
+  "updated": "2026-10-14",
+  "type": "post",
+  "date": "2026-09-19",
+  "eyebrow": "Tips · Packing",
+  "search": false,
+  "slug": "blog/picnic-day-out-checklist",
+  "title": "Family Picnic Day Out Checklist: What to Pack",
+  "description": "The family picnic checklist for days out: food that travels well, keeping it cool, what to bring for kids, and whether attractions allow picnics.",
+  "h1": "The family picnic day out checklist",
+  "intro": "A good picnic saves money and stops “hangry” meltdowns. Here’s what to pack for a family day out, and what to check before you bring food into an attraction.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1681311311317-a0561a8eef74",
+    "alt": "A family sitting on a picnic blanket in the grass",
+    "credit": "Reba Spike",
+    "creditUrl": "https://unsplash.com/@rebaspike"
+  },
+  "keywords": [
+    "picnic",
+    "picnic checklist",
+    "family picnic",
+    "what to pack for a day out",
+    "day out packing list",
+    "picnic ideas for kids",
+    "packed lunch day out"
+  ],
+  "cardText": "What to pack, how to keep it cool and which attractions allow picnics.",
+  "blocks": [
+    {
+      "type": "scout",
+      "mood": "tip",
+      "title": "Scout’s picnic rule",
+      "text": "<p>Check the attraction’s food policy before you pack. Most parks, zoos and heritage sites have picnic areas, but some restrict glass, alcohol or cool boxes.</p>",
+      "points": [
+        "Freeze water bottles to use as ice packs",
+        "Pack snacks for the queue",
+        "Bring a bag for rubbish"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Food that travels well",
+      "html": "<ul><li>Wraps and sandwiches that won’t go soggy (pack fillings separately for little ones).</li><li>Chopped fruit and veg sticks.</li><li>Cheese, crackers and cold pasta salads.</li><li>A treat for later, which works brilliantly as a bribe on the way home!</li></ul>"
+    },
+    {
+      "h2": "The kit",
+      "html": "<ul><li>Cool bag with ice packs or frozen bottles.</li><li>Picnic blanket with a waterproof backing.</li><li>Refillable water bottles.</li><li>Wipes, hand gel, kitchen roll and bin bags.</li><li>Plates, cups and cutlery (reusable is cheaper over time).</li></ul>"
+    },
+    {
+      "h2": "Keeping food safe",
+      "html": "<p>Keep perishable food cool, in the shade, and eat it within a few hours. Throw away anything that’s been sitting in the sun. The UK Food Standards Agency has more food safety guidance.</p>"
+    },
+    {
+      "h2": "Where to picnic",
+      "html": "<p>Most <a href=\"/zoos-and-aquariums/\">zoos</a>, <a href=\"/theme-parks/\">theme parks</a> and heritage sites have picnic areas, and <a href=\"/free-days-out/\">free days out</a> like beaches and parks are perfect. More saving ideas in <a href=\"/blog/days-out-on-a-budget/\">days out on a budget</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can you take a picnic to theme parks?",
+      "a": "Many UK theme parks allow picnics and have picnic areas, but rules on cool boxes, glass and alcohol vary. Check the park’s website before you go."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Food Standards Agency",
+      "url": "https://www.food.gov.uk/"
+    }
+  ],
+  "related": [
+    "blog/days-out-on-a-budget",
+    "local-days-out",
+    "free-days-out"
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "updated": "2026-10-14",
+  "slug": "merlin-annual-pass",
+  "nav": "Merlin pass",
+  "title": "Merlin Annual Pass: Is It Worth It for Families?",
+  "description": "Merlin Annual Pass explained: the Essential, Gold and Platinum passes, which attractions are included, the 2026 changes and how to work out if it pays off.",
+  "eyebrow": "Annual passes",
+  "h1": "Merlin Annual Pass: is it worth it for your family?",
+  "intro": "One pass for LEGOLAND Windsor, Alton Towers, Thorpe Park, Chessington, SEA LIFE, the London Eye and more. Here’s how the 2026 passes work and how to tell if one will save you money.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1713426225330-014fbfd04aa0",
+    "alt": "Riders with arms in the air on a roller coaster",
+    "credit": "Hannes Knutsson",
+    "creditUrl": "https://unsplash.com/@hannesknutsson"
+  },
+  "blocks": [
+    {
+      "type": "scout",
+      "mood": "verdict",
+      "title": "Scout’s verdict on the Merlin pass",
+      "text": "<p>If your family will visit two or more Merlin theme parks in 12 months, a pass is worth pricing up. Pick the cheapest pass whose exclusion dates don’t clash with the days you can actually go.</p>",
+      "facts": [
+        [
+          "Worth it if",
+          "2+ theme park visits a year"
+        ],
+        [
+          "Pick carefully",
+          "Exclusion dates vary by pass"
+        ],
+        [
+          "2026 change",
+          "Blackpool no longer included"
+        ]
+      ],
+      "position": "top"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "The 2026 Merlin passes",
+      "html": "<p>As of October 2026, Merlin sells three passes. The <strong>Discovery</strong> and <strong>Silver</strong> passes are no longer sold (existing passes stay valid until they expire).</p><table><thead><tr><th>Pass</th><th>Who it suits</th></tr></thead><tbody><tr><td><strong>Essential</strong></td><td>Families who can visit off-peak and avoid school holidays, which have the most exclusion dates.</td></tr><tr><td><strong>Gold</strong></td><td>Families who need school-holiday visits. Almost every day is included, with some event exclusions.</td></tr><tr><td><strong>Platinum</strong></td><td>Frequent visitors who want the most flexibility and extras such as free standard parking at selected parks.</td></tr></tbody></table><p>Prices, perks and exclusion calendars change, so check the <a href=\"https://www.merlinannualpass.co.uk/\" rel=\"nofollow noopener\" target=\"_blank\">official Merlin Annual Pass site</a> before you buy. Monthly payment plans have been offered alongside one-off payments.</p>"
+    },
+    {
+      "h2": "What’s included",
+      "html": "<p>UK attractions on the pass include LEGOLAND Windsor Resort, Alton Towers Resort, Thorpe Park, Chessington World of Adventures, Warwick Castle, SEA LIFE centres, the London Eye, Madame Tussauds London, the Dungeons, Shrek’s Adventure! London, LEGOLAND Discovery Centres and Cadbury World. <strong>Blackpool’s Merlin attractions are no longer included</strong> for new or renewing pass holders.</p>"
+    },
+    {
+      "h2": "How to work out if it pays off",
+      "html": "<ol><li>List the Merlin attractions you’d realistically visit in 12 months, and on which dates.</li><li>Look up the online day-ticket price for each person for those dates.</li><li>Add parking if you’d pay it (Platinum includes standard parking at selected parks).</li><li>Compare the total with the pass price for each person. If the passes cost less, and the exclusion dates don’t clash with your plans, it pays off.</li></ol><p>Remember: you still need to <strong>pre-book</strong> each visit, and the number of bookings you can hold at once depends on the pass. Our <a href=\"/blog/annual-pass-vs-day-tickets/\">annual pass vs day tickets</a> guide has more tips.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can you still buy a Merlin Discovery or Silver pass?",
+      "a": "No. Discovery and Silver passes have been replaced by the Essential pass. Existing Discovery and Silver passes remain valid until they expire."
+    },
+    {
+      "q": "Is Blackpool included in the Merlin Annual Pass?",
+      "a": "Not for new or renewing pass holders. The Blackpool Tower, Madame Tussauds Blackpool, SEA LIFE Blackpool and Sandcastle Waterpark have been removed from the pass."
+    },
+    {
+      "q": "Do I need to book with a Merlin Annual Pass?",
+      "a": "Yes. Pass holders must pre-book visits online, and a pass doesn’t guarantee entry on a specific day if it is fully booked."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Merlin Annual Pass (official)",
+      "url": "https://www.merlinannualpass.co.uk/"
+    },
+    {
+      "title": "Merlin Annual Pass help centre",
+      "url": "https://support.merlinannualpass.co.uk/hc/en-us/sections/4974521631389-Merlin-Pass-Information"
+    }
+  ],
+  "related": [
+    "blog/merlin-annual-pass-changes",
+    "blog/annual-pass-vs-day-tickets",
+    "theme-parks",
+    "discount-codes"
+  ],
+  "keywords": [
+    "merlin annual pass",
+    "merlin pass",
+    "merlin essential pass",
+    "merlin gold pass",
+    "merlin platinum pass",
+    "annual pass",
+    "theme park annual pass",
+    "legoland annual pass",
+    "alton towers annual pass"
+  ],
+  "cardText": "Essential, Gold or Platinum? What’s included and how to tell if it pays off."
+}

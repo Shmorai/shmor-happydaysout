@@ -1,0 +1,61 @@
+{
+  "updated": "2026-10-14",
+  "type": "post",
+  "date": "2026-09-20",
+  "eyebrow": "Money saving · Tips",
+  "search": false,
+  "slug": "blog/days-out-on-a-budget",
+  "title": "Family Days Out on a Budget: 15 Ways to Spend Less",
+  "description": "Fifteen ways to enjoy family days out on a budget: free attractions, rail 2FOR1, kids-go-free rules, picnics, off-peak dates and passes.",
+  "h1": "Family days out on a budget: 15 ways to spend less",
+  "intro": "A brilliant day out doesn’t need a big budget. These are Scout’s favourite money-saving habits, all simple and all real.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1719759336550-4fecc23ab176",
+    "alt": "A family relaxing on a picnic blanket in a park",
+    "credit": "Liviu Boldis",
+    "creditUrl": "https://unsplash.com/@livioart"
+  },
+  "keywords": [
+    "days out on a budget",
+    "cheap days out",
+    "cheap family days out",
+    "budget days out",
+    "save money days out",
+    "family days out cheap",
+    "money saving tips"
+  ],
+  "cardText": "Fifteen simple, real ways to spend less on family days out.",
+  "blocks": [
+    {
+      "type": "scout",
+      "mood": "tip",
+      "title": "Scout’s top three",
+      "text": "<p>If you only do three things: book online ahead, pack a picnic and check who goes free. Those alone can save a family a lot on a big day out.</p>"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Before you go",
+      "html": "<ol><li><strong>Book online:</strong> gate prices are usually the highest.</li><li><strong>Go off-peak:</strong> term-time weekdays cost less at date-priced attractions.</li><li><strong>Check who goes free:</strong> under-3s and under-5s often do. See <a href=\"/blog/kids-go-free-offers/\">kids go free</a>.</li><li><strong>Use the train for 2FOR1:</strong> see <a href=\"/blog/national-rail-2for1-days-out/\">how it works</a>.</li><li><strong>Get a railcard</strong> for family train travel.</li><li><strong>Compare passes</strong> if you’ll go back: <a href=\"/blog/annual-pass-vs-day-tickets/\">annual pass vs day tickets</a>.</li><li><strong>Use rewards:</strong> supermarket points and <a href=\"/blog/kids-pass-explained/\">discount apps</a>.</li></ol>"
+    },
+    {
+      "h2": "On the day",
+      "html": "<ol start=\"8\"><li><strong>Pack a picnic</strong> and refillable bottles: <a href=\"/blog/picnic-day-out-checklist/\">checklist here</a>.</li><li><strong>Set a souvenir budget</strong> before you arrive.</li><li><strong>Skip the photo packages</strong> unless they’re really wanted.</li><li><strong>Park smart:</strong> compare parking with park-and-ride or public transport.</li><li><strong>Bring your own buggy and rain gear</strong> instead of hiring or buying.</li></ol>"
+    },
+    {
+      "h2": "Choose free fun",
+      "html": "<ol start=\"13\"><li><strong>Free museums:</strong> see <a href=\"/free-days-out/\">free days out</a>.</li><li><strong>Beaches, forests and parks</strong> with a picnic.</li><li><strong>Free events:</strong> heritage open days, library activities and local festivals.</li></ol>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How can I make a family day out cheaper?",
+      "a": "Book online in advance, go off-peak, check kids-go-free rules, use rail 2FOR1 offers, take a picnic and set a souvenir budget."
+    }
+  ],
+  "related": [
+    "free-days-out",
+    "discount-codes",
+    "blog/picnic-day-out-checklist"
+  ]
+}

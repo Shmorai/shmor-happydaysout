@@ -1,0 +1,85 @@
+{
+  "updated": "2026-10-14",
+  "type": "post",
+  "date": "2026-10-10",
+  "eyebrow": "Money saving · UK",
+  "search": false,
+  "slug": "blog/national-rail-2for1-days-out",
+  "title": "National Rail 2FOR1 Days Out: How the Offers Work",
+  "description": "How to use the National Rail Days Out Guide for 2FOR1 and money off UK attractions: which tickets count, vouchers and booking references, and common mistakes.",
+  "h1": "National Rail 2FOR1 days out: how it works",
+  "intro": "Travel to a day out by train and you could get 2FOR1 entry or money off at hundreds of UK attractions. Here’s how the Days Out Guide works, and the mistakes that cost families their discount.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1543967625-f24827a5fdb8",
+    "alt": "A steam train puffing through green countryside",
+    "credit": "Alistair",
+    "creditUrl": "https://unsplash.com/@alistairw"
+  },
+  "keywords": [
+    "2for1",
+    "2 for 1",
+    "national rail 2for1",
+    "days out guide",
+    "national rail days out",
+    "2for1 london",
+    "train discount attractions",
+    "two for one days out"
+  ],
+  "cardText": "Which tickets count, how vouchers work and the mistakes that cost you the discount.",
+  "blocks": [
+    {
+      "type": "scout",
+      "mood": "tip",
+      "title": "Scout’s 2FOR1 checklist",
+      "text": "<p>The number one mistake? Tapping in with contactless. You need a proper National Rail ticket, paper or e-ticket, for each person using the offer.</p>",
+      "points": [
+        "Check the live listing: some offers are 1/3 off, not 2FOR1",
+        "Some attractions need you to pre-book with a code",
+        "Others need a printed voucher"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "How it works",
+      "html": "<ol><li>Find an attraction on the <a href=\"https://www.daysoutguide.co.uk/\" rel=\"noopener\" target=\"_blank\">Days Out Guide</a> and read its offer.</li><li>Get the voucher or booking reference, or the discount code for pre-booking, as the listing explains.</li><li>Travel by train with a valid National Rail ticket to or near the attraction.</li><li>Show your ticket and voucher or booking reference at the attraction.</li></ol>"
+    },
+    {
+      "h2": "Which tickets count?",
+      "html": "<p>You need a valid National Rail ticket (paper or e-ticket) for the date of your visit. <strong>Oyster pay as you go, contactless payments and TfL-issued tickets don’t qualify.</strong> Some railcard and staff travel schemes have their own rules, so check the terms.</p>"
+    },
+    {
+      "h2": "Not every offer is 2FOR1",
+      "html": "<p>Some listings give one-third off or another discount instead. In 2026, offers have included the Tower of London, London Zoo and LEGOLAND Windsor, but listings change, so always read the live offer before you travel.</p>"
+    },
+    {
+      "h2": "Is it worth it?",
+      "html": "<p>For families travelling into a city, especially London, 2FOR1 can halve the cost of the paying adults’ entry. Add a railcard such as the Family &amp; Friends Railcard to cut the train fare too. Then add <a href=\"/blog/free-museums-london-kids/\">free museums</a> to make a full, great-value day.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can I use contactless for National Rail 2FOR1?",
+      "a": "No. Oyster, contactless payments and TfL-issued tickets don’t qualify. You need a valid National Rail ticket."
+    },
+    {
+      "q": "Do children need a train ticket for 2FOR1?",
+      "a": "Each person using the offer generally needs a valid train ticket. Check the individual offer, because terms differ between attractions."
+    }
+  ],
+  "sources": [
+    {
+      "title": "National Rail Days Out Guide",
+      "url": "https://www.daysoutguide.co.uk/"
+    },
+    {
+      "title": "Days Out Guide on National Rail",
+      "url": "https://www.nationalrail.co.uk/days-out-guide/"
+    }
+  ],
+  "related": [
+    "discount-codes",
+    "blog/free-museums-london-kids",
+    "uk-days-out"
+  ]
+}

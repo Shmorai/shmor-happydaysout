@@ -1,0 +1,76 @@
+{
+  "updated": "2026-10-14",
+  "type": "post",
+  "date": "2026-10-13",
+  "eyebrow": "Seasonal · Halloween",
+  "search": false,
+  "slug": "blog/halloween-family-days-out",
+  "title": "Halloween Family Days Out and Pumpkin Picking Tips",
+  "description": "Family-friendly Halloween days out: pumpkin picking, spooky-but-not-scary events, theme park Halloween seasons and how to keep the cost of autumn fun down.",
+  "h1": "Halloween days out and pumpkin picking with kids",
+  "intro": "Pumpkin patches, glowing trails and friendly spooks. Autumn is one of the best times of year for a family day out. Here’s how to pick the right Halloween fun for your kids’ ages.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1730144448428-35b5d908cfb4",
+    "alt": "Two children sitting on a hay bale surrounded by pumpkins",
+    "credit": "Christopher Luther",
+    "creditUrl": "https://unsplash.com/@chriscantlose"
+  },
+  "keywords": [
+    "halloween",
+    "halloween days out",
+    "pumpkin picking",
+    "pumpkin patch",
+    "pumpkin patch near me",
+    "halloween events",
+    "fright nights",
+    "autumn days out",
+    "trick or treat"
+  ],
+  "cardText": "Pumpkin picking, friendly frights and theme park Halloween seasons for all ages.",
+  "blocks": [
+    {
+      "type": "scout",
+      "mood": "tip",
+      "title": "Scout’s spooky-meter",
+      "text": "<p>Check the scare level before you book. Lots of theme parks run family-friendly daytime Halloween events and much scarier evening events for older teens and adults.</p>",
+      "points": [
+        "Under 8s: pumpkin patches and daytime trails",
+        "8 to 12: dressing up and mild spooky shows",
+        "Teens: check age limits on scare mazes"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Pumpkin picking",
+      "html": "<p>Pick-your-own pumpkin farms usually open from late September to Halloween. Many charge an entry fee plus a price per pumpkin, and some include hay-bale mazes, tractor rides or play areas.</p><ul><li><strong>Book ahead:</strong> popular farms use timed slots, especially at weekends.</li><li><strong>Wear wellies:</strong> fields get muddy fast.</li><li><strong>Bring cash and a bag:</strong> or a wheelbarrow if the farm offers one.</li><li><strong>Go early in the season</strong> for the best choice.</li></ul>"
+    },
+    {
+      "h2": "Theme park Halloween seasons",
+      "html": "<p>Many <a href=\"/theme-parks/\">theme parks</a> theme the whole park for Halloween. Daytime events tend to be family-friendly, while evening “scare” attractions often have minimum ages. Read the event details carefully, and check whether scare attractions cost extra.</p>"
+    },
+    {
+      "h2": "Free and cheap Halloween fun",
+      "html": "<ul><li>Autumn leaf walks in country parks and forests.</li><li>Library Halloween crafts and story times.</li><li>Carving pumpkins at home after a <a href=\"/blog/picnic-day-out-checklist/\">picnic</a> walk.</li><li>Local fun days and community events, listed on council websites.</li></ul>"
+    },
+    {
+      "h2": "Halloween safety tips",
+      "html": "<p>Choose costumes that are labelled flame-resistant, add reflective strips for evening events, and agree a meeting point in case anyone gets separated.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "When does pumpkin picking season start?",
+      "a": "Most pick-your-own pumpkin farms in the UK open from late September or early October until around Halloween. Opening dates vary, so check the farm’s website."
+    },
+    {
+      "q": "Are theme park Halloween events suitable for young children?",
+      "a": "Daytime events are usually family-friendly. Evening scare mazes often have minimum ages and can be frightening for younger children, so check the event guidance before booking."
+    }
+  ],
+  "related": [
+    "blog/school-holiday-days-out-planner",
+    "local-days-out",
+    "theme-parks"
+  ]
+}

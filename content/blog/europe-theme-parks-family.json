@@ -1,0 +1,85 @@
+{
+  "updated": "2026-10-14",
+  "type": "post",
+  "date": "2026-09-17",
+  "eyebrow": "Europe · Theme parks",
+  "search": false,
+  "slug": "blog/europe-theme-parks-family",
+  "title": "Best Theme Parks in Europe for Families",
+  "description": "The best family theme parks in Europe: Disneyland Paris, Efteling, Europa-Park, PortAventura, LEGOLAND Billund, Parc Astérix and Tivoli, with tips for each.",
+  "h1": "The best theme parks in Europe for families",
+  "intro": "Europe is packed with world-class theme parks, many easy to reach from the UK. Here’s Scout’s guide to the best for families, and who each one suits.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1524008279394-3aed4643b30b",
+    "alt": "Fireworks over a fairy-tale castle at night",
+    "credit": "Jayme McColgan",
+    "creditUrl": "https://unsplash.com/@jayme"
+  },
+  "keywords": [
+    "europe theme parks",
+    "best theme parks in europe",
+    "efteling",
+    "europa park",
+    "portaventura",
+    "legoland billund",
+    "parc asterix",
+    "tivoli gardens",
+    "disneyland paris",
+    "theme park holiday"
+  ],
+  "cardText": "Disneyland Paris, Efteling, Europa-Park, PortAventura and more.",
+  "blocks": [
+    {
+      "type": "scout",
+      "mood": "tip",
+      "title": "Scout’s Europe picks",
+      "text": "<p>Young kids: Efteling’s Fairytale Forest and LEGOLAND Billund. Mixed ages: Disneyland Paris and Europa-Park. Sun plus rides: PortAventura.</p>",
+      "points": [
+        "Most parks use date-based online pricing",
+        "Many close or reduce hours in winter",
+        "Combine with a city break or beach holiday"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Disneyland Paris, France",
+      "html": "<p>Two parks: Disneyland Park and Disney Adventure World, home of World of Frozen since March 2026. Under-3s free. <a href=\"/blog/disneyland-paris-disney-adventure-world/\">What’s new</a>.</p>"
+    },
+    {
+      "h2": "Efteling, Netherlands",
+      "html": "<p>A magical park famous for its Fairytale Forest, with plenty for thrill-seekers too. Brilliant for young children.</p>"
+    },
+    {
+      "h2": "Europa-Park, Germany",
+      "html": "<p>Germany’s largest theme park, with areas themed on European countries and the Rulantica indoor water park next door. Plan two days.</p>"
+    },
+    {
+      "h2": "PortAventura World, Spain",
+      "html": "<p>On the Costa Dorada near Salou, with PortAventura Park, Ferrari Land and a water park. A great add-on to a beach holiday.</p>"
+    },
+    {
+      "h2": "LEGOLAND Billund, Denmark",
+      "html": "<p>The original LEGOLAND (opened 1968), close to LEGO House. Best for ages roughly 2 to 12.</p>"
+    },
+    {
+      "h2": "Parc Astérix and Tivoli Gardens",
+      "html": "<p>Parc Astérix, near Paris, is fun and full of character. Copenhagen’s Tivoli Gardens, opened in 1843, is one of the world’s oldest amusement parks, magical after dark.</p>"
+    },
+    {
+      "h2": "Planning",
+      "html": "<p>Compare <a href=\"https://traveldeals.shmor.ai/family-holidays/\">family holidays</a> and <a href=\"https://traveldeals.shmor.ai/city-breaks/\">city breaks</a> on TravelDeals, and check <a href=\"https://traveldeals.shmor.ai/blog/ees-etias-europe-entry-rules/\">EU entry rules</a> before you travel. See every park in our <a href=\"/international-days-out/\">international days out</a> guide.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the best theme park in Europe for young children?",
+      "a": "Efteling (for its Fairytale Forest), LEGOLAND Billund and Disneyland Paris are all excellent for young children."
+    }
+  ],
+  "related": [
+    "international-days-out",
+    "theme-parks",
+    "blog/disneyland-paris-disney-adventure-world"
+  ]
+}

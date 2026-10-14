@@ -1,0 +1,75 @@
+{
+  "updated": "2026-10-14",
+  "type": "post",
+  "date": "2026-09-22",
+  "eyebrow": "Money saving · Know-how",
+  "search": false,
+  "slug": "blog/how-to-spot-fake-discount-codes",
+  "title": "How to Spot Fake Discount Codes for Days Out",
+  "description": "Why so many days out discount codes don’t work, how to spot fake or expired codes and copycat ticket sites, and where to find genuine offers instead.",
+  "h1": "How to spot fake discount codes for days out",
+  "intro": "You search for “theme park discount code”, find a page of codes, and none of them work. Here’s why that happens, and how to find the real savings instead.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1628705250580-80b96d4657f6",
+    "alt": "A family flying a kite in a field under a clear blue sky",
+    "credit": "Klara Kulikova",
+    "creditUrl": "https://unsplash.com/@kkalerry"
+  },
+  "keywords": [
+    "discount codes",
+    "fake discount codes",
+    "voucher codes",
+    "promo codes",
+    "do discount codes work",
+    "ticket scams",
+    "fake ticket sites",
+    "genuine offers"
+  ],
+  "cardText": "Why codes fail, how to spot copycat ticket sites and where real deals live.",
+  "blocks": [
+    {
+      "type": "scout",
+      "mood": "tip",
+      "title": "Scout’s sniff test",
+      "text": "<p>If a code claims a huge discount on an attraction that never discounts, it’s almost certainly fake. Check the attraction’s own offers page first.</p>",
+      "points": [
+        "Real offers usually appear on the official site",
+        "Look for a date checked or expiry date",
+        "Never pay by bank transfer to a stranger for tickets"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Why so many codes don’t work",
+      "html": "<p>Some voucher sites list every code they’ve ever seen to rank in search results, including codes that expired long ago, were for one customer only, or never existed. That’s why HappyDaysOut only lists <a href=\"/discount-codes/\">offers we’ve checked</a>, with the date.</p>"
+    },
+    {
+      "h2": "Red flags",
+      "html": "<ul><li>No expiry date or “last checked” date.</li><li>“Reveal code” buttons that open lots of pop-ups.</li><li>Huge discounts on attractions that rarely discount, like popular studio tours.</li><li>Ticket sites with prices far below the official price, or that ask for payment by bank transfer.</li></ul>"
+    },
+    {
+      "h2": "Avoid copycat ticket sites",
+      "html": "<p>Search ads sometimes lead to unofficial sellers. Check the web address carefully, buy from the attraction or an authorised seller, and pay by card for extra protection. Unofficial tickets can be refused at the gate.</p>"
+    },
+    {
+      "h2": "Where real savings come from",
+      "html": "<ul><li><a href=\"/blog/kids-go-free-offers/\">Kids-go-free rules</a> and family tickets.</li><li><a href=\"/blog/national-rail-2for1-days-out/\">2FOR1 with train tickets</a>.</li><li><a href=\"/blog/annual-pass-vs-day-tickets/\">Annual passes</a> and memberships.</li><li>Off-peak, date-based pricing.</li></ul>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Why don’t discount codes work?",
+      "a": "Many listed codes have expired, were single-use, or never existed. Genuine offers usually appear on the attraction’s official website or come from official schemes."
+    },
+    {
+      "q": "How do I know if a ticket website is official?",
+      "a": "Check the web address matches the attraction’s official site, look for it being listed as an authorised seller, and be wary of prices far below official ones."
+    }
+  ],
+  "related": [
+    "discount-codes",
+    "blog/kids-go-free-offers",
+    "blog/days-out-on-a-budget"
+  ]
+}

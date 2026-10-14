@@ -1,0 +1,76 @@
+{
+  "updated": "2026-10-14",
+  "type": "post",
+  "date": "2026-09-29",
+  "eyebrow": "Days out · Heritage railways",
+  "search": false,
+  "slug": "blog/steam-train-days-out",
+  "title": "Steam Train Days Out: Heritage Railways for Families",
+  "description": "Family days out on heritage steam railways: what to expect, Santa Specials and other themed events, famous routes like the Jacobite, and tips.",
+  "h1": "Steam train days out for families",
+  "intro": "Clouds of steam, a whistle and a ride through the countryside. Heritage railways are a wonderfully old-fashioned family day out that toddlers and grandparents love equally.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1535535112387-56ffe8db21ff",
+    "alt": "A heritage steam train passing through a forest",
+    "credit": "Denis Chick",
+    "creditUrl": "https://unsplash.com/@drc1948"
+  },
+  "keywords": [
+    "steam train",
+    "steam train days out",
+    "heritage railway",
+    "heritage railways",
+    "santa special",
+    "jacobite",
+    "steam railway",
+    "train rides for kids",
+    "thomas the tank engine days"
+  ],
+  "cardText": "Heritage railways, themed events and famous routes like the Jacobite.",
+  "blocks": [
+    {
+      "type": "scout",
+      "mood": "tip",
+      "title": "Scout’s steam tip",
+      "text": "<p>Check the timetable. Most heritage lines don’t run every day, especially outside summer, and special event days need booking ahead.</p>",
+      "points": [
+        "Sit near the engine for the best steam and sounds",
+        "Many stations have cafés and small museums",
+        "Engine-shed tours make great extras"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "What to expect",
+      "html": "<p>Heritage railways run restored steam and diesel trains along preserved lines, usually run by charities and volunteers. A return trip can take an hour or two, with stops at old-style stations, and often there’s a museum, café or picnic spot along the way.</p>"
+    },
+    {
+      "h2": "Themed event days",
+      "html": "<ul><li><strong>Santa Specials</strong> in December. Book early: see our <a href=\"/blog/christmas-days-out-family/\">Christmas days out</a>.</li><li>Character and storybook days.</li><li>Halloween ghost trains and Easter egg hunts.</li><li>Gala weekends with extra engines in steam.</li></ul>"
+    },
+    {
+      "h2": "Famous routes",
+      "html": "<p>The <strong>Jacobite</strong> in the Scottish Highlands crosses the Glenfinnan Viaduct seen in the Harry Potter films. See our <a href=\"/blog/harry-potter-filming-locations-days-out/\">filming locations guide</a>. Many other lines cross viaducts and coastline or climb into the hills.</p>"
+    },
+    {
+      "h2": "Saving money",
+      "html": "<p>Look for family tickets, “rover” tickets for unlimited travel on the day, and under-5s free. Some heritage railways accept <a href=\"/blog/blue-peter-badge-free-entry/\">Blue Peter badges</a>. Check the BBC’s list.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do heritage railways run all year?",
+      "a": "Most run mainly from spring to autumn, plus special events like Santa Specials in December. Always check the railway’s timetable before you go."
+    },
+    {
+      "q": "Are steam trains good for toddlers?",
+      "a": "Yes. Shorter return trips, station play areas and the excitement of the engine make them a great toddler day out."
+    }
+  ],
+  "related": [
+    "local-days-out",
+    "blog/christmas-days-out-family",
+    "blog/harry-potter-filming-locations-days-out"
+  ]
+}

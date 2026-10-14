@@ -1,0 +1,67 @@
+{
+  "updated": "2026-10-14",
+  "type": "post",
+  "date": "2026-09-23",
+  "eyebrow": "Money saving · Passes",
+  "search": false,
+  "slug": "blog/annual-pass-vs-day-tickets",
+  "title": "Annual Pass vs Day Tickets: When Does a Pass Pay Off?",
+  "description": "Annual pass or day tickets? A simple way for families to work out when a theme park, zoo or heritage pass pays off, plus exclusion dates to check.",
+  "h1": "Annual pass vs day tickets: when does a pass pay off?",
+  "intro": "Annual passes can be brilliant value, or an expensive impulse buy. Use this simple method to work out which is right for your family.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1502136969935-8d8eef54d77b",
+    "alt": "People riding a spinning fairground ride",
+    "credit": "Ethan Hoover",
+    "creditUrl": "https://unsplash.com/@ethanchoover"
+  },
+  "keywords": [
+    "annual pass",
+    "annual pass worth it",
+    "theme park annual pass",
+    "zoo membership",
+    "day tickets",
+    "season pass",
+    "merlin annual pass worth it",
+    "family membership"
+  ],
+  "cardText": "A simple break-even method, plus exclusion dates and hidden costs.",
+  "blocks": [
+    {
+      "type": "scout",
+      "mood": "tip",
+      "title": "Scout’s break-even rule",
+      "text": "<p>Count only the visits you’re genuinely likely to make, on dates the pass actually covers. Be honest: “we’ll go loads” rarely survives a wet February.</p>",
+      "points": [
+        "Use online day prices, not gate prices",
+        "Include parking and travel",
+        "Check pre-booking limits"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "The simple maths",
+      "html": "<ol><li>List the visits you’d realistically make in 12 months, and on which dates.</li><li>For each visit, add up the <strong>online</strong> day-ticket price for everyone who’d go.</li><li>Add parking if a pass includes it (some premium passes do).</li><li>Compare with the total cost of passes for the same people.</li></ol><p>If the passes cost less, and the dates you’d go aren’t excluded, the pass pays off. Anything extra is a bonus.</p>"
+    },
+    {
+      "h2": "Things that catch families out",
+      "html": "<ul><li><strong>Exclusion dates:</strong> cheaper passes often exclude school holidays and weekends in peak season.</li><li><strong>Pre-booking:</strong> many passes still need you to reserve each visit, with limits on bookings at once.</li><li><strong>Changes:</strong> attractions can be added or removed. For example, Blackpool left the <a href=\"/blog/merlin-annual-pass-changes/\">Merlin pass</a>.</li><li><strong>Monthly plans:</strong> may include a joining fee and a minimum term.</li></ul>"
+    },
+    {
+      "h2": "Passes worth comparing",
+      "html": "<ul><li>The <a href=\"/merlin-annual-pass/\">Merlin Annual Pass</a> for LEGOLAND, Alton Towers, Thorpe Park, Chessington and more.</li><li><a href=\"/blog/national-trust-vs-english-heritage/\">National Trust or English Heritage</a> memberships.</li><li>Local zoo memberships, which often pay off in two or three visits.</li><li>US: the <a href=\"/blog/us-national-parks-with-kids/\">America the Beautiful pass</a> for national parks.</li></ul>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How many visits make an annual pass worth it?",
+      "a": "It depends on prices, but many passes pay off in two to three visits. Work it out using online day prices for the dates you’d really go."
+    }
+  ],
+  "related": [
+    "merlin-annual-pass",
+    "blog/national-trust-vs-english-heritage",
+    "discount-codes"
+  ]
+}

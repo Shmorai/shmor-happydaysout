@@ -1,0 +1,121 @@
+{
+  "updated": "2026-10-14",
+  "slug": "local-days-out",
+  "nav": "Near me",
+  "navOrder": 7,
+  "title": "Days Out Near Me: Local Family Day Trip Ideas",
+  "description": "Find great family days out near you: farm parks, pick-your-own, soft play, nature reserves, heritage railways and local events, plus how to find them fast.",
+  "eyebrow": "Local days out",
+  "h1": "Days out near you: local family day trip ideas",
+  "intro": "The best days out are often just down the road. Here’s how to find great local family days out wherever you live, and the kinds of places that work for every age.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1625923780302-53edca7b85f5",
+    "alt": "A girl standing beside sheep at a farm",
+    "credit": "Duong Thinh",
+    "creditUrl": "https://unsplash.com/@duongtrungthinh"
+  },
+  "blocks": [
+    {
+      "type": "scout",
+      "mood": "tip",
+      "title": "Scout’s local-day-out trick",
+      "text": "<p>Search your council’s website and your local tourist board for “events this weekend”. They list free fun days, farmers’ markets and festivals that big sites miss.</p>",
+      "points": [
+        "Check opening days: small attractions often close midweek in winter",
+        "Look for under-3s free or family tickets",
+        "Pack a picnic and save on lunch"
+      ],
+      "position": "top"
+    },
+    {
+      "type": "deals",
+      "title": "Local day out ideas for every age",
+      "items": [
+        {
+          "icon": "paw",
+          "title": "Farm parks & petting farms",
+          "text": "Feeding lambs, tractor rides and play barns. Brilliant for under-8s.",
+          "badge": "Toddler favourite",
+          "slug": "blog/best-days-out-with-toddlers",
+          "cta": "Toddler ideas"
+        },
+        {
+          "icon": "heart",
+          "title": "Pick-your-own farms",
+          "text": "Strawberries in summer, pumpkins in autumn. Pay only for what you pick.",
+          "slug": "blog/halloween-family-days-out",
+          "cta": "Pumpkin picking"
+        },
+        {
+          "icon": "compass",
+          "title": "Nature reserves & country parks",
+          "text": "Trails, bird hides and play areas, often free (parking may charge).",
+          "slug": "free-days-out",
+          "cta": "Free days out"
+        },
+        {
+          "icon": "clock",
+          "title": "Heritage steam railways",
+          "text": "Short rides behind a real steam engine, with themed events through the year.",
+          "slug": "blog/steam-train-days-out",
+          "cta": "Steam days out"
+        },
+        {
+          "icon": "droplet",
+          "title": "Swimming & splash parks",
+          "text": "Leisure pools with flumes, and free outdoor splash pads in summer.",
+          "slug": "blog/rainy-day-days-out",
+          "cta": "Rainy day ideas"
+        },
+        {
+          "icon": "store",
+          "title": "Libraries & local museums",
+          "text": "Free story times, holiday activities and small museums packed with local history.",
+          "slug": "blog/days-out-on-a-budget",
+          "cta": "Budget tips"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "How to find days out near you",
+      "html": "<ul><li><strong>Tourist boards:</strong> VisitEngland, VisitScotland, Visit Wales and Discover Northern Ireland list attractions by area. In the US, state tourism sites and state parks do the same.</li><li><strong>Membership maps:</strong> the National Trust and English Heritage have maps of properties near you.</li><li><strong>Rail offers:</strong> the <a href=\"/blog/national-rail-2for1-days-out/\">Days Out Guide</a> lets you search attractions near a station.</li><li><strong>Search HappyDaysOut:</strong> try the search box with a type of day out, like “zoo” or “steam train”.</li></ul>"
+    },
+    {
+      "h2": "Bringing the dog?",
+      "html": "<p>Many country parks, beaches (outside seasonal restrictions) and National Trust gardens welcome dogs on leads. If the dog can’t come, our sister site PetSavings covers <a href=\"https://petsavings.shmor.ai/dog-walkers-and-pet-sitters/\">dog walkers and pet sitters</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I find family days out near me?",
+      "a": "Check your local tourist board, council events listings, National Trust and English Heritage maps, and the National Rail Days Out Guide. Local parenting groups are great for recommendations too."
+    },
+    {
+      "q": "What are good local days out for toddlers?",
+      "a": "Farm parks, soft play, aquariums, local parks with playgrounds and story time at the library. Short trips with plenty of snack stops work best."
+    }
+  ],
+  "related": [
+    "free-days-out",
+    "uk-days-out",
+    "blog/best-days-out-with-toddlers",
+    "blog/picnic-day-out-checklist"
+  ],
+  "keywords": [
+    "days out near me",
+    "things to do near me",
+    "local days out",
+    "family days out near me",
+    "farm park",
+    "petting farm",
+    "pick your own",
+    "soft play",
+    "country park",
+    "nature reserve",
+    "local attractions",
+    "day trips"
+  ],
+  "cardText": "Farm parks, pick-your-own, nature trails and how to find days out near you."
+}

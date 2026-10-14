@@ -1,0 +1,283 @@
+{
+  "updated": "2026-10-14",
+  "slug": "zoos-and-aquariums",
+  "nav": "Zoos",
+  "title": "Zoos & Aquariums: Family Days Out and Ways to Save",
+  "description": "The best zoos, safari parks and aquariums for family days out in the UK, US and Europe, plus ways to save: memberships, rail 2FOR1 and kids-go-free rules.",
+  "eyebrow": "Zoos & aquariums",
+  "h1": "Zoos, safari parks and aquariums for families",
+  "intro": "Penguins at feeding time, giraffes at eye level and sharks overhead. Zoos and aquariums are a day out every age enjoys. Here are the best, with Scout’s tips.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1635678744850-eb5df4fa6d97",
+    "alt": "Two giraffes standing side by side",
+    "credit": "Daley van de Sande",
+    "creditUrl": "https://unsplash.com/@daleyvandesande"
+  },
+  "blocks": [
+    {
+      "type": "scout",
+      "mood": "verdict",
+      "title": "Scout’s zoo verdict",
+      "text": "<p>Arrive early, when the animals are most active, and plan your route around feeding times and keeper talks. Aquariums are the perfect rainy-day backup.</p>",
+      "facts": [
+        [
+          "Best for",
+          "Every age, especially under-10s"
+        ],
+        [
+          "Best saving",
+          "Membership if you’re local"
+        ],
+        [
+          "Top tip",
+          "Check feeding & talk times"
+        ]
+      ],
+      "position": "top"
+    },
+    {
+      "type": "attractions",
+      "title": "Zoos and aquariums we love",
+      "tabs": true,
+      "items": [
+        {
+          "title": "Chester Zoo",
+          "kind": "Zoo",
+          "where": "Chester, England",
+          "region": "uk",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1635678744850-eb5df4fa6d97",
+            "alt": "Two giraffes standing side by side",
+            "credit": "Daley van de Sande",
+            "creditUrl": "https://unsplash.com/@daleyvandesande"
+          },
+          "text": "One of the UK’s biggest zoos, run by a conservation charity, with a huge site to explore. Expect a full day.",
+          "tags": [
+            "All ages",
+            "Full day",
+            "Charity zoo"
+          ],
+          "saves": [
+            "Book online in advance",
+            "Membership can pay off if you live nearby and visit a few times a year"
+          ],
+          "scout": "Wear comfy shoes and bring snacks: it’s a big site with lots of walking.",
+          "url": "https://www.chesterzoo.org/",
+          "slug": "zoos-and-aquariums",
+          "more": "Zoo & aquarium guide"
+        },
+        {
+          "title": "London Zoo",
+          "kind": "Zoo",
+          "where": "Regent’s Park, London",
+          "region": "uk",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1645988766416-f895f648767b",
+            "alt": "A mother gorilla hugging her baby",
+            "credit": "Carrie Borden",
+            "creditUrl": "https://unsplash.com/@carrie_borden"
+          },
+          "text": "The world’s oldest scientific zoo, run by the conservation charity ZSL, in Regent’s Park.",
+          "tags": [
+            "All ages",
+            "Central London",
+            "Charity zoo"
+          ],
+          "saves": [
+            "Listed on the National Rail Days Out Guide in 2026 (you need valid National Rail tickets)",
+            "Combine with a free picnic in Regent’s Park"
+          ],
+          "scout": "The Days Out Guide offer needs paper or e-tickets from National Rail; Oyster and contactless don’t count.",
+          "url": "https://www.londonzoo.org/",
+          "slug": "blog/national-rail-2for1-days-out",
+          "more": "How 2FOR1 works"
+        },
+        {
+          "title": "Longleat",
+          "kind": "Safari park",
+          "where": "Wiltshire, England",
+          "region": "uk",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1759129669580-e1e9ae3c078b",
+            "alt": "A safari vehicle driving through dry bush",
+            "credit": "Ed Wingate",
+            "creditUrl": "https://unsplash.com/@ed_wingate"
+          },
+          "text": "The UK’s first drive-through safari park outside Africa, plus a stately home, gardens and adventure play.",
+          "tags": [
+            "All ages",
+            "Drive-through safari",
+            "Full day"
+          ],
+          "saves": [
+            "Book online ahead",
+            "Its Festival of Light (in winter) is a separate seasonal event: check dates"
+          ],
+          "scout": "Keep windows up where the signs say so: the monkeys love a car aerial!",
+          "url": "https://www.longleat.co.uk/",
+          "slug": "zoos-and-aquariums",
+          "more": "Zoo & aquarium guide"
+        },
+        {
+          "title": "Edinburgh Zoo",
+          "kind": "Zoo",
+          "where": "Edinburgh, Scotland",
+          "region": "uk",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1519766277046-4d701c174ab2",
+            "alt": "A visitor watching a penguin swim past the glass",
+            "credit": "Zachary Spears",
+            "creditUrl": "https://unsplash.com/@zachspears"
+          },
+          "text": "A hillside zoo run by the Royal Zoological Society of Scotland, famous for its penguins.",
+          "tags": [
+            "All ages",
+            "Hilly site",
+            "Charity zoo"
+          ],
+          "saves": [
+            "Kids Pass has listed discounts here: check the app"
+          ],
+          "scout": "It’s hilly, so a sturdy buggy or a carrier for tiny ones makes life easier.",
+          "url": "https://www.edinburghzoo.org.uk/"
+        },
+        {
+          "title": "SEA LIFE aquariums",
+          "kind": "Aquariums",
+          "where": "Across the UK, Europe and the US",
+          "region": "uk",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1489015712802-f490a7a1061d",
+            "alt": "A toddler touching the glass of an aquarium tank",
+            "credit": "Caroline Hernandez",
+            "creditUrl": "https://unsplash.com/@carolinehdz"
+          },
+          "text": "Merlin’s chain of aquariums, with rainy-day-friendly indoor visits of a couple of hours. Great for toddlers.",
+          "tags": [
+            "Toddlers+",
+            "Indoor",
+            "Rainy day"
+          ],
+          "saves": [
+            "UK SEA LIFE centres (except Blackpool on new passes) are included in Merlin Annual Passes",
+            "Short visits: pair with another nearby activity"
+          ],
+          "scout": "A perfect rainy-day rescue. Most visits take 1.5–2 hours, so you can still do lunch out.",
+          "url": "https://www.visitsealife.com/",
+          "slug": "blog/rainy-day-days-out",
+          "more": "Rainy day ideas"
+        },
+        {
+          "title": "San Diego Zoo",
+          "kind": "Zoo",
+          "where": "San Diego, California, USA",
+          "region": "us",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1635678744850-eb5df4fa6d97",
+            "alt": "Two giraffes standing side by side",
+            "credit": "Daley van de Sande",
+            "creditUrl": "https://unsplash.com/@daleyvandesande"
+          },
+          "text": "One of the world’s best-known zoos, in Balboa Park, with a separate Safari Park in Escondido.",
+          "tags": [
+            "All ages",
+            "Balboa Park",
+            "Full day"
+          ],
+          "saves": [
+            "Children under 3 are free",
+            "Balboa Park around the zoo has free gardens and play areas"
+          ],
+          "scout": "Plan a whole day and use the bus tours to save little legs.",
+          "url": "https://zoo.sandiegozoo.org/"
+        },
+        {
+          "title": "Monterey Bay Aquarium",
+          "kind": "Aquarium",
+          "where": "Monterey, California, USA",
+          "region": "us",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1663579170421-d6481b9afa89",
+            "alt": "An adult and child looking into a large aquarium tank",
+            "credit": "lucas Favre",
+            "creditUrl": "https://unsplash.com/@we_are_rising"
+          },
+          "text": "A world-famous aquarium on Cannery Row, with sea otters, kelp forests and a giant open-ocean exhibit.",
+          "tags": [
+            "All ages",
+            "Sea otters",
+            "Coastal"
+          ],
+          "saves": [
+            "Book timed tickets online at busy times",
+            "Pair with free coastal walks along Monterey Bay"
+          ],
+          "scout": "Check the feeding and talk times on arrival: the otter feeds are a must.",
+          "url": "https://www.montereybayaquarium.org/"
+        },
+        {
+          "title": "ZooParc de Beauval",
+          "kind": "Zoo",
+          "where": "Saint-Aignan, Loire Valley, France",
+          "region": "europe",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1641133292545-32e441e60190",
+            "alt": "A cheetah standing on a rock",
+            "credit": "Tomáš Malík",
+            "creditUrl": "https://unsplash.com/@malcoo"
+          },
+          "text": "One of Europe’s best-known zoos, with giant pandas and a cable car over the park.",
+          "tags": [
+            "All ages",
+            "Pandas",
+            "Loire Valley"
+          ],
+          "saves": [
+            "Two-day tickets suit families: it’s a big park",
+            "Combine with Loire Valley châteaux"
+          ],
+          "scout": "Book hotels early: the Loire Valley gets busy in summer.",
+          "url": "https://www.zoobeauval.com/en"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Ways to save at zoos",
+      "html": "<ul><li><strong>Book online:</strong> most zoos charge less online and use timed entry at busy times.</li><li><strong>Memberships:</strong> a year’s membership can cost little more than two visits for local families.</li><li><strong>Rail offers:</strong> some zoos appear on the <a href=\"/blog/national-rail-2for1-days-out/\">Days Out Guide</a>.</li><li><strong>Gift Aid tickets:</strong> charity zoos often show a price with an optional donation first. The standard ticket is usually available too.</li><li><strong>Reciprocal discounts:</strong> some zoo memberships give discounts at partner zoos. Check your membership’s benefits.</li></ul><p>More in Scout’s <a href=\"/blog/zoo-day-out-tips/\">zoo day out tips</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the best time to visit a zoo?",
+      "a": "First thing in the morning, when animals are more active and crowds are smaller. Check feeding and keeper talk times as soon as you arrive."
+    },
+    {
+      "q": "Is a zoo membership worth it?",
+      "a": "If you live nearby and expect to visit more than twice a year, a membership often works out cheaper, and supports the zoo’s conservation work."
+    }
+  ],
+  "related": [
+    "blog/zoo-day-out-tips",
+    "blog/rainy-day-days-out",
+    "uk-days-out",
+    "experience-days"
+  ],
+  "keywords": [
+    "zoo",
+    "zoos",
+    "aquarium",
+    "aquariums",
+    "safari park",
+    "sea life",
+    "london zoo",
+    "chester zoo",
+    "edinburgh zoo",
+    "san diego zoo",
+    "monterey bay aquarium",
+    "animal park",
+    "penguins"
+  ],
+  "cardText": "Chester Zoo, Longleat, SEA LIFE and more, with ways to save."
+}

@@ -1,0 +1,81 @@
+{
+  "updated": "2026-10-14",
+  "type": "post",
+  "date": "2026-10-07",
+  "eyebrow": "Orlando · Theme parks",
+  "search": false,
+  "slug": "blog/epic-universe-family-guide",
+  "title": "Epic Universe with Kids: A Family Guide to Universal",
+  "description": "Planning Universal Epic Universe with kids? What’s there, how tickets work in 2026, the Ministry of Magic and tips for fitting it into an Orlando holiday.",
+  "h1": "Epic Universe with kids: a family guide",
+  "intro": "Universal’s newest Orlando park opened in 2025 with five themed worlds, including the Wizarding World of Harry Potter – Ministry of Magic. Here’s how to fit it into a family trip.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1618944913480-b67ee16d7b77",
+    "alt": "A castle-style building lit up at night",
+    "credit": "Aditya Vyas",
+    "creditUrl": "https://unsplash.com/@aditya1702"
+  },
+  "keywords": [
+    "epic universe",
+    "universal epic universe",
+    "epic universe tickets",
+    "ministry of magic",
+    "universal orlando",
+    "super nintendo world",
+    "how to train your dragon isle of berk",
+    "orlando with kids"
+  ],
+  "cardText": "What’s inside, how 2026 tickets work and tips for an Orlando trip.",
+  "blocks": [
+    {
+      "type": "scout",
+      "mood": "tip",
+      "title": "Scout’s Epic tip",
+      "text": "<p>Check your ticket type before you buy. For 2026, 3-day-plus Universal tickets include Epic Universe visits, but 2-day tickets don’t.</p>",
+      "points": [
+        "Epic Universe is a separate park from the original two",
+        "Consider Early Park Admission if your hotel offers it",
+        "Height limits vary: check the ride guide"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "What’s at Epic Universe?",
+      "html": "<p>Epic Universe opened in May 2025 with a central hub (Celestial Park) and four themed worlds: <strong>Super Nintendo World</strong>, <strong>The Wizarding World of Harry Potter – Ministry of Magic</strong>, <strong>How to Train Your Dragon – Isle of Berk</strong> and <strong>Dark Universe</strong> (the monster-themed land, which suits older kids best).</p>"
+    },
+    {
+      "h2": "How tickets work",
+      "html": "<p>Single-day Epic Universe tickets are sold separately. For 2026, multi-day Universal Orlando tickets of three days or more include Epic Universe access, while two-day tickets don’t. Ticket rules change, so check the <a href=\"https://www.universalorlando.com/\" rel=\"noopener\" target=\"_blank\">official Universal Orlando site</a> before you buy.</p>"
+    },
+    {
+      "h2": "Harry Potter fans",
+      "html": "<p>The Wizarding World is now spread across three Orlando parks: Hogsmeade (Islands of Adventure), Diagon Alley (Universal Studios Florida) and the Ministry of Magic (Epic Universe). See our <a href=\"/harry-potter-days-out/\">Harry Potter days out guide</a>.</p>"
+    },
+    {
+      "h2": "Planning the trip",
+      "html": "<p>Orlando is a holiday rather than a day out. Compare <a href=\"https://traveldeals.shmor.ai/destinations/orlando/\">Orlando holidays on TravelDeals</a>, and see <a href=\"/disney-deals/\">Disney deals</a> if you’re combining resorts.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is Epic Universe good for young children?",
+      "a": "Yes, especially Super Nintendo World and the How to Train Your Dragon land, which has gentler rides. Dark Universe is themed on classic monsters and suits older children best."
+    },
+    {
+      "q": "Do Universal Orlando multi-day tickets include Epic Universe?",
+      "a": "For 2026, tickets of three days or more include Epic Universe access, while two-day tickets do not. Check the official site, as ticket rules can change."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Universal Orlando Resort (official)",
+      "url": "https://www.universalorlando.com/"
+    }
+  ],
+  "related": [
+    "harry-potter-days-out",
+    "disney-deals",
+    "international-days-out"
+  ]
+}

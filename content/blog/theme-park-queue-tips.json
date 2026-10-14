@@ -1,0 +1,86 @@
+{
+  "updated": "2026-10-14",
+  "type": "post",
+  "date": "2026-10-02",
+  "eyebrow": "Theme parks · Tips",
+  "search": false,
+  "slug": "blog/theme-park-queue-tips",
+  "title": "Theme Park Queue Tips: Ride More, Wait Less With Kids",
+  "description": "Spend less time queuing at theme parks with kids: rope drop, rider switch, single rider, apps, accessibility passes and when paid fast passes are worth it.",
+  "h1": "Theme park queue tips: ride more, wait less",
+  "intro": "Nobody goes to a theme park to stand in line. These tried-and-tested tips help families fit more rides into the day, without paying extra.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1713426225330-014fbfd04aa0",
+    "alt": "Riders with arms in the air on a roller coaster",
+    "credit": "Hannes Knutsson",
+    "creditUrl": "https://unsplash.com/@hannesknutsson"
+  },
+  "keywords": [
+    "theme park queue tips",
+    "rider switch",
+    "baby swap",
+    "single rider",
+    "fastrack",
+    "lightning lane",
+    "express pass",
+    "ride access pass",
+    "queue times"
+  ],
+  "cardText": "Rope drop, rider switch, single rider and when fast passes are worth it.",
+  "blocks": [
+    {
+      "type": "scout",
+      "mood": "tip",
+      "title": "Scout’s queue-busting order",
+      "text": "<p>Most popular ride first, at opening. Then shows and gentle rides in the busy middle of the day. Big rides again in the last hour, when queues often drop.</p>",
+      "points": [
+        "Use the park app for live waits",
+        "Eat lunch early or late",
+        "Ask about rider switch at the ride entrance"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Arrive before opening",
+      "html": "<p>The first hour is the quietest of the day at almost every park. Be at the gates before opening and head straight to the most popular ride your family wants to do.</p>"
+    },
+    {
+      "h2": "Rider switch (baby swap)",
+      "html": "<p>If a child is too small to ride, many parks let one adult wait with them while the rest of the group rides, then the waiting adult rides without queuing again. Disney calls it Rider Switch. Ask a team member at the ride entrance how it works at that park.</p>"
+    },
+    {
+      "h2": "Single rider lines",
+      "html": "<p>Teens and adults happy to ride apart can use single rider queues where offered. They’re often much shorter.</p>"
+    },
+    {
+      "h2": "Accessibility passes",
+      "html": "<p>Visitors with disabilities or conditions that make queuing difficult may be eligible for access services. Merlin parks use the <strong>Ride Access Pass</strong>, which you apply for online in advance, and Disney has its own Disability Access Service. Check each park’s accessibility pages well before your visit.</p>"
+    },
+    {
+      "h2": "Are paid fast passes worth it?",
+      "html": "<p>Paid queue-jump tickets (Fastrack, Express, Lightning Lane and others) can help on very busy days, but they add up for a family. Try the free tips above first, and pick a quieter date. That’s the cheapest queue-buster of all. More in our <a href=\"/theme-parks/\">theme parks guide</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is rider switch at theme parks?",
+      "a": "It lets one adult wait with a child who can’t ride while the others ride, then swap without queuing again. Ask a team member at the ride entrance how it works at that park."
+    },
+    {
+      "q": "What is the best time to arrive at a theme park?",
+      "a": "Before opening. The first hour is usually the quietest of the day, so head to the most popular ride first."
+    }
+  ],
+  "sources": [
+    {
+      "title": "LEGOLAND Windsor: Ride Access Pass",
+      "url": "https://www.legoland.co.uk/plan-your-day/before-you-visit/accessibility/theme-park-accessibility/ride-access-pass/"
+    }
+  ],
+  "related": [
+    "theme-parks",
+    "blog/legoland-windsor-tips",
+    "blog/annual-pass-vs-day-tickets"
+  ]
+}

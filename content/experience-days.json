@@ -1,0 +1,177 @@
+{
+  "updated": "2026-10-14",
+  "slug": "experience-days",
+  "nav": "Experiences",
+  "navOrder": 5,
+  "title": "Family Experience Days & Gift Experiences: How to Choose",
+  "description": "Family experience days and gift experiences: balloon flights, animal encounters, junior driving and treetop adventures, and how vouchers work.",
+  "eyebrow": "Experience days",
+  "h1": "Family experience days and gift experiences",
+  "intro": "Memories over things. Experience days make brilliant gifts for kids, grandparents and whole families. Here’s what’s out there, who it suits and how to avoid voucher headaches.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1514923995763-768e52f5af87",
+    "alt": "Colourful hot air balloons floating in a blue sky",
+    "credit": "Kyle Hinkson",
+    "creditUrl": "https://unsplash.com/@whereiskylenow"
+  },
+  "blocks": [
+    {
+      "type": "scout",
+      "mood": "verdict",
+      "title": "Scout’s verdict on experience days",
+      "text": "<p>Experience vouchers make lovely gifts, but read the small print first: age and height limits, weather cancellations, expiry dates and whether you book with the voucher company or the venue.</p>",
+      "facts": [
+        [
+          "Best for",
+          "Birthdays, Christmas, grandparents’ gifts"
+        ],
+        [
+          "Check first",
+          "Minimum ages & expiry"
+        ],
+        [
+          "Watch out",
+          "Weather-dependent dates"
+        ]
+      ],
+      "position": "top"
+    },
+    {
+      "type": "deals",
+      "title": "Popular family experiences",
+      "items": [
+        {
+          "icon": "sun",
+          "title": "Hot air balloon flights",
+          "text": "Unforgettable, but weather-dependent and with minimum age and height limits. Best for older kids and teens.",
+          "badge": "Ages 8+ typical",
+          "slug": "blog/experience-day-gifts-for-families",
+          "cta": "Read the guide"
+        },
+        {
+          "icon": "paw",
+          "title": "Animal encounters",
+          "text": "Meet penguins, lemurs or giraffes at zoos and farm parks. Many have minimum ages, so check before you buy.",
+          "slug": "zoos-and-aquariums",
+          "cta": "Zoos & aquariums"
+        },
+        {
+          "icon": "zap",
+          "title": "Junior driving experiences",
+          "text": "Under-17s can drive real cars on private tracks at some UK venues. A dream gift for car-mad teens.",
+          "slug": "blog/days-out-with-teenagers",
+          "cta": "Teen days out"
+        },
+        {
+          "icon": "compass",
+          "title": "Treetop & adventure parks",
+          "text": "Zip lines, rope courses and climbing for active families. Height and age rules apply.",
+          "slug": "local-days-out",
+          "cta": "Local ideas"
+        },
+        {
+          "icon": "star",
+          "title": "Theatre & shows",
+          "text": "West End and Broadway family shows, pantomimes at Christmas and touring children’s shows.",
+          "slug": "blog/christmas-days-out-family",
+          "cta": "Christmas days out"
+        },
+        {
+          "icon": "gift",
+          "title": "Behind-the-scenes tours",
+          "text": "Studio tours, sports stadium tours and chocolate factory visits make great rainy-day gifts.",
+          "slug": "harry-potter-days-out",
+          "cta": "Studio Tour"
+        }
+      ]
+    },
+    {
+      "type": "deals",
+      "title": "Where to find experiences",
+      "intro": "Well-known experience and ticket sellers. Compare the same experience across sellers. Prices and terms differ.",
+      "items": [
+        {
+          "icon": "gift",
+          "title": "Virgin Experience Days",
+          "text": "UK experience gifts from balloon flights to afternoon teas.",
+          "href": "https://www.virginexperiencedays.co.uk/",
+          "cta": "Visit site"
+        },
+        {
+          "icon": "gift",
+          "title": "Buyagift",
+          "text": "UK gift experiences and multi-choice vouchers.",
+          "href": "https://www.buyagift.co.uk/",
+          "cta": "Visit site"
+        },
+        {
+          "icon": "gift",
+          "title": "Red Letter Days",
+          "text": "UK experience gifts and family days out vouchers.",
+          "href": "https://www.redletterdays.co.uk/",
+          "cta": "Visit site"
+        },
+        {
+          "icon": "globe",
+          "title": "GetYourGuide",
+          "text": "Tours, tickets and activities worldwide.",
+          "href": "https://www.getyourguide.com/",
+          "cta": "Visit site"
+        },
+        {
+          "icon": "globe",
+          "title": "Tiqets",
+          "text": "Attraction and museum tickets across Europe and beyond.",
+          "href": "https://www.tiqets.com/",
+          "cta": "Visit site"
+        },
+        {
+          "icon": "globe",
+          "title": "Klook",
+          "text": "Theme park tickets and activities, strong in Asia.",
+          "href": "https://www.klook.com/",
+          "cta": "Visit site"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "How experience vouchers work",
+      "html": "<ol><li>You buy a voucher for a specific experience, or a “choice” voucher with several options.</li><li>The recipient books a date, either with the voucher company or directly with the venue.</li><li>Vouchers have an expiry date. Some can be extended or exchanged for a fee, so check the terms.</li></ol><p>Read Scout’s full guide to <a href=\"/blog/experience-day-gifts-for-families/\">experience day gifts for families</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is a good experience day for a family?",
+      "a": "Animal encounters, treetop adventures, behind-the-scenes tours and theatre trips work for most ages. Balloon flights and driving experiences suit older children and teens."
+    },
+    {
+      "q": "Do experience day vouchers expire?",
+      "a": "Most do. Check the validity period before buying, and whether you can extend or exchange the voucher if plans change."
+    }
+  ],
+  "related": [
+    "blog/experience-day-gifts-for-families",
+    "zoos-and-aquariums",
+    "harry-potter-days-out",
+    "discount-codes"
+  ],
+  "keywords": [
+    "experience days",
+    "experience day",
+    "gift experiences",
+    "experience gift",
+    "family experiences",
+    "hot air balloon",
+    "animal encounter",
+    "junior driving experience",
+    "go ape",
+    "virgin experience days",
+    "buyagift",
+    "red letter days",
+    "spa day",
+    "experiences"
+  ],
+  "cardText": "Balloon flights, animal encounters and gift experiences, and how vouchers work."
+}

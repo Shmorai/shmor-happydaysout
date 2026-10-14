@@ -1,0 +1,71 @@
+{
+  "updated": "2026-10-14",
+  "type": "post",
+  "date": "2026-09-15",
+  "eyebrow": "Ideas · Teens",
+  "search": false,
+  "slug": "blog/days-out-with-teenagers",
+  "title": "Days Out With Teenagers They’ll Actually Enjoy",
+  "description": "Days out with teenagers that beat the eye-roll: thrill parks, escape rooms, experience days, city trips and outdoor adventures, and how to save.",
+  "h1": "Days out with teenagers they’ll actually enjoy",
+  "intro": "Teens can be the toughest crowd. The trick is giving them some choice and a bit of adrenaline. Here are days out that teenagers genuinely rate.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1713426225330-014fbfd04aa0",
+    "alt": "Riders with arms in the air on a roller coaster",
+    "credit": "Hannes Knutsson",
+    "creditUrl": "https://unsplash.com/@hannesknutsson"
+  },
+  "keywords": [
+    "days out with teenagers",
+    "teenager days out",
+    "things to do with teens",
+    "thrill parks",
+    "escape room",
+    "thorpe park",
+    "alton towers",
+    "activities for teens"
+  ],
+  "cardText": "Thrill parks, escape rooms, experiences and how to save on teen tickets.",
+  "blocks": [
+    {
+      "type": "scout",
+      "mood": "tip",
+      "title": "Scout’s teen tip",
+      "text": "<p>Let them pick the day out, and maybe bring a friend. A teen who chose the plan is a teen who enjoys the plan.</p>",
+      "points": [
+        "Check when “child” tickets stop: often at 12 or 15",
+        "Students may get discounts with ID",
+        "Thrill parks: check height limits for younger siblings"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Thrill seekers",
+      "html": "<p>Big coasters at <a href=\"/theme-parks/\">Thorpe Park and Alton Towers</a>, or Europa-Park and PortAventura abroad. Arrive at opening and use single rider lines. See our <a href=\"/blog/theme-park-queue-tips/\">queue tips</a>.</p>"
+    },
+    {
+      "h2": "Something different",
+      "html": "<ul><li>Escape rooms and immersive games.</li><li>Indoor climbing, trampoline parks and go-karting.</li><li><a href=\"/experience-days/\">Experience days</a> like junior driving or indoor skydiving.</li><li>Studio tours, like the <a href=\"/harry-potter-days-out/\">Harry Potter Studio Tour</a>.</li></ul>"
+    },
+    {
+      "h2": "City days and outdoors",
+      "html": "<p>A day exploring a city (shopping, street food and a show) or a proper outdoor adventure (coasteering, kayaking or a mountain hike with a guide) often goes down better than “a nice walk”.</p>"
+    },
+    {
+      "h2": "Saving on teen tickets",
+      "html": "<p>Many attractions charge adult prices from 12, 15 or 16, so check the age bands. Family tickets, <a href=\"/blog/national-rail-2for1-days-out/\">rail 2FOR1</a> and <a href=\"/merlin-annual-pass/\">annual passes</a> help.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What are good days out for teenagers in the UK?",
+      "a": "Thrill parks like Thorpe Park and Alton Towers, escape rooms, climbing and go-karting, studio tours, city days and outdoor adventures like coasteering."
+    }
+  ],
+  "related": [
+    "theme-parks",
+    "experience-days",
+    "blog/theme-park-queue-tips"
+  ]
+}

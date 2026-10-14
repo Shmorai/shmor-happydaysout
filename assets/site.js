@@ -43,3 +43,14 @@
     });
   });
 })();
+
+/* HappyDaysOut: "Copy" buttons on discount-code vouchers */
+(function () {
+  'use strict';
+  document.addEventListener('click', function (e) {
+    var b = e.target.closest('button[data-copy]');
+    if (!b) return;
+    var done = function () { b.textContent = 'Copied!'; setTimeout(function () { b.textContent = 'Copy'; }, 1800); };
+    if (navigator.clipboard) navigator.clipboard.writeText(b.getAttribute('data-copy')).then(done, function () {});
+  });
+})();

@@ -1,0 +1,80 @@
+{
+  "updated": "2026-10-14",
+  "type": "post",
+  "date": "2026-10-11",
+  "eyebrow": "News · Annual passes",
+  "search": false,
+  "slug": "blog/merlin-annual-pass-changes",
+  "title": "Merlin Annual Pass Changes: Essential Pass and Blackpool",
+  "description": "What changed with the Merlin Annual Pass: Discovery and Silver replaced by the Essential pass, Blackpool attractions removed, and what it means for families.",
+  "h1": "Merlin Annual Pass changes: what families need to know",
+  "intro": "The Merlin Annual Pass line-up has changed. Discovery and Silver are gone, there’s a new Essential pass, and Blackpool’s attractions are no longer included. Here’s what it means for you.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1628835788312-41d61f5ddce8",
+    "alt": "A roller coaster track against a blue sky",
+    "credit": "Jonny Gios",
+    "creditUrl": "https://unsplash.com/@supergios"
+  },
+  "keywords": [
+    "merlin annual pass changes",
+    "merlin essential pass",
+    "merlin discovery pass",
+    "merlin silver pass",
+    "merlin pass blackpool",
+    "blackpool tower",
+    "merlin pass 2026"
+  ],
+  "cardText": "Discovery and Silver replaced by Essential, and Blackpool removed. What it means for you.",
+  "blocks": [
+    {
+      "type": "scout",
+      "mood": "tip",
+      "title": "Scout’s quick take",
+      "text": "<p>If you had a Discovery or Silver pass, it stays valid until it expires. At renewal, compare the Essential pass’s exclusion dates with when you actually visit.</p>",
+      "points": [
+        "Essential has the most exclusion dates, especially in school holidays",
+        "Gold covers almost every day",
+        "Platinum adds extras like parking at selected parks"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "What changed",
+      "html": "<ul><li><strong>Discovery and Silver passes are no longer sold.</strong> Existing passes remain valid until they expire.</li><li><strong>The Essential pass</strong> is now the entry-level option, with more exclusion dates during peak periods.</li><li><strong>Gold and Platinum</strong> continue, with Gold covering almost every day and Platinum the most flexible.</li><li><strong>Blackpool attractions</strong> (the Blackpool Tower, Madame Tussauds Blackpool, SEA LIFE Blackpool and Sandcastle Waterpark) are no longer included on new or renewing passes.</li></ul>"
+    },
+    {
+      "h2": "Who should pick which pass?",
+      "html": "<p>If your family can visit in term time or on quieter weekends, Essential may be enough. If you can only go in school holidays, look at Gold. Our full <a href=\"/merlin-annual-pass/\">Merlin Annual Pass guide</a> explains how to work out whether a pass pays off.</p>"
+    },
+    {
+      "h2": "Visiting Blackpool?",
+      "html": "<p>Price Blackpool’s attractions separately now. Check for <a href=\"/discount-codes/\">current offers</a>, such as Kids Pass deals, and see <a href=\"/theme-parks/\">Blackpool Pleasure Beach</a>, which has never been part of the Merlin pass.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is my Merlin Silver pass still valid?",
+      "a": "Yes. Existing Discovery and Silver passes stay valid until their expiry date. When you renew, you’ll choose from Essential, Gold or Platinum."
+    },
+    {
+      "q": "Why can’t I book Blackpool Tower with my Merlin pass?",
+      "a": "Blackpool attractions have been removed from new and renewing Merlin Annual Passes, so you’ll need a separate ticket."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Merlin Annual Pass (official)",
+      "url": "https://www.merlinannualpass.co.uk/"
+    },
+    {
+      "title": "Merlin Annual Pass help centre",
+      "url": "https://support.merlinannualpass.co.uk/hc/en-us/sections/4974521631389-Merlin-Pass-Information"
+    }
+  ],
+  "related": [
+    "merlin-annual-pass",
+    "blog/annual-pass-vs-day-tickets",
+    "theme-parks"
+  ]
+}

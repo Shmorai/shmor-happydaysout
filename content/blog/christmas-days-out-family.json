@@ -1,0 +1,80 @@
+{
+  "updated": "2026-10-14",
+  "type": "post",
+  "date": "2026-10-12",
+  "eyebrow": "Seasonal · Christmas",
+  "search": false,
+  "slug": "blog/christmas-days-out-family",
+  "title": "Christmas Days Out for Families: Book Early, Save More",
+  "description": "Christmas family days out: Santa experiences, light trails, panto, Santa steam trains and Christmas markets, and why booking early saves money.",
+  "h1": "Christmas days out for families: book early, save more",
+  "intro": "Santa’s grotto, sparkling light trails and the first panto. Festive days out are magical, and the popular ones sell out early. Here’s what to book and when.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1639178952543-1c0ea3cbacaa",
+    "alt": "A family gathered around a Christmas tree",
+    "credit": "Jakob Owens",
+    "creditUrl": "https://unsplash.com/@jakobowens1"
+  },
+  "keywords": [
+    "christmas days out",
+    "santa experience",
+    "santa grotto",
+    "christmas light trail",
+    "pantomime",
+    "santa special train",
+    "christmas markets",
+    "festive days out",
+    "christmas events for kids"
+  ],
+  "cardText": "Santa experiences, light trails, panto and Santa steam trains: what to book now.",
+  "blocks": [
+    {
+      "type": "scout",
+      "mood": "tip",
+      "title": "Scout’s festive timing",
+      "text": "<p>The best Santa slots and weekend light-trail tickets often go in October. If you see a date you like, book it: most have clear refund or exchange rules.</p>",
+      "points": [
+        "Weekday visits are usually cheaper",
+        "Check what’s included in a Santa ticket (gift, photo, activities)",
+        "Dress for the cold on outdoor trails"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Santa experiences",
+      "html": "<p>Garden centres, farms, castles and theme parks all run Santa experiences. Compare what you get: a short grotto visit, or a longer experience with elves, crafts and a quality gift. Weekend slots in December sell out first.</p>"
+    },
+    {
+      "h2": "Christmas light trails",
+      "html": "<p>Illuminated trails at gardens, zoos and country estates are a festive favourite. Look for weekday or early-evening tickets, which are often cheaper. Take a torch for the car park and wrap up warm.</p>"
+    },
+    {
+      "h2": "Santa steam trains",
+      "html": "<p>Many heritage railways run “Santa Specials”, where Santa walks through the carriages handing out gifts. They’re hugely popular, so book early. See our <a href=\"/blog/steam-train-days-out/\">steam train days out</a> guide.</p>"
+    },
+    {
+      "h2": "Pantomimes and Christmas shows",
+      "html": "<p>Panto is a great first theatre trip. Matinees and early-December performances are often cheaper than shows near Christmas.</p>"
+    },
+    {
+      "h2": "Christmas markets",
+      "html": "<p>UK cities host markets through November and December, and Europe’s famous markets make a magical short break. Our sister site has a guide to <a href=\"https://traveldeals.shmor.ai/blog/christmas-market-city-breaks/\">Christmas market city breaks</a>. Abroad, Disneyland Paris and Tivoli Gardens both run Christmas seasons. See <a href=\"/international-days-out/\">days out around the world</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "When should I book a Santa experience?",
+      "a": "As early as you can. Popular Santa experiences and weekend slots often sell out in October and November."
+    },
+    {
+      "q": "What is a Santa Special train?",
+      "a": "A festive heritage railway ride where Santa visits passengers on board, usually with a small gift for children. Most run on weekends in December."
+    }
+  ],
+  "related": [
+    "blog/steam-train-days-out",
+    "experience-days",
+    "international-days-out"
+  ]
+}

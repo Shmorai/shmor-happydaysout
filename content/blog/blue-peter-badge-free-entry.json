@@ -1,0 +1,75 @@
+{
+  "updated": "2026-10-14",
+  "type": "post",
+  "date": "2026-10-06",
+  "eyebrow": "Money saving · Kids go free",
+  "search": false,
+  "slug": "blog/blue-peter-badge-free-entry",
+  "title": "Blue Peter Badge Free Entry: How It Works for Families",
+  "description": "How a Blue Peter badge gets children free entry at 200+ UK attractions: how to earn one, the badge ID card, which places take it and the rules to know.",
+  "h1": "Blue Peter badge free entry: how it works",
+  "intro": "A Blue Peter badge is more than bragging rights. Children who earn one can get free entry at more than 200 UK attractions. Here’s how it works.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1620420522286-994c1e94d863",
+    "alt": "A boy and girl walking across a green field",
+    "credit": "Alvin Mahmudov",
+    "creditUrl": "https://unsplash.com/@alvinmahmudov"
+  },
+  "keywords": [
+    "blue peter badge",
+    "blue peter badge free entry",
+    "blue peter badge attractions",
+    "how to get a blue peter badge",
+    "kids go free",
+    "free entry for kids"
+  ],
+  "cardText": "How to earn a badge, the ID card and the rules for free entry.",
+  "blocks": [
+    {
+      "type": "scout",
+      "mood": "tip",
+      "title": "Scout’s badge tip",
+      "text": "<p>Apply well before the holidays. Badges can take weeks to arrive, and your child needs both the badge and the badge ID card to get in free.</p>",
+      "points": [
+        "Free entry is for badge holders under 16",
+        "An adult usually needs to pay and accompany them",
+        "Merlin attractions stopped accepting badges in 2017"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "How to earn a Blue Peter badge",
+      "html": "<p>Children apply to the BBC for different badges by sending in things like a letter, a drawing, a story or evidence of a challenge. The BBC’s <a href=\"https://www.bbc.co.uk/cbbc/joinin/about-blue-peter-badges\" rel=\"noopener\" target=\"_blank\">Blue Peter badges page</a> lists the current badges and how to apply.</p>"
+    },
+    {
+      "h2": "Using it for free entry",
+      "html": "<ul><li>Badge holders under 16 can get free entry at participating attractions.</li><li>They must show their badge <strong>and</strong> the badge ID card that comes with it.</li><li>Usually a paying adult must accompany them.</li><li>It generally can’t be combined with other offers.</li></ul>"
+    },
+    {
+      "h2": "Where can you use it?",
+      "html": "<p>The BBC lists more than 200 attractions, from castles and museums to farms and steam railways. New places join from time to time. Tamworth Castle joined in 2026, for example. Merlin attractions (such as Alton Towers and LEGOLAND) no longer take badges.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How long does a Blue Peter badge take to arrive?",
+      "a": "It can take several weeks, sometimes up to around 12 weeks, so apply well before you plan to use it."
+    },
+    {
+      "q": "Can you use a Blue Peter badge at Alton Towers?",
+      "a": "No. Merlin attractions, including Alton Towers, Thorpe Park and LEGOLAND, stopped accepting Blue Peter badges in 2017."
+    }
+  ],
+  "sources": [
+    {
+      "title": "About Blue Peter badges (BBC)",
+      "url": "https://www.bbc.co.uk/cbbc/joinin/about-blue-peter-badges"
+    }
+  ],
+  "related": [
+    "discount-codes",
+    "blog/kids-go-free-offers",
+    "free-days-out"
+  ]
+}

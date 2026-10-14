@@ -1,0 +1,330 @@
+{
+  "updated": "2026-10-14",
+  "slug": "discount-codes",
+  "nav": "Discount codes",
+  "navOrder": 4,
+  "title": "Days Out Discount Codes, Offers & Kids-Go-Free Deals",
+  "description": "Real days out discount codes and offers: 2FOR1 with train tickets, kids-go-free deals, annual passes and free museum days in the UK, US and Europe.",
+  "eyebrow": "Discount codes & offers",
+  "h1": "Days out discount codes and offers that actually work",
+  "intro": "No expired codes, no click-bait. Every offer below is a real, current scheme we have checked on the official website, with the date we checked it.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1628705250580-80b96d4657f6",
+    "alt": "A family flying a kite in a field under a clear blue sky",
+    "credit": "Klara Kulikova",
+    "creditUrl": "https://unsplash.com/@kkalerry"
+  },
+  "chips": [
+    {
+      "label": "2FOR1 by train",
+      "slug": "blog/national-rail-2for1-days-out"
+    },
+    {
+      "label": "Kids go free",
+      "slug": "blog/kids-go-free-offers"
+    },
+    {
+      "label": "Spot fake codes",
+      "slug": "blog/how-to-spot-fake-discount-codes"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "scout",
+      "mood": "tip",
+      "title": "How Scout checks a deal",
+      "text": "<p>If it isn’t on the official website, it doesn’t go on this page. Most of the best savings need no code at all, just the right ticket, card or badge.</p>",
+      "points": [
+        "Each offer shows the date we last checked it",
+        "Codes appear only when they are real and current",
+        "Offers change, so confirm the terms before you pay"
+      ],
+      "position": "top"
+    },
+    {
+      "type": "codes",
+      "title": "Offers and savings by region",
+      "tabs": true,
+      "items": [
+        {
+          "merchant": "National Rail Days Out Guide",
+          "title": "2FOR1 and money off attractions when you travel by train",
+          "region": "uk",
+          "icon": "tag",
+          "stub": "2FOR1",
+          "text": "Travel by train and show a valid National Rail ticket to get 2FOR1 entry or other discounts at attractions across the UK.",
+          "nocode": "No code: voucher or booking reference",
+          "terms": "Valid National Rail ticket needed. Oyster, contactless and TfL tickets don’t qualify. Some offers need pre-booking.",
+          "url": "https://www.daysoutguide.co.uk/",
+          "urlLabel": "daysoutguide.co.uk",
+          "slug": "blog/national-rail-2for1-days-out",
+          "more": "How it works",
+          "checked": "2026-10-14"
+        },
+        {
+          "merchant": "Merlin Annual Pass",
+          "title": "One pass for LEGOLAND, Alton Towers, Thorpe Park, Chessington, SEA LIFE and more",
+          "region": "uk",
+          "icon": "tag",
+          "stub": "Annual pass",
+          "text": "For 2026 there are three passes: Essential, Gold and Platinum. Discovery and Silver have been withdrawn, and Blackpool attractions aren’t included on new or renewed passes.",
+          "nocode": "No code: buy direct",
+          "terms": "You still need to pre-book visits. Exclusion dates vary by pass.",
+          "url": "https://www.merlinannualpass.co.uk/",
+          "urlLabel": "merlinannualpass.co.uk",
+          "slug": "merlin-annual-pass",
+          "more": "Is it worth it?",
+          "checked": "2026-10-14"
+        },
+        {
+          "merchant": "Kids Pass",
+          "title": "Money off theme parks, zoos, cinemas and restaurants",
+          "region": "uk",
+          "icon": "percent",
+          "stub": "Family app",
+          "text": "A paid family discount membership. Pick an offer in the app and get a code or barcode. It has offered a low-cost 30-day trial in 2026.",
+          "nocode": "Codes are issued in the app",
+          "terms": "Paid membership. Check renewal terms before the trial ends.",
+          "url": "https://www.kidspass.co.uk/",
+          "urlLabel": "kidspass.co.uk",
+          "slug": "blog/kids-pass-explained",
+          "more": "Is it worth it?",
+          "checked": "2026-10-14"
+        },
+        {
+          "merchant": "BBC Blue Peter badge",
+          "title": "Free child entry at 200+ UK attractions",
+          "region": "uk",
+          "icon": "star",
+          "stub": "Kids go free",
+          "text": "Children under 16 who earn a Blue Peter badge get free entry at participating attractions when an adult pays and they show their badge and ID card.",
+          "nocode": "Show badge + badge ID card",
+          "terms": "Merlin attractions stopped taking badges in 2017. Badges can take weeks to arrive.",
+          "url": "https://www.bbc.co.uk/cbbc/joinin/about-blue-peter-badges",
+          "urlLabel": "bbc.co.uk",
+          "slug": "blog/blue-peter-badge-free-entry",
+          "more": "How to get one",
+          "checked": "2026-10-14"
+        },
+        {
+          "merchant": "Tesco Clubcard",
+          "title": "Swap Clubcard vouchers for days out",
+          "region": "uk",
+          "icon": "wallet",
+          "stub": "Rewards",
+          "text": "Clubcard Reward Partners have included days out such as Alton Towers Resort in 2026. Exchange rates and partners change, so check the app.",
+          "nocode": "Exchange in the Clubcard app",
+          "terms": "Partners and values change. Check expiry dates on your vouchers.",
+          "url": "https://www.tesco.com/clubcard/rewards",
+          "urlLabel": "tesco.com/clubcard",
+          "checked": "2026-10-14"
+        },
+        {
+          "merchant": "National Trust & English Heritage",
+          "title": "Under-5s go free at most properties",
+          "region": "uk",
+          "icon": "users",
+          "stub": "Little ones free",
+          "text": "Both charities let children under 5 in free at most sites, and family memberships can cover the rest of the gang for a year.",
+          "nocode": "No code needed",
+          "terms": "Check each property: some events and car parks charge extra.",
+          "url": "https://www.nationaltrust.org.uk/",
+          "urlLabel": "nationaltrust.org.uk",
+          "slug": "blog/national-trust-vs-english-heritage",
+          "more": "Which membership?",
+          "checked": "2026-10-14"
+        },
+        {
+          "merchant": "Warner Bros. Studio Tour London",
+          "title": "Book direct, and under-5s go free",
+          "region": "uk",
+          "icon": "tag",
+          "stub": "Book direct",
+          "text": "Children aged 4 and under go free with a ticket. Booking on the official site avoids reseller mark-ups. Transport packages cost more.",
+          "nocode": "No code needed",
+          "terms": "Advance booking only: no tickets on arrival.",
+          "url": "https://www.wbstudiotour.co.uk/",
+          "urlLabel": "wbstudiotour.co.uk",
+          "slug": "blog/harry-potter-studio-tour-tips",
+          "more": "Studio Tour tips",
+          "checked": "2026-10-14"
+        },
+        {
+          "merchant": "Bank of America Museums on Us",
+          "title": "Free museum entry on the first full weekend of every month",
+          "region": "us",
+          "icon": "calendar",
+          "stub": "Free weekend",
+          "text": "Bank of America, Merrill and Private Bank cardholders get one free general admission at participating museums. The next weekend is 7–8 November 2026.",
+          "nocode": "Show your card + photo ID",
+          "terms": "Cardholder only, no guests. Special exhibitions excluded.",
+          "url": "https://about.bankofamerica.com/en/making-an-impact/museums-on-us-partners",
+          "urlLabel": "Bank of America",
+          "slug": "blog/free-days-out-usa-kids",
+          "more": "Free US days out",
+          "checked": "2026-10-14"
+        },
+        {
+          "merchant": "Museums for All",
+          "title": "Free or reduced entry with an EBT card",
+          "region": "us",
+          "icon": "heart",
+          "stub": "Access offer",
+          "text": "Families receiving SNAP benefits can show an EBT card for free or reduced admission at hundreds of participating museums across the US.",
+          "nocode": "Show EBT card + ID",
+          "terms": "Rules (group size, price) vary by museum.",
+          "url": "https://museums4all.org/",
+          "urlLabel": "museums4all.org",
+          "slug": "blog/free-days-out-usa-kids",
+          "more": "Free US days out",
+          "checked": "2026-10-14"
+        },
+        {
+          "merchant": "Every Kid Outdoors",
+          "title": "Free national parks pass for fourth graders",
+          "region": "us",
+          "icon": "compass",
+          "stub": "Free pass",
+          "text": "US fourth graders (and home-schooled 10-year-olds) can get a free pass that covers entrance fees for the family at federal lands. The 2026–27 pass runs to 31 August 2027.",
+          "nocode": "Download the voucher online",
+          "terms": "Covers entrance fees, not camping or tours.",
+          "url": "https://everykidoutdoors.gov/",
+          "urlLabel": "everykidoutdoors.gov",
+          "slug": "blog/every-kid-outdoors-pass",
+          "more": "How to get it",
+          "checked": "2026-10-14"
+        },
+        {
+          "merchant": "Walt Disney World",
+          "title": "Official special offers and free kids’ dining deals",
+          "region": "us",
+          "icon": "gift",
+          "stub": "Disney offers",
+          "text": "Disney lists current ticket and hotel offers on its official site, and some 2026 UK packages have included free dining for children aged 3–9.",
+          "nocode": "No code: offers apply when you book",
+          "terms": "Offers have limited dates and conditions.",
+          "url": "https://disneyworld.disney.go.com/special-offers/",
+          "urlLabel": "Disney special offers",
+          "slug": "disney-deals",
+          "more": "Disney guide",
+          "checked": "2026-10-14"
+        },
+        {
+          "merchant": "Disneyland Paris",
+          "title": "Seasonal hotel and ticket offers",
+          "region": "europe",
+          "icon": "gift",
+          "stub": "Disney offers",
+          "text": "Disneyland Paris runs seasonal offers on its official site. Under-3s always go free.",
+          "nocode": "No code: offers apply when you book",
+          "terms": "Offer dates, eligible hotels and conditions vary.",
+          "url": "https://www.disneylandparis.com/",
+          "urlLabel": "disneylandparis.com",
+          "slug": "disney-deals",
+          "more": "Disney guide",
+          "checked": "2026-10-14"
+        },
+        {
+          "merchant": "French national museums",
+          "title": "Free for under-18s at national museums",
+          "region": "europe",
+          "icon": "users",
+          "stub": "Kids free",
+          "text": "France’s national museums, including the Louvre, admit under-18s free. EU/EEA residents aged 18–25 usually go free too.",
+          "nocode": "Bring ID for older kids",
+          "terms": "Timed booking is often still required, even for free tickets.",
+          "url": "https://www.louvre.fr/en/visit/hours-admission",
+          "urlLabel": "louvre.fr",
+          "checked": "2026-10-14"
+        },
+        {
+          "merchant": "Italy’s state museums",
+          "title": "“Domenica al museo”: free state museums on the first Sunday of the month",
+          "region": "europe",
+          "icon": "calendar",
+          "stub": "Free Sunday",
+          "text": "Italian state museums and archaeological sites have opened for free on the first Sunday of the month. Expect crowds and check booking rules.",
+          "nocode": "No code needed",
+          "terms": "Some sites need advance reservation on free days.",
+          "url": "https://cultura.gov.it/domenicalmuseo",
+          "urlLabel": "cultura.gov.it",
+          "checked": "2026-10-14"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Why we don’t list hundreds of codes",
+      "html": "<p>Many voucher sites fill pages with codes that expired years ago, just to rank in Google. We think that wastes your time. We list fewer offers, but each one is real. Learn <a href=\"/blog/how-to-spot-fake-discount-codes/\">how to spot a fake discount code</a>.</p>"
+    },
+    {
+      "h2": "More ways to save on days out",
+      "html": "<ul><li><strong>Under-5s free:</strong> many attractions, including National Trust and English Heritage sites, let little ones in free.</li><li><strong>Carers:</strong> lots of attractions offer free or discounted carer tickets for disabled visitors. Ask before booking.</li><li><strong>Gift Aid tickets:</strong> charity attractions often offer a ticket with an optional donation. You can usually choose the standard price instead.</li><li><strong>Annual passes:</strong> compare an <a href=\"/blog/annual-pass-vs-day-tickets/\">annual pass against day tickets</a>.</li><li><strong>Free days:</strong> see our <a href=\"/free-days-out/\">free days out</a> guide.</li></ul>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Are days out discount codes real?",
+      "a": "Some are, but many codes on voucher sites are expired or never worked. The most reliable savings come from official schemes like the National Rail Days Out Guide, memberships, annual passes and kids-go-free rules."
+    },
+    {
+      "q": "How does 2FOR1 with National Rail work?",
+      "a": "You travel by train to the attraction, then show your valid National Rail ticket with a Days Out Guide voucher or booking reference to get the offer. Oyster, contactless and TfL tickets don’t qualify. <a href=\"/blog/national-rail-2for1-days-out/\">Full guide</a>."
+    },
+    {
+      "q": "Can I combine discounts?",
+      "a": "Usually not. Most attractions allow one offer per ticket, so compare the offers and use the biggest saving."
+    }
+  ],
+  "sources": [
+    {
+      "title": "National Rail Days Out Guide",
+      "url": "https://www.daysoutguide.co.uk/"
+    },
+    {
+      "title": "Merlin Annual Pass",
+      "url": "https://www.merlinannualpass.co.uk/"
+    },
+    {
+      "title": "Blue Peter badges (BBC)",
+      "url": "https://www.bbc.co.uk/cbbc/joinin/about-blue-peter-badges"
+    },
+    {
+      "title": "Every Kid Outdoors",
+      "url": "https://everykidoutdoors.gov/"
+    },
+    {
+      "title": "Museums on Us (Bank of America)",
+      "url": "https://about.bankofamerica.com/en/making-an-impact/museums-on-us-partners"
+    },
+    {
+      "title": "Museums for All",
+      "url": "https://museums4all.org/"
+    }
+  ],
+  "related": [
+    "blog/national-rail-2for1-days-out",
+    "blog/kids-go-free-offers",
+    "blog/how-to-spot-fake-discount-codes",
+    "free-days-out"
+  ],
+  "keywords": [
+    "discount code",
+    "discount codes",
+    "voucher code",
+    "promo code",
+    "days out discount",
+    "days out vouchers",
+    "2for1",
+    "2 for 1 days out",
+    "kids go free",
+    "family discounts",
+    "attraction discounts",
+    "kids pass",
+    "blue peter badge",
+    "museums on us",
+    "museums for all"
+  ],
+  "cardText": "Real offers only: 2FOR1 by train, kids-go-free deals, passes and free museum days."
+}

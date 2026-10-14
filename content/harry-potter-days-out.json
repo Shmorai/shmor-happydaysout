@@ -1,0 +1,319 @@
+{
+  "updated": "2026-10-14",
+  "slug": "harry-potter-days-out",
+  "nav": "Harry Potter",
+  "navOrder": 2,
+  "title": "Harry Potter Days Out: Studio Tour, Offers & Wizarding World",
+  "description": "Plan a magical Harry Potter day out: the Warner Bros. Studio Tour London, Wizarding World parks, Alnwick Castle and the Jacobite steam train, plus ways to save.",
+  "eyebrow": "Harry Potter days out",
+  "h1": "Harry Potter days out for the whole family",
+  "intro": "From the real film sets in Leavesden to Hogwarts castles in Orlando and a steam train over the Glenfinnan Viaduct: the best Harry Potter days out, and how to pay less for the magic.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1505832018823-50331d70d237",
+    "alt": "A steam train crossing the Glenfinnan Viaduct in the Scottish Highlands",
+    "credit": "Jack Anstey",
+    "creditUrl": "https://unsplash.com/@jack_anstey"
+  },
+  "chips": [
+    {
+      "label": "Studio Tour tips",
+      "slug": "blog/harry-potter-studio-tour-tips"
+    },
+    {
+      "label": "Filming locations",
+      "slug": "blog/harry-potter-filming-locations-days-out"
+    },
+    {
+      "label": "Universal Orlando",
+      "slug": "blog/epic-universe-family-guide"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "scout",
+      "mood": "verdict",
+      "title": "Scout’s verdict on Harry Potter days out",
+      "text": "<p>The Studio Tour in London is the one most fans should do first: real sets, props and costumes, and children aged 4 and under go free. Don’t expect a discount code. The best saving is booking direct, early, on a term-time date.</p>",
+      "facts": [
+        [
+          "Best for",
+          "Ages 5+ and grown-up fans"
+        ],
+        [
+          "Free option",
+          "Platform 9¾ at King’s Cross"
+        ],
+        [
+          "Watch out",
+          "No tickets sold on arrival"
+        ]
+      ],
+      "position": "top"
+    },
+    {
+      "type": "attractions",
+      "title": "The best Harry Potter days out",
+      "tabs": true,
+      "items": [
+        {
+          "title": "Warner Bros. Studio Tour London – The Making of Harry Potter",
+          "kind": "Studio tour",
+          "where": "Leavesden, near Watford, England",
+          "region": "uk",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1618944847023-38aa001235f0",
+            "alt": "A Platform 9¾ sign for the Hogwarts Express",
+            "credit": "Aditya Vyas",
+            "creditUrl": "https://unsplash.com/@aditya1702"
+          },
+          "text": "Walk through the real sets, costumes and props from the films, including the Great Hall, Diagon Alley and the Hogwarts Express on Platform 9¾.",
+          "tags": [
+            "Ages 5+",
+            "Pre-book only",
+            "Under-5s free"
+          ],
+          "saves": [
+            "Children aged 4 and under go free, but still need a ticket",
+            "Book direct on the official site to avoid reseller mark-ups",
+            "Tickets can’t be bought on arrival, and school holidays sell out early"
+          ],
+          "scout": "Allow at least 3–4 hours. Save room for Butterbeer, and don’t rush the Gringotts and Hogwarts model sections at the end.",
+          "url": "https://www.wbstudiotour.co.uk/",
+          "slug": "blog/harry-potter-studio-tour-tips",
+          "more": "Studio Tour tips"
+        },
+        {
+          "title": "Platform 9¾ at King’s Cross",
+          "kind": "Free photo spot",
+          "where": "King’s Cross station, London",
+          "region": "uk",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1547756536-cde3673fa2e5",
+            "alt": "A red steam locomotive on a railway line",
+            "credit": "B K",
+            "creditUrl": "https://unsplash.com/@woolyart"
+          },
+          "text": "A luggage trolley disappearing into the wall at King’s Cross station, with a themed shop next to it. Taking your own photo is free.",
+          "tags": [
+            "All ages",
+            "Free",
+            "Queues at peak times"
+          ],
+          "saves": [
+            "Free to visit: you only pay if you want the official photo or shop souvenirs",
+            "Go early in the morning to beat the queue"
+          ],
+          "scout": "A fun free stop on a London day out. Combine it with the free museums in South Kensington.",
+          "slug": "blog/free-museums-london-kids",
+          "more": "Free London museums"
+        },
+        {
+          "title": "Alnwick Castle",
+          "kind": "Castle & film location",
+          "where": "Northumberland, England",
+          "region": "uk",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1605718268542-b603f5c7a8f4",
+            "alt": "A stone castle under white clouds",
+            "credit": "Ian Murphy",
+            "creditUrl": "https://unsplash.com/@ianmurphy"
+          },
+          "text": "The castle used for Hogwarts exteriors in the first two Harry Potter films. Families can join broomstick training in the very courtyard from the movies.",
+          "tags": [
+            "Ages 4+",
+            "Film location",
+            "Broomstick training"
+          ],
+          "saves": [
+            "Check whether tickets can be upgraded to an annual pass for free on the official site",
+            "Pair with Alnwick Garden next door"
+          ],
+          "scout": "Broomstick training is pure joy for young witches and wizards. Check session times when you arrive.",
+          "url": "https://www.alnwickcastle.com/",
+          "slug": "blog/harry-potter-filming-locations-days-out",
+          "more": "Filming locations"
+        },
+        {
+          "title": "The Jacobite steam train",
+          "kind": "Heritage railway",
+          "where": "Fort William to Mallaig, Scotland",
+          "region": "uk",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1505832018823-50331d70d237",
+            "alt": "A steam train crossing the Glenfinnan Viaduct in the Scottish Highlands",
+            "credit": "Jack Anstey",
+            "creditUrl": "https://unsplash.com/@jack_anstey"
+          },
+          "text": "The steam train that crosses the Glenfinnan Viaduct, famous from the Harry Potter films. It runs seasonally and sells out well ahead.",
+          "tags": [
+            "All ages",
+            "Seasonal",
+            "Book early"
+          ],
+          "saves": [
+            "You can watch the train cross the viaduct for free from the Glenfinnan viewpoints",
+            "Book as early as possible for summer dates"
+          ],
+          "scout": "Can’t get tickets? Watching it cross the viaduct from the hillside is free and just as photogenic.",
+          "url": "https://westcoastrailways.co.uk/jacobite/steam-train-trip",
+          "slug": "blog/steam-train-days-out",
+          "more": "Steam train days out"
+        },
+        {
+          "title": "Universal Orlando Resort",
+          "kind": "Theme parks",
+          "where": "Orlando, Florida, USA",
+          "region": "us",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1618944913480-b67ee16d7b77",
+            "alt": "A castle-style building lit up at night",
+            "credit": "Aditya Vyas",
+            "creditUrl": "https://unsplash.com/@aditya1702"
+          },
+          "text": "Universal Studios Florida, Islands of Adventure and Epic Universe (opened 2025), plus Volcano Bay water park. The Wizarding World of Harry Potter is spread across all three theme parks.",
+          "tags": [
+            "Ages 5+",
+            "Harry Potter",
+            "Epic Universe"
+          ],
+          "saves": [
+            "Multi-day tickets are better value per day",
+            "For 2026, 3-day-plus tickets include Epic Universe visits; 2-day tickets don’t, so check before you buy",
+            "You need a park-to-park ticket to ride the Hogwarts Express between the two original parks"
+          ],
+          "scout": "Harry Potter fans: Diagon Alley and Hogsmeade are in different parks. Get a park-to-park ticket or you’ll miss half the magic.",
+          "url": "https://www.universalorlando.com/",
+          "slug": "harry-potter-days-out",
+          "more": "Harry Potter guide"
+        },
+        {
+          "title": "Warner Bros. Studio Tour Tokyo – The Making of Harry Potter",
+          "kind": "Studio tour",
+          "where": "Tokyo, Japan",
+          "region": "world",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1618944913480-b67ee16d7b77",
+            "alt": "A castle-style building lit up at night",
+            "credit": "Aditya Vyas",
+            "creditUrl": "https://unsplash.com/@aditya1702"
+          },
+          "text": "Opened in 2023, Tokyo’s Studio Tour brings sets, props and costumes from the films to Japan. Book in advance.",
+          "tags": [
+            "Ages 5+",
+            "Pre-book",
+            "Asia"
+          ],
+          "saves": [
+            "Book direct on the official site for timed entry"
+          ],
+          "scout": "Visiting Japan? Universal Studios Japan has its own Wizarding World too.",
+          "url": "https://www.wbstudiotour.jp/en/"
+        }
+      ]
+    },
+    {
+      "type": "codes",
+      "title": "Harry Potter savings that actually work",
+      "intro": "Searching for a “Harry Potter World discount code”? Genuine public codes for the Studio Tour are rare. These savings are real:",
+      "items": [
+        {
+          "merchant": "Warner Bros. Studio Tour London",
+          "title": "Book direct, and under-5s go free",
+          "region": "uk",
+          "icon": "tag",
+          "stub": "Book direct",
+          "text": "Children aged 4 and under go free with a ticket. Booking on the official site avoids reseller mark-ups. Transport packages cost more.",
+          "nocode": "No code needed",
+          "terms": "Advance booking only: no tickets on arrival.",
+          "url": "https://www.wbstudiotour.co.uk/",
+          "urlLabel": "wbstudiotour.co.uk",
+          "slug": "blog/harry-potter-studio-tour-tips",
+          "more": "Studio Tour tips",
+          "checked": "2026-10-14"
+        },
+        {
+          "merchant": "National Rail Days Out Guide",
+          "title": "Travel by train and check the Days Out Guide",
+          "region": "uk",
+          "icon": "tag",
+          "stub": "2FOR1",
+          "text": "The Days Out Guide lists rail-ticket offers at attractions. Check the live listing for current London and Hertfordshire offers before you travel.",
+          "nocode": "No code: voucher or booking reference",
+          "terms": "Valid National Rail ticket needed. Oyster, contactless and TfL tickets don’t qualify. Some offers need pre-booking.",
+          "url": "https://www.daysoutguide.co.uk/",
+          "urlLabel": "daysoutguide.co.uk",
+          "slug": "blog/national-rail-2for1-days-out",
+          "more": "How it works",
+          "checked": "2026-10-14"
+        },
+        {
+          "merchant": "Glenfinnan viewpoints",
+          "title": "Watch the “Hogwarts Express” for free",
+          "region": "uk",
+          "icon": "compass",
+          "stub": "Free",
+          "text": "The Jacobite steam train crosses the Glenfinnan Viaduct on its seasonal runs. Watching from the viewpoints costs nothing.",
+          "nocode": "Free to watch",
+          "terms": "Seasonal timetable. Car parks get busy.",
+          "url": "https://westcoastrailways.co.uk/jacobite/steam-train-trip",
+          "urlLabel": "Jacobite timetable",
+          "checked": "2026-10-14"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Warner Bros. Studio Tour London: the essentials",
+      "html": "<ul><li><strong>Where:</strong> Leavesden, near Watford, about 20 miles north-west of central London. Shuttle buses run from Watford Junction station.</li><li><strong>Tickets:</strong> timed entry, booked in advance only. Children aged 4 and under go free, but still need a ticket.</li><li><strong>How long:</strong> most families spend 3 to 4 hours.</li><li><strong>When:</strong> school holidays and weekends sell out early, so book as soon as you know your dates.</li></ul><p>Read Scout’s full <a href=\"/blog/harry-potter-studio-tour-tips/\">Studio Tour tips for families</a>. Visiting from the US or Europe? You’ll need a <a href=\"https://traveldeals.shmor.ai/blog/uk-eta-guide/\">UK ETA</a> before you fly.</p>"
+    },
+    {
+      "h2": "The Wizarding World of Harry Potter parks",
+      "html": "<p>Universal runs Wizarding World areas in Orlando, Hollywood and Japan. In Orlando, Hogsmeade is at Islands of Adventure, Diagon Alley is at Universal Studios Florida, and the newest land (the Ministry of Magic) is at Epic Universe. See our <a href=\"/blog/epic-universe-family-guide/\">Epic Universe family guide</a>, and compare <a href=\"https://traveldeals.shmor.ai/destinations/orlando/\">Orlando holidays on TravelDeals</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is there a discount code for the Harry Potter Studio Tour?",
+      "a": "Genuine public discount codes are rare. The most reliable savings are booking direct on the official website (avoiding reseller mark-ups), choosing an off-peak date and remembering that children aged 4 and under go free with a ticket."
+    },
+    {
+      "q": "Can you buy Harry Potter Studio Tour tickets on the day?",
+      "a": "No. Tickets must be booked in advance online for a timed entry slot. Popular dates, especially school holidays, can sell out weeks or months ahead."
+    },
+    {
+      "q": "Is the Studio Tour suitable for young children?",
+      "a": "Children of any age can visit, and under-5s go free. It’s a walking tour of sets and props rather than rides, so it suits children who know the films, usually from about age 5 upwards."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Warner Bros. Studio Tour London (official)",
+      "url": "https://www.wbstudiotour.co.uk/"
+    },
+    {
+      "title": "Universal Orlando Resort (official)",
+      "url": "https://www.universalorlando.com/"
+    }
+  ],
+  "related": [
+    "blog/harry-potter-studio-tour-tips",
+    "blog/harry-potter-filming-locations-days-out",
+    "blog/epic-universe-family-guide",
+    "theme-parks"
+  ],
+  "keywords": [
+    "harry potter",
+    "harry potter world",
+    "harry potter studio tour",
+    "warner bros studio tour",
+    "harry potter discount code",
+    "wizarding world",
+    "hogwarts",
+    "platform 9 3/4",
+    "alnwick castle",
+    "jacobite steam train",
+    "glenfinnan viaduct"
+  ],
+  "cardText": "The Studio Tour, Wizarding World parks, Alnwick Castle and real ways to save."
+}

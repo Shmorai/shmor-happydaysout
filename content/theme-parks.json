@@ -1,0 +1,526 @@
+{
+  "updated": "2026-10-14",
+  "slug": "theme-parks",
+  "nav": "Theme parks",
+  "navOrder": 1,
+  "title": "Family Theme Parks: Tickets, Offers & Money-Saving Tips",
+  "description": "Compare family theme parks in the UK, US and Europe, from LEGOLAND and Alton Towers to Disney, Universal and Efteling, with real ways to save on tickets.",
+  "eyebrow": "Theme parks",
+  "h1": "Family theme parks: where to go and how to pay less",
+  "intro": "Coasters for thrill-seekers, gentle rides for toddlers and castles for everyone. Here are the best family theme parks near and far, with honest tips from Scout on who each one suits.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1627035983655-0ceec61bb733",
+    "alt": "A roller coaster at an amusement park",
+    "credit": "Somruthai Keawjan",
+    "creditUrl": "https://unsplash.com/@deuxsong"
+  },
+  "chips": [
+    {
+      "label": "Merlin pass",
+      "slug": "merlin-annual-pass"
+    },
+    {
+      "label": "Disney",
+      "slug": "disney-deals"
+    },
+    {
+      "label": "Harry Potter",
+      "slug": "harry-potter-days-out"
+    },
+    {
+      "label": "Discount codes",
+      "slug": "discount-codes"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "scout",
+      "mood": "verdict",
+      "title": "Scout’s theme park rule of thumb",
+      "text": "<p>Pick the park for your youngest child, then find the extras for the oldest. A toddler at a thrill park is a long day for everyone.</p>",
+      "facts": [
+        [
+          "Best for toddlers",
+          "LEGOLAND, Paultons, Efteling"
+        ],
+        [
+          "Best for teens",
+          "Thorpe Park, Alton Towers, Europa-Park"
+        ],
+        [
+          "Best saving",
+          "Annual pass if you go 2+ times"
+        ]
+      ],
+      "position": "top"
+    },
+    {
+      "type": "attractions",
+      "title": "Family theme parks we love",
+      "intro": "Filter by where you want to go. Every card has ways to save and a tip from Scout.",
+      "tabs": true,
+      "items": [
+        {
+          "title": "Alton Towers Resort",
+          "kind": "Theme park",
+          "where": "Staffordshire, England",
+          "region": "uk",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1713426225330-014fbfd04aa0",
+            "alt": "Riders with arms in the air on a roller coaster",
+            "credit": "Hannes Knutsson",
+            "creditUrl": "https://unsplash.com/@hannesknutsson"
+          },
+          "text": "The UK’s best-known thrill park, with big roller coasters for teens and CBeebies Land for little ones, plus a water park and hotels on site.",
+          "tags": [
+            "All ages",
+            "Thrill rides",
+            "CBeebies Land"
+          ],
+          "saves": [
+            "Included in Merlin Annual Passes (check exclusion dates)",
+            "A Tesco Clubcard Reward Partner in 2026: check the Clubcard app for current exchanges",
+            "Book online before you go: gate prices are usually the highest"
+          ],
+          "scout": "Split the day: thrill rides first while queues are short, CBeebies Land after lunch when little legs need a slower pace.",
+          "url": "https://www.altontowers.com/",
+          "slug": "merlin-annual-pass",
+          "more": "Merlin pass guide"
+        },
+        {
+          "title": "LEGOLAND Windsor Resort",
+          "kind": "Theme park",
+          "where": "Windsor, Berkshire, England",
+          "region": "uk",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1587654780291-39c9404d746b",
+            "alt": "Yellow, red, blue and green toy building bricks",
+            "credit": "Xavi Cabrera",
+            "creditUrl": "https://unsplash.com/@xavi_cabrera"
+          },
+          "text": "Built for families with children aged roughly 2 to 12: gentle coasters, driving schools, MINILAND models and plenty of hands-on play.",
+          "tags": [
+            "Ages 2–12",
+            "Gentle rides",
+            "Hotels on site"
+          ],
+          "saves": [
+            "Included in Merlin Annual Passes",
+            "Listed on the National Rail Days Out Guide with a rail-ticket discount in 2026",
+            "Weekdays outside school holidays are usually the quietest and cheapest"
+          ],
+          "scout": "Under-3s go free, so it’s great value while they’re tiny. Check ride height limits before you promise anything!",
+          "url": "https://www.legoland.co.uk/",
+          "slug": "blog/legoland-windsor-tips",
+          "more": "Our LEGOLAND tips"
+        },
+        {
+          "title": "Chessington World of Adventures",
+          "kind": "Theme park + zoo",
+          "where": "Chessington, Surrey, England",
+          "region": "uk",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1502136969935-8d8eef54d77b",
+            "alt": "People riding a spinning fairground ride",
+            "credit": "Ethan Hoover",
+            "creditUrl": "https://unsplash.com/@ethanchoover"
+          },
+          "text": "A rare mix of family rides and a zoo in one ticket, which makes it a strong all-rounder for mixed-age families.",
+          "tags": [
+            "Ages 3+",
+            "Zoo + rides",
+            "Near London"
+          ],
+          "saves": [
+            "Included in Merlin Annual Passes",
+            "Animal areas are a calm break when queues build up"
+          ],
+          "scout": "Two days out for the price of one: plan your route around the animal talks and feeding times.",
+          "url": "https://www.chessington.com/",
+          "slug": "merlin-annual-pass",
+          "more": "Merlin pass guide"
+        },
+        {
+          "title": "Paultons Park, home of Peppa Pig World",
+          "kind": "Theme park",
+          "where": "New Forest, Hampshire, England",
+          "region": "uk",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1770871821382-60ea99b0a941",
+            "alt": "A happy family running together in a sunlit garden",
+            "credit": "Aleksandra Sapozhnikova",
+            "creditUrl": "https://unsplash.com/@rruprrup"
+          },
+          "text": "Peppa Pig World is a toddler favourite, and the park’s new Viking-themed land, Valgard, opened in spring 2026 with bigger rides for older kids.",
+          "tags": [
+            "Toddlers",
+            "Peppa Pig World",
+            "Valgard (2026)"
+          ],
+          "saves": [
+            "Not part of the Merlin pass: check Paultons’ own annual passes if you live nearby",
+            "Closed in January and on some winter dates, so check the calendar first"
+          ],
+          "scout": "Peppa Pig World is busiest first thing. Head there in the afternoon and do the rest of the park in the morning.",
+          "url": "https://paultonspark.co.uk/",
+          "slug": "blog/best-days-out-with-toddlers",
+          "more": "Toddler days out"
+        },
+        {
+          "title": "Thorpe Park Resort",
+          "kind": "Thrill park",
+          "where": "Chertsey, Surrey, England",
+          "region": "uk",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1628835788312-41d61f5ddce8",
+            "alt": "A roller coaster track against a blue sky",
+            "credit": "Jonny Gios",
+            "creditUrl": "https://unsplash.com/@supergios"
+          },
+          "text": "Big, fast rides aimed at teens and adults, and a short hop from London. Younger children will find fewer rides that fit them.",
+          "tags": [
+            "Teens",
+            "Thrill rides",
+            "Near London"
+          ],
+          "saves": [
+            "Included in Merlin Annual Passes",
+            "Online, date-based tickets are usually cheaper than buying on the day"
+          ],
+          "scout": "Best for teens and thrill-seeking grown-ups. With under-8s, LEGOLAND or Chessington is the better pick.",
+          "url": "https://www.thorpepark.com/",
+          "slug": "blog/days-out-with-teenagers",
+          "more": "Days out with teens"
+        },
+        {
+          "title": "Blackpool Pleasure Beach",
+          "kind": "Seaside theme park",
+          "where": "Blackpool, Lancashire, England",
+          "region": "uk",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1627035983655-0ceec61bb733",
+            "alt": "A roller coaster at an amusement park",
+            "credit": "Somruthai Keawjan",
+            "creditUrl": "https://unsplash.com/@deuxsong"
+          },
+          "text": "A classic seaside park with historic wooden coasters and a younger kids’ area, right by the beach and the famous promenade.",
+          "tags": [
+            "All ages",
+            "Seaside",
+            "Classic coasters"
+          ],
+          "saves": [
+            "Kids Pass has listed discounts here in 2026: check the app before booking",
+            "Pair it with free beach time and the promenade to stretch the day"
+          ],
+          "scout": "Blackpool’s Merlin attractions (the Tower, SEA LIFE and more) are no longer included on new or renewed Merlin passes, so price them separately.",
+          "url": "https://www.blackpoolpleasurebeach.com/"
+        },
+        {
+          "title": "Walt Disney World Resort",
+          "kind": "Theme parks",
+          "where": "Orlando, Florida, USA",
+          "region": "us",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1597466599360-3b9775841aec",
+            "alt": "Cinderella Castle at Magic Kingdom, Walt Disney World, Orlando",
+            "credit": "Kitera Dent",
+            "creditUrl": "https://unsplash.com/@kitera"
+          },
+          "text": "Four theme parks (Magic Kingdom, EPCOT, Hollywood Studios and Animal Kingdom) plus two water parks. It’s a holiday, not a day out, so plan several days.",
+          "tags": [
+            "All ages",
+            "Multi-day",
+            "Under-3s free"
+          ],
+          "saves": [
+            "Children under 3 don’t need a park ticket",
+            "Multi-day tickets cost less per day than single days",
+            "Check Disney’s official special offers page before booking"
+          ],
+          "scout": "Don’t try to do it all. Two parks done well beat four done in a rush, especially with little ones.",
+          "url": "https://disneyworld.disney.go.com/",
+          "slug": "disney-deals",
+          "more": "Disney deals guide"
+        },
+        {
+          "title": "Universal Orlando Resort",
+          "kind": "Theme parks",
+          "where": "Orlando, Florida, USA",
+          "region": "us",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1618944913480-b67ee16d7b77",
+            "alt": "A castle-style building lit up at night",
+            "credit": "Aditya Vyas",
+            "creditUrl": "https://unsplash.com/@aditya1702"
+          },
+          "text": "Universal Studios Florida, Islands of Adventure and Epic Universe (opened 2025), plus Volcano Bay water park. The Wizarding World of Harry Potter is spread across all three theme parks.",
+          "tags": [
+            "Ages 5+",
+            "Harry Potter",
+            "Epic Universe"
+          ],
+          "saves": [
+            "Multi-day tickets are better value per day",
+            "For 2026, 3-day-plus tickets include Epic Universe visits; 2-day tickets don’t, so check before you buy",
+            "You need a park-to-park ticket to ride the Hogwarts Express between the two original parks"
+          ],
+          "scout": "Harry Potter fans: Diagon Alley and Hogsmeade are in different parks. Get a park-to-park ticket or you’ll miss half the magic.",
+          "url": "https://www.universalorlando.com/",
+          "slug": "harry-potter-days-out",
+          "more": "Harry Potter guide"
+        },
+        {
+          "title": "Disneyland Resort",
+          "kind": "Theme parks",
+          "where": "Anaheim, California, USA",
+          "region": "us",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1528041119984-da3a9f8d04d1",
+            "alt": "A fairy-tale castle lit up at night",
+            "credit": "PAN XIAOZHEN",
+            "creditUrl": "https://unsplash.com/@zhenhappy"
+          },
+          "text": "The original Disneyland Park and Disney California Adventure sit side by side, so it’s easier to tackle in two or three days than Florida.",
+          "tags": [
+            "All ages",
+            "Two parks",
+            "Walkable"
+          ],
+          "saves": [
+            "Under-3s go free",
+            "Multi-day tickets lower the cost per day",
+            "Southern California residents sometimes get special ticket offers: check Disney’s offers page"
+          ],
+          "scout": "The two parks are a short walk apart, so a park hopper ticket is easy to use here.",
+          "url": "https://disneyland.disney.go.com/",
+          "slug": "disney-deals",
+          "more": "Disney deals guide"
+        },
+        {
+          "title": "Disneyland Paris",
+          "kind": "Theme parks",
+          "where": "Marne-la-Vallée, near Paris, France",
+          "region": "europe",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1605443790760-18c6121939d3",
+            "alt": "Sleeping Beauty Castle at Disneyland Paris",
+            "credit": "Bastien Nvs",
+            "creditUrl": "https://unsplash.com/@bastien_nvs"
+          },
+          "text": "Disneyland Park plus Disney Adventure World (the renamed Walt Disney Studios Park), where World of Frozen opened on 29 March 2026.",
+          "tags": [
+            "All ages",
+            "World of Frozen",
+            "Under-3s free"
+          ],
+          "saves": [
+            "Children under 3 go free",
+            "Check the official offers page: Disneyland Paris often runs seasonal hotel and ticket offers",
+            "UK tour operators sometimes include free child places on packages"
+          ],
+          "scout": "Go for at least two days so you can do both parks without rushing. Frozen fans should head to World of Frozen early.",
+          "url": "https://www.disneylandparis.com/",
+          "slug": "blog/disneyland-paris-disney-adventure-world",
+          "more": "What’s new in 2026"
+        },
+        {
+          "title": "Efteling",
+          "kind": "Fairy-tale theme park",
+          "where": "Kaatsheuvel, Netherlands",
+          "region": "europe",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1524008279394-3aed4643b30b",
+            "alt": "Fireworks over a fairy-tale castle at night",
+            "credit": "Jayme McColgan",
+            "creditUrl": "https://unsplash.com/@jayme"
+          },
+          "text": "One of Europe’s most-loved parks, famous for its enchanted Fairytale Forest, plus coasters for older kids and grown-ups.",
+          "tags": [
+            "All ages",
+            "Fairy tales",
+            "Easy from the UK"
+          ],
+          "saves": [
+            "Date-based online tickets: quieter days cost less",
+            "Holiday parks nearby can work out cheaper than on-site hotels for longer stays"
+          ],
+          "scout": "The Fairytale Forest is a walk, not a ride, so it works brilliantly for toddlers and grandparents alike.",
+          "url": "https://www.efteling.com/en"
+        },
+        {
+          "title": "Europa-Park",
+          "kind": "Theme park resort",
+          "where": "Rust, Germany",
+          "region": "europe",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1627035983655-0ceec61bb733",
+            "alt": "A roller coaster at an amusement park",
+            "credit": "Somruthai Keawjan",
+            "creditUrl": "https://unsplash.com/@deuxsong"
+          },
+          "text": "Germany’s largest theme park, themed by European countries, with the Rulantica indoor water park next door.",
+          "tags": [
+            "All ages",
+            "Huge park",
+            "Water park next door"
+          ],
+          "saves": [
+            "Multi-day stays make more sense than a single day here",
+            "Combine with Rulantica on a separate day rather than squeezing both into one"
+          ],
+          "scout": "It’s big! Two days lets you enjoy it without sprinting between countries.",
+          "url": "https://www.europapark.de/en"
+        },
+        {
+          "title": "PortAventura World",
+          "kind": "Theme park resort",
+          "where": "Salou, Costa Dorada, Spain",
+          "region": "europe",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1642717841683-c0323214617c",
+            "alt": "Water slides at a water park",
+            "credit": "Konrad Burdyn",
+            "creditUrl": "https://unsplash.com/@kburdyn"
+          },
+          "text": "A beach-holiday-friendly resort with PortAventura Park, Ferrari Land and Caribe Aquatic Park, near the Costa Dorada beaches.",
+          "tags": [
+            "Ages 4+",
+            "Beach holiday",
+            "Water park"
+          ],
+          "saves": [
+            "Hotel stays often include park access: compare packages with separate tickets",
+            "Combine with a beach holiday rather than a standalone trip"
+          ],
+          "scout": "Perfect for a sun-and-rides holiday. Pack the suncream and plan indoor breaks in the hottest hours.",
+          "url": "https://www.portaventuraworld.com/en",
+          "href": "https://traveldeals.shmor.ai/family-holidays/"
+        },
+        {
+          "title": "LEGOLAND Billund",
+          "kind": "Theme park",
+          "where": "Billund, Denmark",
+          "region": "europe",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1633469924738-52101af51d87",
+            "alt": "A close-up of colourful toy building bricks",
+            "credit": "Sen",
+            "creditUrl": "https://unsplash.com/@sen7"
+          },
+          "text": "The original LEGOLAND, opened in 1968, a short walk from LEGO House, the brick-lover’s experience centre.",
+          "tags": [
+            "Ages 2–12",
+            "The original LEGOLAND",
+            "LEGO House nearby"
+          ],
+          "saves": [
+            "Combine LEGOLAND and LEGO House in one trip to make the travel worthwhile",
+            "Check seasonal opening: the park isn’t open all year"
+          ],
+          "scout": "A dream trip for LEGO fans. Book LEGO House separately: it’s its own attraction with its own tickets.",
+          "url": "https://www.legoland.dk/en/"
+        },
+        {
+          "title": "Parc Astérix",
+          "kind": "Theme park",
+          "where": "Plailly, near Paris, France",
+          "region": "europe",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1502136969935-8d8eef54d77b",
+            "alt": "People riding a spinning fairground ride",
+            "credit": "Ethan Hoover",
+            "creditUrl": "https://unsplash.com/@ethanchoover"
+          },
+          "text": "A big, funny, very French park themed on the Astérix comics, with strong coasters and family rides.",
+          "tags": [
+            "Ages 4+",
+            "Near Paris",
+            "Coasters"
+          ],
+          "saves": [
+            "Online, date-based tickets are usually cheaper than the gate",
+            "Easy to combine with a Paris city break"
+          ],
+          "scout": "A great second park if you’re already doing Disneyland Paris, and a different flavour of fun.",
+          "url": "https://www.parcasterix.fr/en"
+        },
+        {
+          "title": "Tivoli Gardens",
+          "kind": "Historic amusement park",
+          "where": "Copenhagen, Denmark",
+          "region": "europe",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1528041119984-da3a9f8d04d1",
+            "alt": "A fairy-tale castle lit up at night",
+            "credit": "PAN XIAOZHEN",
+            "creditUrl": "https://unsplash.com/@zhenhappy"
+          },
+          "text": "One of the world’s oldest amusement parks (opened 1843), in the heart of Copenhagen, with gardens, rides and festive seasonal lights.",
+          "tags": [
+            "All ages",
+            "City centre",
+            "Seasonal events"
+          ],
+          "saves": [
+            "Entry and rides are priced separately: an unlimited-ride wristband suits ride-hungry kids, single entry suits strollers",
+            "Combine with a city break"
+          ],
+          "scout": "Visit after dark: the lights are the real star. Halloween and Christmas seasons are magical.",
+          "url": "https://www.tivoli.dk/en",
+          "href": "https://traveldeals.shmor.ai/city-breaks/"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "How to save on theme park tickets",
+      "html": "<ul><li><strong>Book online, in advance.</strong> Most parks use date-based pricing, and buying on the gate is usually the most expensive way in.</li><li><strong>Go off-peak.</strong> Term-time weekdays are often cheaper and quieter than weekends and school holidays.</li><li><strong>Check who goes free.</strong> Under-3s are free at most big parks, including Disney and LEGOLAND.</li><li><strong>Use the train.</strong> The <a href=\"/blog/national-rail-2for1-days-out/\">National Rail Days Out Guide</a> lists rail-ticket discounts at some parks.</li><li><strong>Think annual pass.</strong> If you’ll visit two or more Merlin parks in a year, compare the <a href=\"/merlin-annual-pass/\">Merlin Annual Pass</a>.</li><li><strong>Use rewards.</strong> Tesco Clubcard vouchers and <a href=\"/blog/kids-pass-explained/\">Kids Pass</a> can cut the cost at some parks.</li></ul>"
+    },
+    {
+      "h2": "Making the most of the day",
+      "html": "<p>Arrive before opening, head to the most popular ride first, and save shows and gentle rides for the busy middle of the day. Ask about <strong>rider switch</strong> (also called baby swap) so grown-ups can take turns without queuing twice. Our <a href=\"/blog/theme-park-queue-tips/\">theme park queue tips</a> go into more detail.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the best UK theme park for young children?",
+      "a": "LEGOLAND Windsor and Paultons Park (home of Peppa Pig World) are designed with young children in mind. Chessington mixes gentle rides with a zoo, which suits mixed-age families."
+    },
+    {
+      "q": "Are under-3s free at theme parks?",
+      "a": "At most big parks, yes, including Walt Disney World, Disneyland Paris and LEGOLAND. Always check the park’s own ticket page, because age rules vary."
+    },
+    {
+      "q": "Is it cheaper to buy theme park tickets on the day?",
+      "a": "Usually not. Most parks charge the highest prices at the gate and reward booking online in advance, especially for quieter dates."
+    }
+  ],
+  "related": [
+    "merlin-annual-pass",
+    "disney-deals",
+    "harry-potter-days-out",
+    "international-days-out",
+    "blog/theme-park-queue-tips",
+    "blog/annual-pass-vs-day-tickets"
+  ],
+  "keywords": [
+    "theme parks",
+    "theme park tickets",
+    "cheap theme park tickets",
+    "alton towers",
+    "legoland",
+    "thorpe park",
+    "chessington",
+    "paultons park",
+    "peppa pig world",
+    "efteling",
+    "europa-park",
+    "portaventura",
+    "parc asterix",
+    "amusement park",
+    "roller coaster"
+  ],
+  "cardText": "LEGOLAND, Alton Towers, Disney, Efteling and more, with real ways to save."
+}

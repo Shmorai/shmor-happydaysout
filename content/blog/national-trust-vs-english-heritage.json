@@ -1,0 +1,85 @@
+{
+  "updated": "2026-10-14",
+  "type": "post",
+  "date": "2026-09-24",
+  "eyebrow": "Memberships · UK",
+  "search": false,
+  "slug": "blog/national-trust-vs-english-heritage",
+  "title": "National Trust vs English Heritage: Best for Families?",
+  "description": "National Trust or English Heritage family membership? Compare what’s included, how children are covered, under-5s free entry and which suits you.",
+  "h1": "National Trust vs English Heritage: which is best for families?",
+  "intro": "Both charities care for hundreds of historic places, and a family membership can pay for itself in a few visits. Here’s how they compare for families.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1626202826025-07ce3d501413",
+    "alt": "A grey stone castle against a blue sky",
+    "credit": "E Mens",
+    "creditUrl": "https://unsplash.com/@kwakus"
+  },
+  "keywords": [
+    "national trust",
+    "english heritage",
+    "national trust membership",
+    "english heritage membership",
+    "family membership",
+    "castles",
+    "stately homes",
+    "national trust vs english heritage"
+  ],
+  "cardText": "What each covers, how kids are included and which suits your family.",
+  "blocks": [
+    {
+      "type": "scout",
+      "mood": "tip",
+      "title": "Scout’s membership verdict",
+      "text": "<p>Look at a map of what’s near you. The best membership is the one with the most places you’ll actually visit within an hour of home.</p>",
+      "points": [
+        "Both let under-5s in free at most sites",
+        "Members usually park free at many National Trust car parks",
+        "Gift memberships make great presents"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "What’s the difference?",
+      "html": "<p>The <strong>National Trust</strong> looks after more than 500 places: country houses, gardens, coastline and countryside. <strong>English Heritage</strong> cares for over 400 historic sites in England, including castles, abbeys, Roman sites and Stonehenge.</p>"
+    },
+    {
+      "h2": "How children are covered",
+      "html": "<ul><li><strong>National Trust:</strong> family memberships cover two adults (or one) with their children or grandchildren aged 17 and under. Under-5s go free.</li><li><strong>English Heritage:</strong> each adult member can bring up to six children under 18 at no extra charge, so a joint membership covers up to 12 children. Under-5s go free.</li></ul>"
+    },
+    {
+      "h2": "Which is better for families?",
+      "html": "<p>Families who love gardens, beaches and big parks for running around often get more from the National Trust. Families with castle-mad kids who love knights and history may prefer English Heritage, which also runs lively summer events at castles. Check prices and offers on each official site. Both run promotions during the year.</p>"
+    },
+    {
+      "h2": "Other ways in",
+      "html": "<p>Not ready to commit? Both are often free for under-5s, and <a href=\"https://www.heritageopendays.org.uk/\" rel=\"noopener\" target=\"_blank\">Heritage Open Days</a> in September open many historic places for free. See <a href=\"/free-days-out/\">free days out</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How many children can I take on an English Heritage membership?",
+      "a": "Each adult member can bring up to six children under 18 at no extra charge, so a joint adult membership covers up to 12 children."
+    },
+    {
+      "q": "Are under-5s free at the National Trust?",
+      "a": "Yes. Children under 5 visit free. Family memberships cover children and grandchildren aged 17 and under."
+    }
+  ],
+  "sources": [
+    {
+      "title": "National Trust (official)",
+      "url": "https://www.nationaltrust.org.uk/"
+    },
+    {
+      "title": "English Heritage membership (official)",
+      "url": "https://www.english-heritage.org.uk/membership"
+    }
+  ],
+  "related": [
+    "uk-days-out",
+    "blog/annual-pass-vs-day-tickets",
+    "blog/kids-go-free-offers"
+  ]
+}

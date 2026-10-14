@@ -1,0 +1,68 @@
+{
+  "updated": "2026-10-14",
+  "type": "post",
+  "date": "2026-09-21",
+  "eyebrow": "Gifts · Experiences",
+  "search": false,
+  "slug": "blog/experience-day-gifts-for-families",
+  "title": "Experience Day Gifts for Families: What to Check First",
+  "description": "Buying an experience day gift for a child or family? Check age and height limits, expiry, booking, weather and exchanges first, plus top ideas.",
+  "h1": "Experience day gifts for families: what to check first",
+  "intro": "An experience can be the gift they remember for years. A little checking before you buy makes sure it’s a happy memory, not a voucher stuck in a drawer.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1507608869274-d3177c8bb4c7",
+    "alt": "Hot air balloons rising over the landscape",
+    "credit": "ian dooley",
+    "creditUrl": "https://unsplash.com/@sadswim"
+  },
+  "keywords": [
+    "experience gifts",
+    "experience day gift",
+    "gift experiences for kids",
+    "family experience gift",
+    "experience vouchers",
+    "hot air balloon gift",
+    "animal encounter gift",
+    "christmas gift ideas"
+  ],
+  "cardText": "Age limits, expiry, booking and weather, plus great family ideas.",
+  "blocks": [
+    {
+      "type": "scout",
+      "mood": "tip",
+      "title": "Scout’s gift checklist",
+      "text": "<p>Read the small print as if you’re the one going: who can take part, where, when, and what happens if it rains.</p>",
+      "points": [
+        "Minimum age and height",
+        "Voucher validity and extension fees",
+        "Who you book with",
+        "Weather and cancellation rules"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Check before you buy",
+      "html": "<ul><li><strong>Ages and sizes:</strong> many experiences have minimum ages, heights or weight limits.</li><li><strong>Locations:</strong> is there a venue within reach of the recipient?</li><li><strong>Validity:</strong> vouchers usually expire. Check if you can extend or exchange, and whether there’s a fee.</li><li><strong>Booking:</strong> do you book with the voucher company or the venue, and how far ahead are dates available?</li><li><strong>Weather:</strong> outdoor experiences like balloon flights can be rescheduled several times.</li></ul>"
+    },
+    {
+      "h2": "Great family experience ideas",
+      "html": "<ul><li>Animal encounters at zoos and farm parks.</li><li>Treetop adventure and climbing courses.</li><li>Behind-the-scenes tours, like the <a href=\"/harry-potter-days-out/\">Harry Potter Studio Tour</a>.</li><li>Theatre trips and family shows.</li><li>Junior driving experiences for older kids.</li></ul><p>See our <a href=\"/experience-days/\">experience days guide</a> for where to buy.</p>"
+    },
+    {
+      "h2": "Gifting to grandparents and grandchildren",
+      "html": "<p>A shared experience, like a steam train ride or an afternoon tea with a zoo visit, makes a lovely gift for grandparents and grandchildren to do together. Look for flexible “choice” vouchers if you’re not sure what they’d pick.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can I extend an expired experience voucher?",
+      "a": "Some providers let you extend a voucher for a fee, others don’t. Check the terms before buying and note the expiry date."
+    }
+  ],
+  "related": [
+    "experience-days",
+    "blog/christmas-days-out-family",
+    "zoos-and-aquariums"
+  ]
+}

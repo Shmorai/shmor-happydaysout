@@ -1,0 +1,94 @@
+{
+  "updated": "2026-10-14",
+  "type": "post",
+  "date": "2026-09-27",
+  "eyebrow": "USA · Free days out",
+  "search": false,
+  "slug": "blog/free-days-out-usa-kids",
+  "title": "Free Days Out With Kids in the USA: Museums, Parks & More",
+  "description": "Free family days out across the USA: Smithsonian museums, Museums on Us weekends, Museums for All, library museum passes, national park fee-free days and more.",
+  "h1": "Free days out with kids in the USA",
+  "intro": "From the Smithsonian to your local library’s museum pass, there are plenty of ways for American families to enjoy great days out for free. Here’s where to start.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1513038630932-13873b1a7f29",
+    "alt": "Visitors exploring a dinosaur fossil gallery",
+    "credit": "Chris Nguyen",
+    "creditUrl": "https://unsplash.com/@cspek"
+  },
+  "keywords": [
+    "free things to do with kids",
+    "free museums usa",
+    "museums on us",
+    "bank of america museums on us",
+    "museums for all",
+    "smithsonian",
+    "free museum day",
+    "library museum pass",
+    "free family activities"
+  ],
+  "cardText": "Smithsonian, Museums on Us, Museums for All and library passes.",
+  "blocks": [
+    {
+      "type": "scout",
+      "mood": "tip",
+      "title": "Scout’s US savings stack",
+      "text": "<p>Ask your local library first. Many lend free or discounted passes to nearby museums, zoos and aquariums, and few families know about them.</p>",
+      "points": [
+        "Museums on Us: first full weekend of every month",
+        "Museums for All: show an EBT card",
+        "Smithsonian museums are always free"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Smithsonian museums",
+      "html": "<p>Most Smithsonian museums in Washington, DC are free, including the National Museum of Natural History and the National Air and Space Museum. Some use free timed-entry passes at busy times. <a href=\"https://www.si.edu/\" rel=\"noopener\" target=\"_blank\">si.edu</a></p>"
+    },
+    {
+      "h2": "Bank of America Museums on Us",
+      "html": "<p>On the <strong>first full weekend of every month</strong>, Bank of America, Merrill and Bank of America Private Bank cardholders get one free general admission at participating museums. Bring your card and photo ID. It covers the cardholder only, not guests. The next dates are 7–8 November and 5–6 December 2026. <a href=\"https://about.bankofamerica.com/en/making-an-impact/museums-on-us-partners\" rel=\"noopener\" target=\"_blank\">Find participating museums</a></p>"
+    },
+    {
+      "h2": "Museums for All",
+      "html": "<p>Families receiving SNAP benefits can show an EBT card for free or reduced admission at hundreds of participating museums nationwide. <a href=\"https://museums4all.org/\" rel=\"noopener\" target=\"_blank\">museums4all.org</a></p>"
+    },
+    {
+      "h2": "Library passes and park days",
+      "html": "<ul><li><strong>Library museum passes:</strong> many public libraries lend passes for local attractions.</li><li><strong>National parks:</strong> the NPS publishes fee-free days each year. Fourth graders get a free <a href=\"/blog/every-kid-outdoors-pass/\">Every Kid Outdoors</a> pass.</li><li><strong>State and city parks, beaches and playgrounds</strong> are free year-round.</li></ul>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "When is Bank of America Museums on Us?",
+      "a": "The first full weekend of every month. For late 2026, that’s 7–8 November and 5–6 December. Check Bank of America’s site in case dates change."
+    },
+    {
+      "q": "Are Smithsonian museums free?",
+      "a": "Yes. Admission to most Smithsonian museums is free, though some require free timed-entry passes at busy times."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Museums on Us participating museums (Bank of America)",
+      "url": "https://about.bankofamerica.com/en/making-an-impact/museums-on-us-partners"
+    },
+    {
+      "title": "Museums for All",
+      "url": "https://museums4all.org/"
+    },
+    {
+      "title": "Smithsonian Institution",
+      "url": "https://www.si.edu/"
+    },
+    {
+      "title": "NPS passes and fee-free days",
+      "url": "https://www.nps.gov/planyourvisit/passes.htm"
+    }
+  ],
+  "related": [
+    "free-days-out",
+    "blog/us-national-parks-with-kids",
+    "blog/every-kid-outdoors-pass"
+  ]
+}

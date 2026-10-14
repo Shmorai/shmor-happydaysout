@@ -1,0 +1,54 @@
+{
+  "updated": "2026-10-14",
+  "slug": "meet-scout",
+  "nav": "Meet Scout",
+  "title": "Meet Scout the Fox and How We Choose Family Days Out",
+  "description": "Meet Scout the Fox, the HappyDaysOut mascot, and find out how we research days out, check offers on official sites and keep our advice honest and independent.",
+  "eyebrow": "About HappyDaysOut",
+  "h1": "Meet Scout the Fox",
+  "intro": "Scout is our curious, bargain-sniffing guide to family days out. Here’s who Scout is, how we research every page, and how we keep our tips honest.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1756982477676-420df08af67c",
+    "alt": "A family walking together on a grassy hill",
+    "credit": "Seljan Salim",
+    "creditUrl": "https://unsplash.com/@seljansalim"
+  },
+  "search": false,
+  "blocks": [
+    {
+      "type": "html",
+      "position": "top",
+      "html": "<div class=\"scout-portrait\"><img src=\"/assets/scout.svg\" width=\"260\" height=\"260\" alt=\"Scout the Fox waving, wearing a green explorer hat and holding a ticket\"><div><h2>Hello, I’m Scout!</h2><p>I’m a fox with a green explorer hat, a blue scarf and a nose for a good deal. I love castles, coasters, rock pools and anything with a picnic. On every HappyDaysOut page you’ll find my tips: who a day out suits, how to pay less, and what to watch out for.</p><p>I’m a cartoon mascot, so my tips are written by the HappyDaysOut editorial team, using official sources.</p></div></div>"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "How we research days out",
+      "html": "<ul><li>We check ticket rules, ages, opening and offers on <strong>official websites</strong>: the attraction itself, or the organisation behind a scheme.</li><li>Offers show the <strong>date we last checked them</strong>. Prices and offers change, so always confirm before you pay.</li><li>Posts link to their sources so you can check them too.</li></ul>"
+    },
+    {
+      "h2": "What Scout’s verdicts are, and aren’t",
+      "html": "<p>Scout’s verdicts are <strong>editorial guidance</strong>: who a day out suits, the best ways to save and common things to watch out for. They are not paid reviews, and we never publish made-up star ratings, invented visitor reviews or fake discount codes.</p>"
+    },
+    {
+      "h2": "How we make money",
+      "html": "<p>HappyDaysOut is free. Some links may be affiliate links, so we may earn a commission if you book, at no extra cost to you. This never changes what we recommend. Read <a href=\"https://shmor.ai/affiliate-disclosure/\">how Shmor.ai makes money</a>.</p>"
+    },
+    {
+      "h2": "Part of the Shmor.ai network",
+      "html": "<p>HappyDaysOut is part of <a href=\"https://shmor.ai/\">Shmor.ai</a>, a network of free comparison sites for the US, UK and Europe, including <a href=\"https://traveldeals.shmor.ai/\">TravelDeals</a> for holidays and <a href=\"https://cruisedeals.shmor.ai/\">CruiseDeals</a> for cruises.</p>"
+    }
+  ],
+  "related": [
+    "discount-codes",
+    "free-days-out",
+    "theme-parks"
+  ],
+  "keywords": [
+    "scout the fox",
+    "mascot",
+    "about happydaysout",
+    "editorial standards"
+  ],
+  "cardText": "Meet our mascot, and how we keep our tips honest."
+}

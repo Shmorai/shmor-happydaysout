@@ -1,0 +1,27 @@
+{
+  "updated": "2026-10-14",
+  "slug": "blog",
+  "type": "blog",
+  "nav": "Blog",
+  "navOrder": 8,
+  "title": "Family Days Out Blog: Tips, Offers and Ideas from Scout",
+  "description": "Scout’s family days out blog: money-saving tips, kids-go-free offers, half-term and holiday ideas, theme park guides and free days out in the UK, US and Europe.",
+  "eyebrow": "Scout’s blog",
+  "h1": "Scout’s family days out blog",
+  "intro": "Fresh ideas, honest guides and real ways to save on family days out, checked against official sources.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1561524891-8e08ab8569f3",
+    "alt": "A family walking along a wooden boardwalk through a field at golden hour",
+    "credit": "Jessica Rockowitz",
+    "creditUrl": "https://unsplash.com/@jessicarockowitz"
+  },
+  "search": false,
+  "listTitle": "All posts",
+  "keywords": [
+    "family days out blog",
+    "days out ideas",
+    "half term ideas",
+    "school holiday ideas"
+  ],
+  "cardText": "Money-saving tips, seasonal ideas and honest guides."
+}

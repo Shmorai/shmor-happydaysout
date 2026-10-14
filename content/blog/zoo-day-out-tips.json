@@ -1,0 +1,71 @@
+{
+  "updated": "2026-10-14",
+  "type": "post",
+  "date": "2026-09-18",
+  "eyebrow": "Zoos · Tips",
+  "search": false,
+  "slug": "blog/zoo-day-out-tips",
+  "title": "Zoo Day Out Tips: Get More From Your Family Visit",
+  "description": "Zoo day out tips for families: when animals are most active, feeding times and keeper talks, routes for little legs, memberships and saving.",
+  "h1": "Zoo day out tips for families",
+  "intro": "A zoo day can mean sleepy animals and tired legs, or a brilliant day full of feeding times and close encounters. These tips help you get the good version.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1503919005314-30d93d07d823",
+    "alt": "A young boy feeding an animal at a farm park",
+    "credit": "Daiga Ellaby",
+    "creditUrl": "https://unsplash.com/@daiga_ellaby"
+  },
+  "keywords": [
+    "zoo tips",
+    "zoo day out",
+    "zoo with kids",
+    "feeding times",
+    "keeper talks",
+    "zoo membership",
+    "gift aid ticket",
+    "safari park tips"
+  ],
+  "cardText": "Feeding times, routes for little legs and how to save.",
+  "blocks": [
+    {
+      "type": "scout",
+      "mood": "tip",
+      "title": "Scout’s zoo routine",
+      "text": "<p>Grab a map at the entrance, circle the feeding times and keeper talks, then plan your route around them. Animals are usually most active in the morning.</p>",
+      "points": [
+        "Arrive at opening",
+        "Pack layers: zoos are mostly outdoors",
+        "Bring snacks for flagging walkers"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Timing is everything",
+      "html": "<p>Animals are often livelier in the cooler morning and late afternoon. Feeding times and keeper talks are the highlights for kids, so build your day around them.</p>"
+    },
+    {
+      "h2": "Little legs",
+      "html": "<p>Big zoos involve a lot of walking. Bring a buggy or carrier for under-5s, plan loops rather than out-and-back routes, and use land trains or buses where the zoo has them.</p>"
+    },
+    {
+      "h2": "Saving money",
+      "html": "<ul><li>Book online in advance.</li><li>Charity zoos often show a ticket with an optional Gift Aid donation. You can usually choose the standard ticket.</li><li>Memberships suit local families who visit more than twice a year.</li><li>Some zoos appear on the <a href=\"/blog/national-rail-2for1-days-out/\">rail 2FOR1</a> list.</li></ul>"
+    },
+    {
+      "h2": "Rainy day backup",
+      "html": "<p>Many zoos have indoor houses (reptiles, butterflies, nocturnal animals). Or swap to an aquarium. See <a href=\"/zoos-and-aquariums/\">zoos and aquariums</a> and <a href=\"/blog/rainy-day-days-out/\">rainy day ideas</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What time are animals most active at the zoo?",
+      "a": "Many animals are more active in the morning and late afternoon, when it’s cooler. Feeding times are also a great time to see them moving."
+    }
+  ],
+  "related": [
+    "zoos-and-aquariums",
+    "experience-days",
+    "blog/best-days-out-with-toddlers"
+  ]
+}

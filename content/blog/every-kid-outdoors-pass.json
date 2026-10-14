@@ -1,0 +1,84 @@
+{
+  "updated": "2026-10-14",
+  "type": "post",
+  "date": "2026-10-05",
+  "eyebrow": "USA · National parks",
+  "search": false,
+  "slug": "blog/every-kid-outdoors-pass",
+  "title": "Every Kid Outdoors: Free National Park Pass for 4th Graders",
+  "description": "US fourth graders can get a free Every Kid Outdoors pass covering national park entrance fees for the family. How to get the 2026–27 pass and what it covers.",
+  "h1": "Every Kid Outdoors: a free national parks pass for fourth graders",
+  "intro": "If you have a fourth grader in the US, your whole family can visit national parks and other federal lands without paying entrance fees for a year. Here’s how.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1472396961693-142e6e269027",
+    "alt": "Deer grazing in a meadow below Half Dome in Yosemite",
+    "credit": "Johannes Andersson",
+    "creditUrl": "https://unsplash.com/@thejoltjoker"
+  },
+  "keywords": [
+    "every kid outdoors",
+    "every kid in a park",
+    "fourth grade national park pass",
+    "4th grade park pass",
+    "free national park pass",
+    "national parks kids",
+    "america the beautiful pass"
+  ],
+  "cardText": "Free entry to US national parks for the whole family, thanks to your fourth grader.",
+  "blocks": [
+    {
+      "type": "scout",
+      "mood": "tip",
+      "title": "Scout’s pass tip",
+      "text": "<p>The 2026–27 pass is valid from 1 September 2026 to 31 August 2027, so the sooner you get it, the more trips you can squeeze in.</p>",
+      "points": [
+        "Complete a short activity on the website",
+        "Print or save the voucher",
+        "Swap it for a pass at a participating site if you want a durable card"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Who can get it?",
+      "html": "<p>US fourth-grade students, including home-schooled children of fourth-grade age (usually 10), can get the pass for the school year. The programme has been reauthorised through 2031.</p>"
+    },
+    {
+      "h2": "How to get the pass",
+      "html": "<ol><li>Visit <a href=\"https://everykidoutdoors.gov/\" rel=\"noopener\" target=\"_blank\">everykidoutdoors.gov</a> with your child.</li><li>Complete the short educational activity.</li><li>Download and print the voucher (check the site for the current digital pass option).</li><li>Show it at federal recreation sites, or exchange it for a durable pass.</li></ol>"
+    },
+    {
+      "h2": "What it covers",
+      "html": "<p>It covers entrance fees at more than 2,000 federal sites. At per-vehicle sites, that’s the car and its passengers. At per-person sites, it covers all children under 16 plus up to three adults. It doesn’t cover camping, parking, tours or boat trips.</p>"
+    },
+    {
+      "h2": "Make it a trip",
+      "html": "<p>Our guide to <a href=\"/blog/us-national-parks-with-kids/\">US national parks with kids</a> has Junior Ranger tips and planning ideas.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "When does the 2026–27 Every Kid Outdoors pass expire?",
+      "a": "The 2026–27 pass is valid from 1 September 2026 to 31 August 2027."
+    },
+    {
+      "q": "Does the Every Kid Outdoors pass cover camping?",
+      "a": "No. It covers entrance and standard day-use fees, not camping, parking, tours or other expanded amenity fees."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Every Kid Outdoors (official)",
+      "url": "https://everykidoutdoors.gov/"
+    },
+    {
+      "title": "National Park Service: Every Kid Outdoors",
+      "url": "https://www.nps.gov/portals/kids/every-kid-outdoors.htm"
+    }
+  ],
+  "related": [
+    "blog/us-national-parks-with-kids",
+    "blog/free-days-out-usa-kids",
+    "discount-codes"
+  ]
+}

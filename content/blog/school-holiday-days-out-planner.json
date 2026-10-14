@@ -1,0 +1,90 @@
+{
+  "updated": "2026-10-14",
+  "type": "post",
+  "date": "2026-10-14",
+  "eyebrow": "Half term · Planning",
+  "search": false,
+  "slug": "blog/school-holiday-days-out-planner",
+  "title": "Half-Term Days Out: A School Holiday Planner for Families",
+  "description": "Plan half-term and school holiday days out without the stress or the peak prices: when to book, how to beat crowds, rainy-day backups and real ways to save.",
+  "h1": "Half-term days out: your school holiday planner",
+  "intro": "School holidays are when everyone wants a day out, and when prices and queues peak. A little planning keeps the fun high and the cost down.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1605796637388-0757a79c26cc",
+    "alt": "A child in yellow wellies walking through autumn leaves",
+    "credit": "Zachary Kadolph",
+    "creditUrl": "https://unsplash.com/@zacharykadolph"
+  },
+  "keywords": [
+    "half term",
+    "half term ideas",
+    "october half term",
+    "school holidays",
+    "school holiday days out",
+    "easter holidays",
+    "summer holidays",
+    "spring break",
+    "things to do in half term"
+  ],
+  "cardText": "When to book, how to dodge the crowds and how to keep half-term costs down.",
+  "blocks": [
+    {
+      "type": "scout",
+      "mood": "tip",
+      "title": "Scout’s half-term plan",
+      "text": "<p>Mix one “big” paid day with two or three free or cheap ones. Book the big day early and keep a rainy-day backup in your pocket.</p>",
+      "points": [
+        "Check term dates for your area: they differ between councils and schools",
+        "Book timed tickets as soon as you know your dates",
+        "Plan a free day for the middle of the week"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Check your exact dates",
+      "html": "<p>Term dates vary between councils, academies and private schools, so two families on the same street can have different half-terms. Find yours on <a href=\"https://www.gov.uk/school-term-holiday-dates\" rel=\"noopener\" target=\"_blank\">GOV.UK</a> (England) or your council’s website. In the US, spring break and winter break also vary by school district.</p>"
+    },
+    {
+      "h2": "Book the big day early",
+      "html": "<p>Popular attractions like the <a href=\"/blog/harry-potter-studio-tour-tips/\">Harry Potter Studio Tour</a> and big <a href=\"/theme-parks/\">theme parks</a> sell timed tickets that can go weeks ahead for holiday dates. Most use date-based pricing, so the earlier you book, the more choice you have.</p>"
+    },
+    {
+      "h2": "Beat the crowds",
+      "html": "<ul><li><strong>Go midweek:</strong> Tuesdays to Thursdays are usually quieter than Mondays and Fridays.</li><li><strong>Arrive at opening:</strong> the first hour is the calmest at almost every attraction.</li><li><strong>Avoid the first weekend:</strong> it’s often the busiest of the holiday.</li></ul>"
+    },
+    {
+      "h2": "Keep costs down",
+      "html": "<ul><li>Use <a href=\"/blog/national-rail-2for1-days-out/\">2FOR1 with the train</a> where it’s available.</li><li>Fill gaps with <a href=\"/free-days-out/\">free days out</a> like national museums and country parks.</li><li>Take a picnic: see our <a href=\"/blog/picnic-day-out-checklist/\">picnic checklist</a>.</li><li>Check <a href=\"/blog/kids-go-free-offers/\">kids-go-free offers</a> before paying for little ones.</li></ul>"
+    },
+    {
+      "h2": "Have a rainy-day backup",
+      "html": "<p>Keep one indoor idea ready for the inevitable wet day: an aquarium, a museum, a swimming pool or a cinema morning. Our <a href=\"/blog/rainy-day-days-out/\">rainy day days out</a> list has plenty.</p>"
+    },
+    {
+      "h2": "October half-term ideas",
+      "html": "<p>Autumn half-term is perfect for <a href=\"/blog/halloween-family-days-out/\">pumpkin picking and Halloween events</a>, crunchy woodland walks and theme park Halloween seasons. Check whether events need separate tickets.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "When is half-term?",
+      "a": "It depends on your local authority or school. In England, check GOV.UK or your council’s website. Many schools have a week off in late October, mid-February and late May."
+    },
+    {
+      "q": "How can I make half-term cheaper?",
+      "a": "Book paid attractions early and midweek, mix in free days out, use rail 2FOR1 offers and kids-go-free deals, and take a picnic."
+    }
+  ],
+  "sources": [
+    {
+      "title": "School term and holiday dates (GOV.UK)",
+      "url": "https://www.gov.uk/school-term-holiday-dates"
+    }
+  ],
+  "related": [
+    "blog/halloween-family-days-out",
+    "blog/rainy-day-days-out",
+    "free-days-out"
+  ]
+}

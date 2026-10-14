@@ -1,0 +1,67 @@
+{
+  "updated": "2026-10-14",
+  "type": "post",
+  "date": "2026-09-16",
+  "eyebrow": "Ideas · Toddlers",
+  "search": false,
+  "slug": "blog/best-days-out-with-toddlers",
+  "title": "Best Days Out With Toddlers: Ideas and Survival Tips",
+  "description": "The best days out with toddlers: farm parks, aquariums, gentle theme parks, steam trains and free museums, plus nap-friendly planning and toddler survival tips.",
+  "h1": "The best days out with toddlers",
+  "intro": "Toddlers don’t need big rides. They need animals, water, things to push and space to run. Here are the best days out for little ones, and how to keep everyone smiling.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1554995783-571a2b4d923a",
+    "alt": "A toddler wearing wellies",
+    "credit": "Xavi Cabrera",
+    "creditUrl": "https://unsplash.com/@xavi_cabrera"
+  },
+  "keywords": [
+    "days out with toddlers",
+    "toddler days out",
+    "things to do with toddlers",
+    "toddler friendly",
+    "under 3s free",
+    "peppa pig world",
+    "farm park",
+    "baby days out"
+  ],
+  "cardText": "Farm parks, aquariums, gentle rides and nap-friendly planning.",
+  "blocks": [
+    {
+      "type": "scout",
+      "mood": "tip",
+      "title": "Scout’s toddler tactics",
+      "text": "<p>Plan around the nap, not the attraction. A shorter morning out with a buggy nap on the way home beats a long day that ends in tears.</p>",
+      "points": [
+        "Many attractions let under-2s or under-3s in free",
+        "Check buggy access and baby-change facilities",
+        "Pack spare clothes, always"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Toddler-friendly days out",
+      "html": "<ul><li><strong>Farm parks and petting farms:</strong> animals, tractors and play barns. See <a href=\"/local-days-out/\">local days out</a>.</li><li><strong>Aquariums:</strong> short, indoor and mesmerising. See <a href=\"/zoos-and-aquariums/\">zoos and aquariums</a>.</li><li><strong>Gentle theme parks:</strong> Peppa Pig World at Paultons Park and <a href=\"/blog/legoland-windsor-tips/\">LEGOLAND</a>.</li><li><strong>Steam trains:</strong> see <a href=\"/blog/steam-train-days-out/\">heritage railways</a>.</li><li><strong>Free museums</strong> with play areas, like the Young V&A.</li></ul>"
+    },
+    {
+      "h2": "Saving money with toddlers",
+      "html": "<p>Under-3s go free at most theme parks, and under-5s are free at many heritage sites. Check our <a href=\"/blog/kids-go-free-offers/\">kids go free</a> guide. A toddler-only trip during term time is often the cheapest and quietest of all.</p>"
+    },
+    {
+      "h2": "Survival kit",
+      "html": "<ul><li>Snacks, then more snacks.</li><li>Spare clothes and nappies or pull-ups.</li><li>A favourite toy or comforter.</li><li>Sun hat or waterproofs, depending on the sky.</li><li>A lightweight buggy or carrier.</li></ul>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What are good days out for 2-year-olds?",
+      "a": "Farm parks, aquariums, gentle theme parks like Peppa Pig World, steam train rides and playgrounds. Short trips that fit around naps work best."
+    }
+  ],
+  "related": [
+    "local-days-out",
+    "blog/kids-go-free-offers",
+    "zoos-and-aquariums"
+  ]
+}

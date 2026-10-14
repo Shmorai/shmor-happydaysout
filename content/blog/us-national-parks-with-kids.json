@@ -1,0 +1,90 @@
+{
+  "updated": "2026-10-14",
+  "type": "post",
+  "date": "2026-09-26",
+  "eyebrow": "USA · Outdoors",
+  "search": false,
+  "slug": "blog/us-national-parks-with-kids",
+  "title": "US National Parks With Kids: Passes, Junior Rangers & Tips",
+  "description": "Plan a US national parks trip with kids: the Junior Ranger programme, Every Kid Outdoors and annual passes, how to pick a family-friendly park and safety tips.",
+  "h1": "US national parks with kids",
+  "intro": "Geysers, giant trees and canyons: America’s national parks are some of the best-value family days out in the world. Here’s how to plan a trip the kids will remember.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1687488057264-d3500aec2cc7",
+    "alt": "Two adults and a child looking out at a mountain view",
+    "credit": "Nils Huenerfuerst",
+    "creditUrl": "https://unsplash.com/@nhuenerfuerst"
+  },
+  "keywords": [
+    "national parks",
+    "national parks with kids",
+    "junior ranger",
+    "junior ranger program",
+    "america the beautiful pass",
+    "yosemite",
+    "yellowstone",
+    "grand canyon",
+    "family national park trip"
+  ],
+  "cardText": "Junior Rangers, park passes and how to pick a family-friendly park.",
+  "blocks": [
+    {
+      "type": "scout",
+      "mood": "tip",
+      "title": "Scout’s park plan",
+      "text": "<p>Pick one or two short, rewarding trails each day, ending at a waterfall, viewpoint or lake, rather than one long hike. Kids walk further when there’s a “wow” at the end.</p>",
+      "points": [
+        "Get a Junior Ranger booklet at the visitor centre",
+        "Some popular parks need timed-entry reservations in peak season",
+        "Carry more water than you think"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Become a Junior Ranger",
+      "html": "<p>Many national parks run a free <strong>Junior Ranger</strong> programme: children complete an activity booklet and take a pledge to earn a badge. Pick up a booklet at the visitor centre or download one from the park’s website. <a href=\"https://www.nps.gov/kids/become-a-junior-ranger.htm\" rel=\"noopener\" target=\"_blank\">nps.gov</a></p>"
+    },
+    {
+      "h2": "Passes that save money",
+      "html": "<ul><li><strong>Every Kid Outdoors:</strong> fourth graders get a free pass for the family. See <a href=\"/blog/every-kid-outdoors-pass/\">how to get it</a>.</li><li><strong>America the Beautiful pass:</strong> an annual pass covering entrance fees at federal recreation sites. Check eligibility and current pricing on <a href=\"https://www.recreation.gov/pass\" rel=\"noopener\" target=\"_blank\">recreation.gov</a>, as fees for some visitors changed in 2026.</li><li><strong>Fee-free days:</strong> published each year by the NPS.</li></ul>"
+    },
+    {
+      "h2": "Family-friendly parks",
+      "html": "<p>Parks with short, paved or easy trails, good visitor centres and lodging nearby work best for younger kids. Popular parks can need timed-entry reservations in peak season, so check the park’s website when you plan.</p>"
+    },
+    {
+      "h2": "Stay safe",
+      "html": "<ul><li>Keep a safe distance from wildlife and never feed animals.</li><li>Stay on marked trails, especially near cliffs and thermal areas.</li><li>Check weather and park alerts on the official park page before setting out.</li></ul>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the Junior Ranger programme?",
+      "a": "A free programme at many national parks where children complete activities in a booklet and take a pledge to earn a Junior Ranger badge."
+    },
+    {
+      "q": "Do I need a reservation to visit national parks?",
+      "a": "Some popular parks use timed-entry or vehicle reservations in peak season. Check the specific park’s website before you go."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Become a Junior Ranger (NPS)",
+      "url": "https://www.nps.gov/kids/become-a-junior-ranger.htm"
+    },
+    {
+      "title": "Interagency passes (Recreation.gov)",
+      "url": "https://www.recreation.gov/pass"
+    },
+    {
+      "title": "Every Kid Outdoors",
+      "url": "https://everykidoutdoors.gov/"
+    }
+  ],
+  "related": [
+    "blog/every-kid-outdoors-pass",
+    "blog/free-days-out-usa-kids",
+    "international-days-out"
+  ]
+}

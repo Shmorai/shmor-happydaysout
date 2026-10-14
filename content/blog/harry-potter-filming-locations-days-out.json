@@ -1,0 +1,90 @@
+{
+  "updated": "2026-10-14",
+  "type": "post",
+  "date": "2026-09-30",
+  "eyebrow": "Harry Potter · UK",
+  "search": false,
+  "slug": "blog/harry-potter-filming-locations-days-out",
+  "title": "Harry Potter Filming Locations: Family Days Out in the UK",
+  "description": "Visit real Harry Potter filming locations with the family: Alnwick Castle, the Glenfinnan Viaduct and Jacobite steam train, King’s Cross and more around the UK.",
+  "h1": "Harry Potter filming locations for family days out",
+  "intro": "Beyond the Studio Tour, you can stand where Harry learned to fly and watch the “Hogwarts Express” cross a Highland viaduct. Here are the UK filming locations families love.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1605718268542-b603f5c7a8f4",
+    "alt": "A stone castle under white clouds",
+    "credit": "Ian Murphy",
+    "creditUrl": "https://unsplash.com/@ianmurphy"
+  },
+  "keywords": [
+    "harry potter filming locations",
+    "alnwick castle",
+    "glenfinnan viaduct",
+    "jacobite steam train",
+    "hogwarts express",
+    "harry potter locations uk",
+    "platform 9 3/4",
+    "gloucester cathedral",
+    "harry potter scotland"
+  ],
+  "cardText": "Alnwick Castle, the Glenfinnan Viaduct, King’s Cross and more.",
+  "blocks": [
+    {
+      "type": "scout",
+      "mood": "tip",
+      "title": "Scout’s location tip",
+      "text": "<p>Pair a big ticket with a free one. Watching the Jacobite cross the Glenfinnan Viaduct is free, and so is a photo at Platform 9¾.</p>",
+      "points": [
+        "Alnwick Castle runs broomstick training sessions",
+        "The Jacobite runs seasonally: book early",
+        "Check opening seasons before travelling far"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Alnwick Castle, Northumberland",
+      "html": "<p>Alnwick Castle was used for Hogwarts exteriors in the first two films. Its outer bailey is where Harry’s first flying lesson was filmed, and families can join <strong>broomstick training</strong> there today. <a href=\"https://www.alnwickcastle.com/\" rel=\"noopener\" target=\"_blank\">alnwickcastle.com</a></p>"
+    },
+    {
+      "h2": "Glenfinnan Viaduct and the Jacobite, Scotland",
+      "html": "<p>The curving Glenfinnan Viaduct appears in several films. The Jacobite steam train runs between Fort William and Mallaig on a seasonal timetable and sells out early. Watching it cross from the viewpoints near the Glenfinnan visitor centre is free. Read more in our <a href=\"/blog/steam-train-days-out/\">steam train days out</a> guide.</p>"
+    },
+    {
+      "h2": "King’s Cross, London",
+      "html": "<p>A luggage trolley vanishes into the wall at Platform 9¾, next to a themed shop. Photos with your own camera are free. Go early to beat the queue.</p>"
+    },
+    {
+      "h2": "Gloucester Cathedral",
+      "html": "<p>Gloucester Cathedral’s cloisters were used for Hogwarts corridors in several films. It’s a working cathedral, so check visiting times and any charges before you go.</p>"
+    },
+    {
+      "h2": "Then the real sets",
+      "html": "<p>Finish with the <a href=\"/blog/harry-potter-studio-tour-tips/\">Warner Bros. Studio Tour London</a>, where you can walk through the actual sets. See all our <a href=\"/harry-potter-days-out/\">Harry Potter days out</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Which castle was Hogwarts in Harry Potter?",
+      "a": "Alnwick Castle in Northumberland was used for Hogwarts exteriors in the first two films. Other locations, such as Gloucester Cathedral, were used for interiors."
+    },
+    {
+      "q": "Can you watch the Hogwarts Express for free?",
+      "a": "Yes. You can watch the Jacobite steam train cross the Glenfinnan Viaduct from public viewpoints when it runs. Check the seasonal timetable first."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Alnwick Castle (official)",
+      "url": "https://www.alnwickcastle.com/"
+    },
+    {
+      "title": "The Jacobite steam train (West Coast Railways)",
+      "url": "https://westcoastrailways.co.uk/jacobite/steam-train-trip"
+    }
+  ],
+  "related": [
+    "harry-potter-days-out",
+    "blog/harry-potter-studio-tour-tips",
+    "blog/steam-train-days-out"
+  ]
+}

@@ -1,0 +1,386 @@
+{
+  "updated": "2026-10-14",
+  "slug": "international-days-out",
+  "nav": "Worldwide",
+  "title": "International Family Days Out: Europe, Orlando & Beyond",
+  "description": "Plan family days out abroad: Disneyland Paris, Efteling, Europa-Park, LEGOLAND Billund, Orlando’s theme parks and more, with tips on tickets and timing.",
+  "eyebrow": "Around the world",
+  "h1": "Family days out around the world",
+  "intro": "Some days out are worth crossing a border for. Here are the world’s great family attractions within reach of the UK, US and Europe, and how to make the trip worth it.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1524008279394-3aed4643b30b",
+    "alt": "Fireworks over a fairy-tale castle at night",
+    "credit": "Jayme McColgan",
+    "creditUrl": "https://unsplash.com/@jayme"
+  },
+  "blocks": [
+    {
+      "type": "scout",
+      "mood": "verdict",
+      "title": "Scout’s verdict on days out abroad",
+      "text": "<p>Abroad, the ticket is often the smallest cost. Build the day out into a holiday, and compare packages that bundle hotel and park tickets with booking separately.</p>",
+      "facts": [
+        [
+          "Easy from the UK",
+          "Disneyland Paris, Efteling, Parc Astérix"
+        ],
+        [
+          "Big trip",
+          "Orlando, California, Tokyo"
+        ],
+        [
+          "Don’t forget",
+          "Entry rules & travel insurance"
+        ]
+      ],
+      "position": "top"
+    },
+    {
+      "type": "attractions",
+      "title": "International family days out",
+      "tabs": true,
+      "items": [
+        {
+          "title": "Disneyland Paris",
+          "kind": "Theme parks",
+          "where": "Marne-la-Vallée, near Paris, France",
+          "region": "europe",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1605443790760-18c6121939d3",
+            "alt": "Sleeping Beauty Castle at Disneyland Paris",
+            "credit": "Bastien Nvs",
+            "creditUrl": "https://unsplash.com/@bastien_nvs"
+          },
+          "text": "Disneyland Park plus Disney Adventure World (the renamed Walt Disney Studios Park), where World of Frozen opened on 29 March 2026.",
+          "tags": [
+            "All ages",
+            "World of Frozen",
+            "Under-3s free"
+          ],
+          "saves": [
+            "Children under 3 go free",
+            "Check the official offers page: Disneyland Paris often runs seasonal hotel and ticket offers",
+            "UK tour operators sometimes include free child places on packages"
+          ],
+          "scout": "Go for at least two days so you can do both parks without rushing. Frozen fans should head to World of Frozen early.",
+          "url": "https://www.disneylandparis.com/",
+          "slug": "blog/disneyland-paris-disney-adventure-world",
+          "more": "What’s new in 2026"
+        },
+        {
+          "title": "Efteling",
+          "kind": "Fairy-tale theme park",
+          "where": "Kaatsheuvel, Netherlands",
+          "region": "europe",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1524008279394-3aed4643b30b",
+            "alt": "Fireworks over a fairy-tale castle at night",
+            "credit": "Jayme McColgan",
+            "creditUrl": "https://unsplash.com/@jayme"
+          },
+          "text": "One of Europe’s most-loved parks, famous for its enchanted Fairytale Forest, plus coasters for older kids and grown-ups.",
+          "tags": [
+            "All ages",
+            "Fairy tales",
+            "Easy from the UK"
+          ],
+          "saves": [
+            "Date-based online tickets: quieter days cost less",
+            "Holiday parks nearby can work out cheaper than on-site hotels for longer stays"
+          ],
+          "scout": "The Fairytale Forest is a walk, not a ride, so it works brilliantly for toddlers and grandparents alike.",
+          "url": "https://www.efteling.com/en"
+        },
+        {
+          "title": "Europa-Park",
+          "kind": "Theme park resort",
+          "where": "Rust, Germany",
+          "region": "europe",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1627035983655-0ceec61bb733",
+            "alt": "A roller coaster at an amusement park",
+            "credit": "Somruthai Keawjan",
+            "creditUrl": "https://unsplash.com/@deuxsong"
+          },
+          "text": "Germany’s largest theme park, themed by European countries, with the Rulantica indoor water park next door.",
+          "tags": [
+            "All ages",
+            "Huge park",
+            "Water park next door"
+          ],
+          "saves": [
+            "Multi-day stays make more sense than a single day here",
+            "Combine with Rulantica on a separate day rather than squeezing both into one"
+          ],
+          "scout": "It’s big! Two days lets you enjoy it without sprinting between countries.",
+          "url": "https://www.europapark.de/en"
+        },
+        {
+          "title": "LEGOLAND Billund",
+          "kind": "Theme park",
+          "where": "Billund, Denmark",
+          "region": "europe",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1633469924738-52101af51d87",
+            "alt": "A close-up of colourful toy building bricks",
+            "credit": "Sen",
+            "creditUrl": "https://unsplash.com/@sen7"
+          },
+          "text": "The original LEGOLAND, opened in 1968, a short walk from LEGO House, the brick-lover’s experience centre.",
+          "tags": [
+            "Ages 2–12",
+            "The original LEGOLAND",
+            "LEGO House nearby"
+          ],
+          "saves": [
+            "Combine LEGOLAND and LEGO House in one trip to make the travel worthwhile",
+            "Check seasonal opening: the park isn’t open all year"
+          ],
+          "scout": "A dream trip for LEGO fans. Book LEGO House separately: it’s its own attraction with its own tickets.",
+          "url": "https://www.legoland.dk/en/"
+        },
+        {
+          "title": "PortAventura World",
+          "kind": "Theme park resort",
+          "where": "Salou, Costa Dorada, Spain",
+          "region": "europe",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1642717841683-c0323214617c",
+            "alt": "Water slides at a water park",
+            "credit": "Konrad Burdyn",
+            "creditUrl": "https://unsplash.com/@kburdyn"
+          },
+          "text": "A beach-holiday-friendly resort with PortAventura Park, Ferrari Land and Caribe Aquatic Park, near the Costa Dorada beaches.",
+          "tags": [
+            "Ages 4+",
+            "Beach holiday",
+            "Water park"
+          ],
+          "saves": [
+            "Hotel stays often include park access: compare packages with separate tickets",
+            "Combine with a beach holiday rather than a standalone trip"
+          ],
+          "scout": "Perfect for a sun-and-rides holiday. Pack the suncream and plan indoor breaks in the hottest hours.",
+          "url": "https://www.portaventuraworld.com/en",
+          "href": "https://traveldeals.shmor.ai/family-holidays/"
+        },
+        {
+          "title": "Parc Astérix",
+          "kind": "Theme park",
+          "where": "Plailly, near Paris, France",
+          "region": "europe",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1502136969935-8d8eef54d77b",
+            "alt": "People riding a spinning fairground ride",
+            "credit": "Ethan Hoover",
+            "creditUrl": "https://unsplash.com/@ethanchoover"
+          },
+          "text": "A big, funny, very French park themed on the Astérix comics, with strong coasters and family rides.",
+          "tags": [
+            "Ages 4+",
+            "Near Paris",
+            "Coasters"
+          ],
+          "saves": [
+            "Online, date-based tickets are usually cheaper than the gate",
+            "Easy to combine with a Paris city break"
+          ],
+          "scout": "A great second park if you’re already doing Disneyland Paris, and a different flavour of fun.",
+          "url": "https://www.parcasterix.fr/en"
+        },
+        {
+          "title": "Tivoli Gardens",
+          "kind": "Historic amusement park",
+          "where": "Copenhagen, Denmark",
+          "region": "europe",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1528041119984-da3a9f8d04d1",
+            "alt": "A fairy-tale castle lit up at night",
+            "credit": "PAN XIAOZHEN",
+            "creditUrl": "https://unsplash.com/@zhenhappy"
+          },
+          "text": "One of the world’s oldest amusement parks (opened 1843), in the heart of Copenhagen, with gardens, rides and festive seasonal lights.",
+          "tags": [
+            "All ages",
+            "City centre",
+            "Seasonal events"
+          ],
+          "saves": [
+            "Entry and rides are priced separately: an unlimited-ride wristband suits ride-hungry kids, single entry suits strollers",
+            "Combine with a city break"
+          ],
+          "scout": "Visit after dark: the lights are the real star. Halloween and Christmas seasons are magical.",
+          "url": "https://www.tivoli.dk/en",
+          "href": "https://traveldeals.shmor.ai/city-breaks/"
+        },
+        {
+          "title": "ZooParc de Beauval",
+          "kind": "Zoo",
+          "where": "Saint-Aignan, Loire Valley, France",
+          "region": "europe",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1641133292545-32e441e60190",
+            "alt": "A cheetah standing on a rock",
+            "credit": "Tomáš Malík",
+            "creditUrl": "https://unsplash.com/@malcoo"
+          },
+          "text": "One of Europe’s best-known zoos, with giant pandas and a cable car over the park.",
+          "tags": [
+            "All ages",
+            "Pandas",
+            "Loire Valley"
+          ],
+          "saves": [
+            "Two-day tickets suit families: it’s a big park",
+            "Combine with Loire Valley châteaux"
+          ],
+          "scout": "Book hotels early: the Loire Valley gets busy in summer.",
+          "url": "https://www.zoobeauval.com/en"
+        },
+        {
+          "title": "Walt Disney World Resort",
+          "kind": "Theme parks",
+          "where": "Orlando, Florida, USA",
+          "region": "us",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1597466599360-3b9775841aec",
+            "alt": "Cinderella Castle at Magic Kingdom, Walt Disney World, Orlando",
+            "credit": "Kitera Dent",
+            "creditUrl": "https://unsplash.com/@kitera"
+          },
+          "text": "Four theme parks (Magic Kingdom, EPCOT, Hollywood Studios and Animal Kingdom) plus two water parks. It’s a holiday, not a day out, so plan several days.",
+          "tags": [
+            "All ages",
+            "Multi-day",
+            "Under-3s free"
+          ],
+          "saves": [
+            "Children under 3 don’t need a park ticket",
+            "Multi-day tickets cost less per day than single days",
+            "Check Disney’s official special offers page before booking"
+          ],
+          "scout": "Don’t try to do it all. Two parks done well beat four done in a rush, especially with little ones.",
+          "url": "https://disneyworld.disney.go.com/",
+          "slug": "disney-deals",
+          "more": "Disney deals guide"
+        },
+        {
+          "title": "Universal Orlando Resort",
+          "kind": "Theme parks",
+          "where": "Orlando, Florida, USA",
+          "region": "us",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1618944913480-b67ee16d7b77",
+            "alt": "A castle-style building lit up at night",
+            "credit": "Aditya Vyas",
+            "creditUrl": "https://unsplash.com/@aditya1702"
+          },
+          "text": "Universal Studios Florida, Islands of Adventure and Epic Universe (opened 2025), plus Volcano Bay water park. The Wizarding World of Harry Potter is spread across all three theme parks.",
+          "tags": [
+            "Ages 5+",
+            "Harry Potter",
+            "Epic Universe"
+          ],
+          "saves": [
+            "Multi-day tickets are better value per day",
+            "For 2026, 3-day-plus tickets include Epic Universe visits; 2-day tickets don’t, so check before you buy",
+            "You need a park-to-park ticket to ride the Hogwarts Express between the two original parks"
+          ],
+          "scout": "Harry Potter fans: Diagon Alley and Hogsmeade are in different parks. Get a park-to-park ticket or you’ll miss half the magic.",
+          "url": "https://www.universalorlando.com/",
+          "slug": "harry-potter-days-out",
+          "more": "Harry Potter guide"
+        },
+        {
+          "title": "Disneyland Resort",
+          "kind": "Theme parks",
+          "where": "Anaheim, California, USA",
+          "region": "us",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1528041119984-da3a9f8d04d1",
+            "alt": "A fairy-tale castle lit up at night",
+            "credit": "PAN XIAOZHEN",
+            "creditUrl": "https://unsplash.com/@zhenhappy"
+          },
+          "text": "The original Disneyland Park and Disney California Adventure sit side by side, so it’s easier to tackle in two or three days than Florida.",
+          "tags": [
+            "All ages",
+            "Two parks",
+            "Walkable"
+          ],
+          "saves": [
+            "Under-3s go free",
+            "Multi-day tickets lower the cost per day",
+            "Southern California residents sometimes get special ticket offers: check Disney’s offers page"
+          ],
+          "scout": "The two parks are a short walk apart, so a park hopper ticket is easy to use here.",
+          "url": "https://disneyland.disney.go.com/",
+          "slug": "disney-deals",
+          "more": "Disney deals guide"
+        },
+        {
+          "title": "Warner Bros. Studio Tour Tokyo – The Making of Harry Potter",
+          "kind": "Studio tour",
+          "where": "Tokyo, Japan",
+          "region": "world",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1618944913480-b67ee16d7b77",
+            "alt": "A castle-style building lit up at night",
+            "credit": "Aditya Vyas",
+            "creditUrl": "https://unsplash.com/@aditya1702"
+          },
+          "text": "Opened in 2023, Tokyo’s Studio Tour brings sets, props and costumes from the films to Japan. Book in advance.",
+          "tags": [
+            "Ages 5+",
+            "Pre-book",
+            "Asia"
+          ],
+          "saves": [
+            "Book direct on the official site for timed entry"
+          ],
+          "scout": "Visiting Japan? Universal Studios Japan has its own Wizarding World too.",
+          "url": "https://www.wbstudiotour.jp/en/"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Before you travel",
+      "html": "<ul><li><strong>Entry rules:</strong> UK travellers visiting the EU now go through the Entry/Exit System, and ETIAS is due to follow. Visitors to the UK need an ETA. See <a href=\"https://traveldeals.shmor.ai/blog/ees-etias-europe-entry-rules/\">EES & ETIAS explained</a> and the <a href=\"https://traveldeals.shmor.ai/blog/uk-eta-guide/\">UK ETA guide</a> on TravelDeals.</li><li><strong>Packages:</strong> compare <a href=\"https://traveldeals.shmor.ai/family-holidays/\">family holidays</a> with booking park tickets and hotels separately.</li><li><strong>Cruise + parks:</strong> some families combine Orlando with a Caribbean cruise. See <a href=\"https://cruisedeals.shmor.ai/family-cruises/\">family cruises</a>.</li></ul>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the best theme park in Europe for families?",
+      "a": "Disneyland Paris, Efteling in the Netherlands and Europa-Park in Germany are all excellent for families. Efteling’s Fairytale Forest is especially good for young children."
+    },
+    {
+      "q": "Is it worth going to Orlando for theme parks?",
+      "a": "Orlando has more major theme parks than anywhere else, so it suits families who want a whole holiday of parks. Plan several days and look for multi-day tickets."
+    }
+  ],
+  "related": [
+    "disney-deals",
+    "theme-parks",
+    "blog/europe-theme-parks-family",
+    "blog/epic-universe-family-guide"
+  ],
+  "keywords": [
+    "international days out",
+    "europe theme parks",
+    "family holiday theme parks",
+    "efteling",
+    "europa park",
+    "legoland billund",
+    "lego house",
+    "tivoli",
+    "orlando theme parks",
+    "universal studios",
+    "family trip abroad",
+    "disneyland paris",
+    "family vacation ideas",
+    "tokyo"
+  ],
+  "cardText": "Disneyland Paris, Efteling, Europa-Park, Orlando and Tokyo for families."
+}

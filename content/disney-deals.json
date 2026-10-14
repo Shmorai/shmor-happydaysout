@@ -1,0 +1,237 @@
+{
+  "updated": "2026-10-14",
+  "slug": "disney-deals",
+  "nav": "Disney",
+  "navOrder": 3,
+  "title": "Disney Deals: Disneyland Paris, Disney World & Offers",
+  "description": "How to save on Disneyland Paris, Walt Disney World and Disneyland California: official offers, under-3s free, multi-day tickets and the best times to go.",
+  "eyebrow": "Disney deals",
+  "h1": "Disney deals and offers for families",
+  "intro": "A Disney trip is a big-ticket day out. Here’s how families in the UK, US and Europe can save on Disneyland Paris, Walt Disney World and the original Disneyland, using official offers only.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1509407336566-fca158fddcce",
+    "alt": "Cinderella Castle reflected in the moat at Magic Kingdom",
+    "credit": "Jorge Martínez",
+    "creditUrl": "https://unsplash.com/@jorgem9"
+  },
+  "chips": [
+    {
+      "label": "Disneyland Paris 2026",
+      "slug": "blog/disneyland-paris-disney-adventure-world"
+    },
+    {
+      "label": "Theme parks",
+      "slug": "theme-parks"
+    },
+    {
+      "label": "Kids go free",
+      "slug": "blog/kids-go-free-offers"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "scout",
+      "mood": "verdict",
+      "title": "Scout’s Disney verdict",
+      "text": "<p>Disney rewards planning more than any other day out. Under-3s are free, multi-day tickets cut the cost per day, and quieter dates are cheaper. Skip “secret code” sites: real Disney offers appear on Disney’s own website.</p>",
+      "facts": [
+        [
+          "Best for",
+          "Ages 3–10 (and every grown-up fan)"
+        ],
+        [
+          "Biggest saving",
+          "Multi-day tickets + off-peak dates"
+        ],
+        [
+          "Watch out",
+          "Unofficial ticket sellers"
+        ]
+      ],
+      "position": "top"
+    },
+    {
+      "type": "attractions",
+      "title": "Which Disney resort?",
+      "tabs": true,
+      "items": [
+        {
+          "title": "Disneyland Paris",
+          "kind": "Theme parks",
+          "where": "Marne-la-Vallée, near Paris, France",
+          "region": "europe",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1605443790760-18c6121939d3",
+            "alt": "Sleeping Beauty Castle at Disneyland Paris",
+            "credit": "Bastien Nvs",
+            "creditUrl": "https://unsplash.com/@bastien_nvs"
+          },
+          "text": "Disneyland Park plus Disney Adventure World (the renamed Walt Disney Studios Park), where World of Frozen opened on 29 March 2026.",
+          "tags": [
+            "All ages",
+            "World of Frozen",
+            "Under-3s free"
+          ],
+          "saves": [
+            "Children under 3 go free",
+            "Check the official offers page: Disneyland Paris often runs seasonal hotel and ticket offers",
+            "UK tour operators sometimes include free child places on packages"
+          ],
+          "scout": "Go for at least two days so you can do both parks without rushing. Frozen fans should head to World of Frozen early.",
+          "url": "https://www.disneylandparis.com/",
+          "slug": "blog/disneyland-paris-disney-adventure-world",
+          "more": "What’s new in 2026"
+        },
+        {
+          "title": "Walt Disney World Resort",
+          "kind": "Theme parks",
+          "where": "Orlando, Florida, USA",
+          "region": "us",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1597466599360-3b9775841aec",
+            "alt": "Cinderella Castle at Magic Kingdom, Walt Disney World, Orlando",
+            "credit": "Kitera Dent",
+            "creditUrl": "https://unsplash.com/@kitera"
+          },
+          "text": "Four theme parks (Magic Kingdom, EPCOT, Hollywood Studios and Animal Kingdom) plus two water parks. It’s a holiday, not a day out, so plan several days.",
+          "tags": [
+            "All ages",
+            "Multi-day",
+            "Under-3s free"
+          ],
+          "saves": [
+            "Children under 3 don’t need a park ticket",
+            "Multi-day tickets cost less per day than single days",
+            "Check Disney’s official special offers page before booking"
+          ],
+          "scout": "Don’t try to do it all. Two parks done well beat four done in a rush, especially with little ones.",
+          "url": "https://disneyworld.disney.go.com/",
+          "slug": "disney-deals",
+          "more": "Disney deals guide"
+        },
+        {
+          "title": "Disneyland Resort",
+          "kind": "Theme parks",
+          "where": "Anaheim, California, USA",
+          "region": "us",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1528041119984-da3a9f8d04d1",
+            "alt": "A fairy-tale castle lit up at night",
+            "credit": "PAN XIAOZHEN",
+            "creditUrl": "https://unsplash.com/@zhenhappy"
+          },
+          "text": "The original Disneyland Park and Disney California Adventure sit side by side, so it’s easier to tackle in two or three days than Florida.",
+          "tags": [
+            "All ages",
+            "Two parks",
+            "Walkable"
+          ],
+          "saves": [
+            "Under-3s go free",
+            "Multi-day tickets lower the cost per day",
+            "Southern California residents sometimes get special ticket offers: check Disney’s offers page"
+          ],
+          "scout": "The two parks are a short walk apart, so a park hopper ticket is easy to use here.",
+          "url": "https://disneyland.disney.go.com/",
+          "slug": "disney-deals",
+          "more": "Disney deals guide"
+        }
+      ]
+    },
+    {
+      "type": "codes",
+      "title": "Official Disney offers",
+      "intro": "There are no secret Disney discount codes. These official offer pages and rules are where the real savings are:",
+      "items": [
+        {
+          "merchant": "Disneyland Paris",
+          "title": "Seasonal hotel and ticket offers",
+          "region": "europe",
+          "icon": "gift",
+          "stub": "Disney offers",
+          "text": "Disneyland Paris runs seasonal offers on its official site. Under-3s always go free.",
+          "nocode": "No code: offers apply when you book",
+          "terms": "Offer dates, eligible hotels and conditions vary.",
+          "url": "https://www.disneylandparis.com/",
+          "urlLabel": "disneylandparis.com",
+          "slug": "disney-deals",
+          "more": "Disney guide",
+          "checked": "2026-10-14"
+        },
+        {
+          "merchant": "Walt Disney World",
+          "title": "Official special offers and free kids’ dining deals",
+          "region": "us",
+          "icon": "gift",
+          "stub": "Disney offers",
+          "text": "Disney lists current ticket and hotel offers on its official site, and some 2026 UK packages have included free dining for children aged 3–9.",
+          "nocode": "No code: offers apply when you book",
+          "terms": "Offers have limited dates and conditions.",
+          "url": "https://disneyworld.disney.go.com/special-offers/",
+          "urlLabel": "Disney special offers",
+          "slug": "disney-deals",
+          "more": "Disney guide",
+          "checked": "2026-10-14"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Ways to save on Disney",
+      "html": "<ul><li><strong>Under-3s go free</strong> at Disneyland Paris, Walt Disney World and Disneyland Resort.</li><li><strong>Buy more days.</strong> At the US parks the price per day drops the more days you buy.</li><li><strong>Avoid peak dates.</strong> School holidays, Christmas and Halloween weekends cost the most.</li><li><strong>Compare packages.</strong> Hotel-and-ticket packages sometimes include extras like free dining for children. Compare them with booking separately.</li><li><strong>Buy from Disney or an authorised seller.</strong> Unofficial tickets can be invalid.</li></ul><p>Turning it into a holiday? <a href=\"https://traveldeals.shmor.ai/destinations/orlando/\">Compare Orlando holidays on TravelDeals</a>.</p>"
+    },
+    {
+      "h2": "What’s new",
+      "html": "<p>At Disneyland Paris, the second park was renamed <strong>Disney Adventure World</strong>, and <strong>World of Frozen</strong> opened on 29 March 2026. Read <a href=\"/blog/disneyland-paris-disney-adventure-world/\">what’s new at Disneyland Paris</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Are there Disney discount codes?",
+      "a": "Disney doesn’t generally publish public discount codes. Genuine offers are listed on Disney’s official websites and apply when you book eligible dates and packages. Be wary of websites promising secret codes."
+    },
+    {
+      "q": "Do children under 3 need a Disney ticket?",
+      "a": "No. Children under 3 go free at Disneyland Paris, Walt Disney World and Disneyland Resort."
+    },
+    {
+      "q": "How many days do you need at Walt Disney World?",
+      "a": "With four theme parks, most families plan at least four park days, and the price per day falls as you add days. Disneyland Paris and Disneyland Resort each have two parks, so two to three days works well."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Disneyland Paris (official)",
+      "url": "https://www.disneylandparis.com/"
+    },
+    {
+      "title": "Walt Disney World special offers (official)",
+      "url": "https://disneyworld.disney.go.com/special-offers/"
+    },
+    {
+      "title": "Disneyland Resort (official)",
+      "url": "https://disneyland.disney.go.com/"
+    }
+  ],
+  "related": [
+    "blog/disneyland-paris-disney-adventure-world",
+    "blog/kids-go-free-offers",
+    "theme-parks",
+    "international-days-out"
+  ],
+  "keywords": [
+    "disney",
+    "disney deals",
+    "disney discount code",
+    "disneyland paris",
+    "disneyland paris offers",
+    "walt disney world",
+    "disney world tickets",
+    "disneyland",
+    "magic kingdom",
+    "world of frozen",
+    "disney adventure world"
+  ],
+  "cardText": "Disneyland Paris, Walt Disney World and Disneyland: official offers and how to save."
+}

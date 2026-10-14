@@ -1,0 +1,75 @@
+{
+  "updated": "2026-10-14",
+  "type": "post",
+  "date": "2026-10-03",
+  "eyebrow": "Money saving · Kids go free",
+  "search": false,
+  "slug": "blog/kids-go-free-offers",
+  "title": "Kids Go Free Offers: Where Children Get In Free",
+  "description": "Where kids get in free: age rules at theme parks, under-5s free at heritage sites, Blue Peter badges, free museums and how to check an offer.",
+  "h1": "Kids go free: where children get in for nothing",
+  "intro": "With a few kids in tow, ticket prices add up fast. The good news: lots of places let children in free, if you know the rules. Here’s where to look.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1542037104857-ffbb0b9155fb",
+    "alt": "Two parents holding a toddler’s hands on a sunny walk",
+    "credit": "Jessica Rockowitz",
+    "creditUrl": "https://unsplash.com/@jessicarockowitz"
+  },
+  "keywords": [
+    "kids go free",
+    "kids go free days out",
+    "under 3s free",
+    "under 5s free",
+    "free for kids",
+    "children free entry",
+    "family discounts",
+    "toddler free"
+  ],
+  "cardText": "Age rules, badges and schemes that let children in free.",
+  "blocks": [
+    {
+      "type": "scout",
+      "mood": "tip",
+      "title": "Scout’s free-for-kids rule",
+      "text": "<p>Always check the age rule on the official site: “under 3” and “3 and under” aren’t the same thing, and some free child tickets still have to be booked.</p>",
+      "points": [
+        "Bring proof of age for older kids if asked",
+        "Free tickets may still need reserving",
+        "One offer per ticket is the norm"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Theme parks",
+      "html": "<ul><li><strong>Disney:</strong> under-3s go free at Disneyland Paris, Walt Disney World and Disneyland Resort.</li><li><strong>LEGOLAND and other Merlin parks:</strong> under-3s are typically free.</li><li><strong>Warner Bros. Studio Tour London:</strong> children aged 4 and under go free with a ticket.</li></ul>"
+    },
+    {
+      "h2": "Heritage and history",
+      "html": "<p>The National Trust and English Heritage both let under-5s in free at most properties. See <a href=\"/blog/national-trust-vs-english-heritage/\">which membership suits you</a>.</p>"
+    },
+    {
+      "h2": "Badges and schemes",
+      "html": "<ul><li><a href=\"/blog/blue-peter-badge-free-entry/\">Blue Peter badge</a> holders get free entry at 200+ UK attractions.</li><li>US fourth graders get a free <a href=\"/blog/every-kid-outdoors-pass/\">Every Kid Outdoors</a> pass for the family.</li><li>French national museums admit under-18s free.</li></ul>"
+    },
+    {
+      "h2": "Always free",
+      "html": "<p>National museums in the UK and the Smithsonian in Washington DC are free for everyone. See our <a href=\"/free-days-out/\">free days out guide</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do under-3s go free at theme parks?",
+      "a": "At most major parks, yes, including Disney parks and LEGOLAND. Always check the park’s own ticket rules."
+    },
+    {
+      "q": "Do free child tickets need booking?",
+      "a": "Often, yes. Many attractions with timed entry ask you to reserve a free ticket for babies and toddlers so they can manage capacity."
+    }
+  ],
+  "related": [
+    "discount-codes",
+    "blog/blue-peter-badge-free-entry",
+    "free-days-out"
+  ]
+}

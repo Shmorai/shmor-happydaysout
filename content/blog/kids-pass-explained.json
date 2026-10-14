@@ -1,0 +1,80 @@
+{
+  "updated": "2026-10-14",
+  "type": "post",
+  "date": "2026-09-25",
+  "eyebrow": "Money saving · UK",
+  "search": false,
+  "slug": "blog/kids-pass-explained",
+  "title": "Kids Pass Explained: Is It Worth It for Days Out?",
+  "description": "Kids Pass explained: how the family discount app works, what it covers (theme parks, zoos, cinema, dining), trials, renewals and if it’s worth it.",
+  "h1": "Kids Pass explained: is it worth it?",
+  "intro": "Kids Pass is a paid family discount membership covering days out, cinema trips, restaurants and short breaks. Here’s how it works and how to decide whether it’ll save you money.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1770871821382-60ea99b0a941",
+    "alt": "A happy family running together in a sunlit garden",
+    "credit": "Aleksandra Sapozhnikova",
+    "creditUrl": "https://unsplash.com/@rruprrup"
+  },
+  "keywords": [
+    "kids pass",
+    "kids pass worth it",
+    "kids pass discounts",
+    "kids pass trial",
+    "family discount app",
+    "days out discounts",
+    "cinema discount kids"
+  ],
+  "cardText": "How the family discount app works, and how to tell if it’ll save you money.",
+  "blocks": [
+    {
+      "type": "scout",
+      "mood": "tip",
+      "title": "Scout’s Kids Pass maths",
+      "text": "<p>Before you pay, look up the attractions you’d actually visit in the app and add up the savings. If they beat the membership cost, it’s worth it.</p>",
+      "points": [
+        "Set a reminder before any trial ends",
+        "Some deals exclude Saturdays or school holidays",
+        "Compare each deal with the attraction’s own online price"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "How Kids Pass works",
+      "html": "<p>You pay for a monthly or annual membership, then pick an offer in the app or on the website. Some deals give you a code to use when booking online, others a barcode to show on arrival. One membership covers the household.</p>"
+    },
+    {
+      "h2": "What it covers",
+      "html": "<p>Offers have included theme parks such as Blackpool Pleasure Beach and Drayton Manor, zoos like Edinburgh Zoo and Yorkshire Wildlife Park, plus cinema tickets, dining and holiday parks. Offers change, so check the current list.</p>"
+    },
+    {
+      "h2": "Trials and renewals",
+      "html": "<p>Kids Pass has offered low-cost trials in 2026. Trials usually roll into a paid membership unless you cancel, so read the renewal terms and set a reminder. Some employers and membership schemes include Kids Pass as a perk. It’s worth checking yours.</p>"
+    },
+    {
+      "h2": "Is it worth it?",
+      "html": "<p>It tends to pay off for families who go out often and use the cinema and dining deals too. For one or two big days out a year, compare against <a href=\"/blog/national-rail-2for1-days-out/\">rail 2FOR1</a>, <a href=\"/blog/kids-go-free-offers/\">kids-go-free deals</a> and <a href=\"/discount-codes/\">other offers</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can you cancel Kids Pass?",
+      "a": "Kids Pass says you can cancel at any time. Check the current terms, especially how trials renew into paid memberships."
+    },
+    {
+      "q": "Can I use Kids Pass with other discounts?",
+      "a": "Usually not. Most attractions allow one offer per booking, so compare the Kids Pass deal with other offers."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Kids Pass (official)",
+      "url": "https://www.kidspass.co.uk/"
+    }
+  ],
+  "related": [
+    "discount-codes",
+    "blog/days-out-on-a-budget",
+    "blog/annual-pass-vs-day-tickets"
+  ]
+}

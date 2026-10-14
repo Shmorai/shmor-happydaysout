@@ -1,0 +1,85 @@
+{
+  "updated": "2026-10-14",
+  "type": "post",
+  "date": "2026-10-09",
+  "eyebrow": "Harry Potter · Guide",
+  "search": false,
+  "slug": "blog/harry-potter-studio-tour-tips",
+  "title": "Harry Potter Studio Tour London: Tips for Families",
+  "description": "Family tips for the Warner Bros. Studio Tour London: booking, under-5s free, how long it takes, getting there, Butterbeer, and how to save on the day.",
+  "h1": "Warner Bros. Studio Tour London: tips for families",
+  "intro": "Walking into the Great Hall is a genuinely magical moment for Harry Potter fans of any age. Here’s how to plan a family visit to the Studio Tour, and how to keep the cost under control.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1618944847023-38aa001235f0",
+    "alt": "A Platform 9¾ sign for the Hogwarts Express",
+    "credit": "Aditya Vyas",
+    "creditUrl": "https://unsplash.com/@aditya1702"
+  },
+  "keywords": [
+    "harry potter studio tour",
+    "harry potter world",
+    "warner bros studio tour london",
+    "harry potter tour tickets",
+    "studio tour tips",
+    "leavesden",
+    "butterbeer",
+    "harry potter world discount"
+  ],
+  "cardText": "Booking, under-5s free, how long it takes and how to save on the day.",
+  "blocks": [
+    {
+      "type": "scout",
+      "mood": "tip",
+      "title": "Scout’s Studio Tour tips",
+      "text": "<p>Book direct, book early and allow longer than you think. Most families spend 3–4 hours, and the big model of Hogwarts at the end is worth slowing down for.</p>",
+      "points": [
+        "Children aged 4 and under are free, but need a ticket",
+        "There are no tickets on arrival",
+        "Pack snacks: food inside adds up"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Booking tickets",
+      "html": "<ul><li><strong>Book online in advance</strong> on the official website. Tickets are for a timed entry slot and can’t be bought on arrival.</li><li><strong>Under-5s go free</strong> (aged 4 and under) but still need a ticket.</li><li><strong>Book early for holidays:</strong> school holiday dates can sell out weeks or months ahead.</li><li><strong>Watch out for resellers:</strong> packages with transport or hotels cost more. Compare with booking direct.</li></ul>"
+    },
+    {
+      "h2": "Getting there",
+      "html": "<p>The Studio Tour is in Leavesden, near Watford. By train, go to Watford Junction and take the shuttle bus. Check the official site for the current shuttle details. Driving? There’s on-site parking.</p>"
+    },
+    {
+      "h2": "On the day",
+      "html": "<ul><li>Arrive a little before your slot to allow for security.</li><li>Highlights include the Great Hall, the Forbidden Forest, Platform 9¾ and the Hogwarts Express, Diagon Alley and the giant model of Hogwarts.</li><li>There’s a café halfway round where you can try Butterbeer.</li><li>The gift shop is at the end, so agree a souvenir budget in advance!</li></ul>"
+    },
+    {
+      "h2": "Make a day of it",
+      "html": "<p>Combine the tour with a free photo at <a href=\"/harry-potter-days-out/\">Platform 9¾ at King’s Cross</a> and London’s <a href=\"/blog/free-museums-london-kids/\">free museums</a>. Visiting from the US or Europe? Check the <a href=\"https://traveldeals.shmor.ai/blog/uk-eta-guide/\">UK ETA rules</a> before you fly.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How long does the Harry Potter Studio Tour take?",
+      "a": "Most families spend around 3 to 4 hours. There’s no time limit once you’re in, so big fans can take longer."
+    },
+    {
+      "q": "Is there a discount for the Studio Tour?",
+      "a": "Public discount codes are rare. Save by booking direct, choosing a quieter date and remembering that children aged 4 and under go free with a ticket."
+    },
+    {
+      "q": "Can you take a buggy on the Studio Tour?",
+      "a": "The tour is step-free and buggies are generally allowed, but check the official accessibility information before you visit."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Warner Bros. Studio Tour London (official)",
+      "url": "https://www.wbstudiotour.co.uk/"
+    }
+  ],
+  "related": [
+    "harry-potter-days-out",
+    "blog/harry-potter-filming-locations-days-out",
+    "blog/free-museums-london-kids"
+  ]
+}

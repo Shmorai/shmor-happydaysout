@@ -1,0 +1,81 @@
+{
+  "updated": "2026-10-14",
+  "type": "post",
+  "date": "2026-10-08",
+  "eyebrow": "Disney · What’s new",
+  "search": false,
+  "slug": "blog/disneyland-paris-disney-adventure-world",
+  "title": "Disneyland Paris: Disney Adventure World and World of Frozen",
+  "description": "What’s new at Disneyland Paris: Walt Disney Studios Park renamed Disney Adventure World and World of Frozen opened in March 2026. Family tips and ways to save.",
+  "h1": "What’s new at Disneyland Paris: Disney Adventure World and World of Frozen",
+  "intro": "Disneyland Paris’s second park has a new name and a whole new land. Here’s what changed in 2026, and how to plan a great-value family trip.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1605443790760-18c6121939d3",
+    "alt": "Sleeping Beauty Castle at Disneyland Paris",
+    "credit": "Bastien Nvs",
+    "creditUrl": "https://unsplash.com/@bastien_nvs"
+  },
+  "keywords": [
+    "disneyland paris",
+    "disney adventure world",
+    "world of frozen",
+    "walt disney studios park",
+    "disneyland paris 2026",
+    "disneyland paris offers",
+    "frozen land",
+    "adventure way"
+  ],
+  "cardText": "The renamed second park, World of Frozen and how to plan a great-value trip.",
+  "blocks": [
+    {
+      "type": "scout",
+      "mood": "tip",
+      "title": "Scout’s Paris plan",
+      "text": "<p>Do at least two days so you can enjoy both parks. Head to World of Frozen early, before the queues build, and keep a Disneyland Park classic for the evening.</p>",
+      "points": [
+        "Under-3s go free",
+        "Check the official offers page before you book",
+        "Compare packages with booking separately"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Walt Disney Studios is now Disney Adventure World",
+      "html": "<p>The resort’s second park was renamed <strong>Disney Adventure World</strong> as part of a major expansion. <strong>World of Frozen</strong>, with Arendelle and its attractions, opened on <strong>29 March 2026</strong>. A further land themed on The Lion King has been announced for a later date.</p>"
+    },
+    {
+      "h2": "How many days do you need?",
+      "html": "<p>Two days lets you do both parks without rushing. Three days suits families with young children who need slower days, or who want to see the parades and night-time shows.</p>"
+    },
+    {
+      "h2": "Ways to save",
+      "html": "<ul><li><strong>Under-3s go free.</strong></li><li><strong>Check official offers:</strong> Disneyland Paris runs seasonal deals on hotels and tickets on its own website.</li><li><strong>Avoid peak dates</strong> like school holidays and Halloween and Christmas weekends.</li><li><strong>Compare packages:</strong> some UK operators include extras like free child places. Compare <a href=\"https://traveldeals.shmor.ai/family-holidays/\">family holidays on TravelDeals</a>.</li></ul><p>More in our <a href=\"/disney-deals/\">Disney deals guide</a>.</p>"
+    },
+    {
+      "h2": "Before you travel from the UK",
+      "html": "<p>UK travellers now go through the EU’s Entry/Exit System at the border. Read <a href=\"https://traveldeals.shmor.ai/blog/ees-etias-europe-entry-rules/\">EES and ETIAS explained</a> on TravelDeals.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "When did World of Frozen open at Disneyland Paris?",
+      "a": "World of Frozen opened on 29 March 2026, alongside the renaming of Walt Disney Studios Park to Disney Adventure World."
+    },
+    {
+      "q": "Do toddlers need a ticket for Disneyland Paris?",
+      "a": "No. Children under 3 go free at Disneyland Paris."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Disneyland Paris (official)",
+      "url": "https://www.disneylandparis.com/"
+    }
+  ],
+  "related": [
+    "disney-deals",
+    "international-days-out",
+    "blog/europe-theme-parks-family"
+  ]
+}

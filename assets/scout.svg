@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="Scout the Fox, the HappyDaysOut mascot">
+  <title>Scout the Fox</title>
+  <!-- tail -->
+  <path d="M150 150c30-4 44-28 38-52-10 12-24 18-38 18z" fill="#FF7A1A"/>
+  <path d="M184 104c-4 10-12 18-22 22l10 8c8-6 12-18 12-30z" fill="#fff"/>
+  <!-- body -->
+  <path d="M62 132c0-18 17-30 38-30s38 12 38 30v40c0 9-7 16-16 16H78c-9 0-16-7-16-16z" fill="#FF7A1A"/>
+  <path d="M84 120c4-4 10-6 16-6s12 2 16 6v52c0 6-7 10-16 10s-16-4-16-10z" fill="#fff"/>
+  <!-- backpack straps + scarf -->
+  <path d="M70 118l10 30M130 118l-10 30" stroke="#2E8F5B" stroke-width="7" stroke-linecap="round"/>
+  <path d="M68 112c20 10 44 10 64 0l-2 12c-20 8-40 8-60 0z" fill="#2BA6E0"/>
+  <path d="M120 120l10 20 8-4-8-18z" fill="#2BA6E0"/>
+  <!-- arm waving -->
+  <path d="M136 128c10-6 18-18 20-30" stroke="#FF7A1A" stroke-width="14" stroke-linecap="round" fill="none"/>
+  <circle cx="157" cy="94" r="9" fill="#1F2A44"/>
+  <!-- other arm holding ticket -->
+  <path d="M64 130c-8 6-12 14-12 22" stroke="#FF7A1A" stroke-width="14" stroke-linecap="round" fill="none"/>
+  <g transform="rotate(-18 44 160)"><rect x="24" y="148" width="40" height="24" rx="5" fill="#FFD23F" stroke="#1F2A44" stroke-width="3"/><path d="M36 148v24" stroke="#1F2A44" stroke-width="2" stroke-dasharray="3 3"/><path d="M42 157h14M42 163h10" stroke="#1F2A44" stroke-width="2.5" stroke-linecap="round"/></g>
+  <circle cx="52" cy="152" r="8" fill="#1F2A44"/>
+  <!-- feet -->
+  <ellipse cx="82" cy="188" rx="14" ry="7" fill="#1F2A44"/>
+  <ellipse cx="118" cy="188" rx="14" ry="7" fill="#1F2A44"/>
+  <!-- ears -->
+  <path d="M46 16l34 30-30 22z" fill="#FF7A1A"/>
+  <path d="M53 29l18 17-16 11z" fill="#FFD9B8"/>
+  <path d="M154 16l-34 30 30 22z" fill="#FF7A1A"/>
+  <path d="M147 29l-18 17 16 11z" fill="#FFD9B8"/>
+  <!-- head -->
+  <path d="M100 34c30 0 50 20 50 44 0 22-22 38-50 42-28-4-50-20-50-42 0-24 20-44 50-44z" fill="#FF7A1A"/>
+  <path d="M50 80c14 2 28 12 50 40-28-4-48-18-50-40zM150 80c-14 2-28 12-50 40 28-4 48-18 50-40z" fill="#fff"/>
+  <!-- eyes -->
+  <ellipse cx="80" cy="76" rx="7" ry="8.5" fill="#1F2A44"/><circle cx="82.5" cy="73" r="2.6" fill="#fff"/>
+  <ellipse cx="120" cy="76" rx="7" ry="8.5" fill="#1F2A44"/><circle cx="122.5" cy="73" r="2.6" fill="#fff"/>
+  <path d="M70 62q9-6 18 0M112 62q9-6 18 0" stroke="#1F2A44" stroke-width="3" stroke-linecap="round" fill="none"/>
+  <!-- blush, nose, smile -->
+  <circle cx="66" cy="92" r="7" fill="#FF8FA3" opacity=".75"/><circle cx="134" cy="92" r="7" fill="#FF8FA3" opacity=".75"/>
+  <ellipse cx="100" cy="94" rx="8" ry="6" fill="#1F2A44"/>
+  <path d="M90 103q10 10 20 0" stroke="#1F2A44" stroke-width="3.5" stroke-linecap="round" fill="none"/>
+  <path d="M96 106q4 6 8 0z" fill="#FF8FA3"/>
+  <!-- explorer hat -->
+  <path d="M60 46c4-28 76-28 80 0z" fill="#3BB273"/>
+  <rect x="44" y="42" width="112" height="11" rx="5.5" fill="#2E8F5B"/>
+  <path d="M64 40h72" stroke="#FFD23F" stroke-width="6"/>
+  <circle cx="122" cy="40" r="6" fill="#FF7A1A" stroke="#FFD23F" stroke-width="2"/>
+</svg>

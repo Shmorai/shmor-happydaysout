@@ -1,0 +1,77 @@
+{
+  "updated": "2026-10-14",
+  "type": "post",
+  "date": "2026-10-01",
+  "eyebrow": "Theme parks · Guide",
+  "search": false,
+  "slug": "blog/legoland-windsor-tips",
+  "title": "LEGOLAND Windsor Tips: How to Save and Plan Your Day",
+  "description": "LEGOLAND Windsor tips for families: the best ages, height checks, saving with the Merlin pass and rail offers, quieter days and how to plan your route.",
+  "h1": "LEGOLAND Windsor tips: plan your day and save",
+  "intro": "LEGOLAND Windsor is built for families with younger children, and it’s one of the UK’s most popular days out. Here’s how to plan a brilliant, better-value visit.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1633469924738-52101af51d87",
+    "alt": "A close-up of colourful toy building bricks",
+    "credit": "Sen",
+    "creditUrl": "https://unsplash.com/@sen7"
+  },
+  "keywords": [
+    "legoland windsor",
+    "legoland tips",
+    "legoland tickets",
+    "legoland discount",
+    "legoland 2for1",
+    "legoland annual pass",
+    "legoland hotel",
+    "miniland"
+  ],
+  "cardText": "Best ages, height checks, quieter days and real ways to save.",
+  "blocks": [
+    {
+      "type": "scout",
+      "mood": "tip",
+      "title": "Scout’s LEGOLAND route",
+      "text": "<p>Most families stop at the first rides they see. Head to the far side of the park first and work back towards the entrance as the day goes on.</p>",
+      "points": [
+        "Measure your kids before you go: height limits decide everything",
+        "Bring a change of clothes for the water rides",
+        "Under-3s are typically free"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Who it suits",
+      "html": "<p>LEGOLAND is designed for families with children aged roughly 2 to 12. Many rides are gentle, and lots let younger children ride with an adult. Older teens may prefer <a href=\"/blog/days-out-with-teenagers/\">thrill parks</a>.</p>"
+    },
+    {
+      "h2": "Ways to save",
+      "html": "<ul><li><strong>Book online, ahead:</strong> date-based pricing rewards quieter days and early booking.</li><li><strong>Merlin Annual Pass:</strong> LEGOLAND Windsor is included. See if a <a href=\"/merlin-annual-pass/\">pass pays off</a>.</li><li><strong>Rail offers:</strong> in 2026 the <a href=\"/blog/national-rail-2for1-days-out/\">Days Out Guide</a> listed a rail-ticket discount here. Check the live listing.</li><li><strong>Bring a picnic:</strong> food inside theme parks adds up quickly.</li></ul>"
+    },
+    {
+      "h2": "Plan your day",
+      "html": "<ul><li>Arrive before opening and head deeper into the park first.</li><li>See MINILAND in the busy middle of the day. It doesn’t need queuing.</li><li>Use the app for live queue times.</li><li>Ask about the Ride Access Pass in advance if anyone in your group needs it. See our <a href=\"/blog/theme-park-queue-tips/\">queue tips</a>.</li></ul>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What age is LEGOLAND Windsor best for?",
+      "a": "It’s designed for families with children aged roughly 2 to 12. Many rides suit younger children riding with an adult."
+    },
+    {
+      "q": "Is LEGOLAND Windsor included in the Merlin Annual Pass?",
+      "a": "Yes. LEGOLAND Windsor Resort is included in Merlin Annual Passes, subject to each pass’s exclusion dates and pre-booking."
+    }
+  ],
+  "sources": [
+    {
+      "title": "LEGOLAND Windsor Resort (official)",
+      "url": "https://www.legoland.co.uk/"
+    }
+  ],
+  "related": [
+    "theme-parks",
+    "merlin-annual-pass",
+    "blog/best-days-out-with-toddlers"
+  ]
+}

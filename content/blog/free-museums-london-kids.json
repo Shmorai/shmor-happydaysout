@@ -1,0 +1,93 @@
+{
+  "updated": "2026-10-14",
+  "type": "post",
+  "date": "2026-10-04",
+  "eyebrow": "Free days out · London",
+  "search": false,
+  "slug": "blog/free-museums-london-kids",
+  "title": "Free Museums in London for Kids: A Family Guide",
+  "description": "The best free museums in London for kids: the Natural History Museum, Science Museum, Young V&A and British Museum, with booking tips.",
+  "h1": "Free museums in London for kids",
+  "intro": "London has some of the best museums on the planet, and many of them are free. Here are the family favourites and how to make the most of a free day out in the capital.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1491156855053-9cdff72c7f85",
+    "alt": "The vaulted Hintze Hall at the Natural History Museum, London",
+    "credit": "Claudio Testa",
+    "creditUrl": "https://unsplash.com/@claudiotesta"
+  },
+  "keywords": [
+    "free museums london",
+    "free things to do in london with kids",
+    "natural history museum",
+    "science museum",
+    "young v&a",
+    "british museum",
+    "london with kids",
+    "free days out london"
+  ],
+  "cardText": "Dinosaurs, rockets and toys: London’s best free museums for families.",
+  "blocks": [
+    {
+      "type": "scout",
+      "mood": "tip",
+      "title": "Scout’s London plan",
+      "text": "<p>South Kensington is museum heaven: the Natural History Museum, Science Museum and V&A sit side by side. Pick one or two, not all three, with little ones.</p>",
+      "points": [
+        "Book free timed tickets at busy times",
+        "Arrive at opening for the dinosaurs",
+        "Special exhibitions and some activities charge"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Natural History Museum",
+      "html": "<p>Dinosaurs, a blue whale skeleton in Hintze Hall, and an earthquake simulator. General admission is free. <a href=\"https://www.nhm.ac.uk/\" rel=\"noopener\" target=\"_blank\">nhm.ac.uk</a></p>"
+    },
+    {
+      "h2": "Science Museum",
+      "html": "<p>Space, flight and hands-on galleries. General admission is free. Some interactive galleries and special exhibitions charge. <a href=\"https://www.sciencemuseum.org.uk/\" rel=\"noopener\" target=\"_blank\">sciencemuseum.org.uk</a></p>"
+    },
+    {
+      "h2": "Young V&A",
+      "html": "<p>In Bethnal Green, east London, the Young V&A is a free museum designed for children and young people, packed with play and design. <a href=\"https://www.vam.ac.uk/young\" rel=\"noopener\" target=\"_blank\">vam.ac.uk/young</a></p>"
+    },
+    {
+      "h2": "British Museum",
+      "html": "<p>Egyptian mummies, the Rosetta Stone and treasures from around the world. General admission is free. <a href=\"https://www.britishmuseum.org/\" rel=\"noopener\" target=\"_blank\">britishmuseum.org</a></p>"
+    },
+    {
+      "h2": "Make it a full day",
+      "html": "<p>Travel in by train and use the <a href=\"/blog/national-rail-2for1-days-out/\">2FOR1 offers</a> for a paid attraction, grab a free photo at Platform 9¾ at King’s Cross, and picnic in a royal park. Visiting from abroad? See <a href=\"https://traveldeals.shmor.ai/city-breaks/\">London city breaks</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is the Natural History Museum free?",
+      "a": "Yes. General admission is free. Some special exhibitions charge, and you may want to book a free timed ticket at busy times."
+    },
+    {
+      "q": "What is the best free museum in London for toddlers?",
+      "a": "The Young V&A in Bethnal Green is designed for children, and the Natural History Museum’s dinosaurs are a hit with all ages."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Natural History Museum",
+      "url": "https://www.nhm.ac.uk/"
+    },
+    {
+      "title": "Science Museum",
+      "url": "https://www.sciencemuseum.org.uk/"
+    },
+    {
+      "title": "Young V&A",
+      "url": "https://www.vam.ac.uk/young"
+    }
+  ],
+  "related": [
+    "free-days-out",
+    "blog/rainy-day-days-out",
+    "harry-potter-days-out"
+  ]
+}

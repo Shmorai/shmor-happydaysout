@@ -1,0 +1,395 @@
+{
+  "updated": "2026-10-14",
+  "slug": "uk-days-out",
+  "nav": "UK days out",
+  "title": "Best UK Family Days Out: Theme Parks, Zoos & Castles",
+  "description": "The best family days out in the UK: theme parks, zoos, castles, free museums, safari parks and steam railways, with tips on who each suits.",
+  "eyebrow": "UK days out",
+  "h1": "The best family days out in the UK",
+  "intro": "From LEGOLAND to Longleat and the Natural History Museum to Alnwick Castle, here are Britain’s best-loved family days out, with real ways to save on each.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1626202826025-07ce3d501413",
+    "alt": "A grey stone castle against a blue sky",
+    "credit": "E Mens",
+    "creditUrl": "https://unsplash.com/@kwakus"
+  },
+  "blocks": [
+    {
+      "type": "scout",
+      "mood": "verdict",
+      "title": "Scout’s UK verdict",
+      "text": "<p>Mix one big paid day with a couple of free ones. Pair a theme park with a free museum or beach day and the holiday budget goes much further.</p>",
+      "facts": [
+        [
+          "Best value",
+          "Free national museums"
+        ],
+        [
+          "Best splurge",
+          "Studio Tour or a Merlin park"
+        ],
+        [
+          "Best saving",
+          "Rail 2FOR1 & annual passes"
+        ]
+      ],
+      "position": "top"
+    },
+    {
+      "type": "attractions",
+      "title": "UK family favourites",
+      "items": [
+        {
+          "title": "LEGOLAND Windsor Resort",
+          "kind": "Theme park",
+          "where": "Windsor, Berkshire, England",
+          "region": "uk",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1587654780291-39c9404d746b",
+            "alt": "Yellow, red, blue and green toy building bricks",
+            "credit": "Xavi Cabrera",
+            "creditUrl": "https://unsplash.com/@xavi_cabrera"
+          },
+          "text": "Built for families with children aged roughly 2 to 12: gentle coasters, driving schools, MINILAND models and plenty of hands-on play.",
+          "tags": [
+            "Ages 2–12",
+            "Gentle rides",
+            "Hotels on site"
+          ],
+          "saves": [
+            "Included in Merlin Annual Passes",
+            "Listed on the National Rail Days Out Guide with a rail-ticket discount in 2026",
+            "Weekdays outside school holidays are usually the quietest and cheapest"
+          ],
+          "scout": "Under-3s go free, so it’s great value while they’re tiny. Check ride height limits before you promise anything!",
+          "url": "https://www.legoland.co.uk/",
+          "slug": "blog/legoland-windsor-tips",
+          "more": "Our LEGOLAND tips"
+        },
+        {
+          "title": "Alton Towers Resort",
+          "kind": "Theme park",
+          "where": "Staffordshire, England",
+          "region": "uk",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1713426225330-014fbfd04aa0",
+            "alt": "Riders with arms in the air on a roller coaster",
+            "credit": "Hannes Knutsson",
+            "creditUrl": "https://unsplash.com/@hannesknutsson"
+          },
+          "text": "The UK’s best-known thrill park, with big roller coasters for teens and CBeebies Land for little ones, plus a water park and hotels on site.",
+          "tags": [
+            "All ages",
+            "Thrill rides",
+            "CBeebies Land"
+          ],
+          "saves": [
+            "Included in Merlin Annual Passes (check exclusion dates)",
+            "A Tesco Clubcard Reward Partner in 2026: check the Clubcard app for current exchanges",
+            "Book online before you go: gate prices are usually the highest"
+          ],
+          "scout": "Split the day: thrill rides first while queues are short, CBeebies Land after lunch when little legs need a slower pace.",
+          "url": "https://www.altontowers.com/",
+          "slug": "merlin-annual-pass",
+          "more": "Merlin pass guide"
+        },
+        {
+          "title": "Chessington World of Adventures",
+          "kind": "Theme park + zoo",
+          "where": "Chessington, Surrey, England",
+          "region": "uk",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1502136969935-8d8eef54d77b",
+            "alt": "People riding a spinning fairground ride",
+            "credit": "Ethan Hoover",
+            "creditUrl": "https://unsplash.com/@ethanchoover"
+          },
+          "text": "A rare mix of family rides and a zoo in one ticket, which makes it a strong all-rounder for mixed-age families.",
+          "tags": [
+            "Ages 3+",
+            "Zoo + rides",
+            "Near London"
+          ],
+          "saves": [
+            "Included in Merlin Annual Passes",
+            "Animal areas are a calm break when queues build up"
+          ],
+          "scout": "Two days out for the price of one: plan your route around the animal talks and feeding times.",
+          "url": "https://www.chessington.com/",
+          "slug": "merlin-annual-pass",
+          "more": "Merlin pass guide"
+        },
+        {
+          "title": "Paultons Park, home of Peppa Pig World",
+          "kind": "Theme park",
+          "where": "New Forest, Hampshire, England",
+          "region": "uk",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1770871821382-60ea99b0a941",
+            "alt": "A happy family running together in a sunlit garden",
+            "credit": "Aleksandra Sapozhnikova",
+            "creditUrl": "https://unsplash.com/@rruprrup"
+          },
+          "text": "Peppa Pig World is a toddler favourite, and the park’s new Viking-themed land, Valgard, opened in spring 2026 with bigger rides for older kids.",
+          "tags": [
+            "Toddlers",
+            "Peppa Pig World",
+            "Valgard (2026)"
+          ],
+          "saves": [
+            "Not part of the Merlin pass: check Paultons’ own annual passes if you live nearby",
+            "Closed in January and on some winter dates, so check the calendar first"
+          ],
+          "scout": "Peppa Pig World is busiest first thing. Head there in the afternoon and do the rest of the park in the morning.",
+          "url": "https://paultonspark.co.uk/",
+          "slug": "blog/best-days-out-with-toddlers",
+          "more": "Toddler days out"
+        },
+        {
+          "title": "Warner Bros. Studio Tour London – The Making of Harry Potter",
+          "kind": "Studio tour",
+          "where": "Leavesden, near Watford, England",
+          "region": "uk",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1618944847023-38aa001235f0",
+            "alt": "A Platform 9¾ sign for the Hogwarts Express",
+            "credit": "Aditya Vyas",
+            "creditUrl": "https://unsplash.com/@aditya1702"
+          },
+          "text": "Walk through the real sets, costumes and props from the films, including the Great Hall, Diagon Alley and the Hogwarts Express on Platform 9¾.",
+          "tags": [
+            "Ages 5+",
+            "Pre-book only",
+            "Under-5s free"
+          ],
+          "saves": [
+            "Children aged 4 and under go free, but still need a ticket",
+            "Book direct on the official site to avoid reseller mark-ups",
+            "Tickets can’t be bought on arrival, and school holidays sell out early"
+          ],
+          "scout": "Allow at least 3–4 hours. Save room for Butterbeer, and don’t rush the Gringotts and Hogwarts model sections at the end.",
+          "url": "https://www.wbstudiotour.co.uk/",
+          "slug": "blog/harry-potter-studio-tour-tips",
+          "more": "Studio Tour tips"
+        },
+        {
+          "title": "Natural History Museum",
+          "kind": "Free museum",
+          "where": "South Kensington, London",
+          "region": "uk",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1491156855053-9cdff72c7f85",
+            "alt": "The vaulted Hintze Hall at the Natural History Museum, London",
+            "credit": "Claudio Testa",
+            "creditUrl": "https://unsplash.com/@claudiotesta"
+          },
+          "text": "Dinosaurs, a blue whale skeleton and an earthquake room. General admission is free.",
+          "tags": [
+            "All ages",
+            "Free entry",
+            "Rainy day"
+          ],
+          "saves": [
+            "General admission is free (some special exhibitions charge)",
+            "Book a free timed slot online at busy times"
+          ],
+          "scout": "The Science Museum and V&A are next door, so you can mix and match one free day.",
+          "url": "https://www.nhm.ac.uk/",
+          "slug": "blog/free-museums-london-kids",
+          "more": "Free London museums"
+        },
+        {
+          "title": "Chester Zoo",
+          "kind": "Zoo",
+          "where": "Chester, England",
+          "region": "uk",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1635678744850-eb5df4fa6d97",
+            "alt": "Two giraffes standing side by side",
+            "credit": "Daley van de Sande",
+            "creditUrl": "https://unsplash.com/@daleyvandesande"
+          },
+          "text": "One of the UK’s biggest zoos, run by a conservation charity, with a huge site to explore. Expect a full day.",
+          "tags": [
+            "All ages",
+            "Full day",
+            "Charity zoo"
+          ],
+          "saves": [
+            "Book online in advance",
+            "Membership can pay off if you live nearby and visit a few times a year"
+          ],
+          "scout": "Wear comfy shoes and bring snacks: it’s a big site with lots of walking.",
+          "url": "https://www.chesterzoo.org/",
+          "slug": "zoos-and-aquariums",
+          "more": "Zoo & aquarium guide"
+        },
+        {
+          "title": "London Zoo",
+          "kind": "Zoo",
+          "where": "Regent’s Park, London",
+          "region": "uk",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1645988766416-f895f648767b",
+            "alt": "A mother gorilla hugging her baby",
+            "credit": "Carrie Borden",
+            "creditUrl": "https://unsplash.com/@carrie_borden"
+          },
+          "text": "The world’s oldest scientific zoo, run by the conservation charity ZSL, in Regent’s Park.",
+          "tags": [
+            "All ages",
+            "Central London",
+            "Charity zoo"
+          ],
+          "saves": [
+            "Listed on the National Rail Days Out Guide in 2026 (you need valid National Rail tickets)",
+            "Combine with a free picnic in Regent’s Park"
+          ],
+          "scout": "The Days Out Guide offer needs paper or e-tickets from National Rail; Oyster and contactless don’t count.",
+          "url": "https://www.londonzoo.org/",
+          "slug": "blog/national-rail-2for1-days-out",
+          "more": "How 2FOR1 works"
+        },
+        {
+          "title": "Longleat",
+          "kind": "Safari park",
+          "where": "Wiltshire, England",
+          "region": "uk",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1759129669580-e1e9ae3c078b",
+            "alt": "A safari vehicle driving through dry bush",
+            "credit": "Ed Wingate",
+            "creditUrl": "https://unsplash.com/@ed_wingate"
+          },
+          "text": "The UK’s first drive-through safari park outside Africa, plus a stately home, gardens and adventure play.",
+          "tags": [
+            "All ages",
+            "Drive-through safari",
+            "Full day"
+          ],
+          "saves": [
+            "Book online ahead",
+            "Its Festival of Light (in winter) is a separate seasonal event: check dates"
+          ],
+          "scout": "Keep windows up where the signs say so: the monkeys love a car aerial!",
+          "url": "https://www.longleat.co.uk/",
+          "slug": "zoos-and-aquariums",
+          "more": "Zoo & aquarium guide"
+        },
+        {
+          "title": "Edinburgh Zoo",
+          "kind": "Zoo",
+          "where": "Edinburgh, Scotland",
+          "region": "uk",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1519766277046-4d701c174ab2",
+            "alt": "A visitor watching a penguin swim past the glass",
+            "credit": "Zachary Spears",
+            "creditUrl": "https://unsplash.com/@zachspears"
+          },
+          "text": "A hillside zoo run by the Royal Zoological Society of Scotland, famous for its penguins.",
+          "tags": [
+            "All ages",
+            "Hilly site",
+            "Charity zoo"
+          ],
+          "saves": [
+            "Kids Pass has listed discounts here: check the app"
+          ],
+          "scout": "It’s hilly, so a sturdy buggy or a carrier for tiny ones makes life easier.",
+          "url": "https://www.edinburghzoo.org.uk/"
+        },
+        {
+          "title": "Alnwick Castle",
+          "kind": "Castle & film location",
+          "where": "Northumberland, England",
+          "region": "uk",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1605718268542-b603f5c7a8f4",
+            "alt": "A stone castle under white clouds",
+            "credit": "Ian Murphy",
+            "creditUrl": "https://unsplash.com/@ianmurphy"
+          },
+          "text": "The castle used for Hogwarts exteriors in the first two Harry Potter films. Families can join broomstick training in the very courtyard from the movies.",
+          "tags": [
+            "Ages 4+",
+            "Film location",
+            "Broomstick training"
+          ],
+          "saves": [
+            "Check whether tickets can be upgraded to an annual pass for free on the official site",
+            "Pair with Alnwick Garden next door"
+          ],
+          "scout": "Broomstick training is pure joy for young witches and wizards. Check session times when you arrive.",
+          "url": "https://www.alnwickcastle.com/",
+          "slug": "blog/harry-potter-filming-locations-days-out",
+          "more": "Filming locations"
+        },
+        {
+          "title": "The Jacobite steam train",
+          "kind": "Heritage railway",
+          "where": "Fort William to Mallaig, Scotland",
+          "region": "uk",
+          "image": {
+            "src": "https://images.unsplash.com/photo-1505832018823-50331d70d237",
+            "alt": "A steam train crossing the Glenfinnan Viaduct in the Scottish Highlands",
+            "credit": "Jack Anstey",
+            "creditUrl": "https://unsplash.com/@jack_anstey"
+          },
+          "text": "The steam train that crosses the Glenfinnan Viaduct, famous from the Harry Potter films. It runs seasonally and sells out well ahead.",
+          "tags": [
+            "All ages",
+            "Seasonal",
+            "Book early"
+          ],
+          "saves": [
+            "You can watch the train cross the viaduct for free from the Glenfinnan viewpoints",
+            "Book as early as possible for summer dates"
+          ],
+          "scout": "Can’t get tickets? Watching it cross the viaduct from the hillside is free and just as photogenic.",
+          "url": "https://westcoastrailways.co.uk/jacobite/steam-train-trip",
+          "slug": "blog/steam-train-days-out",
+          "more": "Steam train days out"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Saving money on UK days out",
+      "html": "<p>Use the <a href=\"/blog/national-rail-2for1-days-out/\">National Rail 2FOR1 offers</a>, check whether an <a href=\"/merlin-annual-pass/\">annual pass</a> makes sense, swap <a href=\"/discount-codes/\">Tesco Clubcard vouchers</a>, and plan around <a href=\"/blog/school-holiday-days-out-planner/\">school holiday dates</a>, when prices peak.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the most popular family day out in the UK?",
+      "a": "Big favourites include the Natural History Museum and Science Museum (free), LEGOLAND Windsor, Alton Towers, Chester Zoo and the Warner Bros. Studio Tour London."
+    },
+    {
+      "q": "How can I save on UK attractions?",
+      "a": "Travel by train and use the Days Out Guide 2FOR1 offers, consider an annual pass if you’ll visit often, look for under-5s-free rules and book online ahead of time."
+    }
+  ],
+  "related": [
+    "theme-parks",
+    "zoos-and-aquariums",
+    "free-days-out",
+    "merlin-annual-pass"
+  ],
+  "keywords": [
+    "uk days out",
+    "best days out uk",
+    "family days out uk",
+    "things to do in the uk with kids",
+    "castles",
+    "castle",
+    "safari park",
+    "longleat",
+    "chester zoo",
+    "london with kids",
+    "days out in london",
+    "warwick castle",
+    "eden project"
+  ],
+  "cardText": "LEGOLAND, Longleat, free museums, castles and steam trains across the UK."
+}
