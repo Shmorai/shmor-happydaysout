@@ -1,0 +1,66 @@
+{
+  "updated": "2026-10-14",
+  "type": "post",
+  "date": "2026-09-05",
+  "eyebrow": "Teen pick · Free fun",
+  "search": false,
+  "slug": "blog/skate-parks-and-scooter-days",
+  "title": "Skate Parks and Scooter Days: Free Fun on Wheels",
+  "description": "Skate parks for kids and teens: free ramps for scooters, skateboards and BMX, park etiquette, helmets and pads, and indoor parks for wet days.",
+  "h1": "Skate parks and scooter days",
+  "intro": "Public skate parks are one of the best free days out for kids and teens on scooters, skateboards and BMX bikes. Here’s how to roll in confidently.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1496886077455-6e206da90837",
+    "alt": "A skateboarder at a skate park at sunset",
+    "credit": "Robson Hatsukami Morgan",
+    "creditUrl": "https://unsplash.com/@robsonhmorgan"
+  },
+  "keywords": [
+    "skate park",
+    "skatepark",
+    "scooter park",
+    "bmx",
+    "skateboarding",
+    "free activities for teens",
+    "indoor skate park"
+  ],
+  "cardText": "Free ramps, etiquette, safety kit and quiet times.",
+  "blocks": [
+    {
+      "type": "scout",
+      "mood": "tip",
+      "title": "Scout’s skate park etiquette",
+      "text": "<p>Watch before you drop in, take turns and don’t sit on ramps. Early mornings are calmer for beginners and younger kids.</p>",
+      "points": [
+        "Helmet every time",
+        "Pads for beginners",
+        "Indoor skate parks for rainy days (usually paid)"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Finding a skate park",
+      "html": "<p>Many councils list skate parks on their websites, and lots are free to use. Indoor skate parks charge, but they’re dry, often have beginner sessions and sometimes offer lessons.</p>"
+    },
+    {
+      "h2": "Etiquette",
+      "html": "<ul><li>Wait your turn and watch the flow of riders.</li><li>Don’t stand or sit in the landing zones.</li><li>Little ones are safer at quieter times.</li></ul>"
+    },
+    {
+      "h2": "Safety kit",
+      "html": "<p>A properly fitted helmet is the must-have, plus knee and elbow pads and wrist guards for beginners. More wheels fun in <a href=\"/go-karting-and-skating/\">karts, skates and bikes</a> and more <a href=\"/free-days-out/\">free days out</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Are skate parks free?",
+      "a": "Many outdoor public skate parks are free. Indoor skate parks usually charge for sessions."
+    }
+  ],
+  "related": [
+    "go-karting-and-skating",
+    "free-days-out",
+    "teen-days-out"
+  ]
+}

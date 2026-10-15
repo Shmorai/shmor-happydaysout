@@ -1,0 +1,75 @@
+{
+  "updated": "2026-10-14",
+  "type": "post",
+  "date": "2026-08-16",
+  "eyebrow": "Money saving · Travel",
+  "search": false,
+  "slug": "blog/days-out-by-train-with-kids",
+  "title": "Days Out by Train With Kids: Railcards and 2FOR1 Tips",
+  "description": "How to do days out by train with kids: the Family & Friends Railcard, 2FOR1 attraction offers, booking ahead, off-peak tickets and keeping kids happy on board.",
+  "h1": "Days out by train with kids",
+  "intro": "No parking, no traffic and the journey is part of the fun. Travelling by train can also unlock 2FOR1 offers at attractions.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1547756536-cde3673fa2e5",
+    "alt": "A red steam locomotive on a railway line",
+    "credit": "B K",
+    "creditUrl": "https://unsplash.com/@woolyart"
+  },
+  "keywords": [
+    "days out by train",
+    "family and friends railcard",
+    "train with kids",
+    "2for1",
+    "off peak tickets",
+    "cheap train tickets"
+  ],
+  "cardText": "Railcards, 2FOR1 offers and keeping kids happy on board.",
+  "blocks": [
+    {
+      "type": "scout",
+      "mood": "tip",
+      "title": "Scout’s train tip",
+      "text": "<p>A Family & Friends Railcard can cut adult and child fares on many journeys, and your rail tickets can unlock 2FOR1 entry at attractions.</p>",
+      "points": [
+        "Book advance tickets for long journeys",
+        "Travel off-peak where you can",
+        "Pack snacks and a card game"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Railcards",
+      "html": "<p>The <strong>Family &amp; Friends Railcard</strong> gives a third off adult fares and 60% off child fares on many journeys when at least one child travels. Check the railcard rules for restrictions.</p>"
+    },
+    {
+      "h2": "Unlock 2FOR1 offers",
+      "html": "<p>With valid National Rail tickets, the Days Out Guide offers 2FOR1 or money off at hundreds of attractions. See <a href=\"/blog/national-rail-2for1-days-out/\">how 2FOR1 works</a>.</p>"
+    },
+    {
+      "h2": "Happy travellers",
+      "html": "<ul><li>Reserve seats together on longer journeys.</li><li>Bring snacks, water, headphones and a game.</li><li>Choose attractions close to the station, like London’s <a href=\"/blog/free-museums-london-kids/\">free museums</a>.</li></ul>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How much does the Family & Friends Railcard save?",
+      "a": "It typically gives a third off adult fares and 60% off child fares on eligible journeys when travelling with at least one child. Check the current terms."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Family & Friends Railcard",
+      "url": "https://www.familyandfriends-railcard.co.uk/"
+    },
+    {
+      "title": "National Rail Days Out Guide",
+      "url": "https://www.daysoutguide.co.uk/"
+    }
+  ],
+  "related": [
+    "blog/national-rail-2for1-days-out",
+    "discount-codes",
+    "blog/days-out-on-a-budget"
+  ]
+}

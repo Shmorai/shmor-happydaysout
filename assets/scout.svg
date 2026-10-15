@@ -42,4 +42,13 @@
   <rect x="44" y="42" width="112" height="11" rx="5.5" fill="#2E8F5B"/>
   <path d="M64 40h72" stroke="#FFD23F" stroke-width="6"/>
   <circle cx="122" cy="40" r="6" fill="#FF7A1A" stroke="#FFD23F" stroke-width="2"/>
+  <!-- headphones round the neck (teen refresh) -->
+  <path d="M64 108c0 18 72 18 72 0" stroke="#6C3BFF" stroke-width="6" fill="none" stroke-linecap="round"/>
+  <rect x="56" y="102" width="14" height="20" rx="6" fill="#FF3D8B" stroke="#1F2A44" stroke-width="2.5"/>
+  <rect x="130" y="102" width="14" height="20" rx="6" fill="#FF3D8B" stroke="#1F2A44" stroke-width="2.5"/>
+  <!-- shades pushed up on the hat -->
+  <rect x="70" y="28" width="26" height="14" rx="6" fill="#1F2A44"/>
+  <rect x="104" y="28" width="26" height="14" rx="6" fill="#1F2A44"/>
+  <path d="M96 33h8" stroke="#1F2A44" stroke-width="3"/>
+  <path d="M75 32l8 0M109 32l8 0" stroke="#6C3BFF" stroke-width="2.5" stroke-linecap="round"/>
 </svg>

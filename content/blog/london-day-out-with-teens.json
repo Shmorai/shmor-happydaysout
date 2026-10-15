@@ -1,0 +1,66 @@
+{
+  "updated": "2026-10-14",
+  "type": "post",
+  "date": "2026-09-11",
+  "eyebrow": "Teen pick · London",
+  "search": false,
+  "slug": "blog/london-day-out-with-teens",
+  "title": "A London Day Out With Teens: Ideas That Aren’t Boring",
+  "description": "Plan a London day out with teenagers: free museums with a twist, markets, river trips, Platform 9¾, the Studio Tour and viewpoints, plus how to keep costs down.",
+  "h1": "A London day out with teenagers",
+  "intro": "London has plenty to impress even the hardest-to-please teenager, and lots of it is free. Here’s a day that mixes iconic sights with things they’ll actually post.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1491156855053-9cdff72c7f85",
+    "alt": "The vaulted Hintze Hall at the Natural History Museum, London",
+    "credit": "Claudio Testa",
+    "creditUrl": "https://unsplash.com/@claudiotesta"
+  },
+  "keywords": [
+    "london with teenagers",
+    "things to do in london with teens",
+    "london day out",
+    "london for teens",
+    "free things to do in london",
+    "camden market",
+    "south bank"
+  ],
+  "cardText": "Free museums, markets, river views and Harry Potter stops.",
+  "blocks": [
+    {
+      "type": "scout",
+      "mood": "tip",
+      "title": "Scout’s London route",
+      "text": "<p>Let your teen plan one stop. Then mix one free museum, one food market and one view, and finish on the South Bank.</p>",
+      "points": [
+        "Travel by train and check 2FOR1 offers",
+        "Free museums open around 10am",
+        "Contactless works on the Tube but not for 2FOR1"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Free and impressive",
+      "html": "<ul><li>The <a href=\"/blog/free-museums-london-kids/\">Science Museum and Natural History Museum</a> are free.</li><li>The South Bank riverside walk: street performers, skateboarders at the undercroft and views of Parliament.</li><li><a href=\"/harry-potter-days-out/\">Platform 9¾</a> at King’s Cross for a photo.</li></ul>"
+    },
+    {
+      "h2": "Worth paying for",
+      "html": "<ul><li>The <a href=\"/blog/harry-potter-studio-tour-tips/\">Harry Potter Studio Tour</a>: book well ahead.</li><li>The Tower of London: Crown Jewels and Yeoman Warder tours.</li><li>A West End show (look for matinee and day-seat offers at the theatre).</li></ul>"
+    },
+    {
+      "h2": "Save money",
+      "html": "<p>Use <a href=\"/blog/national-rail-2for1-days-out/\">National Rail 2FOR1 offers</a> with paper or e-tickets, picnic in a royal park, and pick one paid attraction, not three. Visiting from abroad? Check the <a href=\"https://traveldeals.shmor.ai/blog/uk-eta-guide/\">UK ETA</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is there to do in London for teenagers?",
+      "a": "Free museums, the South Bank, markets, Platform 9¾, the Tower of London, the Harry Potter Studio Tour and West End shows are all popular with teens."
+    }
+  ],
+  "related": [
+    "blog/free-museums-london-kids",
+    "teen-days-out",
+    "harry-potter-days-out"
+  ]
+}

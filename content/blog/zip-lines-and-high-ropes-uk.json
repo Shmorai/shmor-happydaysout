@@ -1,0 +1,67 @@
+{
+  "updated": "2026-10-14",
+  "type": "post",
+  "date": "2026-09-08",
+  "eyebrow": "Teen pick · Adventure",
+  "search": false,
+  "slug": "blog/zip-lines-and-high-ropes-uk",
+  "title": "Zip Lines and High Ropes in the UK: A Family Guide",
+  "description": "Zip lines and high ropes for families in the UK: treetop courses, giant zip wires in Wales and the Lake District, age, height and weight rules and what to wear.",
+  "h1": "Zip lines and high ropes in the UK",
+  "intro": "Wobbly rope bridges, Tarzan swings and wind-in-your-face zip wires. Here’s how to plan a high-flying family adventure in the UK.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1531204709756-1c7a41bf8936",
+    "alt": "Sliding along a zip line",
+    "credit": "Perry Grone",
+    "creditUrl": "https://unsplash.com/@perrygrone"
+  },
+  "keywords": [
+    "zip line uk",
+    "zip wire",
+    "high ropes",
+    "treetop adventure",
+    "go ape",
+    "zip world",
+    "adventure park uk",
+    "zip line age limit"
+  ],
+  "cardText": "Treetop courses and giant zip wires, plus the rules to check.",
+  "blocks": [
+    {
+      "type": "scout",
+      "mood": "tip",
+      "title": "Scout’s high-wire tip",
+      "text": "<p>Course rules (age, height, weight and supervision ratios) decide what your family can do together. Check them before you book, not on the day.</p>",
+      "points": [
+        "Wear trainers and sporty clothes",
+        "Tie back long hair",
+        "Book early for holidays"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Treetop courses",
+      "html": "<p>Treetop adventure courses, such as <strong>Go Ape</strong>, have rope bridges, ladders and zip wires through the forest, with junior courses for younger children. You’re clipped on throughout, and instructors brief you first.</p>"
+    },
+    {
+      "h2": "Giant zip lines",
+      "html": "<p><strong>Zip World</strong> runs big zip lines in Wales and the Lake District, alongside underground and trampoline adventures. Bigger rides usually have higher minimum ages and weight limits.</p>"
+    },
+    {
+      "h2": "Before you book",
+      "html": "<ul><li>Under-16s often need a participating adult.</li><li>Courses can close in high winds or storms.</li><li>Tell staff about medical conditions.</li></ul><p>See all <a href=\"/adventure-parks/\">zip lines and adventure parks</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is there a weight limit for zip lines?",
+      "a": "Many zip lines have minimum and maximum weight limits for safety. Check the provider’s rules for each ride."
+    }
+  ],
+  "related": [
+    "adventure-parks",
+    "teen-days-out",
+    "blog/indoor-skydiving-for-kids"
+  ]
+}

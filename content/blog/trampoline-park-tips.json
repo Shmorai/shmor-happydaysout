@@ -1,0 +1,65 @@
+{
+  "updated": "2026-10-14",
+  "type": "post",
+  "date": "2026-09-09",
+  "eyebrow": "Indoor fun · Safety",
+  "search": false,
+  "slug": "blog/trampoline-park-tips",
+  "title": "Trampoline Park Tips: Safety, Socks and Best Sessions",
+  "description": "Trampoline park tips for families: grip socks, waivers, toddler sessions, safety rules, avoiding injuries and how to find quieter, cheaper times to bounce.",
+  "h1": "Trampoline park tips for families",
+  "intro": "Trampoline parks are brilliant for burning off energy, especially on wet days. A few simple rules keep the fun high and the bumps low.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1751235640841-d8d1035a80f0",
+    "alt": "An indoor trampoline park",
+    "credit": "Lawrence Crayton",
+    "creditUrl": "https://unsplash.com/@lawrencecrayton"
+  },
+  "keywords": [
+    "trampoline park",
+    "trampoline park tips",
+    "trampoline park safety",
+    "toddler trampoline session",
+    "grip socks",
+    "rainy day activities"
+  ],
+  "cardText": "Grip socks, waivers, toddler sessions and safety rules.",
+  "blocks": [
+    {
+      "type": "scout",
+      "mood": "tip",
+      "title": "Scout’s bounce rule",
+      "text": "<p>One person per trampoline, no double bouncing, and save flips for supervised areas. Most injuries happen when big and small jumpers mix.</p>",
+      "points": [
+        "Book toddler-only sessions for under-5s",
+        "Bring or buy grip socks",
+        "Sign the waiver online before you arrive"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Before you go",
+      "html": "<ul><li>Most parks require <strong>grip socks</strong>: reusable ones save buying again.</li><li>A parent or guardian usually signs a <strong>waiver</strong> online.</li><li>Look for <strong>toddler</strong>, <strong>SEN-friendly</strong> and <strong>teen</strong> sessions.</li></ul>"
+    },
+    {
+      "h2": "Safety rules that matter",
+      "html": "<ul><li>One jumper per trampoline.</li><li>Land on your feet. No flips unless it’s a supervised area.</li><li>Keep little ones away from busy sessions with older jumpers.</li><li>Empty pockets and remove jewellery.</li></ul>"
+    },
+    {
+      "h2": "Saving money",
+      "html": "<p>Weekday and early sessions are often cheaper, and some parks sell multi-visit passes. More ideas in <a href=\"/indoor-activities/\">indoor activities</a> and <a href=\"/blog/rainy-day-days-out/\">rainy day days out</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do you need special socks at trampoline parks?",
+      "a": "Most trampoline parks require grip socks for safety. Many sell them at the desk, and you can reuse them on later visits."
+    }
+  ],
+  "related": [
+    "indoor-activities",
+    "blog/rainy-day-days-out",
+    "toddler-days-out"
+  ]
+}

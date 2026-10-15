@@ -6,7 +6,7 @@
   "eyebrow": "Days out · Theme parks · Experiences",
   "h1": "Big days out. Little prices.",
   "h1Html": "Big days out.<br><span class=\"hl\">Little prices.</span>",
-  "intro": "Family days out near you, across the country and around the world: theme park offers, kids-go-free deals, free days out and experience days, with honest tips from Scout the Fox.",
+  "intro": "Theme parks, escape rooms, free museums, zip lines and Disney: family days out for toddlers, teens and everyone in between, with honest tips from Scout the Fox.",
   "chips": [
     {
       "label": "Theme parks",
@@ -76,6 +76,7 @@
     {
       "type": "tiles",
       "title": "Pick your kind of adventure",
+      "intro": "Sixteen ways to fill a weekend. Or use the <a href=\"/adventure-finder/\">adventure finder</a>.",
       "items": [
         {
           "slug": "theme-parks",
@@ -84,36 +85,129 @@
           "text": "Coasters, castles and LEGO bricks"
         },
         {
+          "slug": "escape-rooms",
+          "badge": "Teen fave",
+          "title": "Escape rooms",
+          "text": "60 minutes to break out"
+        },
+        {
+          "slug": "adventure-parks",
+          "title": "Zip lines & high ropes",
+          "text": "Treetops and big drops"
+        },
+        {
+          "slug": "water-parks",
+          "title": "Water parks",
+          "text": "Flumes, waves and lazy rivers"
+        },
+        {
           "slug": "harry-potter-days-out",
-          "title": "Harry Potter days out",
-          "text": "Studio Tour, castles and steam trains"
+          "title": "Harry Potter",
+          "text": "Studio Tour, castles, steam trains"
         },
         {
           "slug": "disney-deals",
           "title": "Disney",
-          "text": "Paris, Florida and California"
+          "text": "Paris, Florida, California"
+        },
+        {
+          "slug": "go-karting-and-skating",
+          "title": "Karts & skate parks",
+          "text": "Need for speed"
+        },
+        {
+          "slug": "surf-and-paddle",
+          "title": "Surf & paddle",
+          "text": "Catch your first wave"
+        },
+        {
+          "slug": "snow-and-ice",
+          "title": "Snow & ice",
+          "text": "Ski, sledge and skate"
+        },
+        {
+          "slug": "indoor-activities",
+          "title": "Indoor fun",
+          "text": "Trampolines, bowling, laser tag"
         },
         {
           "slug": "zoos-and-aquariums",
           "title": "Zoos & aquariums",
-          "text": "Penguins, giraffes and sharks"
+          "text": "Penguins to giraffes"
+        },
+        {
+          "slug": "museums-and-science",
+          "title": "Museums & science",
+          "text": "Dinosaurs and rockets"
+        },
+        {
+          "slug": "castles-and-history",
+          "title": "Castles",
+          "text": "Knights and dungeons"
+        },
+        {
+          "slug": "beaches-and-seaside",
+          "title": "Beaches",
+          "text": "Rock pools and fossils"
+        },
+        {
+          "slug": "nature-and-national-parks",
+          "title": "Nature",
+          "text": "Trails, stars and waterfalls"
         },
         {
           "slug": "free-days-out",
+          "badge": "Free",
           "title": "Free days out",
-          "text": "Museums, parks and beaches"
-        },
-        {
-          "slug": "experience-days",
-          "title": "Experience days",
-          "text": "Balloon flights to animal encounters"
-        },
-        {
-          "slug": "international-days-out",
-          "title": "Around the world",
-          "text": "Efteling, Orlando, Tokyo and more"
+          "text": "Zero-cost fun"
         }
       ]
+    },
+    {
+      "type": "finder",
+      "class": "night",
+      "title": "⚡ Teen zone",
+      "intro": "Days out teenagers actually rate. <a href=\"/teen-days-out/\">See them all →</a>",
+      "ids": [
+        "thorpe-park",
+        "escape-room",
+        "go-karting",
+        "go-ape",
+        "the-wave",
+        "ifly",
+        "snowdome",
+        "universal-orlando"
+      ],
+      "filters": false,
+      "note": false
+    },
+    {
+      "type": "finder",
+      "title": "💸 Free this weekend",
+      "intro": "Brilliant days out that cost nothing to get in. <a href=\"/adventure-finder/?cost=free\">Find more free ideas →</a>",
+      "ids": [
+        "natural-history-museum",
+        "skate-park",
+        "rock-pooling",
+        "geocaching",
+        "country-park",
+        "jurassic-coast"
+      ],
+      "filters": false,
+      "note": false
+    },
+    {
+      "type": "finder",
+      "title": "🧸 Little explorers",
+      "intro": "Gentle, giggly days out for under-5s. <a href=\"/toddler-days-out/\">More toddler ideas →</a>",
+      "ids": [
+        "farm-park",
+        "paultons",
+        "sea-life",
+        "young-va"
+      ],
+      "filters": false,
+      "note": false
     },
     {
       "type": "codes",
@@ -286,15 +380,17 @@
     }
   ],
   "related": [
+    "adventure-finder",
+    "teen-days-out",
+    "toddler-days-out",
     "local-days-out",
     "uk-days-out",
-    "international-days-out",
-    "merlin-annual-pass",
-    "zoos-and-aquariums",
     "meet-scout"
   ],
   "relatedTitle": "More ways to explore",
-  "latestPosts": 3,
+  "latestPosts": 6,
   "latestTitle": "Fresh from Scout’s blog",
-  "ctaTitle": "Where shall we go next?"
+  "ctaTitle": "Where shall we go next?",
+  "heroHtml": "<form class=\"quick-find\" action=\"/adventure-finder/\" method=\"get\" role=\"search\" aria-label=\"Quick adventure finder\"><label>Who’s going?<select name=\"age\"><option value=\"\">Everyone</option><option value=\"under5\">Under 5s</option><option value=\"kids\">Ages 5–11</option><option value=\"teens\">Teens</option></select></label><label>Where?<select name=\"where\"><option value=\"\">Anywhere</option><option value=\"near\">Near me</option><option value=\"uk\">UK</option><option value=\"us\">USA</option><option value=\"europe\">Europe</option></select></label><label>Budget?<select name=\"cost\"><option value=\"\">Any budget</option><option value=\"free\">Free</option><option value=\"budget\">£ Budget</option><option value=\"mid\">££ Mid-range</option><option value=\"splurge\">£££ Splurge</option></select></label><button type=\"submit\">Find adventures →</button></form>",
+  "search": false
 }

@@ -1,0 +1,79 @@
+{
+  "updated": "2026-10-14",
+  "slug": "go-karting-and-skating",
+  "nav": "Karts & skates",
+  "title": "Go-Karting, Skate Parks and Family Bike Rides",
+  "description": "Days out on wheels: junior go-karting, free skate parks for scooters and skateboards, roller rinks and traffic-free family bike rides, with safety tips.",
+  "eyebrow": "Karts, skates & bikes",
+  "h1": "Go-karting, skating and bike rides",
+  "intro": "Fast karts, fresh tricks and the open trail. Days out on wheels are a huge hit with kids and teens, and some cost nothing at all.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1505570554449-69ce7d4fa36b",
+    "alt": "Two go-kart drivers on a race track",
+    "credit": "David Armstrong",
+    "creditUrl": "https://unsplash.com/@armstrong99"
+  },
+  "blocks": [
+    {
+      "type": "scout",
+      "mood": "verdict",
+      "title": "Scout’s wheels verdict",
+      "text": "<p>Karting tracks set their own age and height rules, so check before you book. Skate parks are free, but helmets are non-negotiable.</p>",
+      "facts": [
+        [
+          "Free",
+          "Skate parks & bike trails"
+        ],
+        [
+          "Thrill",
+          "Junior karting"
+        ],
+        [
+          "Safety",
+          "Helmets always"
+        ]
+      ],
+      "position": "top"
+    },
+    {
+      "type": "finder",
+      "title": "Adventures on wheels",
+      "preset": {
+        "type": "wheels"
+      }
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Safety first",
+      "html": "<p>Wear a helmet for skating, scooting and cycling, and pads for beginners. At karting tracks, follow the briefing and the marshals. Read <a href=\"/blog/go-karting-for-kids/\">go-karting for kids</a>, <a href=\"/blog/skate-parks-and-scooter-days/\">skate parks and scooter days</a> and <a href=\"/blog/family-cycling-days-out/\">family cycling days out</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What age can children go karting?",
+      "a": "It depends on the track. Many offer junior sessions with smaller karts, with minimum ages and heights. Check the track’s rules before booking."
+    }
+  ],
+  "related": [
+    "blog/go-karting-for-kids",
+    "blog/skate-parks-and-scooter-days",
+    "blog/family-cycling-days-out",
+    "teen-days-out"
+  ],
+  "keywords": [
+    "go karting",
+    "go-karting",
+    "karting",
+    "skate park",
+    "skatepark",
+    "scooter",
+    "bmx",
+    "roller skating",
+    "roller disco",
+    "cycling",
+    "bike ride",
+    "bike trails"
+  ],
+  "cardText": "Junior karting, skate parks, roller rinks and bike trails."
+}

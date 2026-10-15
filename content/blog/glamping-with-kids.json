@@ -1,0 +1,67 @@
+{
+  "updated": "2026-10-14",
+  "type": "post",
+  "date": "2026-08-25",
+  "eyebrow": "Outdoors · Short breaks",
+  "search": false,
+  "slug": "blog/glamping-with-kids",
+  "title": "Glamping With Kids: Camping Fun Without the Hassle",
+  "description": "Glamping with kids explained: yurts, pods, safari tents and treehouses, what’s usually included, what to check before booking and great days out from your base.",
+  "h1": "Glamping with kids",
+  "intro": "All the fun of camping (fires, stars, fresh air) with real beds and a roof that doesn’t leak. Glamping is a great first step for families new to the outdoors.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1561524891-8e08ab8569f3",
+    "alt": "A family walking along a wooden boardwalk through a field at golden hour",
+    "credit": "Jessica Rockowitz",
+    "creditUrl": "https://unsplash.com/@jessicarockowitz"
+  },
+  "keywords": [
+    "glamping",
+    "glamping with kids",
+    "family glamping",
+    "yurt",
+    "shepherds hut",
+    "safari tent",
+    "treehouse stay",
+    "short breaks"
+  ],
+  "cardText": "Yurts, pods and safari tents, and what to check before booking.",
+  "blocks": [
+    {
+      "type": "scout",
+      "mood": "tip",
+      "title": "Scout’s glamping check",
+      "text": "<p>Check exactly what’s included: bedding, towels, heating, electricity, private bathroom or shared block. It varies hugely.</p>",
+      "points": [
+        "Look for sites with play areas or farm animals",
+        "Fire pits make the evening",
+        "Book school holidays early"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Types of glamping",
+      "html": "<ul><li><strong>Yurts and bell tents</strong> with real beds.</li><li><strong>Pods and shepherd’s huts:</strong> cosy and weatherproof.</li><li><strong>Safari tents:</strong> roomy, often with kitchens and bathrooms.</li><li><strong>Treehouses:</strong> a teen favourite.</li></ul>"
+    },
+    {
+      "h2": "Before you book",
+      "html": "<p>Check the sleeping arrangements for your family size, whether there’s heating, and how far the car park and toilets are. Midweek and term-time stays are usually cheaper.</p>"
+    },
+    {
+      "h2": "Days out from your base",
+      "html": "<p>Use the <a href=\"/adventure-finder/\">adventure finder</a> with “Near you” to plan days out, or try a <a href=\"/blog/first-family-camping-trip/\">real camping trip</a> next time.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is glamping good for families?",
+      "a": "Yes. It gives kids the outdoor adventure of camping with more comfort, which suits young children and first-timers."
+    }
+  ],
+  "related": [
+    "blog/first-family-camping-trip",
+    "nature-and-national-parks",
+    "local-days-out"
+  ]
+}

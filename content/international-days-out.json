@@ -342,6 +342,14 @@
           "url": "https://www.wbstudiotour.jp/en/"
         }
       ]
+    },
+    {
+      "type": "finder",
+      "title": "Filter adventures abroad",
+      "preset": {
+        "region": "europe"
+      },
+      "filters": true
     }
   ],
   "sections": [

@@ -1,0 +1,74 @@
+{
+  "updated": "2026-10-14",
+  "slug": "toddler-days-out",
+  "nav": "Toddlers",
+  "title": "Toddler Days Out: Gentle, Fun and Under-5s Free Ideas",
+  "description": "The best days out for toddlers and under-5s: farm parks, soft play, aquariums, Peppa Pig World, gentle rides and free museums, with nap-friendly planning tips.",
+  "eyebrow": "Toddler days out",
+  "h1": "Days out for toddlers and under-5s",
+  "intro": "Animals, water, buttons to press and space to run. These are Scout’s favourite days out for little ones, many with under-3s or under-5s free.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1554995783-571a2b4d923a",
+    "alt": "A toddler wearing wellies",
+    "credit": "Xavi Cabrera",
+    "creditUrl": "https://unsplash.com/@xavi_cabrera"
+  },
+  "blocks": [
+    {
+      "type": "scout",
+      "mood": "verdict",
+      "title": "Scout’s toddler verdict",
+      "text": "<p>Go short, go early and plan around the nap. Many attractions let under-3s in free, so these are golden years for cheap days out.</p>",
+      "facts": [
+        [
+          "Best for under-3s",
+          "Farm parks, aquariums, soft play"
+        ],
+        [
+          "Best saving",
+          "Under-3s / under-5s free"
+        ],
+        [
+          "Must pack",
+          "Snacks + spare clothes"
+        ]
+      ],
+      "position": "top"
+    },
+    {
+      "type": "finder",
+      "title": "Adventures for under-5s",
+      "preset": {
+        "age": "under5"
+      }
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Toddler tips",
+      "html": "<p>See <a href=\"/blog/best-days-out-with-toddlers/\">the best days out with toddlers</a> and <a href=\"/blog/kids-go-free-offers/\">where kids go free</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do toddlers need tickets for attractions?",
+      "a": "Many attractions let under-2s or under-3s in free, but some still ask you to reserve a free ticket. Check the attraction’s website."
+    }
+  ],
+  "related": [
+    "blog/best-days-out-with-toddlers",
+    "farm-days-out",
+    "zoos-and-aquariums",
+    "free-days-out"
+  ],
+  "keywords": [
+    "toddler days out",
+    "days out with toddlers",
+    "under 5s",
+    "baby days out",
+    "soft play",
+    "toddler activities",
+    "things to do with a toddler"
+  ],
+  "cardText": "Farm parks, soft play, aquariums and gentle rides."
+}

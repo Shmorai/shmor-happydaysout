@@ -1,0 +1,77 @@
+{
+  "updated": "2026-10-14",
+  "slug": "seasonal-events",
+  "nav": "Seasonal",
+  "title": "Seasonal Family Events: Halloween, Christmas and More",
+  "description": "Seasonal family days out all year: Easter trails, summer festivals, Heritage Open Days, pumpkin picking, Halloween, Christmas light trails and Santa.",
+  "eyebrow": "Seasonal events",
+  "h1": "Seasonal days out all year round",
+  "intro": "Every season has its own magic: spring lambs, summer festivals, autumn pumpkins and Christmas lights. Here’s what to look forward to, and when to book.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1607109946143-ee98d991846e",
+    "alt": "Twinkling red and white festive lights",
+    "credit": "Cole Ciarlello",
+    "creditUrl": "https://unsplash.com/@cole_ciarlello"
+  },
+  "blocks": [
+    {
+      "type": "scout",
+      "mood": "verdict",
+      "title": "Scout’s seasonal verdict",
+      "text": "<p>The best seasonal slots sell out early. Book Christmas experiences in October and Halloween events in September.</p>",
+      "facts": [
+        [
+          "Spring",
+          "Lambs & Easter trails"
+        ],
+        [
+          "Autumn",
+          "Pumpkins & Halloween"
+        ],
+        [
+          "Winter",
+          "Lights, Santa & skating"
+        ]
+      ],
+      "position": "top"
+    },
+    {
+      "type": "finder",
+      "title": "Seasonal adventures",
+      "preset": {
+        "type": "seasonal"
+      }
+    }
+  ],
+  "sections": [
+    {
+      "h2": "The year in days out",
+      "html": "<ul><li><strong>Spring:</strong> lambing at farm parks, Easter egg trails, bluebell walks.</li><li><strong>Summer:</strong> festivals, beaches, open-air theatre, <a href=\"/blog/summer-holiday-bucket-list/\">the summer bucket list</a>.</li><li><strong>Autumn:</strong> <a href=\"/blog/halloween-family-days-out/\">pumpkin picking and Halloween</a>, Heritage Open Days.</li><li><strong>Winter:</strong> <a href=\"/blog/christmas-days-out-family/\">Santa, light trails and panto</a>, <a href=\"/blog/ice-skating-with-kids/\">ice skating</a>.</li></ul>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "When should I book Christmas days out?",
+      "a": "As early as you can. Popular Santa experiences and weekend light-trail tickets often sell out in October and November."
+    }
+  ],
+  "related": [
+    "blog/christmas-days-out-family",
+    "blog/halloween-family-days-out",
+    "blog/summer-holiday-bucket-list",
+    "snow-and-ice"
+  ],
+  "keywords": [
+    "seasonal events",
+    "christmas events",
+    "halloween events",
+    "easter",
+    "easter egg hunt",
+    "summer festivals",
+    "light trail",
+    "santa",
+    "winter wonderland",
+    "lambing"
+  ],
+  "cardText": "Easter, summer, Halloween and Christmas fun."
+}

@@ -1,0 +1,67 @@
+{
+  "updated": "2026-10-14",
+  "type": "post",
+  "date": "2026-08-24",
+  "eyebrow": "Outdoors · Night sky",
+  "search": false,
+  "slug": "blog/stargazing-dark-sky-places",
+  "title": "Stargazing With Kids: Dark Sky Places and Tips",
+  "description": "Stargazing with kids: where to find dark skies, when to go, what you can see without a telescope, free apps, and dark sky parks in the UK, Europe and the US.",
+  "h1": "Stargazing with kids: dark sky places and tips",
+  "intro": "On a clear, dark night you can see thousands of stars, planets and even the Milky Way. Stargazing is free, magical and great for teens who love space.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1528041119984-da3a9f8d04d1",
+    "alt": "A fairy-tale castle lit up at night",
+    "credit": "PAN XIAOZHEN",
+    "creditUrl": "https://unsplash.com/@zhenhappy"
+  },
+  "keywords": [
+    "stargazing",
+    "dark sky park",
+    "dark sky reserve",
+    "stargazing with kids",
+    "milky way",
+    "meteor shower",
+    "night sky",
+    "astronomy"
+  ],
+  "cardText": "Dark sky places, timing and what to look for.",
+  "blocks": [
+    {
+      "type": "scout",
+      "mood": "tip",
+      "title": "Scout’s stargazing tip",
+      "text": "<p>Let your eyes adjust for about 20 minutes, and use a red torch or your phone’s night mode. White light resets your night vision!</p>",
+      "points": [
+        "Go on a moonless night",
+        "Wrap up warm",
+        "Meteor showers are a great first target"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Where to go",
+      "html": "<p>Dark sky parks and reserves have protected, low-light skies. In the UK, places such as Galloway Forest Park, Northumberland and Exmoor are known for their dark skies. The US has many dark sky parks, including several national parks. Even a country park away from streetlights beats a town garden.</p>"
+    },
+    {
+      "h2": "What you can see",
+      "html": "<ul><li>Constellations like the Plough and Orion.</li><li>Bright planets, which don’t twinkle like stars.</li><li>The Milky Way on very dark nights.</li><li>Meteor showers at certain times of year.</li></ul>"
+    },
+    {
+      "h2": "Go further",
+      "html": "<p>Visit a planetarium or space centre: see <a href=\"/blog/space-days-out/\">space days out</a> and <a href=\"/museums-and-science/\">museums and science</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is a dark sky park?",
+      "a": "A place recognised for its exceptionally dark night skies and efforts to limit light pollution, making it ideal for stargazing."
+    }
+  ],
+  "related": [
+    "blog/space-days-out",
+    "nature-and-national-parks",
+    "free-days-out"
+  ]
+}

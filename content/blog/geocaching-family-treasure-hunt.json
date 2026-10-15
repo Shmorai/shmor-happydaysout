@@ -1,0 +1,71 @@
+{
+  "updated": "2026-10-14",
+  "type": "post",
+  "date": "2026-08-31",
+  "eyebrow": "Free fun · Outdoors",
+  "search": false,
+  "slug": "blog/geocaching-family-treasure-hunt",
+  "title": "Geocaching for Families: A Free Real-Life Treasure Hunt",
+  "description": "Geocaching explained for families: how the free app works, what you find in a cache, the swap rules, and tips for little treasure hunters and teens.",
+  "h1": "Geocaching: a free real-life treasure hunt",
+  "intro": "There are hidden containers all around you, in parks, woods and even towns, waiting to be found. Geocaching turns any walk into a treasure hunt.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1620420522286-994c1e94d863",
+    "alt": "A boy and girl walking across a green field",
+    "credit": "Alvin Mahmudov",
+    "creditUrl": "https://unsplash.com/@alvinmahmudov"
+  },
+  "keywords": [
+    "geocaching",
+    "geocaching for kids",
+    "treasure hunt",
+    "free activities",
+    "outdoor activities for kids",
+    "family walks"
+  ],
+  "cardText": "How geocaching works and tips for little hunters and teens.",
+  "blocks": [
+    {
+      "type": "scout",
+      "mood": "tip",
+      "title": "Scout’s geocaching tip",
+      "text": "<p>Start with “easy” caches near paths. If you trade a trinket, leave something of equal or greater value, and always sign the log.</p>",
+      "points": [
+        "Free basic app account",
+        "Be discreet so non-geocachers don’t find the cache",
+        "Put it back exactly where you found it"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "How it works",
+      "html": "<p>Geocachers hide containers (“caches”) and post their GPS locations online. You use the official app or website to navigate to them, find the cache, sign the logbook and log your find. A free basic membership gives access to lots of caches.</p>"
+    },
+    {
+      "h2": "What’s inside",
+      "html": "<p>Usually a logbook and sometimes small trinkets to swap. Some caches hold “trackables” that travel from cache to cache around the world.</p>"
+    },
+    {
+      "h2": "Why teens like it too",
+      "html": "<p>Harder puzzle caches and multi-stage hunts are proper brain-teasers. It’s a gateway to <a href=\"/escape-rooms/\">escape rooms</a> and longer <a href=\"/nature-and-national-parks/\">nature adventures</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is geocaching free?",
+      "a": "Yes. A free basic account with the official geocaching app gives access to many caches. A paid membership unlocks more."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Geocaching (official)",
+      "url": "https://www.geocaching.com/"
+    }
+  ],
+  "related": [
+    "escape-rooms",
+    "nature-and-national-parks",
+    "free-days-out"
+  ]
+}

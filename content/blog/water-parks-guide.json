@@ -1,0 +1,68 @@
+{
+  "updated": "2026-10-14",
+  "type": "post",
+  "date": "2026-09-02",
+  "eyebrow": "Water parks · Guide",
+  "search": false,
+  "slug": "blog/water-parks-guide",
+  "title": "Water Parks Guide: Indoor and Outdoor Splash Days",
+  "description": "A family guide to water parks: indoor water parks for rainy days, outdoor parks in Tenerife and Orlando, height limits, what to pack and how to save on tickets.",
+  "h1": "The family guide to water parks",
+  "intro": "Water parks are a guaranteed hit with kids and teens. Here’s how to choose one, what to pack and how to keep the cost down.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1642717841683-c0323214617c",
+    "alt": "Water slides at a water park",
+    "credit": "Konrad Burdyn",
+    "creditUrl": "https://unsplash.com/@kburdyn"
+  },
+  "keywords": [
+    "water parks",
+    "water park guide",
+    "indoor water park",
+    "water slides",
+    "siam park",
+    "sandcastle waterpark",
+    "rulantica",
+    "volcano bay",
+    "what to take to a water park"
+  ],
+  "cardText": "Indoor vs outdoor parks, height limits, packing and saving.",
+  "blocks": [
+    {
+      "type": "scout",
+      "mood": "tip",
+      "title": "Scout’s splash tip",
+      "text": "<p>Pack a padlock, flip-flops and a waterproof phone pouch, and check slide height limits before you go so nobody’s disappointed.</p>",
+      "points": [
+        "Arrive early for sunbeds",
+        "Reapply suncream after every few slides",
+        "Non-swimmers need close supervision"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Indoor water parks",
+      "html": "<p>Warm and rain-proof, indoor water parks like Sandcastle in Blackpool, Rulantica in Germany and the pools at Center Parcs work in any season.</p>"
+    },
+    {
+      "h2": "Outdoor water parks",
+      "html": "<p>Sunshine favourites include Siam Park in Tenerife and Volcano Bay and Typhoon Lagoon in Orlando. Plan around the heat and reapply suncream often.</p>"
+    },
+    {
+      "h2": "Saving money",
+      "html": "<p>Book online, check combined tickets with nearby theme parks, and remember your local leisure pool may have flumes and inflatable sessions for much less. Browse <a href=\"/water-parks/\">water parks</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What should I take to a water park?",
+      "a": "Swimwear, towels, flip-flops, suncream, a padlock for lockers, a waterproof phone pouch, water bottles and snacks if allowed."
+    }
+  ],
+  "related": [
+    "water-parks",
+    "blog/rainy-day-days-out",
+    "theme-parks"
+  ]
+}

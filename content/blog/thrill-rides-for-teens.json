@@ -1,0 +1,76 @@
+{
+  "updated": "2026-10-14",
+  "type": "post",
+  "date": "2026-09-13",
+  "eyebrow": "Teen pick · Theme parks",
+  "search": false,
+  "slug": "blog/thrill-rides-for-teens",
+  "title": "Thrill Rides for Teens: The Best Coaster Parks to Visit",
+  "description": "The best theme parks for thrill-seeking teenagers in the UK, Europe and the US, plus height rules, queue hacks and keeping the whole family happy.",
+  "h1": "Thrill rides for teens: the best coaster parks",
+  "intro": "Got a coaster-obsessed teenager? These are the parks with the biggest drops, loops and launches, plus tips to keep younger siblings and nervous parents happy too.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1713426225330-014fbfd04aa0",
+    "alt": "Riders with arms in the air on a roller coaster",
+    "credit": "Hannes Knutsson",
+    "creditUrl": "https://unsplash.com/@hannesknutsson"
+  },
+  "keywords": [
+    "thrill rides",
+    "best roller coasters",
+    "coaster parks",
+    "theme parks for teenagers",
+    "thrill parks uk",
+    "thorpe park",
+    "alton towers",
+    "phantasialand",
+    "cedar point"
+  ],
+  "cardText": "Big drops, launches and loops, plus height rules and queue hacks.",
+  "blocks": [
+    {
+      "type": "scout",
+      "mood": "tip",
+      "title": "Scout’s thrill tip",
+      "text": "<p>Teens can often ride in their own group while parents do gentler rides with siblings. Agree a meeting point and time before you split up.</p>",
+      "points": [
+        "Check height limits on the park website",
+        "Use single rider queues",
+        "Ride the biggest coaster first thing"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "UK thrill parks",
+      "html": "<ul><li><strong>Thorpe Park</strong> (Surrey): built around big thrill rides.</li><li><strong>Alton Towers</strong> (Staffordshire): famous coasters plus areas for little ones.</li><li><strong>Blackpool Pleasure Beach</strong> (Lancashire): historic wooden coasters and big modern rides.</li></ul><p>See all <a href=\"/theme-parks/\">theme parks</a> and the <a href=\"/merlin-annual-pass/\">Merlin pass</a>.</p>"
+    },
+    {
+      "h2": "Europe and the US",
+      "html": "<ul><li><strong>Phantasialand</strong> (Germany) and <strong>Europa-Park</strong> (Germany) for richly themed coasters.</li><li><strong>PortAventura</strong> (Spain), including Ferrari Land.</li><li><strong>Cedar Point</strong> (Ohio), a legendary coaster park, and <strong>Universal Orlando</strong> for themed thrills.</li></ul><p>Read <a href=\"/blog/europe-theme-parks-family/\">Europe’s best theme parks</a>.</p>"
+    },
+    {
+      "h2": "Height rules and safety",
+      "html": "<p>Every ride has a minimum height (and some a maximum). They’re strict, so measure before you go and check the park’s ride guide. People with certain medical conditions are often advised not to ride intense coasters: read the signs at each ride.</p>"
+    },
+    {
+      "h2": "Queue hacks",
+      "html": "<p>Arrive before opening, use single rider lines and save the big ride for the last hour too. More in <a href=\"/blog/theme-park-queue-tips/\">theme park queue tips</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the best UK theme park for teenagers?",
+      "a": "Thorpe Park and Alton Towers are the UK’s best-known thrill parks, with Blackpool Pleasure Beach another favourite."
+    },
+    {
+      "q": "Can teenagers go round a theme park alone?",
+      "a": "Rules vary. Many parks require under-16s or under-14s to be accompanied. Check the park’s age policy."
+    }
+  ],
+  "related": [
+    "teen-days-out",
+    "theme-parks",
+    "blog/theme-park-queue-tips"
+  ]
+}

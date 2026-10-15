@@ -1,0 +1,83 @@
+{
+  "updated": "2026-10-14",
+  "slug": "beaches-and-seaside",
+  "nav": "Beaches",
+  "title": "Beach and Seaside Days Out: Rock Pools, Fossils, Piers",
+  "description": "Family seaside days out: rock pooling, fossil hunting on the Jurassic Coast, classic piers and arcades, and staying safe with lifeguards and beach flags.",
+  "eyebrow": "Beaches & seaside",
+  "h1": "Beach and seaside days out",
+  "intro": "Sandcastles, rock pools, fish and chips and a go on the 2p machines. The seaside is the original family day out, and much of it is free.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1695425812104-8a9963d58887",
+    "alt": "A family walking on the beach holding hands",
+    "credit": "Jennifer Kalenberg",
+    "creditUrl": "https://unsplash.com/@jkalen71"
+  },
+  "blocks": [
+    {
+      "type": "scout",
+      "mood": "verdict",
+      "title": "Scout’s seaside verdict",
+      "text": "<p>Choose a lifeguarded beach, swim between the red and yellow flags, and check the tide times before rock pooling or fossil hunting.</p>",
+      "facts": [
+        [
+          "Free fun",
+          "Rock pools & sandcastles"
+        ],
+        [
+          "Safety",
+          "Red and yellow flags"
+        ],
+        [
+          "Check",
+          "Tide times"
+        ]
+      ],
+      "position": "top"
+    },
+    {
+      "type": "finder",
+      "title": "Seaside adventures",
+      "preset": {
+        "type": "beach"
+      }
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Beach safety",
+      "html": "<p>In the UK, lifeguarded beaches use <strong>red and yellow flags</strong> to mark the safest area to swim. Never swim at a red flag. If someone is in trouble in the water, call 999 and ask for the Coastguard. Read <a href=\"/blog/beach-safety-for-families/\">beach safety for families</a> and the <a href=\"/blog/rock-pooling-guide/\">rock pooling guide</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What do the red and yellow flags mean on a beach?",
+      "a": "They mark an area patrolled by lifeguards and the safest place to swim and bodyboard. Always swim between them."
+    }
+  ],
+  "sources": [
+    {
+      "title": "RNLI beach safety",
+      "url": "https://rnli.org/safety"
+    }
+  ],
+  "related": [
+    "blog/rock-pooling-guide",
+    "blog/beach-safety-for-families",
+    "surf-and-paddle",
+    "free-days-out"
+  ],
+  "keywords": [
+    "beach",
+    "beaches",
+    "seaside",
+    "seaside days out",
+    "rock pooling",
+    "fossil hunting",
+    "jurassic coast",
+    "pier",
+    "beach safety",
+    "lifeguard"
+  ],
+  "cardText": "Rock pools, fossils, piers and beach safety."
+}

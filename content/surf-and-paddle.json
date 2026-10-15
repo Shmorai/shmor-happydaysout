@@ -1,0 +1,83 @@
+{
+  "updated": "2026-10-14",
+  "slug": "surf-and-paddle",
+  "nav": "Surf & paddle",
+  "title": "Surfing, Kayaking and Paddleboarding for Families",
+  "description": "Family water adventures: beginner surf lessons in Cornwall and Devon, inland surf lakes, kayaking and paddleboarding tasters, and water safety.",
+  "eyebrow": "Surf & paddle",
+  "h1": "Surfing, kayaking and paddleboarding",
+  "intro": "Catching your first wave is a feeling nobody forgets. Here’s how families can try surfing, kayaking and paddleboarding safely.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1722573021678-78922ef03faa",
+    "alt": "A group of people learning to surf",
+    "credit": "Buddy AN",
+    "creditUrl": "https://unsplash.com/@stbuddyp"
+  },
+  "blocks": [
+    {
+      "type": "scout",
+      "mood": "verdict",
+      "title": "Scout’s water verdict",
+      "text": "<p>Start with a lesson from a qualified instructor. They’ll provide the kit and choose safe conditions, and you’ll be standing up much sooner.</p>",
+      "facts": [
+        [
+          "Best for",
+          "Confident swimmers 8+"
+        ],
+        [
+          "Kit",
+          "Usually provided"
+        ],
+        [
+          "Safety",
+          "Buoyancy aids & lifeguards"
+        ]
+      ],
+      "position": "top"
+    },
+    {
+      "type": "finder",
+      "title": "Water adventures",
+      "preset": {
+        "type": "water"
+      }
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Staying safe",
+      "html": "<ul><li>Choose lifeguarded beaches and swim or surf between the black and white flags (surfboard zone) where marked.</li><li>Always wear a buoyancy aid for kayaking and paddleboarding.</li><li>Check the weather and wind. Offshore winds can blow paddleboards out to sea.</li></ul><p>Read <a href=\"/blog/surfing-lessons-for-kids/\">surfing lessons for kids</a> and <a href=\"/blog/beach-safety-for-families/\">beach safety</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What age can kids learn to surf?",
+      "a": "Many surf schools take children from around 8, sometimes younger with a parent. They should be confident swimmers. Check the school’s rules."
+    }
+  ],
+  "sources": [
+    {
+      "title": "RNLI beach safety",
+      "url": "https://rnli.org/safety"
+    }
+  ],
+  "related": [
+    "blog/surfing-lessons-for-kids",
+    "beaches-and-seaside",
+    "adventure-parks",
+    "teen-days-out"
+  ],
+  "keywords": [
+    "surfing",
+    "surf lessons",
+    "surf school",
+    "kayaking",
+    "paddleboarding",
+    "sup",
+    "canoeing",
+    "water sports",
+    "cornwall surfing",
+    "the wave"
+  ],
+  "cardText": "Surf lessons, inland surf lakes, kayaking and SUP."
+}

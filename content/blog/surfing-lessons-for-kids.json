@@ -1,0 +1,73 @@
+{
+  "updated": "2026-10-14",
+  "type": "post",
+  "date": "2026-09-06",
+  "eyebrow": "Teen pick · Surf",
+  "search": false,
+  "slug": "blog/surfing-lessons-for-kids",
+  "title": "Surfing Lessons for Kids and Teens: A Beginner’s Guide",
+  "description": "Surfing lessons for kids and teens: choosing a surf school, typical ages, kit, the best UK beginner spots, inland surf lakes and staying safe.",
+  "h1": "Surfing lessons for kids and teens",
+  "intro": "There’s nothing like standing up on your first wave. Here’s how to get kids and teens surfing safely, from Cornwall’s beaches to inland surf lakes.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1722573021678-78922ef03faa",
+    "alt": "A group of people learning to surf",
+    "credit": "Buddy AN",
+    "creditUrl": "https://unsplash.com/@stbuddyp"
+  },
+  "keywords": [
+    "surfing lessons",
+    "surf school",
+    "kids surf lessons",
+    "learn to surf",
+    "surfing cornwall",
+    "surfing devon",
+    "the wave bristol",
+    "surf lake"
+  ],
+  "cardText": "Surf schools, ages, kit and the best beginner spots.",
+  "blocks": [
+    {
+      "type": "scout",
+      "mood": "tip",
+      "title": "Scout’s surf tip",
+      "text": "<p>Book a lesson with a qualified instructor at a lifeguarded beach. They’ll pick safe conditions, and soft boards make learning much easier.</p>",
+      "points": [
+        "Kids should be confident swimmers",
+        "Wetsuits are usually included",
+        "Bring suncream even when it’s cloudy"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Where to learn",
+      "html": "<ul><li><strong>North Cornwall and North Devon</strong> have many surf schools on beginner-friendly beaches.</li><li><strong>Inland surf lakes</strong>, like The Wave near Bristol, offer consistent waves and lessons.</li><li>Abroad, many European beach resorts have surf schools too.</li></ul>"
+    },
+    {
+      "h2": "What’s included",
+      "html": "<p>Most lessons include a soft board and wetsuit, a beach briefing and time in the shallows with an instructor. Group lessons are cheaper. Private lessons progress faster.</p>"
+    },
+    {
+      "h2": "Staying safe",
+      "html": "<p>Surf between the black and white flags where they’re used, and never on a red flag. Read <a href=\"/blog/beach-safety-for-families/\">beach safety for families</a> and see <a href=\"/surf-and-paddle/\">surf and paddle days out</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What age can kids start surfing lessons?",
+      "a": "Many surf schools take children from around 8, and some run younger sessions with parents. Children should be confident swimmers."
+    }
+  ],
+  "sources": [
+    {
+      "title": "RNLI beach safety",
+      "url": "https://rnli.org/safety"
+    }
+  ],
+  "related": [
+    "surf-and-paddle",
+    "beaches-and-seaside",
+    "teen-days-out"
+  ]
+}

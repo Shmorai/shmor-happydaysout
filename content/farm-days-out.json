@@ -1,0 +1,84 @@
+{
+  "updated": "2026-10-14",
+  "slug": "farm-days-out",
+  "nav": "Farms",
+  "title": "Farm Days Out: Petting Farms and Pick-Your-Own",
+  "description": "Farm days out with kids: petting farms, farm parks with play barns, lambing season, pick-your-own strawberries and pumpkins, plus hygiene tips.",
+  "eyebrow": "Farms & pick-your-own",
+  "h1": "Farm days out for families",
+  "intro": "Bottle-feeding lambs, tractor rides and picking your own strawberries. Farm days out are perfect for little ones and surprisingly fun for big ones too.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1625923780302-53edca7b85f5",
+    "alt": "A girl standing beside sheep at a farm",
+    "credit": "Duong Thinh",
+    "creditUrl": "https://unsplash.com/@duongtrungthinh"
+  },
+  "blocks": [
+    {
+      "type": "scout",
+      "mood": "verdict",
+      "title": "Scout’s farm verdict",
+      "text": "<p>Wash hands with soap and water after touching animals (gel isn’t enough) and before eating. Spring lambing and autumn pumpkins are the highlights.</p>",
+      "facts": [
+        [
+          "Best for",
+          "Under-8s"
+        ],
+        [
+          "Best seasons",
+          "Spring lambs, autumn pumpkins"
+        ],
+        [
+          "Must do",
+          "Wash hands after animals"
+        ]
+      ],
+      "position": "top"
+    },
+    {
+      "type": "finder",
+      "title": "Farm adventures",
+      "preset": {
+        "type": "farm"
+      },
+      "ids": [
+        "farm-park",
+        "pick-your-own",
+        "pumpkin-patch",
+        "chessington",
+        "flamingo-land",
+        "yorkshire-wildlife-park"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Staying healthy at farms",
+      "html": "<p>Farm animals can carry germs, so wash hands thoroughly with soap and water after touching animals and before eating, and supervise young children closely. Read <a href=\"/blog/halloween-family-days-out/\">pumpkin picking</a> and <a href=\"/blog/best-days-out-with-toddlers/\">toddler days out</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "When is lambing season?",
+      "a": "Many UK farm parks have lambs in spring, typically from around February to April. Check with the farm, as it varies."
+    }
+  ],
+  "related": [
+    "toddler-days-out",
+    "local-days-out",
+    "blog/halloween-family-days-out",
+    "zoos-and-aquariums"
+  ],
+  "keywords": [
+    "farm",
+    "farm park",
+    "petting farm",
+    "petting zoo",
+    "lambing",
+    "pick your own",
+    "strawberry picking",
+    "pumpkin picking",
+    "tractor rides"
+  ],
+  "cardText": "Petting farms, lambing and pick-your-own."
+}

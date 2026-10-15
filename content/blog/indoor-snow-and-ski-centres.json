@@ -1,0 +1,67 @@
+{
+  "updated": "2026-10-14",
+  "type": "post",
+  "date": "2026-08-30",
+  "eyebrow": "Snow & ice · Guide",
+  "search": false,
+  "slug": "blog/indoor-snow-and-ski-centres",
+  "title": "Indoor Snow and Ski Centres: Skiing Without Mountains",
+  "description": "Indoor real-snow centres for families: beginner ski and snowboard lessons, snow play and sledging, what to wear and how to prepare for a first ski holiday.",
+  "h1": "Indoor snow centres: skiing without the mountains",
+  "intro": "Real snow, all year round, often under an hour from home. Indoor snow centres are perfect for first-timers and for practising before a ski trip.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1613414871583-2bee2bcecc3f",
+    "alt": "People skating on an outdoor ice rink",
+    "credit": "Brian Kyed",
+    "creditUrl": "https://unsplash.com/@brnkd"
+  },
+  "keywords": [
+    "indoor skiing",
+    "indoor snow centre",
+    "ski lessons for kids",
+    "snowboarding lessons",
+    "snowdome",
+    "chill factore",
+    "sledging",
+    "snow play"
+  ],
+  "cardText": "Beginner lessons, snow play and what to wear.",
+  "blocks": [
+    {
+      "type": "scout",
+      "mood": "tip",
+      "title": "Scout’s snow tip",
+      "text": "<p>Book a beginner lesson, not just slope time. You’ll learn to stop and turn safely, which is the bit that matters!</p>",
+      "points": [
+        "Gloves are usually compulsory",
+        "Wear layers: it’s chilly inside",
+        "Snow play sessions suit little ones"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Where to go",
+      "html": "<p>UK indoor real-snow centres include the <strong>Snowdome</strong> in Tamworth and <strong>Chill Factore</strong> in Manchester. Many areas also have outdoor dry slopes, which are cheaper but harder to fall on.</p>"
+    },
+    {
+      "h2": "What to wear",
+      "html": "<ul><li>Waterproof trousers and jacket.</li><li>Gloves (often compulsory) and warm layers.</li><li>Long socks. Boots, skis and helmets are usually provided with lessons.</li></ul>"
+    },
+    {
+      "h2": "Before a ski holiday",
+      "html": "<p>A few lessons before a ski trip mean kids can join ski school at a higher level. Compare <a href=\"https://traveldeals.shmor.ai/\">holidays on TravelDeals</a>, and see <a href=\"/snow-and-ice/\">snow and ice days out</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can kids learn to ski indoors?",
+      "a": "Yes. Indoor real-snow centres run children’s lessons, and some have snow play areas for younger kids not ready for skis."
+    }
+  ],
+  "related": [
+    "snow-and-ice",
+    "blog/ice-skating-with-kids",
+    "teen-days-out"
+  ]
+}

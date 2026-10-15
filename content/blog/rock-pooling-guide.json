@@ -1,0 +1,66 @@
+{
+  "updated": "2026-10-14",
+  "type": "post",
+  "date": "2026-08-27",
+  "eyebrow": "Free fun · Seaside",
+  "search": false,
+  "slug": "blog/rock-pooling-guide",
+  "title": "Rock Pooling With Kids: A Beginner’s Seaside Guide",
+  "description": "A beginner’s guide to rock pooling with kids: checking tide times, what you might find, how to handle creatures gently, what to bring and the seashore code.",
+  "h1": "Rock pooling with kids: a beginner’s guide",
+  "intro": "Crabs, anemones, shrimps and starfish, all waiting in the pools left by the tide. Rock pooling is one of the best free days out there is.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1695425812104-8a9963d58887",
+    "alt": "A family walking on the beach holding hands",
+    "credit": "Jennifer Kalenberg",
+    "creditUrl": "https://unsplash.com/@jkalen71"
+  },
+  "keywords": [
+    "rock pooling",
+    "rockpooling",
+    "rock pools",
+    "seashore",
+    "crabbing",
+    "free beach activities",
+    "tide times"
+  ],
+  "cardText": "Tides, what you’ll find and the seashore code.",
+  "blocks": [
+    {
+      "type": "scout",
+      "mood": "tip",
+      "title": "Scout’s seashore code",
+      "text": "<p>Look gently, put every creature back where you found it, and turn rocks back over the way they were. The pool is their home!</p>",
+      "points": [
+        "Go on a falling tide",
+        "Wear shoes with grip",
+        "Wet hands before touching creatures"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "When to go",
+      "html": "<p>Go about an hour or two before low tide, as the water goes out, and keep an eye on the time so you’re not cut off when it comes back in. Tide tables are free online.</p>"
+    },
+    {
+      "h2": "What you might find",
+      "html": "<ul><li>Crabs hiding under rocks and seaweed.</li><li>Beadlet anemones (red blobs that open like flowers underwater).</li><li>Shrimps, small fish and periwinkles.</li><li>Starfish on some coasts.</li></ul>"
+    },
+    {
+      "h2": "What to bring",
+      "html": "<p>A bucket with seawater for a quick look (then back they go), a net with soft mesh, grippy shoes and a spotter sheet. More in <a href=\"/beaches-and-seaside/\">beaches and seaside</a> and <a href=\"/blog/beach-safety-for-families/\">beach safety</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "When is the best time to go rock pooling?",
+      "a": "Around low tide, starting an hour or two before. Always check tide times so you don’t get cut off."
+    }
+  ],
+  "related": [
+    "beaches-and-seaside",
+    "blog/beach-safety-for-families",
+    "free-days-out"
+  ]
+}

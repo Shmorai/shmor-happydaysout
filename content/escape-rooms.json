@@ -1,0 +1,83 @@
+{
+  "updated": "2026-10-14",
+  "slug": "escape-rooms",
+  "nav": "Escape rooms",
+  "title": "Escape Rooms for Families and Teens: Tips and Ideas",
+  "description": "Escape rooms for families and teenagers: how they work, minimum ages, picking the right room, plus treasure trails and geocaching for puzzle lovers on a budget.",
+  "eyebrow": "Escape rooms & trails",
+  "h1": "Escape rooms and puzzle adventures",
+  "intro": "Sixty minutes, a locked room and a ticking clock. Escape rooms are one of the best ways to get teens and parents working as a team. Here’s how to pick one.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1569002925653-ed18f55d7292",
+    "alt": "A neon sign for escape rooms",
+    "credit": "Zachary Keimig",
+    "creditUrl": "https://unsplash.com/@zacharykeimig"
+  },
+  "blocks": [
+    {
+      "type": "scout",
+      "mood": "verdict",
+      "title": "Scout’s escape room verdict",
+      "text": "<p>Ask for a beginner or family room, check the minimum age, and don’t be shy about asking for hints. Everyone does!</p>",
+      "facts": [
+        [
+          "Best for",
+          "Ages 10+ and teens"
+        ],
+        [
+          "Group size",
+          "Usually 2–6 players"
+        ],
+        [
+          "Budget option",
+          "Treasure trails & geocaching"
+        ]
+      ],
+      "position": "top"
+    },
+    {
+      "type": "finder",
+      "title": "Puzzle adventures",
+      "preset": {
+        "type": "escape"
+      }
+    }
+  ],
+  "sections": [
+    {
+      "h2": "How escape rooms work",
+      "html": "<p>Your team is locked in a themed room and has to find clues and solve puzzles to get out, usually within 60 minutes. A game host watches and gives hints if you get stuck. Most rooms have a minimum age, and younger players often need an adult in the team.</p>"
+    },
+    {
+      "h2": "Picking a room",
+      "html": "<ul><li>Choose a <strong>beginner or family</strong> room for your first go.</li><li>Check if the theme is <strong>scary</strong>. Horror rooms often have higher age limits.</li><li>Look at <strong>group sizes</strong>: most rooms take 2 to 6 players.</li><li>Mobile escape games and puzzle boxes are a cheaper option at home.</li></ul><p>Read Scout’s <a href=\"/blog/escape-room-tips-for-families/\">escape room tips for families</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What age can kids do escape rooms?",
+      "a": "It varies by venue and room. Many family rooms welcome children from around 8 to 10 with an adult, while scarier rooms have higher limits. Check before booking."
+    },
+    {
+      "q": "Are escape rooms good for teenagers?",
+      "a": "Yes. They’re one of the most popular teen activities and work brilliantly for birthdays."
+    }
+  ],
+  "related": [
+    "blog/escape-room-tips-for-families",
+    "teen-days-out",
+    "indoor-activities",
+    "blog/geocaching-family-treasure-hunt"
+  ],
+  "keywords": [
+    "escape room",
+    "escape rooms",
+    "escape room for kids",
+    "escape room near me",
+    "puzzle",
+    "treasure hunt",
+    "treasure trail",
+    "geocaching"
+  ],
+  "cardText": "Escape rooms, treasure trails and geocaching for puzzle fans."
+}

@@ -1,0 +1,67 @@
+{
+  "updated": "2026-10-14",
+  "type": "post",
+  "date": "2026-08-20",
+  "eyebrow": "Outdoors · Wildlife",
+  "search": false,
+  "slug": "blog/wildlife-watching-uk",
+  "title": "Wildlife Watching in the UK: Puffins, Seals and More",
+  "description": "Wildlife watching with kids in the UK: puffins, seals, dolphins, deer and birds of prey, with tips on boat trips and watching animals responsibly.",
+  "h1": "Wildlife watching in the UK",
+  "intro": "Puffins with rainbow beaks, seals lounging on rocks and deer in the autumn mist. Britain’s wild animals make for a brilliant family day out.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1503918756811-975bd3397178",
+    "alt": "A boy feeding deer through a fence",
+    "credit": "Daiga Ellaby",
+    "creditUrl": "https://unsplash.com/@daiga_ellaby"
+  },
+  "keywords": [
+    "wildlife watching",
+    "puffins",
+    "seal watching",
+    "dolphin watching",
+    "deer rut",
+    "boat trips",
+    "birdwatching",
+    "nature days out"
+  ],
+  "cardText": "Puffins, seals, dolphins and deer: when and where to look.",
+  "blocks": [
+    {
+      "type": "scout",
+      "mood": "tip",
+      "title": "Scout’s wildlife code",
+      "text": "<p>Keep your distance, stay quiet and never feed wild animals. Binoculars make it more exciting than getting closer!</p>",
+      "points": [
+        "Puffins are seasonal: roughly spring to midsummer",
+        "Use licensed boat trip operators",
+        "Autumn is deer rutting season"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "What to see and when",
+      "html": "<ul><li><strong>Puffins:</strong> nest on islands and cliffs from around spring into midsummer.</li><li><strong>Seals:</strong> visible on many coasts year-round. Some areas see pups in autumn and winter.</li><li><strong>Dolphins:</strong> seen from some coasts and boat trips.</li><li><strong>Deer:</strong> the autumn rut is dramatic. Watch from a safe distance.</li></ul>"
+    },
+    {
+      "h2": "Boat trips",
+      "html": "<p>Choose operators who follow wildlife watching codes, and check age rules and weather cancellations. Pack layers. It’s colder at sea.</p>"
+    },
+    {
+      "h2": "More nature",
+      "html": "<p>See <a href=\"/nature-and-national-parks/\">nature and national parks</a> and <a href=\"/zoos-and-aquariums/\">zoos and aquariums</a> for guaranteed sightings.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "When can you see puffins in the UK?",
+      "a": "Puffins come ashore to nest from around spring until midsummer, then head back out to sea. Check with local reserves for the best times."
+    }
+  ],
+  "related": [
+    "nature-and-national-parks",
+    "zoos-and-aquariums",
+    "blog/rock-pooling-guide"
+  ]
+}

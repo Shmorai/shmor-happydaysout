@@ -54,3 +54,74 @@
     if (navigator.clipboard) navigator.clipboard.writeText(b.getAttribute('data-copy')).then(done, function () {});
   });
 })();
+
+/* HappyDaysOut: adventure finder filters (cards are static HTML; this only hides/shows them).
+   Filters read and write ?age=&where=&cost=&type=&set=&q= so links can open a filtered finder. */
+(function () {
+  'use strict';
+  var bar = document.querySelector('[data-finder]');
+  if (!bar) return;
+  var grid = document.querySelector('[data-fgrid]');
+  var cards = [].slice.call(grid.querySelectorAll('.fcard'));
+  var count = document.querySelector('[data-fcount]');
+  var empty = document.querySelector('[data-fempty]');
+  var q = bar.querySelector('[data-fq]'), type = bar.querySelector('[data-ftype]'), set = bar.querySelector('[data-fset]');
+  var state = { age: '', where: '', cost: '' };
+  var params = new URLSearchParams(location.search);
+  bar.hidden = false; count.hidden = false;
+
+  function pick(row, v) {
+    row.querySelectorAll('.f-chip').forEach(function (c) { c.setAttribute('aria-pressed', String(c.getAttribute('data-v') === v)); });
+    state[row.getAttribute('data-f')] = v;
+  }
+  bar.querySelectorAll('.f-row').forEach(function (row) {
+    var f = row.getAttribute('data-f'), v = params.get(f) || '';
+    if (v && row.querySelector('[data-v="' + v + '"]')) pick(row, v);
+    row.addEventListener('click', function (e) {
+      var c = e.target.closest('.f-chip'); if (!c) return;
+      pick(row, c.getAttribute('data-v')); apply(true);
+    });
+  });
+  if (q) { q.value = params.get('q') || ''; q.addEventListener('input', function () { apply(true); }); }
+  if (type) { type.value = params.get('type') || ''; type.addEventListener('change', function () { apply(true); }); }
+  if (set) { set.value = params.get('set') || ''; set.addEventListener('change', function () { apply(true); }); }
+
+  function apply(save) {
+    var words = q ? q.value.toLowerCase().split(/\s+/).filter(Boolean) : [];
+    var n = 0;
+    cards.forEach(function (c) {
+      var ok = (!state.age || c.dataset.age.split(' ').indexOf(state.age) > -1)
+        && (!state.where || c.dataset.where === state.where)
+        && (!state.cost || c.dataset.cost === state.cost)
+        && (!type || !type.value || c.dataset.type === type.value)
+        && (!set || !set.value || c.dataset.set === set.value || c.dataset.set === 'both')
+        && words.every(function (w) { return c.dataset.terms.indexOf(w) > -1; });
+      c.hidden = !ok; if (ok) n++;
+    });
+    count.innerHTML = 'Showing <b>' + n + '</b> of ' + cards.length + ' adventures';
+    empty.hidden = n > 0;
+    if (save && history.replaceState) {
+      var p = new URLSearchParams();
+      ['age', 'where', 'cost'].forEach(function (k) { if (state[k]) p.set(k, state[k]); });
+      if (type && type.value) p.set('type', type.value);
+      if (set && set.value) p.set('set', set.value);
+      if (q && q.value) p.set('q', q.value);
+      var s = p.toString();
+      history.replaceState(null, '', location.pathname + (s ? '?' + s : '') + '#finder');
+    }
+  }
+  bar.querySelector('[data-freset]').addEventListener('click', function () {
+    bar.querySelectorAll('.f-row').forEach(function (r) { pick(r, ''); });
+    if (q) q.value = ''; if (type) type.value = ''; if (set) set.value = '';
+    apply(true);
+  });
+  bar.querySelector('[data-fsurprise]').addEventListener('click', function () {
+    var shown = cards.filter(function (c) { return !c.hidden; });
+    var c = shown[Math.floor(Math.random() * shown.length)];
+    if (!c) return;
+    c.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    c.classList.remove('pop'); void c.offsetWidth; c.classList.add('pop');
+  });
+  apply(false);
+  if (location.search && document.getElementById('finder')) document.getElementById('finder').scrollIntoView();
+})();

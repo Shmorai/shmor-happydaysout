@@ -1,0 +1,79 @@
+{
+  "updated": "2026-10-14",
+  "slug": "nature-and-national-parks",
+  "nav": "Nature",
+  "title": "Nature Days Out and National Parks for Families",
+  "description": "Nature days out with kids: UK national parks, the Giant’s Causeway, Eden Project, Kew, US national parks, stargazing and geocaching. Many are free.",
+  "eyebrow": "Nature & national parks",
+  "h1": "Nature days out and national parks",
+  "intro": "Mountains, waterfalls, forests and starry skies. The great outdoors is the best-value day out there is, and kids sleep brilliantly afterwards.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1756982477676-420df08af67c",
+    "alt": "A family walking together on a grassy hill",
+    "credit": "Seljan Salim",
+    "creditUrl": "https://unsplash.com/@seljansalim"
+  },
+  "blocks": [
+    {
+      "type": "scout",
+      "mood": "verdict",
+      "title": "Scout’s nature verdict",
+      "text": "<p>Pick a short trail with a “wow” at the end: a waterfall, a view, a beach or an ice cream. Kids walk further for a reward.</p>",
+      "facts": [
+        [
+          "Cost",
+          "Mostly free (parking aside)"
+        ],
+        [
+          "Best for",
+          "Every age"
+        ],
+        [
+          "Pack",
+          "Layers, snacks, water"
+        ]
+      ],
+      "position": "top"
+    },
+    {
+      "type": "finder",
+      "title": "Nature adventures",
+      "preset": {
+        "type": "outdoors"
+      }
+    }
+  ],
+  "sections": [
+    {
+      "h2": "More outdoor ideas",
+      "html": "<p>Try <a href=\"/blog/geocaching-family-treasure-hunt/\">geocaching</a>, <a href=\"/blog/stargazing-dark-sky-places/\">stargazing</a>, <a href=\"/blog/wildlife-watching-uk/\">wildlife watching</a> or a <a href=\"/blog/first-family-camping-trip/\">first family camping trip</a>. In the US, see <a href=\"/blog/us-national-parks-with-kids/\">national parks with kids</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Are UK national parks free to visit?",
+      "a": "Yes. There’s no entry fee to the UK’s national parks, though car parks and some attractions inside them charge."
+    }
+  ],
+  "related": [
+    "blog/geocaching-family-treasure-hunt",
+    "blog/stargazing-dark-sky-places",
+    "blog/first-family-camping-trip",
+    "free-days-out"
+  ],
+  "keywords": [
+    "nature",
+    "national park",
+    "national parks",
+    "lake district",
+    "peak district",
+    "walks with kids",
+    "hiking",
+    "eden project",
+    "kew gardens",
+    "giants causeway",
+    "yosemite",
+    "outdoors"
+  ],
+  "cardText": "National parks, gardens, coasts and starry skies."
+}

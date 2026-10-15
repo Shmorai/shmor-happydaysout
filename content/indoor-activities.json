@@ -1,0 +1,77 @@
+{
+  "updated": "2026-10-14",
+  "slug": "indoor-activities",
+  "nav": "Indoor fun",
+  "title": "Indoor Activities for Kids and Teens: Rainy Day Fun",
+  "description": "Indoor activities for kids and teenagers: trampoline parks, bowling, laser tag, soft play, climbing walls, arcades and cinema mornings. Perfect for rainy days.",
+  "eyebrow": "Indoor fun",
+  "h1": "Indoor activities for every age",
+  "intro": "Rain? No problem. From soft play for toddlers to laser tag for teens, here’s indoor fun that burns off energy whatever the weather.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1751235640841-d8d1035a80f0",
+    "alt": "An indoor trampoline park",
+    "credit": "Lawrence Crayton",
+    "creditUrl": "https://unsplash.com/@lawrencecrayton"
+  },
+  "blocks": [
+    {
+      "type": "scout",
+      "mood": "verdict",
+      "title": "Scout’s indoor verdict",
+      "text": "<p>Indoor places fill up on wet weekends, so book a slot as soon as the forecast turns. Weekday sessions are usually cheaper.</p>",
+      "facts": [
+        [
+          "Toddlers",
+          "Soft play"
+        ],
+        [
+          "Kids",
+          "Trampolines & bowling"
+        ],
+        [
+          "Teens",
+          "Laser tag, climbing, arcades"
+        ]
+      ],
+      "position": "top"
+    },
+    {
+      "type": "finder",
+      "title": "Indoor adventures",
+      "preset": {
+        "setting": "indoor"
+      }
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Indoor tips",
+      "html": "<ul><li>Trampoline parks usually require grip socks and a signed waiver.</li><li>Look for toddler-only and SEN-friendly quiet sessions.</li><li>Birthday packages can be good value for groups.</li></ul><p>See <a href=\"/blog/trampoline-park-tips/\">trampoline park tips</a> and <a href=\"/blog/rainy-day-days-out/\">rainy day ideas</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What can kids do indoors on a rainy day?",
+      "a": "Trampoline parks, soft play, bowling, climbing walls, swimming, museums, aquariums and cinema mornings are all great rainy-day options."
+    }
+  ],
+  "related": [
+    "blog/trampoline-park-tips",
+    "blog/rainy-day-days-out",
+    "escape-rooms",
+    "museums-and-science"
+  ],
+  "keywords": [
+    "indoor activities",
+    "indoor activities for kids",
+    "trampoline park",
+    "bowling",
+    "laser tag",
+    "soft play",
+    "climbing wall",
+    "bouldering",
+    "arcade",
+    "rainy day activities"
+  ],
+  "cardText": "Trampolines, bowling, laser tag, soft play and more."
+}

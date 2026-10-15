@@ -1,0 +1,102 @@
+{
+  "updated": "2026-10-14",
+  "slug": "teen-days-out",
+  "nav": "Teens",
+  "navOrder": 5,
+  "title": "Days Out for Teenagers: Thrills, Escape Rooms & More",
+  "description": "Days out teenagers actually want: thrill parks, escape rooms, go-karting, zip lines, surfing, skate parks and indoor skydiving, plus ticket tips.",
+  "eyebrow": "Teen days out",
+  "h1": "Days out teenagers actually want",
+  "intro": "Adrenaline, independence and something worth posting about. Here’s Scout’s pick of days out teenagers rate, plus ways to stop teen tickets costing adult prices.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1713426225330-014fbfd04aa0",
+    "alt": "Riders with arms in the air on a roller coaster",
+    "credit": "Hannes Knutsson",
+    "creditUrl": "https://unsplash.com/@hannesknutsson"
+  },
+  "chips": [
+    {
+      "label": "Escape rooms",
+      "slug": "escape-rooms"
+    },
+    {
+      "label": "Go-karting",
+      "slug": "go-karting-and-skating"
+    },
+    {
+      "label": "Zip lines",
+      "slug": "adventure-parks"
+    },
+    {
+      "label": "Surfing",
+      "slug": "surf-and-paddle"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "scout",
+      "mood": "verdict",
+      "title": "Scout’s teen verdict",
+      "text": "<p>Give them a say, add a mate, and pick something with a bit of risk (the safe, supervised kind). Escape rooms, karting and zip lines win almost every time.</p>",
+      "facts": [
+        [
+          "Best thrill",
+          "Coaster parks & zip lines"
+        ],
+        [
+          "Best on a budget",
+          "Skate parks, bowling, free museums"
+        ],
+        [
+          "Watch out",
+          "Adult prices from 12–16"
+        ]
+      ],
+      "position": "top"
+    },
+    {
+      "type": "finder",
+      "title": "Adventures for teens",
+      "intro": "Filter by place and budget, or let Scout surprise you.",
+      "preset": {
+        "age": "teens"
+      }
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Saving on teen tickets",
+      "html": "<ul><li>Many attractions charge adult prices from age 12, 15 or 16. Compare age bands before you book.</li><li>Students may get discounts with valid ID.</li><li>Group and birthday packages can work out cheaper per person for escape rooms, karting and laser tag.</li><li>Rail <a href=\"/blog/national-rail-2for1-days-out/\">2FOR1 offers</a> and <a href=\"/merlin-annual-pass/\">annual passes</a> still apply to teens.</li></ul>"
+    },
+    {
+      "h2": "More teen ideas",
+      "html": "<p>Read <a href=\"/blog/days-out-with-teenagers/\">days out with teenagers</a>, <a href=\"/blog/thrill-rides-for-teens/\">the best thrill rides for teens</a>, <a href=\"/blog/teen-birthday-day-out-ideas/\">teen birthday ideas</a> and <a href=\"/blog/london-day-out-with-teens/\">a London day out with teens</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What can I do with a bored teenager?",
+      "a": "Try an escape room, go-karting, a climbing wall, a zip line, a surf lesson or a thrill park. Letting them choose, and bring a friend, makes a big difference."
+    },
+    {
+      "q": "At what age do attractions charge adult prices?",
+      "a": "It varies. Many charge adult prices from 12, 15 or 16. Check the age bands on the attraction’s ticket page."
+    }
+  ],
+  "related": [
+    "escape-rooms",
+    "adventure-parks",
+    "go-karting-and-skating",
+    "blog/days-out-with-teenagers"
+  ],
+  "keywords": [
+    "days out for teenagers",
+    "things to do with teenagers",
+    "teen activities",
+    "teenager days out",
+    "thrill",
+    "activities for teens",
+    "teen birthday ideas"
+  ],
+  "cardText": "Thrill parks, escape rooms, karting, zip lines and surf."
+}

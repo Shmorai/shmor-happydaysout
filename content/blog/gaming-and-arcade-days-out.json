@@ -1,0 +1,67 @@
+{
+  "updated": "2026-10-14",
+  "type": "post",
+  "date": "2026-09-04",
+  "eyebrow": "Teen pick · Gaming",
+  "search": false,
+  "slug": "blog/gaming-and-arcade-days-out",
+  "title": "Gaming Days Out: Arcades, VR and Retro Games for Teens",
+  "description": "Gaming days out for teens and families: seaside arcades, retro gaming, VR experiences, game-themed exhibitions and how to set a sensible budget.",
+  "h1": "Gaming days out: arcades, VR and retro games",
+  "intro": "Got a gamer? Turn screen time into a day out with arcades, VR experiences and retro games, together.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1569002925653-ed18f55d7292",
+    "alt": "A neon sign for escape rooms",
+    "credit": "Zachary Keimig",
+    "creditUrl": "https://unsplash.com/@zacharykeimig"
+  },
+  "keywords": [
+    "arcade",
+    "arcades",
+    "vr experience",
+    "virtual reality",
+    "retro gaming",
+    "gaming days out",
+    "activities for gamers",
+    "super nintendo world"
+  ],
+  "cardText": "Arcades, VR and retro gaming, with budget tips.",
+  "blocks": [
+    {
+      "type": "scout",
+      "mood": "tip",
+      "title": "Scout’s gamer tip",
+      "text": "<p>Load a fixed amount onto a play card and stop when it’s gone. Arcades are designed to keep you spending!</p>",
+      "points": [
+        "Check VR age limits",
+        "Look for family hours at gaming cafés",
+        "Museums run gaming exhibitions too"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Arcades and seafronts",
+      "html": "<p>From 2p machines to air hockey and dance games, seaside arcades are a classic. Pair them with a free beach day: see <a href=\"/beaches-and-seaside/\">beaches and seaside</a>.</p>"
+    },
+    {
+      "h2": "VR and immersive games",
+      "html": "<p>Virtual reality arenas let teams play together in headsets. They usually have minimum ages, so check before booking.</p>"
+    },
+    {
+      "h2": "For big fans",
+      "html": "<p>Super Nintendo World at <a href=\"/blog/epic-universe-family-guide/\">Epic Universe</a> (and other Universal parks) brings games to life. Science and design museums sometimes host gaming exhibitions. Check <a href=\"/museums-and-science/\">museums and science</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What age is VR suitable for?",
+      "a": "Many VR venues and headset makers set minimum ages. Check the venue’s rules before booking."
+    }
+  ],
+  "related": [
+    "indoor-activities",
+    "teen-days-out",
+    "blog/epic-universe-family-guide"
+  ]
+}

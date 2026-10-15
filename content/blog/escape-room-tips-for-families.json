@@ -1,0 +1,69 @@
+{
+  "updated": "2026-10-14",
+  "type": "post",
+  "date": "2026-09-14",
+  "eyebrow": "Teen pick · Escape rooms",
+  "search": false,
+  "slug": "blog/escape-room-tips-for-families",
+  "title": "Escape Room Tips for Families and Teens: How to Win",
+  "description": "Escape room tips for families and teenagers: choosing a room, splitting the team, asking for hints, minimum ages and making it a brilliant birthday day out.",
+  "h1": "Escape room tips for families and teens",
+  "intro": "Escape rooms turn your family into a crack team of puzzle-solvers, and they’re one of the few days out teens and parents both get excited about. Here’s how to crush it.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1569002925653-ed18f55d7292",
+    "alt": "A neon sign for escape rooms",
+    "credit": "Zachary Keimig",
+    "creditUrl": "https://unsplash.com/@zacharykeimig"
+  },
+  "keywords": [
+    "escape room tips",
+    "escape room for families",
+    "escape rooms for teens",
+    "escape room birthday",
+    "how to win escape room",
+    "puzzle room"
+  ],
+  "cardText": "Choose the right room, split the team and know when to ask for hints.",
+  "blocks": [
+    {
+      "type": "scout",
+      "mood": "tip",
+      "title": "Scout’s escape plan",
+      "text": "<p>Search the whole room first and shout out everything you find. Most teams get stuck because one clue is sitting in someone’s pocket!</p>",
+      "points": [
+        "Pick a beginner room for your first go",
+        "Put one person in charge of keeping track of clues",
+        "Asking for a hint is not cheating"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Choosing the right room",
+      "html": "<ul><li><strong>Difficulty:</strong> start with a beginner or family-rated room.</li><li><strong>Theme:</strong> horror rooms are fun for older teens but often have higher age limits.</li><li><strong>Team size:</strong> most rooms suit 2 to 6. Too many people can mean some just stand around.</li><li><strong>Ages:</strong> many venues ask for an adult in teams with younger children.</li></ul>"
+    },
+    {
+      "h2": "How to play like a pro",
+      "html": "<ol><li><strong>Search everything:</strong> under rugs, behind pictures, inside books.</li><li><strong>Pile your finds</strong> in one place so everyone can see them.</li><li><strong>Split up</strong> to work on separate puzzles, then regroup.</li><li><strong>Talk constantly:</strong> say what you’ve found and what you’ve tried.</li><li><strong>Use hints</strong> when you’re stuck for a few minutes. The goal is fun.</li></ol>"
+    },
+    {
+      "h2": "Escape rooms for birthdays",
+      "html": "<p>Escape rooms make brilliant teen birthday outings: a fixed time, a shared challenge and a photo with the sign at the end. See more <a href=\"/blog/teen-birthday-day-out-ideas/\">teen birthday ideas</a> and find rooms in our <a href=\"/escape-rooms/\">escape rooms guide</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Are escape rooms scary?",
+      "a": "Most aren’t. They’re puzzle games with a theme. Horror-themed rooms can be scary and often have higher age limits, so check the description."
+    },
+    {
+      "q": "How many people do you need for an escape room?",
+      "a": "Most rooms take between 2 and 6 players. Check the venue’s recommended team size."
+    }
+  ],
+  "related": [
+    "escape-rooms",
+    "teen-days-out",
+    "blog/teen-birthday-day-out-ideas"
+  ]
+}

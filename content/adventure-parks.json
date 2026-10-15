@@ -1,0 +1,77 @@
+{
+  "updated": "2026-10-14",
+  "slug": "adventure-parks",
+  "nav": "Zip lines",
+  "title": "Zip Lines, High Ropes and Adventure Parks for Families",
+  "description": "Family adventure days out: zip lines, treetop high ropes, indoor skydiving and big adventure parks in the UK, with age, height and weight rules to check first.",
+  "eyebrow": "Zip lines & high ropes",
+  "h1": "Zip lines, high ropes and big adventures",
+  "intro": "Rope bridges in the treetops, zip wires over valleys and floating on air in a wind tunnel. These are the days out older kids and teens talk about for weeks.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1637511077877-3c6a00eb32ba",
+    "alt": "Riding a zip line through a forest",
+    "credit": "Nadiia Ganzhyi",
+    "creditUrl": "https://unsplash.com/@nadiiag"
+  },
+  "blocks": [
+    {
+      "type": "scout",
+      "mood": "verdict",
+      "title": "Scout’s adventure verdict",
+      "text": "<p>Check the age, height and weight rules for each course before booking. They decide which course your family can do together.</p>",
+      "facts": [
+        [
+          "Best for",
+          "Ages 8+ and teens"
+        ],
+        [
+          "Book",
+          "Ahead in holidays"
+        ],
+        [
+          "Wear",
+          "Trainers & sporty clothes"
+        ]
+      ],
+      "position": "top"
+    },
+    {
+      "type": "finder",
+      "title": "Adventure days out",
+      "preset": {
+        "type": "adventure"
+      }
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Before you book",
+      "html": "<ul><li>Courses often have minimum ages and heights, and some rides have weight limits.</li><li>Under-16s may need a participating adult with them.</li><li>Outdoor courses can close in high winds or storms.</li></ul><p>Read <a href=\"/blog/zip-lines-and-high-ropes-uk/\">zip lines and high ropes in the UK</a> and <a href=\"/blog/indoor-skydiving-for-kids/\">indoor skydiving for kids</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What age can kids go on zip lines?",
+      "a": "It depends on the course. Junior courses can suit younger children, while big zip lines often have higher minimum ages and weight limits. Check the provider’s rules."
+    }
+  ],
+  "related": [
+    "blog/zip-lines-and-high-ropes-uk",
+    "teen-days-out",
+    "experience-days",
+    "surf-and-paddle"
+  ],
+  "keywords": [
+    "zip line",
+    "zip wire",
+    "high ropes",
+    "treetop adventure",
+    "go ape",
+    "zip world",
+    "adventure park",
+    "indoor skydiving",
+    "ifly",
+    "adventure days out"
+  ],
+  "cardText": "Treetop courses, giant zip lines and indoor skydiving."
+}

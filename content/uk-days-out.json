@@ -352,6 +352,14 @@
           "more": "Steam train days out"
         }
       ]
+    },
+    {
+      "type": "finder",
+      "title": "More UK adventures",
+      "intro": "Filter every UK day out by age and cost.",
+      "preset": {
+        "region": "uk"
+      }
     }
   ],
   "sections": [

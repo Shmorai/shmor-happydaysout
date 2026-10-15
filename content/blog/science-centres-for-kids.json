@@ -1,0 +1,67 @@
+{
+  "updated": "2026-10-14",
+  "type": "post",
+  "date": "2026-08-22",
+  "eyebrow": "Museums · Hands-on",
+  "search": false,
+  "slug": "blog/science-centres-for-kids",
+  "title": "Science Centres for Kids: Hands-On Days Out",
+  "description": "Hands-on science centres for kids and teens in the UK, Europe and the US: Eureka!, Cité des Sciences, NEMO, the Exploratorium and free galleries.",
+  "h1": "Science centres for kids: hands-on days out",
+  "intro": "Press the buttons, pull the levers, make a mess. Science centres are made for curious kids, and they’re brilliant on rainy days.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1570246555011-7dd965c49951",
+    "alt": "A boy leaning on the glass of an aquarium full of fish",
+    "credit": "Nur Taufik Zamari",
+    "creditUrl": "https://unsplash.com/@nurtaufickz"
+  },
+  "keywords": [
+    "science centre",
+    "science center",
+    "hands-on museum",
+    "eureka",
+    "nemo",
+    "cite des sciences",
+    "exploratorium",
+    "stem days out"
+  ],
+  "cardText": "Eureka!, NEMO, the Exploratorium and more.",
+  "blocks": [
+    {
+      "type": "scout",
+      "mood": "tip",
+      "title": "Scout’s science tip",
+      "text": "<p>Let kids lead. The exhibit they spend 20 minutes on is the win, even if you don’t see everything.</p>",
+      "points": [
+        "Under-7s: look for dedicated early-years areas",
+        "Teens: evening events and workshops",
+        "Book ahead in holidays"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "UK",
+      "html": "<ul><li><strong>Eureka! The National Children’s Museum</strong>, Halifax: built for under-11s.</li><li><strong>Science Museum</strong>, London: free general admission, with some paid interactive galleries.</li><li><strong>National Museum of Scotland</strong>: free, with hands-on science and tech galleries.</li></ul>"
+    },
+    {
+      "h2": "Europe and the US",
+      "html": "<ul><li><strong>Cité des Sciences</strong>, Paris, with its children’s area.</li><li><strong>NEMO</strong>, Amsterdam: hands-on science in a striking green building.</li><li><strong>Exploratorium</strong>, San Francisco: hundreds of interactive exhibits.</li></ul>"
+    },
+    {
+      "h2": "Find more",
+      "html": "<p>See <a href=\"/museums-and-science/\">museums and science</a> and <a href=\"/blog/space-days-out/\">space days out</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is a good science museum for toddlers?",
+      "a": "Look for dedicated early-years areas, such as those at Eureka! in Halifax, or the children’s area at Cité des Sciences in Paris."
+    }
+  ],
+  "related": [
+    "museums-and-science",
+    "blog/space-days-out",
+    "indoor-activities"
+  ]
+}

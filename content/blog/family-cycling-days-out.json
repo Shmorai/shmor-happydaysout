@@ -1,0 +1,66 @@
+{
+  "updated": "2026-10-14",
+  "type": "post",
+  "date": "2026-08-19",
+  "eyebrow": "Outdoors · Cycling",
+  "search": false,
+  "slug": "blog/family-cycling-days-out",
+  "title": "Family Cycling Days Out: Traffic-Free Trails and Tips",
+  "description": "Family cycling days out: traffic-free trails on old railway lines and forest tracks, bike hire, kids’ bike safety, trailers and planning a route.",
+  "h1": "Family cycling days out",
+  "intro": "Flat, car-free trails, a café halfway and the wind in your hair. Cycling is a cheap, healthy family day out that teens enjoy too.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1721904310692-c31b681e7a35",
+    "alt": "A family walking through a field with their dog",
+    "credit": "Kateryna Hliznitsova",
+    "creditUrl": "https://unsplash.com/@kate_gliz"
+  },
+  "keywords": [
+    "family cycling",
+    "bike rides for families",
+    "traffic free cycle routes",
+    "bike trails",
+    "bike hire",
+    "cycling with kids",
+    "forest cycling"
+  ],
+  "cardText": "Traffic-free trails, bike hire and safety tips.",
+  "blocks": [
+    {
+      "type": "scout",
+      "mood": "tip",
+      "title": "Scout’s cycling tip",
+      "text": "<p>Pick a route about half as long as you think. You can always do more, but tired legs miles from the car are no fun.</p>",
+      "points": [
+        "Helmets for everyone",
+        "Check tyres and brakes before you go",
+        "Old railway paths are flat and gentle"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Where to ride",
+      "html": "<p>Former railway lines, canal towpaths (check local rules), forest trails and country parks often have traffic-free routes. Many forests have colour-graded trails and bike hire. In the US, rail trails and state parks offer the same.</p>"
+    },
+    {
+      "h2": "Kit for little riders",
+      "html": "<ul><li>Balance bikes for toddlers.</li><li>Child seats, trailers or tag-alongs for younger kids.</li><li>Helmets, bright clothes, water and snacks.</li></ul>"
+    },
+    {
+      "h2": "Plan the day",
+      "html": "<p>Choose a route with a playground or café halfway. Find more in <a href=\"/go-karting-and-skating/\">karts, skates and bikes</a> and <a href=\"/nature-and-national-parks/\">nature days out</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where can families cycle safely?",
+      "a": "Traffic-free routes such as old railway lines, forest trails and country park paths are the safest places for families to ride."
+    }
+  ],
+  "related": [
+    "go-karting-and-skating",
+    "nature-and-national-parks",
+    "free-days-out"
+  ]
+}

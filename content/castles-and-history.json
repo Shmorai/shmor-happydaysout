@@ -1,0 +1,78 @@
+{
+  "updated": "2026-10-14",
+  "slug": "castles-and-history",
+  "nav": "Castles",
+  "title": "Castles and History Days Out for Kids and Teens",
+  "description": "Castle and history days out for families: Warwick, Edinburgh, Dover and Caernarfon castles, the Tower of London, Stonehenge and fairy-tale Neuschwanstein.",
+  "eyebrow": "Castles & history",
+  "h1": "Castles and history days out",
+  "intro": "Knights, towers, dungeons and secret tunnels. Castles bring history to life, and many host jousts, sword shows and family trails.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1605718268542-b603f5c7a8f4",
+    "alt": "A stone castle under white clouds",
+    "credit": "Ian Murphy",
+    "creditUrl": "https://unsplash.com/@ianmurphy"
+  },
+  "blocks": [
+    {
+      "type": "scout",
+      "mood": "verdict",
+      "title": "Scout’s castle verdict",
+      "text": "<p>Check the events calendar. A joust or have-a-go archery turns a castle visit into a brilliant day. Memberships can make history days much cheaper.</p>",
+      "facts": [
+        [
+          "Best for",
+          "Ages 5+ and history fans"
+        ],
+        [
+          "Save with",
+          "English Heritage, Cadw, Historic Scotland"
+        ],
+        [
+          "Look for",
+          "Summer event days"
+        ]
+      ],
+      "position": "top"
+    },
+    {
+      "type": "finder",
+      "title": "Castles and history",
+      "preset": {
+        "type": "castle"
+      }
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Saving on castles",
+      "html": "<p>Memberships pay off fast if you love history: see <a href=\"/blog/national-trust-vs-english-heritage/\">National Trust vs English Heritage</a>. Many sites let under-5s in free, and <a href=\"/free-days-out/\">Heritage Open Days</a> open historic places for free each September. Read Scout’s <a href=\"/blog/castles-for-kids/\">castles for kids</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the best castle to visit with kids in the UK?",
+      "a": "Favourites include Warwick Castle, Edinburgh Castle, Dover Castle with its wartime tunnels, Caernarfon Castle and the Tower of London."
+    }
+  ],
+  "related": [
+    "blog/castles-for-kids",
+    "blog/national-trust-vs-english-heritage",
+    "harry-potter-days-out",
+    "uk-days-out"
+  ],
+  "keywords": [
+    "castle",
+    "castles",
+    "castles for kids",
+    "history days out",
+    "warwick castle",
+    "edinburgh castle",
+    "tower of london",
+    "dover castle",
+    "stonehenge",
+    "knights",
+    "jousting"
+  ],
+  "cardText": "Warwick, Edinburgh, Dover, the Tower of London and more."
+}

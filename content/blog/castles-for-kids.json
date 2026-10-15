@@ -1,0 +1,68 @@
+{
+  "updated": "2026-10-14",
+  "type": "post",
+  "date": "2026-08-21",
+  "eyebrow": "History · Castles",
+  "search": false,
+  "slug": "blog/castles-for-kids",
+  "title": "The Best Castles for Kids: UK Castle Days Out",
+  "description": "The best castles to visit with kids and teens in the UK: Warwick, Edinburgh, Dover, Caernarfon, Alnwick and the Tower of London, with saving tips.",
+  "h1": "The best castles for kids",
+  "intro": "Towers to climb, dungeons to dare and battlements to defend. Castles are where history becomes an adventure.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1605718268542-b603f5c7a8f4",
+    "alt": "A stone castle under white clouds",
+    "credit": "Ian Murphy",
+    "creditUrl": "https://unsplash.com/@ianmurphy"
+  },
+  "keywords": [
+    "castles for kids",
+    "best castles uk",
+    "castle days out",
+    "warwick castle",
+    "dover castle",
+    "caernarfon castle",
+    "edinburgh castle",
+    "tower of london",
+    "jousting"
+  ],
+  "cardText": "Warwick, Dover, Edinburgh, Caernarfon and more.",
+  "blocks": [
+    {
+      "type": "scout",
+      "mood": "tip",
+      "title": "Scout’s castle tip",
+      "text": "<p>Check the events calendar for jousts, archery and costumed storytellers. Event days make a castle visit unforgettable.</p>",
+      "points": [
+        "Memberships pay off fast",
+        "Under-5s often free",
+        "Spiral stairs: carriers beat buggies"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "England",
+      "html": "<ul><li><strong>Warwick Castle:</strong> shows, towers and family events (on the Merlin pass).</li><li><strong>Dover Castle:</strong> medieval keep plus secret wartime tunnels (English Heritage).</li><li><strong>Tower of London:</strong> Crown Jewels and Yeoman Warders.</li><li><strong>Alnwick Castle:</strong> Harry Potter’s Hogwarts and broomstick training.</li></ul>"
+    },
+    {
+      "h2": "Scotland and Wales",
+      "html": "<ul><li><strong>Edinburgh Castle:</strong> on its volcanic rock above the city.</li><li><strong>Caernarfon Castle:</strong> a mighty fortress cared for by Cadw.</li></ul>"
+    },
+    {
+      "h2": "Save money",
+      "html": "<p>Compare <a href=\"/blog/national-trust-vs-english-heritage/\">heritage memberships</a>, and see all <a href=\"/castles-and-history/\">castles and history</a> days out.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Which castle has secret tunnels?",
+      "a": "Dover Castle in Kent has tunnels used during the Second World War, which visitors can explore."
+    }
+  ],
+  "related": [
+    "castles-and-history",
+    "blog/national-trust-vs-english-heritage",
+    "harry-potter-days-out"
+  ]
+}

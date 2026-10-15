@@ -1,0 +1,3039 @@
+{
+  "types": {
+    "themepark": {
+      "label": "Theme parks",
+      "icon": "zap",
+      "page": "theme-parks"
+    },
+    "waterpark": {
+      "label": "Water parks & pools",
+      "icon": "droplet",
+      "page": "water-parks"
+    },
+    "zoo": {
+      "label": "Zoos & aquariums",
+      "icon": "paw",
+      "page": "zoos-and-aquariums"
+    },
+    "farm": {
+      "label": "Farms & pick-your-own",
+      "icon": "heart",
+      "page": "farm-days-out"
+    },
+    "museum": {
+      "label": "Museums & science",
+      "icon": "search",
+      "page": "museums-and-science"
+    },
+    "castle": {
+      "label": "Castles & history",
+      "icon": "shield",
+      "page": "castles-and-history"
+    },
+    "outdoors": {
+      "label": "Nature & national parks",
+      "icon": "compass",
+      "page": "nature-and-national-parks"
+    },
+    "beach": {
+      "label": "Beaches & seaside",
+      "icon": "sun",
+      "page": "beaches-and-seaside"
+    },
+    "adventure": {
+      "label": "Zip lines & high ropes",
+      "icon": "signal",
+      "page": "adventure-parks"
+    },
+    "indoor": {
+      "label": "Indoor fun",
+      "icon": "star",
+      "page": "indoor-activities"
+    },
+    "escape": {
+      "label": "Escape rooms & trails",
+      "icon": "lock",
+      "page": "escape-rooms"
+    },
+    "wheels": {
+      "label": "Karts, skates & bikes",
+      "icon": "gauge",
+      "page": "go-karting-and-skating"
+    },
+    "water": {
+      "label": "Surf & paddle",
+      "icon": "anchor",
+      "page": "surf-and-paddle"
+    },
+    "snow": {
+      "label": "Snow & ice",
+      "icon": "globe",
+      "page": "snow-and-ice"
+    },
+    "trains": {
+      "label": "Trains & steam",
+      "icon": "truck",
+      "page": "blog/steam-train-days-out"
+    },
+    "seasonal": {
+      "label": "Seasonal events",
+      "icon": "calendar",
+      "page": "seasonal-events"
+    },
+    "film": {
+      "label": "Film & TV tours",
+      "icon": "tv",
+      "page": "film-and-tv-tours"
+    }
+  },
+  "items": [
+    {
+      "id": "alton-towers",
+      "title": "Alton Towers Resort",
+      "type": "themepark",
+      "ages": [
+        "under5",
+        "kids",
+        "teens"
+      ],
+      "region": "uk",
+      "where": "Staffordshire, England",
+      "cost": "mid",
+      "setting": "outdoor",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1713426225330-014fbfd04aa0",
+        "alt": "Riders with arms in the air on a roller coaster",
+        "credit": "Hannes Knutsson",
+        "creditUrl": "https://unsplash.com/@hannesknutsson"
+      },
+      "text": "Big coasters for teens, CBeebies Land for little ones, plus a water park and hotels.",
+      "scout": "Thrill rides first while queues are short, CBeebies Land after lunch.",
+      "url": "https://www.altontowers.com/",
+      "slug": "theme-parks",
+      "tags": [
+        "coaster",
+        "thrill",
+        "merlin",
+        "cbeebies"
+      ]
+    },
+    {
+      "id": "legoland-windsor",
+      "title": "LEGOLAND Windsor Resort",
+      "type": "themepark",
+      "ages": [
+        "under5",
+        "kids"
+      ],
+      "region": "uk",
+      "where": "Windsor, Berkshire, England",
+      "cost": "mid",
+      "setting": "outdoor",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1587654780291-39c9404d746b",
+        "alt": "Yellow, red, blue and green toy building bricks",
+        "credit": "Xavi Cabrera",
+        "creditUrl": "https://unsplash.com/@xavi_cabrera"
+      },
+      "text": "Built for ages roughly 2 to 12: driving schools, gentle coasters and MINILAND.",
+      "scout": "Head to the far side of the park first and work back.",
+      "url": "https://www.legoland.co.uk/",
+      "slug": "blog/legoland-windsor-tips",
+      "tags": [
+        "lego",
+        "merlin",
+        "toddler"
+      ]
+    },
+    {
+      "id": "thorpe-park",
+      "title": "Thorpe Park Resort",
+      "type": "themepark",
+      "ages": [
+        "teens"
+      ],
+      "region": "uk",
+      "where": "Chertsey, Surrey, England",
+      "cost": "mid",
+      "setting": "outdoor",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1628835788312-41d61f5ddce8",
+        "alt": "A roller coaster track against a blue sky",
+        "credit": "Jonny Gios",
+        "creditUrl": "https://unsplash.com/@supergios"
+      },
+      "text": "Fast, big rides aimed squarely at teens and thrill-seeking adults.",
+      "scout": "The teen pick near London. Check height limits for younger siblings.",
+      "url": "https://www.thorpepark.com/",
+      "slug": "teen-days-out",
+      "tags": [
+        "coaster",
+        "thrill",
+        "merlin",
+        "teens"
+      ]
+    },
+    {
+      "id": "chessington",
+      "title": "Chessington World of Adventures",
+      "type": "themepark",
+      "ages": [
+        "under5",
+        "kids",
+        "teens"
+      ],
+      "region": "uk",
+      "where": "Chessington, Surrey, England",
+      "cost": "mid",
+      "setting": "outdoor",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1502136969935-8d8eef54d77b",
+        "alt": "People riding a spinning fairground ride",
+        "credit": "Ethan Hoover",
+        "creditUrl": "https://unsplash.com/@ethanchoover"
+      },
+      "text": "Family rides and a zoo in one ticket. A strong mixed-age day.",
+      "scout": "Plan your route around the animal talks.",
+      "url": "https://www.chessington.com/",
+      "slug": "theme-parks",
+      "tags": [
+        "zoo",
+        "merlin"
+      ]
+    },
+    {
+      "id": "paultons",
+      "title": "Paultons Park & Peppa Pig World",
+      "type": "themepark",
+      "ages": [
+        "under5",
+        "kids"
+      ],
+      "region": "uk",
+      "where": "New Forest, Hampshire, England",
+      "cost": "mid",
+      "setting": "outdoor",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1770871821382-60ea99b0a941",
+        "alt": "A happy family running together in a sunlit garden",
+        "credit": "Aleksandra Sapozhnikova",
+        "creditUrl": "https://unsplash.com/@rruprrup"
+      },
+      "text": "Peppa Pig World for toddlers, and the Viking-themed Valgard land (2026) for older kids.",
+      "scout": "Do Peppa Pig World in the afternoon when it’s quieter.",
+      "url": "https://paultonspark.co.uk/",
+      "slug": "toddler-days-out",
+      "tags": [
+        "peppa pig",
+        "toddler"
+      ]
+    },
+    {
+      "id": "blackpool-pleasure-beach",
+      "title": "Blackpool Pleasure Beach",
+      "type": "themepark",
+      "ages": [
+        "under5",
+        "kids",
+        "teens"
+      ],
+      "region": "uk",
+      "where": "Blackpool, Lancashire, England",
+      "cost": "mid",
+      "setting": "outdoor",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1627035983655-0ceec61bb733",
+        "alt": "A roller coaster at an amusement park",
+        "credit": "Somruthai Keawjan",
+        "creditUrl": "https://unsplash.com/@deuxsong"
+      },
+      "text": "A classic seaside park with historic coasters, right by the beach.",
+      "scout": "Pair it with free beach time to stretch the day.",
+      "url": "https://www.blackpoolpleasurebeach.com/",
+      "slug": "theme-parks",
+      "tags": [
+        "seaside",
+        "coaster"
+      ]
+    },
+    {
+      "id": "drayton-manor",
+      "title": "Drayton Manor Resort",
+      "type": "themepark",
+      "ages": [
+        "under5",
+        "kids",
+        "teens"
+      ],
+      "region": "uk",
+      "where": "Tamworth, Staffordshire, England",
+      "cost": "mid",
+      "setting": "outdoor",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1502136969935-8d8eef54d77b",
+        "alt": "People riding a spinning fairground ride",
+        "credit": "Ethan Hoover",
+        "creditUrl": "https://unsplash.com/@ethanchoover"
+      },
+      "text": "Thrill rides plus Thomas Land, a whole area themed on Thomas & Friends for little engine fans.",
+      "scout": "Thomas Land is a toddler dream. Bigger kids can do the coasters.",
+      "url": "https://www.draytonmanor.co.uk/",
+      "slug": "theme-parks",
+      "tags": [
+        "thomas",
+        "toddler",
+        "coaster"
+      ]
+    },
+    {
+      "id": "flamingo-land",
+      "title": "Flamingo Land",
+      "type": "themepark",
+      "ages": [
+        "under5",
+        "kids",
+        "teens"
+      ],
+      "region": "uk",
+      "where": "North Yorkshire, England",
+      "cost": "mid",
+      "setting": "outdoor",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1628835788312-41d61f5ddce8",
+        "alt": "A roller coaster track against a blue sky",
+        "credit": "Jonny Gios",
+        "creditUrl": "https://unsplash.com/@supergios"
+      },
+      "text": "A theme park and zoo combined, with rides for every age.",
+      "scout": "Rides and animals in one ticket makes it great value for mixed ages.",
+      "url": "https://www.flamingoland.co.uk/",
+      "slug": "theme-parks",
+      "tags": [
+        "zoo",
+        "coaster"
+      ]
+    },
+    {
+      "id": "walt-disney-world",
+      "title": "Walt Disney World Resort",
+      "type": "themepark",
+      "ages": [
+        "under5",
+        "kids",
+        "teens"
+      ],
+      "region": "us",
+      "where": "Orlando, Florida, USA",
+      "cost": "splurge",
+      "setting": "outdoor",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1597466599360-3b9775841aec",
+        "alt": "Cinderella Castle at Magic Kingdom, Walt Disney World, Orlando",
+        "credit": "Kitera Dent",
+        "creditUrl": "https://unsplash.com/@kitera"
+      },
+      "text": "Four theme parks and two water parks. A holiday, not a day out.",
+      "scout": "Two parks done well beat four done in a rush.",
+      "url": "https://disneyworld.disney.go.com/",
+      "slug": "disney-deals",
+      "tags": [
+        "disney",
+        "orlando",
+        "florida"
+      ]
+    },
+    {
+      "id": "universal-orlando",
+      "title": "Universal Orlando Resort",
+      "type": "themepark",
+      "ages": [
+        "kids",
+        "teens"
+      ],
+      "region": "us",
+      "where": "Orlando, Florida, USA",
+      "cost": "splurge",
+      "setting": "outdoor",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1618944913480-b67ee16d7b77",
+        "alt": "A castle-style building lit up at night",
+        "credit": "Aditya Vyas",
+        "creditUrl": "https://unsplash.com/@aditya1702"
+      },
+      "text": "Three theme parks including Epic Universe, with the Wizarding World of Harry Potter across all three.",
+      "scout": "Get park-to-park tickets to ride the Hogwarts Express.",
+      "url": "https://www.universalorlando.com/",
+      "slug": "blog/epic-universe-family-guide",
+      "tags": [
+        "harry potter",
+        "epic universe",
+        "orlando"
+      ]
+    },
+    {
+      "id": "disneyland-resort",
+      "title": "Disneyland Resort",
+      "type": "themepark",
+      "ages": [
+        "under5",
+        "kids",
+        "teens"
+      ],
+      "region": "us",
+      "where": "Anaheim, California, USA",
+      "cost": "splurge",
+      "setting": "outdoor",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1528041119984-da3a9f8d04d1",
+        "alt": "A fairy-tale castle lit up at night",
+        "credit": "PAN XIAOZHEN",
+        "creditUrl": "https://unsplash.com/@zhenhappy"
+      },
+      "text": "The original Disneyland and Disney California Adventure, side by side.",
+      "scout": "The parks are next door, so park hopping is easy here.",
+      "url": "https://disneyland.disney.go.com/",
+      "slug": "disney-deals",
+      "tags": [
+        "disney",
+        "california"
+      ]
+    },
+    {
+      "id": "cedar-point",
+      "title": "Cedar Point",
+      "type": "themepark",
+      "ages": [
+        "kids",
+        "teens"
+      ],
+      "region": "us",
+      "where": "Sandusky, Ohio, USA",
+      "cost": "mid",
+      "setting": "outdoor",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1713426225330-014fbfd04aa0",
+        "alt": "Riders with arms in the air on a roller coaster",
+        "credit": "Hannes Knutsson",
+        "creditUrl": "https://unsplash.com/@hannesknutsson"
+      },
+      "text": "A legendary coaster park on Lake Erie, famous with thrill-seekers.",
+      "scout": "Coaster-mad teens will rate this one. Check height limits.",
+      "url": "https://www.cedarpoint.com/",
+      "slug": "teen-days-out",
+      "tags": [
+        "coaster",
+        "thrill"
+      ]
+    },
+    {
+      "id": "disneyland-paris",
+      "title": "Disneyland Paris",
+      "type": "themepark",
+      "ages": [
+        "under5",
+        "kids",
+        "teens"
+      ],
+      "region": "europe",
+      "where": "Marne-la-Vallée, near Paris, France",
+      "cost": "splurge",
+      "setting": "outdoor",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1605443790760-18c6121939d3",
+        "alt": "Sleeping Beauty Castle at Disneyland Paris",
+        "credit": "Bastien Nvs",
+        "creditUrl": "https://unsplash.com/@bastien_nvs"
+      },
+      "text": "Disneyland Park and Disney Adventure World, home of World of Frozen since March 2026.",
+      "scout": "Do two days, and hit World of Frozen early.",
+      "url": "https://www.disneylandparis.com/",
+      "slug": "blog/disneyland-paris-disney-adventure-world",
+      "tags": [
+        "disney",
+        "frozen",
+        "paris"
+      ]
+    },
+    {
+      "id": "efteling",
+      "title": "Efteling",
+      "type": "themepark",
+      "ages": [
+        "under5",
+        "kids",
+        "teens"
+      ],
+      "region": "europe",
+      "where": "Kaatsheuvel, Netherlands",
+      "cost": "mid",
+      "setting": "outdoor",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1524008279394-3aed4643b30b",
+        "alt": "Fireworks over a fairy-tale castle at night",
+        "credit": "Jayme McColgan",
+        "creditUrl": "https://unsplash.com/@jayme"
+      },
+      "text": "A fairy-tale park with an enchanted forest walk and coasters for older kids.",
+      "scout": "The Fairytale Forest suits toddlers and grandparents alike.",
+      "url": "https://www.efteling.com/en",
+      "slug": "blog/europe-theme-parks-family",
+      "tags": [
+        "fairytale",
+        "netherlands"
+      ]
+    },
+    {
+      "id": "europa-park",
+      "title": "Europa-Park",
+      "type": "themepark",
+      "ages": [
+        "under5",
+        "kids",
+        "teens"
+      ],
+      "region": "europe",
+      "where": "Rust, Germany",
+      "cost": "mid",
+      "setting": "outdoor",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1627035983655-0ceec61bb733",
+        "alt": "A roller coaster at an amusement park",
+        "credit": "Somruthai Keawjan",
+        "creditUrl": "https://unsplash.com/@deuxsong"
+      },
+      "text": "Germany’s biggest theme park, themed on European countries.",
+      "scout": "Plan two days. It’s huge.",
+      "url": "https://www.europapark.de/en",
+      "slug": "blog/europe-theme-parks-family",
+      "tags": [
+        "germany",
+        "coaster"
+      ]
+    },
+    {
+      "id": "portaventura",
+      "title": "PortAventura World",
+      "type": "themepark",
+      "ages": [
+        "kids",
+        "teens"
+      ],
+      "region": "europe",
+      "where": "Salou, Spain",
+      "cost": "mid",
+      "setting": "outdoor",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1642717841683-c0323214617c",
+        "alt": "Water slides at a water park",
+        "credit": "Konrad Burdyn",
+        "creditUrl": "https://unsplash.com/@kburdyn"
+      },
+      "text": "Theme park, Ferrari Land and a water park near the Costa Dorada beaches.",
+      "scout": "Perfect add-on to a beach holiday.",
+      "url": "https://www.portaventuraworld.com/en",
+      "slug": "blog/europe-theme-parks-family",
+      "tags": [
+        "spain",
+        "beach holiday"
+      ]
+    },
+    {
+      "id": "legoland-billund",
+      "title": "LEGOLAND Billund",
+      "type": "themepark",
+      "ages": [
+        "under5",
+        "kids"
+      ],
+      "region": "europe",
+      "where": "Billund, Denmark",
+      "cost": "mid",
+      "setting": "outdoor",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1633469924738-52101af51d87",
+        "alt": "A close-up of colourful toy building bricks",
+        "credit": "Sen",
+        "creditUrl": "https://unsplash.com/@sen7"
+      },
+      "text": "The original LEGOLAND, near LEGO House.",
+      "scout": "Combine with LEGO House to make the trip worthwhile.",
+      "url": "https://www.legoland.dk/en/",
+      "slug": "blog/europe-theme-parks-family",
+      "tags": [
+        "lego",
+        "denmark"
+      ]
+    },
+    {
+      "id": "parc-asterix",
+      "title": "Parc Astérix",
+      "type": "themepark",
+      "ages": [
+        "kids",
+        "teens"
+      ],
+      "region": "europe",
+      "where": "Plailly, near Paris, France",
+      "cost": "mid",
+      "setting": "outdoor",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1502136969935-8d8eef54d77b",
+        "alt": "People riding a spinning fairground ride",
+        "credit": "Ethan Hoover",
+        "creditUrl": "https://unsplash.com/@ethanchoover"
+      },
+      "text": "Funny, very French park with strong coasters and family rides.",
+      "scout": "A great second park on a Paris trip.",
+      "url": "https://www.parcasterix.fr/en",
+      "slug": "blog/europe-theme-parks-family",
+      "tags": [
+        "paris",
+        "coaster"
+      ]
+    },
+    {
+      "id": "tivoli",
+      "title": "Tivoli Gardens",
+      "type": "themepark",
+      "ages": [
+        "under5",
+        "kids",
+        "teens"
+      ],
+      "region": "europe",
+      "where": "Copenhagen, Denmark",
+      "cost": "mid",
+      "setting": "outdoor",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1528041119984-da3a9f8d04d1",
+        "alt": "A fairy-tale castle lit up at night",
+        "credit": "PAN XIAOZHEN",
+        "creditUrl": "https://unsplash.com/@zhenhappy"
+      },
+      "text": "One of the world’s oldest amusement parks (1843), magical after dark.",
+      "scout": "Go in the evening for the lights.",
+      "url": "https://www.tivoli.dk/en",
+      "slug": "international-days-out",
+      "tags": [
+        "copenhagen",
+        "christmas"
+      ]
+    },
+    {
+      "id": "phantasialand",
+      "title": "Phantasialand",
+      "type": "themepark",
+      "ages": [
+        "kids",
+        "teens"
+      ],
+      "region": "europe",
+      "where": "Brühl, near Cologne, Germany",
+      "cost": "mid",
+      "setting": "outdoor",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1713426225330-014fbfd04aa0",
+        "alt": "Riders with arms in the air on a roller coaster",
+        "credit": "Hannes Knutsson",
+        "creditUrl": "https://unsplash.com/@hannesknutsson"
+      },
+      "text": "Richly themed park famous for its intense coasters, with family areas too.",
+      "scout": "A bucket-list park for coaster-loving teens.",
+      "url": "https://www.phantasialand.de/en/",
+      "slug": "teen-days-out",
+      "tags": [
+        "germany",
+        "coaster",
+        "thrill"
+      ]
+    },
+    {
+      "id": "sandcastle",
+      "title": "Sandcastle Waterpark",
+      "type": "waterpark",
+      "ages": [
+        "under5",
+        "kids",
+        "teens"
+      ],
+      "region": "uk",
+      "where": "Blackpool, Lancashire, England",
+      "cost": "mid",
+      "setting": "indoor",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1642717841683-c0323214617c",
+        "alt": "Water slides at a water park",
+        "credit": "Konrad Burdyn",
+        "creditUrl": "https://unsplash.com/@kburdyn"
+      },
+      "text": "A big indoor water park on Blackpool’s seafront: slides, wave pool and toddler areas.",
+      "scout": "Indoor and warm, so it’s rain-proof. No longer on new Merlin passes.",
+      "url": "https://www.sandcastle-waterpark.co.uk/",
+      "slug": "water-parks",
+      "tags": [
+        "slides",
+        "rainy day"
+      ]
+    },
+    {
+      "id": "center-parcs",
+      "title": "Center Parcs",
+      "type": "waterpark",
+      "ages": [
+        "under5",
+        "kids",
+        "teens"
+      ],
+      "region": "uk",
+      "where": "Forest villages across the UK and Ireland",
+      "cost": "splurge",
+      "setting": "both",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1561524891-8e08ab8569f3",
+        "alt": "A family walking along a wooden boardwalk through a field at golden hour",
+        "credit": "Jessica Rockowitz",
+        "creditUrl": "https://unsplash.com/@jessicarockowitz"
+      },
+      "text": "Forest short breaks built around an indoor tropical pool, bikes and activities.",
+      "scout": "A short break, not a day out. Midweek breaks are usually cheaper.",
+      "url": "https://www.centerparcs.co.uk/",
+      "slug": "water-parks",
+      "tags": [
+        "short break",
+        "swimming"
+      ]
+    },
+    {
+      "id": "rulantica",
+      "title": "Rulantica",
+      "type": "waterpark",
+      "ages": [
+        "under5",
+        "kids",
+        "teens"
+      ],
+      "region": "europe",
+      "where": "Rust, Germany (next to Europa-Park)",
+      "cost": "mid",
+      "setting": "indoor",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1642717841683-c0323214617c",
+        "alt": "Water slides at a water park",
+        "credit": "Konrad Burdyn",
+        "creditUrl": "https://unsplash.com/@kburdyn"
+      },
+      "text": "A huge Scandinavian-themed indoor water world beside Europa-Park.",
+      "scout": "Give it its own day rather than squeezing it in.",
+      "url": "https://www.rulantica.de/en",
+      "slug": "water-parks",
+      "tags": [
+        "germany",
+        "slides"
+      ]
+    },
+    {
+      "id": "siam-park",
+      "title": "Siam Park",
+      "type": "waterpark",
+      "ages": [
+        "kids",
+        "teens"
+      ],
+      "region": "europe",
+      "where": "Costa Adeje, Tenerife, Spain",
+      "cost": "mid",
+      "setting": "outdoor",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1642717841683-c0323214617c",
+        "alt": "Water slides at a water park",
+        "credit": "Konrad Burdyn",
+        "creditUrl": "https://unsplash.com/@kburdyn"
+      },
+      "text": "A Thai-themed water park in Tenerife with famous slides and a giant wave pool.",
+      "scout": "Arrive early and grab a sunbed. Suncream on!",
+      "url": "https://www.siampark.net/",
+      "slug": "water-parks",
+      "tags": [
+        "tenerife",
+        "slides"
+      ]
+    },
+    {
+      "id": "volcano-bay",
+      "title": "Universal’s Volcano Bay",
+      "type": "waterpark",
+      "ages": [
+        "kids",
+        "teens"
+      ],
+      "region": "us",
+      "where": "Orlando, Florida, USA",
+      "cost": "mid",
+      "setting": "outdoor",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1642717841683-c0323214617c",
+        "alt": "Water slides at a water park",
+        "credit": "Konrad Burdyn",
+        "creditUrl": "https://unsplash.com/@kburdyn"
+      },
+      "text": "Universal Orlando’s volcano-themed water park with virtual queuing.",
+      "scout": "A great rest day between theme parks.",
+      "url": "https://www.universalorlando.com/",
+      "slug": "water-parks",
+      "tags": [
+        "orlando",
+        "slides"
+      ]
+    },
+    {
+      "id": "typhoon-lagoon",
+      "title": "Disney’s Typhoon Lagoon",
+      "type": "waterpark",
+      "ages": [
+        "under5",
+        "kids",
+        "teens"
+      ],
+      "region": "us",
+      "where": "Walt Disney World, Florida, USA",
+      "cost": "mid",
+      "setting": "outdoor",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1695425812104-8a9963d58887",
+        "alt": "A family walking on the beach holding hands",
+        "credit": "Jennifer Kalenberg",
+        "creditUrl": "https://unsplash.com/@jkalen71"
+      },
+      "text": "Disney’s shipwreck-themed water park with a big surf pool and gentle areas for little ones.",
+      "scout": "Check seasonal opening: Disney water parks close for refurbishment at times.",
+      "url": "https://disneyworld.disney.go.com/",
+      "slug": "water-parks",
+      "tags": [
+        "disney",
+        "orlando"
+      ]
+    },
+    {
+      "id": "leisure-pool",
+      "title": "Your local leisure pool",
+      "type": "waterpark",
+      "ages": [
+        "under5",
+        "kids",
+        "teens"
+      ],
+      "region": "near",
+      "where": "Leisure centres near you",
+      "cost": "budget",
+      "setting": "indoor",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1642717841683-c0323214617c",
+        "alt": "Water slides at a water park",
+        "credit": "Konrad Burdyn",
+        "creditUrl": "https://unsplash.com/@kburdyn"
+      },
+      "text": "Flumes, wave machines and inflatable sessions at local pools.",
+      "scout": "Look for family swim sessions and fun inflatable times.",
+      "slug": "water-parks",
+      "tags": [
+        "swimming",
+        "rainy day",
+        "flumes"
+      ]
+    },
+    {
+      "id": "chester-zoo",
+      "title": "Chester Zoo",
+      "type": "zoo",
+      "ages": [
+        "under5",
+        "kids",
+        "teens"
+      ],
+      "region": "uk",
+      "where": "Chester, England",
+      "cost": "mid",
+      "setting": "outdoor",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1635678744850-eb5df4fa6d97",
+        "alt": "Two giraffes standing side by side",
+        "credit": "Daley van de Sande",
+        "creditUrl": "https://unsplash.com/@daleyvandesande"
+      },
+      "text": "One of the UK’s biggest zoos, run by a conservation charity.",
+      "scout": "Comfy shoes! It’s a big site.",
+      "url": "https://www.chesterzoo.org/",
+      "slug": "zoos-and-aquariums",
+      "tags": [
+        "animals"
+      ]
+    },
+    {
+      "id": "london-zoo",
+      "title": "London Zoo",
+      "type": "zoo",
+      "ages": [
+        "under5",
+        "kids",
+        "teens"
+      ],
+      "region": "uk",
+      "where": "Regent’s Park, London",
+      "cost": "mid",
+      "setting": "outdoor",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1645988766416-f895f648767b",
+        "alt": "A mother gorilla hugging her baby",
+        "credit": "Carrie Borden",
+        "creditUrl": "https://unsplash.com/@carrie_borden"
+      },
+      "text": "The world’s oldest scientific zoo, run by ZSL.",
+      "scout": "Check the National Rail Days Out Guide offer first.",
+      "url": "https://www.londonzoo.org/",
+      "slug": "zoos-and-aquariums",
+      "tags": [
+        "animals",
+        "london"
+      ]
+    },
+    {
+      "id": "longleat",
+      "title": "Longleat",
+      "type": "zoo",
+      "ages": [
+        "under5",
+        "kids",
+        "teens"
+      ],
+      "region": "uk",
+      "where": "Wiltshire, England",
+      "cost": "mid",
+      "setting": "both",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1759129669580-e1e9ae3c078b",
+        "alt": "A safari vehicle driving through dry bush",
+        "credit": "Ed Wingate",
+        "creditUrl": "https://unsplash.com/@ed_wingate"
+      },
+      "text": "A drive-through safari park plus a stately home and adventure play.",
+      "scout": "Windows up where the signs say: monkeys love car aerials.",
+      "url": "https://www.longleat.co.uk/",
+      "slug": "zoos-and-aquariums",
+      "tags": [
+        "safari"
+      ]
+    },
+    {
+      "id": "west-midland-safari",
+      "title": "West Midland Safari Park",
+      "type": "zoo",
+      "ages": [
+        "under5",
+        "kids",
+        "teens"
+      ],
+      "region": "uk",
+      "where": "Bewdley, Worcestershire, England",
+      "cost": "mid",
+      "setting": "both",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1641133292545-32e441e60190",
+        "alt": "A cheetah standing on a rock",
+        "credit": "Tomáš Malík",
+        "creditUrl": "https://unsplash.com/@malcoo"
+      },
+      "text": "A drive-through safari plus walk-through areas and family rides.",
+      "scout": "Do the drive-through first, then the walk-round areas.",
+      "url": "https://www.wmsp.co.uk/",
+      "slug": "zoos-and-aquariums",
+      "tags": [
+        "safari"
+      ]
+    },
+    {
+      "id": "yorkshire-wildlife-park",
+      "title": "Yorkshire Wildlife Park",
+      "type": "zoo",
+      "ages": [
+        "under5",
+        "kids",
+        "teens"
+      ],
+      "region": "uk",
+      "where": "Doncaster, South Yorkshire, England",
+      "cost": "mid",
+      "setting": "outdoor",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1503918756811-975bd3397178",
+        "alt": "A boy feeding deer through a fence",
+        "credit": "Daiga Ellaby",
+        "creditUrl": "https://unsplash.com/@daiga_ellaby"
+      },
+      "text": "Walk-through wildlife park known for its polar bears.",
+      "scout": "Walkways are long but flat, which is good for buggies.",
+      "url": "https://www.yorkshirewildlifepark.com/",
+      "slug": "zoos-and-aquariums",
+      "tags": [
+        "polar bears"
+      ]
+    },
+    {
+      "id": "edinburgh-zoo",
+      "title": "Edinburgh Zoo",
+      "type": "zoo",
+      "ages": [
+        "under5",
+        "kids",
+        "teens"
+      ],
+      "region": "uk",
+      "where": "Edinburgh, Scotland",
+      "cost": "mid",
+      "setting": "outdoor",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1519766277046-4d701c174ab2",
+        "alt": "A visitor watching a penguin swim past the glass",
+        "credit": "Zachary Spears",
+        "creditUrl": "https://unsplash.com/@zachspears"
+      },
+      "text": "A hillside zoo famous for its penguins.",
+      "scout": "Hilly, so bring a sturdy buggy or carrier.",
+      "url": "https://www.edinburghzoo.org.uk/",
+      "slug": "zoos-and-aquariums",
+      "tags": [
+        "penguins"
+      ]
+    },
+    {
+      "id": "sea-life",
+      "title": "SEA LIFE aquariums",
+      "type": "zoo",
+      "ages": [
+        "under5",
+        "kids",
+        "teens"
+      ],
+      "region": "uk",
+      "where": "Centres across the UK",
+      "cost": "mid",
+      "setting": "indoor",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1489015712802-f490a7a1061d",
+        "alt": "A toddler touching the glass of an aquarium tank",
+        "credit": "Caroline Hernandez",
+        "creditUrl": "https://unsplash.com/@carolinehdz"
+      },
+      "text": "Indoor aquariums with sharks, rays and penguins at some centres.",
+      "scout": "Perfect rainy-day rescue, usually 1.5–2 hours.",
+      "url": "https://www.visitsealife.com/",
+      "slug": "zoos-and-aquariums",
+      "tags": [
+        "aquarium",
+        "rainy day",
+        "merlin"
+      ]
+    },
+    {
+      "id": "san-diego-zoo",
+      "title": "San Diego Zoo",
+      "type": "zoo",
+      "ages": [
+        "under5",
+        "kids",
+        "teens"
+      ],
+      "region": "us",
+      "where": "San Diego, California, USA",
+      "cost": "mid",
+      "setting": "outdoor",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1635678744850-eb5df4fa6d97",
+        "alt": "Two giraffes standing side by side",
+        "credit": "Daley van de Sande",
+        "creditUrl": "https://unsplash.com/@daleyvandesande"
+      },
+      "text": "World-famous zoo in Balboa Park.",
+      "scout": "Use the bus tour to save little legs.",
+      "url": "https://zoo.sandiegozoo.org/",
+      "slug": "zoos-and-aquariums",
+      "tags": [
+        "california"
+      ]
+    },
+    {
+      "id": "monterey-bay",
+      "title": "Monterey Bay Aquarium",
+      "type": "zoo",
+      "ages": [
+        "under5",
+        "kids",
+        "teens"
+      ],
+      "region": "us",
+      "where": "Monterey, California, USA",
+      "cost": "mid",
+      "setting": "indoor",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1663579170421-d6481b9afa89",
+        "alt": "An adult and child looking into a large aquarium tank",
+        "credit": "lucas Favre",
+        "creditUrl": "https://unsplash.com/@we_are_rising"
+      },
+      "text": "Sea otters, kelp forests and a giant open-ocean tank.",
+      "scout": "Don’t miss the otter feeds.",
+      "url": "https://www.montereybayaquarium.org/",
+      "slug": "zoos-and-aquariums",
+      "tags": [
+        "aquarium",
+        "otters"
+      ]
+    },
+    {
+      "id": "beauval",
+      "title": "ZooParc de Beauval",
+      "type": "zoo",
+      "ages": [
+        "under5",
+        "kids",
+        "teens"
+      ],
+      "region": "europe",
+      "where": "Saint-Aignan, Loire Valley, France",
+      "cost": "mid",
+      "setting": "outdoor",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1641133292545-32e441e60190",
+        "alt": "A cheetah standing on a rock",
+        "credit": "Tomáš Malík",
+        "creditUrl": "https://unsplash.com/@malcoo"
+      },
+      "text": "One of Europe’s best-known zoos, with giant pandas and a cable car.",
+      "scout": "Two days lets you see it all.",
+      "url": "https://www.zoobeauval.com/en",
+      "slug": "zoos-and-aquariums",
+      "tags": [
+        "france",
+        "pandas"
+      ]
+    },
+    {
+      "id": "farm-park",
+      "title": "Farm parks & petting farms",
+      "type": "farm",
+      "ages": [
+        "under5",
+        "kids"
+      ],
+      "region": "near",
+      "where": "Farm parks near you",
+      "cost": "budget",
+      "setting": "both",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1503919005314-30d93d07d823",
+        "alt": "A young boy feeding an animal at a farm park",
+        "credit": "Daiga Ellaby",
+        "creditUrl": "https://unsplash.com/@daiga_ellaby"
+      },
+      "text": "Feeding lambs, tractor rides, play barns and bouncy pillows.",
+      "scout": "Lambing season in spring is extra special.",
+      "slug": "farm-days-out",
+      "tags": [
+        "animals",
+        "toddler",
+        "tractor"
+      ]
+    },
+    {
+      "id": "pick-your-own",
+      "title": "Pick-your-own farms",
+      "type": "farm",
+      "ages": [
+        "under5",
+        "kids",
+        "teens"
+      ],
+      "region": "near",
+      "where": "Fruit farms near you",
+      "cost": "budget",
+      "setting": "outdoor",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1507184271110-b05ac115e5ea",
+        "alt": "A girl carrying a pumpkin she has picked",
+        "credit": "Patrick Fore",
+        "creditUrl": "https://unsplash.com/@patrickian4"
+      },
+      "text": "Strawberries in summer, apples and pumpkins in autumn. Pay for what you pick.",
+      "scout": "Go early in the season for the best pickings.",
+      "slug": "farm-days-out",
+      "tags": [
+        "strawberries",
+        "pumpkins"
+      ]
+    },
+    {
+      "id": "pumpkin-patch",
+      "title": "Pumpkin picking",
+      "type": "seasonal",
+      "ages": [
+        "under5",
+        "kids",
+        "teens"
+      ],
+      "region": "near",
+      "where": "Pumpkin patches near you (autumn)",
+      "cost": "budget",
+      "setting": "outdoor",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1730144448428-35b5d908cfb4",
+        "alt": "Two children sitting on a hay bale surrounded by pumpkins",
+        "credit": "Christopher Luther",
+        "creditUrl": "https://unsplash.com/@chriscantlose"
+      },
+      "text": "Hay-bale mazes, wheelbarrows and the perfect carving pumpkin.",
+      "scout": "Book a timed slot at weekends and wear wellies.",
+      "slug": "blog/halloween-family-days-out",
+      "tags": [
+        "halloween",
+        "autumn"
+      ]
+    },
+    {
+      "id": "natural-history-museum",
+      "title": "Natural History Museum",
+      "type": "museum",
+      "ages": [
+        "under5",
+        "kids",
+        "teens"
+      ],
+      "region": "uk",
+      "where": "South Kensington, London",
+      "cost": "free",
+      "setting": "indoor",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1491156855053-9cdff72c7f85",
+        "alt": "The vaulted Hintze Hall at the Natural History Museum, London",
+        "credit": "Claudio Testa",
+        "creditUrl": "https://unsplash.com/@claudiotesta"
+      },
+      "text": "Dinosaurs, a blue whale skeleton and an earthquake room. Free general admission.",
+      "scout": "Arrive at opening for the dinosaur gallery.",
+      "url": "https://www.nhm.ac.uk/",
+      "slug": "blog/free-museums-london-kids",
+      "tags": [
+        "dinosaurs",
+        "free",
+        "rainy day"
+      ]
+    },
+    {
+      "id": "science-museum",
+      "title": "Science Museum",
+      "type": "museum",
+      "ages": [
+        "kids",
+        "teens"
+      ],
+      "region": "uk",
+      "where": "South Kensington, London",
+      "cost": "free",
+      "setting": "indoor",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1508026155071-961dae008723",
+        "alt": "A museum hall with a whale skeleton hanging from the ceiling",
+        "credit": "Toa Heftiba",
+        "creditUrl": "https://unsplash.com/@heftiba"
+      },
+      "text": "Space, flight and hands-on science. Free general admission.",
+      "scout": "Some interactive galleries charge. Check before you go.",
+      "url": "https://www.sciencemuseum.org.uk/",
+      "slug": "museums-and-science",
+      "tags": [
+        "space",
+        "free"
+      ]
+    },
+    {
+      "id": "young-va",
+      "title": "Young V&A",
+      "type": "museum",
+      "ages": [
+        "under5",
+        "kids"
+      ],
+      "region": "uk",
+      "where": "Bethnal Green, London",
+      "cost": "free",
+      "setting": "indoor",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1633469924738-52101af51d87",
+        "alt": "A close-up of colourful toy building bricks",
+        "credit": "Sen",
+        "creditUrl": "https://unsplash.com/@sen7"
+      },
+      "text": "A free museum designed for children and young people, full of play and design.",
+      "scout": "Brilliant for under-10s on a wet day.",
+      "url": "https://www.vam.ac.uk/young",
+      "slug": "museums-and-science",
+      "tags": [
+        "free",
+        "toddler",
+        "play"
+      ]
+    },
+    {
+      "id": "national-museum-scotland",
+      "title": "National Museum of Scotland",
+      "type": "museum",
+      "ages": [
+        "under5",
+        "kids",
+        "teens"
+      ],
+      "region": "uk",
+      "where": "Edinburgh, Scotland",
+      "cost": "free",
+      "setting": "indoor",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1534739302117-e9ff126dec91",
+        "alt": "Looking up at a dinosaur skeleton in a museum",
+        "credit": "Aditya Vyas",
+        "creditUrl": "https://unsplash.com/@aditya1702"
+      },
+      "text": "Dinosaurs, Dolly the sheep and hands-on galleries. Free general admission.",
+      "scout": "Head up to the rooftop terrace for city views.",
+      "url": "https://www.nms.ac.uk/",
+      "slug": "museums-and-science",
+      "tags": [
+        "free",
+        "edinburgh"
+      ]
+    },
+    {
+      "id": "eureka",
+      "title": "Eureka! The National Children’s Museum",
+      "type": "museum",
+      "ages": [
+        "under5",
+        "kids"
+      ],
+      "region": "uk",
+      "where": "Halifax, West Yorkshire, England",
+      "cost": "mid",
+      "setting": "indoor",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1570246555011-7dd965c49951",
+        "alt": "A boy leaning on the glass of an aquarium full of fish",
+        "credit": "Nur Taufik Zamari",
+        "creditUrl": "https://unsplash.com/@nurtaufickz"
+      },
+      "text": "A hands-on museum made for children, with play-based galleries.",
+      "scout": "Best for under-11s. Book ahead in the holidays.",
+      "url": "https://www.eureka.org.uk/",
+      "slug": "museums-and-science",
+      "tags": [
+        "hands-on",
+        "toddler"
+      ]
+    },
+    {
+      "id": "national-space-centre",
+      "title": "National Space Centre",
+      "type": "museum",
+      "ages": [
+        "kids",
+        "teens"
+      ],
+      "region": "uk",
+      "where": "Leicester, England",
+      "cost": "mid",
+      "setting": "indoor",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1513038630932-13873b1a7f29",
+        "alt": "Visitors exploring a dinosaur fossil gallery",
+        "credit": "Chris Nguyen",
+        "creditUrl": "https://unsplash.com/@cspek"
+      },
+      "text": "Rockets, a planetarium and space galleries.",
+      "scout": "Catch a planetarium show: check times on arrival.",
+      "url": "https://spacecentre.co.uk/",
+      "slug": "museums-and-science",
+      "tags": [
+        "space",
+        "planetarium"
+      ]
+    },
+    {
+      "id": "royal-observatory",
+      "title": "Royal Observatory Greenwich",
+      "type": "museum",
+      "ages": [
+        "kids",
+        "teens"
+      ],
+      "region": "uk",
+      "where": "Greenwich, London",
+      "cost": "mid",
+      "setting": "both",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1687488057264-d3500aec2cc7",
+        "alt": "Two adults and a child looking out at a mountain view",
+        "credit": "Nils Huenerfuerst",
+        "creditUrl": "https://unsplash.com/@nhuenerfuerst"
+      },
+      "text": "Stand on the Prime Meridian and catch a planetarium show.",
+      "scout": "Greenwich Park next door is free and great for a picnic.",
+      "url": "https://www.rmg.co.uk/royal-observatory",
+      "slug": "museums-and-science",
+      "tags": [
+        "space",
+        "planetarium",
+        "london"
+      ]
+    },
+    {
+      "id": "smithsonian",
+      "title": "Smithsonian museums",
+      "type": "museum",
+      "ages": [
+        "under5",
+        "kids",
+        "teens"
+      ],
+      "region": "us",
+      "where": "Washington, DC, USA",
+      "cost": "free",
+      "setting": "indoor",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1513038630932-13873b1a7f29",
+        "alt": "Visitors exploring a dinosaur fossil gallery",
+        "credit": "Chris Nguyen",
+        "creditUrl": "https://unsplash.com/@cspek"
+      },
+      "text": "Most Smithsonian museums are free, including Natural History and Air and Space.",
+      "scout": "Two museums a day max with younger kids.",
+      "url": "https://www.si.edu/",
+      "slug": "blog/free-days-out-usa-kids",
+      "tags": [
+        "free",
+        "dinosaurs",
+        "space"
+      ]
+    },
+    {
+      "id": "exploratorium",
+      "title": "Exploratorium",
+      "type": "museum",
+      "ages": [
+        "kids",
+        "teens"
+      ],
+      "region": "us",
+      "where": "San Francisco, California, USA",
+      "cost": "mid",
+      "setting": "indoor",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1570246555011-7dd965c49951",
+        "alt": "A boy leaning on the glass of an aquarium full of fish",
+        "credit": "Nur Taufik Zamari",
+        "creditUrl": "https://unsplash.com/@nurtaufickz"
+      },
+      "text": "Hundreds of hands-on science exhibits on San Francisco’s waterfront.",
+      "scout": "Teens love the evening events: check the age rules.",
+      "url": "https://www.exploratorium.edu/",
+      "slug": "museums-and-science",
+      "tags": [
+        "science",
+        "hands-on"
+      ]
+    },
+    {
+      "id": "kennedy-space-center",
+      "title": "Kennedy Space Center Visitor Complex",
+      "type": "museum",
+      "ages": [
+        "kids",
+        "teens"
+      ],
+      "region": "us",
+      "where": "Merritt Island, Florida, USA",
+      "cost": "mid",
+      "setting": "both",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1687488057264-d3500aec2cc7",
+        "alt": "Two adults and a child looking out at a mountain view",
+        "credit": "Nils Huenerfuerst",
+        "creditUrl": "https://unsplash.com/@nhuenerfuerst"
+      },
+      "text": "Real rockets, astronaut stories and the Space Shuttle Atlantis.",
+      "scout": "An easy add-on to an Orlando trip. Check launch schedules.",
+      "url": "https://www.kennedyspacecenter.com/",
+      "slug": "museums-and-science",
+      "tags": [
+        "space",
+        "orlando"
+      ]
+    },
+    {
+      "id": "cite-des-sciences",
+      "title": "Cité des Sciences et de l’Industrie",
+      "type": "museum",
+      "ages": [
+        "under5",
+        "kids",
+        "teens"
+      ],
+      "region": "europe",
+      "where": "Paris, France",
+      "cost": "budget",
+      "setting": "indoor",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1508026155071-961dae008723",
+        "alt": "A museum hall with a whale skeleton hanging from the ceiling",
+        "credit": "Toa Heftiba",
+        "creditUrl": "https://unsplash.com/@heftiba"
+      },
+      "text": "One of Europe’s biggest science museums, with a dedicated children’s area.",
+      "scout": "Book the children’s area (Cité des enfants) in advance.",
+      "url": "https://www.cite-sciences.fr/en",
+      "slug": "museums-and-science",
+      "tags": [
+        "paris",
+        "science"
+      ]
+    },
+    {
+      "id": "nemo",
+      "title": "NEMO Science Museum",
+      "type": "museum",
+      "ages": [
+        "kids",
+        "teens"
+      ],
+      "region": "europe",
+      "where": "Amsterdam, Netherlands",
+      "cost": "mid",
+      "setting": "indoor",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1663579170421-d6481b9afa89",
+        "alt": "An adult and child looking into a large aquarium tank",
+        "credit": "lucas Favre",
+        "creditUrl": "https://unsplash.com/@we_are_rising"
+      },
+      "text": "A hands-on science museum in a striking green building, with a rooftop terrace.",
+      "scout": "Great on a rainy Amsterdam day.",
+      "url": "https://www.nemosciencemuseum.nl/en/",
+      "slug": "museums-and-science",
+      "tags": [
+        "amsterdam",
+        "science"
+      ]
+    },
+    {
+      "id": "local-museum",
+      "title": "Your local museum",
+      "type": "museum",
+      "ages": [
+        "under5",
+        "kids",
+        "teens"
+      ],
+      "region": "near",
+      "where": "Museums near you",
+      "cost": "free",
+      "setting": "indoor",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1534739302117-e9ff126dec91",
+        "alt": "Looking up at a dinosaur skeleton in a museum",
+        "credit": "Aditya Vyas",
+        "creditUrl": "https://unsplash.com/@aditya1702"
+      },
+      "text": "Many local museums are free and run holiday trails and crafts.",
+      "scout": "Ask at the desk for a kids’ trail sheet.",
+      "slug": "free-days-out",
+      "tags": [
+        "free",
+        "rainy day"
+      ]
+    },
+    {
+      "id": "warwick-castle",
+      "title": "Warwick Castle",
+      "type": "castle",
+      "ages": [
+        "under5",
+        "kids",
+        "teens"
+      ],
+      "region": "uk",
+      "where": "Warwick, England",
+      "cost": "mid",
+      "setting": "outdoor",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1605718268542-b603f5c7a8f4",
+        "alt": "A stone castle under white clouds",
+        "credit": "Ian Murphy",
+        "creditUrl": "https://unsplash.com/@ianmurphy"
+      },
+      "text": "A medieval castle with shows, towers and family events.",
+      "scout": "Climb the towers early, before queues build. It’s on the Merlin pass.",
+      "url": "https://www.warwick-castle.com/",
+      "slug": "castles-and-history",
+      "tags": [
+        "knights",
+        "merlin"
+      ]
+    },
+    {
+      "id": "alnwick-castle",
+      "title": "Alnwick Castle",
+      "type": "castle",
+      "ages": [
+        "kids",
+        "teens"
+      ],
+      "region": "uk",
+      "where": "Northumberland, England",
+      "cost": "mid",
+      "setting": "outdoor",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1626202826025-07ce3d501413",
+        "alt": "A grey stone castle against a blue sky",
+        "credit": "E Mens",
+        "creditUrl": "https://unsplash.com/@kwakus"
+      },
+      "text": "Hogwarts in the first two Harry Potter films. Try broomstick training.",
+      "scout": "Broomstick training is pure joy for young wizards.",
+      "url": "https://www.alnwickcastle.com/",
+      "slug": "harry-potter-days-out",
+      "tags": [
+        "harry potter"
+      ]
+    },
+    {
+      "id": "tower-of-london",
+      "title": "Tower of London",
+      "type": "castle",
+      "ages": [
+        "kids",
+        "teens"
+      ],
+      "region": "uk",
+      "where": "London",
+      "cost": "mid",
+      "setting": "both",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1626202826025-07ce3d501413",
+        "alt": "A grey stone castle against a blue sky",
+        "credit": "E Mens",
+        "creditUrl": "https://unsplash.com/@kwakus"
+      },
+      "text": "The Crown Jewels, Yeoman Warders and nearly 1,000 years of history.",
+      "scout": "Join a Yeoman Warder tour: they’re great storytellers.",
+      "url": "https://www.hrp.org.uk/tower-of-london/",
+      "slug": "castles-and-history",
+      "tags": [
+        "crown jewels",
+        "london"
+      ]
+    },
+    {
+      "id": "edinburgh-castle",
+      "title": "Edinburgh Castle",
+      "type": "castle",
+      "ages": [
+        "kids",
+        "teens"
+      ],
+      "region": "uk",
+      "where": "Edinburgh, Scotland",
+      "cost": "mid",
+      "setting": "outdoor",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1605718268542-b603f5c7a8f4",
+        "alt": "A stone castle under white clouds",
+        "credit": "Ian Murphy",
+        "creditUrl": "https://unsplash.com/@ianmurphy"
+      },
+      "text": "Scotland’s famous castle, with the Honours of Scotland and city views.",
+      "scout": "Book a timed ticket online. Popular slots go fast.",
+      "url": "https://www.edinburghcastle.scot/",
+      "slug": "castles-and-history",
+      "tags": [
+        "scotland"
+      ]
+    },
+    {
+      "id": "dover-castle",
+      "title": "Dover Castle",
+      "type": "castle",
+      "ages": [
+        "kids",
+        "teens"
+      ],
+      "region": "uk",
+      "where": "Dover, Kent, England",
+      "cost": "mid",
+      "setting": "both",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1626202826025-07ce3d501413",
+        "alt": "A grey stone castle against a blue sky",
+        "credit": "E Mens",
+        "creditUrl": "https://unsplash.com/@kwakus"
+      },
+      "text": "A huge medieval castle with secret wartime tunnels beneath.",
+      "scout": "English Heritage members go free.",
+      "url": "https://www.english-heritage.org.uk/visit/places/dover-castle/",
+      "slug": "castles-and-history",
+      "tags": [
+        "english heritage",
+        "tunnels"
+      ]
+    },
+    {
+      "id": "caernarfon-castle",
+      "title": "Caernarfon Castle",
+      "type": "castle",
+      "ages": [
+        "kids",
+        "teens"
+      ],
+      "region": "uk",
+      "where": "Gwynedd, Wales",
+      "cost": "budget",
+      "setting": "outdoor",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1605718268542-b603f5c7a8f4",
+        "alt": "A stone castle under white clouds",
+        "credit": "Ian Murphy",
+        "creditUrl": "https://unsplash.com/@ianmurphy"
+      },
+      "text": "A mighty medieval fortress cared for by Cadw.",
+      "scout": "Climb the towers for views over the Menai Strait.",
+      "url": "https://cadw.gov.wales/visit/places-to-visit/caernarfon-castle",
+      "slug": "castles-and-history",
+      "tags": [
+        "wales"
+      ]
+    },
+    {
+      "id": "stonehenge",
+      "title": "Stonehenge",
+      "type": "castle",
+      "ages": [
+        "kids",
+        "teens"
+      ],
+      "region": "uk",
+      "where": "Wiltshire, England",
+      "cost": "mid",
+      "setting": "outdoor",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1756982477676-420df08af67c",
+        "alt": "A family walking together on a grassy hill",
+        "credit": "Seljan Salim",
+        "creditUrl": "https://unsplash.com/@seljansalim"
+      },
+      "text": "The world-famous stone circle, with a visitor centre and Neolithic houses.",
+      "scout": "Book ahead. Members of English Heritage go free.",
+      "url": "https://www.english-heritage.org.uk/visit/places/stonehenge/",
+      "slug": "castles-and-history",
+      "tags": [
+        "english heritage"
+      ]
+    },
+    {
+      "id": "neuschwanstein",
+      "title": "Neuschwanstein Castle",
+      "type": "castle",
+      "ages": [
+        "kids",
+        "teens"
+      ],
+      "region": "europe",
+      "where": "Bavaria, Germany",
+      "cost": "budget",
+      "setting": "outdoor",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1509407336566-fca158fddcce",
+        "alt": "Cinderella Castle reflected in the moat at Magic Kingdom",
+        "credit": "Jorge Martínez",
+        "creditUrl": "https://unsplash.com/@jorgem9"
+      },
+      "text": "The fairy-tale castle on the hill in the Bavarian Alps.",
+      "scout": "Tickets are timed. Book well ahead in summer.",
+      "url": "https://www.neuschwanstein.de/",
+      "slug": "castles-and-history",
+      "tags": [
+        "germany",
+        "fairytale"
+      ]
+    },
+    {
+      "id": "heritage-open-days",
+      "title": "Heritage Open Days",
+      "type": "seasonal",
+      "ages": [
+        "under5",
+        "kids",
+        "teens"
+      ],
+      "region": "uk",
+      "where": "Across England, every September",
+      "cost": "free",
+      "setting": "both",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1626202826025-07ce3d501413",
+        "alt": "A grey stone castle against a blue sky",
+        "credit": "E Mens",
+        "creditUrl": "https://unsplash.com/@kwakus"
+      },
+      "text": "Hundreds of historic places open for free, with tours and family events.",
+      "scout": "Some events need booking. Check the website in August.",
+      "url": "https://www.heritageopendays.org.uk/",
+      "slug": "free-days-out",
+      "tags": [
+        "free",
+        "september"
+      ]
+    },
+    {
+      "id": "lake-district",
+      "title": "Lake District National Park",
+      "type": "outdoors",
+      "ages": [
+        "under5",
+        "kids",
+        "teens"
+      ],
+      "region": "uk",
+      "where": "Cumbria, England",
+      "cost": "free",
+      "setting": "outdoor",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1756982477676-420df08af67c",
+        "alt": "A family walking together on a grassy hill",
+        "credit": "Seljan Salim",
+        "creditUrl": "https://unsplash.com/@seljansalim"
+      },
+      "text": "Lakes, fells and boat trips. Some of England’s best walking.",
+      "scout": "Pick a short lakeside walk with a café at the end.",
+      "url": "https://www.lakedistrict.gov.uk/",
+      "slug": "nature-and-national-parks",
+      "tags": [
+        "walking",
+        "lakes"
+      ]
+    },
+    {
+      "id": "peak-district",
+      "title": "Peak District National Park",
+      "type": "outdoors",
+      "ages": [
+        "under5",
+        "kids",
+        "teens"
+      ],
+      "region": "uk",
+      "where": "Derbyshire and around, England",
+      "cost": "free",
+      "setting": "outdoor",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1721904310692-c31b681e7a35",
+        "alt": "A family walking through a field with their dog",
+        "credit": "Kateryna Hliznitsova",
+        "creditUrl": "https://unsplash.com/@kate_gliz"
+      },
+      "text": "Caves, edges and trails, easy to reach from many cities.",
+      "scout": "Former railway trails are flat and great for bikes and buggies.",
+      "url": "https://www.peakdistrict.gov.uk/",
+      "slug": "nature-and-national-parks",
+      "tags": [
+        "walking",
+        "caves",
+        "cycling"
+      ]
+    },
+    {
+      "id": "giants-causeway",
+      "title": "Giant’s Causeway",
+      "type": "outdoors",
+      "ages": [
+        "kids",
+        "teens"
+      ],
+      "region": "uk",
+      "where": "County Antrim, Northern Ireland",
+      "cost": "free",
+      "setting": "outdoor",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1475503572774-15a45e5d60b9",
+        "alt": "Two parents and a child holding hands on the seashore",
+        "credit": "Natalya Zaritskaya",
+        "creditUrl": "https://unsplash.com/@goodmood77"
+      },
+      "text": "Thousands of hexagonal basalt columns, and a legend about a giant.",
+      "scout": "Walking to the stones is free. The visitor centre charges.",
+      "url": "https://www.nationaltrust.org.uk/visit/northern-ireland/giants-causeway",
+      "slug": "nature-and-national-parks",
+      "tags": [
+        "national trust",
+        "coast"
+      ]
+    },
+    {
+      "id": "eden-project",
+      "title": "Eden Project",
+      "type": "outdoors",
+      "ages": [
+        "under5",
+        "kids",
+        "teens"
+      ],
+      "region": "uk",
+      "where": "Cornwall, England",
+      "cost": "mid",
+      "setting": "both",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1770871821382-60ea99b0a941",
+        "alt": "A happy family running together in a sunlit garden",
+        "credit": "Aleksandra Sapozhnikova",
+        "creditUrl": "https://unsplash.com/@rruprrup"
+      },
+      "text": "Giant biomes with a rainforest inside, plus play areas and events.",
+      "scout": "The rainforest biome is warm. Wear layers.",
+      "url": "https://www.edenproject.com/",
+      "slug": "nature-and-national-parks",
+      "tags": [
+        "cornwall",
+        "rainforest"
+      ]
+    },
+    {
+      "id": "kew-gardens",
+      "title": "Kew Gardens",
+      "type": "outdoors",
+      "ages": [
+        "under5",
+        "kids",
+        "teens"
+      ],
+      "region": "uk",
+      "where": "Richmond, London",
+      "cost": "mid",
+      "setting": "both",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1719759336550-4fecc23ab176",
+        "alt": "A family relaxing on a picnic blanket in a park",
+        "credit": "Liviu Boldis",
+        "creditUrl": "https://unsplash.com/@livioart"
+      },
+      "text": "World-famous gardens with a treetop walkway and children’s play garden.",
+      "scout": "The treetop walkway is a hit with all ages.",
+      "url": "https://www.kew.org/",
+      "slug": "nature-and-national-parks",
+      "tags": [
+        "gardens",
+        "london"
+      ]
+    },
+    {
+      "id": "yosemite",
+      "title": "Yosemite National Park",
+      "type": "outdoors",
+      "ages": [
+        "under5",
+        "kids",
+        "teens"
+      ],
+      "region": "us",
+      "where": "California, USA",
+      "cost": "budget",
+      "setting": "outdoor",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1472396961693-142e6e269027",
+        "alt": "Deer grazing in a meadow below Half Dome in Yosemite",
+        "credit": "Johannes Andersson",
+        "creditUrl": "https://unsplash.com/@thejoltjoker"
+      },
+      "text": "Waterfalls, giant sequoias and granite cliffs.",
+      "scout": "Check if timed-entry reservations apply in peak season.",
+      "url": "https://www.nps.gov/yose/",
+      "slug": "blog/us-national-parks-with-kids",
+      "tags": [
+        "national park",
+        "junior ranger"
+      ]
+    },
+    {
+      "id": "grand-canyon",
+      "title": "Grand Canyon National Park",
+      "type": "outdoors",
+      "ages": [
+        "kids",
+        "teens"
+      ],
+      "region": "us",
+      "where": "Arizona, USA",
+      "cost": "budget",
+      "setting": "outdoor",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1687488057264-d3500aec2cc7",
+        "alt": "Two adults and a child looking out at a mountain view",
+        "credit": "Nils Huenerfuerst",
+        "creditUrl": "https://unsplash.com/@nhuenerfuerst"
+      },
+      "text": "One of the world’s great views, with easy rim walks.",
+      "scout": "Stick to rim trails with young kids. Carry water.",
+      "url": "https://www.nps.gov/grca/",
+      "slug": "blog/us-national-parks-with-kids",
+      "tags": [
+        "national park"
+      ]
+    },
+    {
+      "id": "yellowstone",
+      "title": "Yellowstone National Park",
+      "type": "outdoors",
+      "ages": [
+        "kids",
+        "teens"
+      ],
+      "region": "us",
+      "where": "Wyoming, Montana and Idaho, USA",
+      "cost": "budget",
+      "setting": "outdoor",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1472396961693-142e6e269027",
+        "alt": "Deer grazing in a meadow below Half Dome in Yosemite",
+        "credit": "Johannes Andersson",
+        "creditUrl": "https://unsplash.com/@thejoltjoker"
+      },
+      "text": "Geysers, hot springs and bison, in the world’s first national park.",
+      "scout": "Stay on boardwalks in thermal areas: it’s dangerous off them.",
+      "url": "https://www.nps.gov/yell/",
+      "slug": "blog/us-national-parks-with-kids",
+      "tags": [
+        "geysers",
+        "national park"
+      ]
+    },
+    {
+      "id": "country-park",
+      "title": "Country parks & forests",
+      "type": "outdoors",
+      "ages": [
+        "under5",
+        "kids",
+        "teens"
+      ],
+      "region": "near",
+      "where": "Parks and woodland near you",
+      "cost": "free",
+      "setting": "outdoor",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1605796637388-0757a79c26cc",
+        "alt": "A child in yellow wellies walking through autumn leaves",
+        "credit": "Zachary Kadolph",
+        "creditUrl": "https://unsplash.com/@zacharykadolph"
+      },
+      "text": "Trails, play areas, bug hunts and den building, all free (parking may charge).",
+      "scout": "Pack a picnic and make it a full day.",
+      "slug": "free-days-out",
+      "tags": [
+        "free",
+        "walking"
+      ]
+    },
+    {
+      "id": "geocaching",
+      "title": "Geocaching treasure hunts",
+      "type": "escape",
+      "ages": [
+        "kids",
+        "teens"
+      ],
+      "region": "near",
+      "where": "Hidden all around you",
+      "cost": "free",
+      "setting": "outdoor",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1620420522286-994c1e94d863",
+        "alt": "A boy and girl walking across a green field",
+        "credit": "Alvin Mahmudov",
+        "creditUrl": "https://unsplash.com/@alvinmahmudov"
+      },
+      "text": "Use a free app to find hidden “caches” near you: a real-world treasure hunt.",
+      "scout": "Brilliant for turning a walk into a mission.",
+      "url": "https://www.geocaching.com/",
+      "slug": "blog/geocaching-family-treasure-hunt",
+      "tags": [
+        "free",
+        "treasure hunt"
+      ]
+    },
+    {
+      "id": "stargazing",
+      "title": "Stargazing at a dark sky place",
+      "type": "outdoors",
+      "ages": [
+        "kids",
+        "teens"
+      ],
+      "region": "near",
+      "where": "Dark sky parks and reserves",
+      "cost": "free",
+      "setting": "outdoor",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1528041119984-da3a9f8d04d1",
+        "alt": "A fairy-tale castle lit up at night",
+        "credit": "PAN XIAOZHEN",
+        "creditUrl": "https://unsplash.com/@zhenhappy"
+      },
+      "text": "Dark sky parks and reserves have some of the best night skies around.",
+      "scout": "Go on a moonless night and let eyes adjust for 20 minutes.",
+      "slug": "blog/stargazing-dark-sky-places",
+      "tags": [
+        "space",
+        "night",
+        "free"
+      ]
+    },
+    {
+      "id": "rock-pooling",
+      "title": "Rock pooling",
+      "type": "beach",
+      "ages": [
+        "under5",
+        "kids"
+      ],
+      "region": "near",
+      "where": "Rocky beaches at low tide",
+      "cost": "free",
+      "setting": "outdoor",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1475503572774-15a45e5d60b9",
+        "alt": "Two parents and a child holding hands on the seashore",
+        "credit": "Natalya Zaritskaya",
+        "creditUrl": "https://unsplash.com/@goodmood77"
+      },
+      "text": "Crabs, anemones and starfish. Free fun at low tide.",
+      "scout": "Check tide times, and always put creatures back gently.",
+      "slug": "blog/rock-pooling-guide",
+      "tags": [
+        "free",
+        "tide"
+      ]
+    },
+    {
+      "id": "jurassic-coast",
+      "title": "Jurassic Coast fossil hunting",
+      "type": "beach",
+      "ages": [
+        "kids",
+        "teens"
+      ],
+      "region": "uk",
+      "where": "Dorset and East Devon, England",
+      "cost": "free",
+      "setting": "outdoor",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1695425812104-8a9963d58887",
+        "alt": "A family walking on the beach holding hands",
+        "credit": "Jennifer Kalenberg",
+        "creditUrl": "https://unsplash.com/@jkalen71"
+      },
+      "text": "A World Heritage coastline famous for fossils on its beaches.",
+      "scout": "Search the beach, not the cliffs, and check tide times.",
+      "url": "https://jurassiccoast.org/",
+      "slug": "beaches-and-seaside",
+      "tags": [
+        "fossils",
+        "free"
+      ]
+    },
+    {
+      "id": "seaside-pier",
+      "title": "A classic seaside day",
+      "type": "beach",
+      "ages": [
+        "under5",
+        "kids",
+        "teens"
+      ],
+      "region": "near",
+      "where": "Seaside towns near you",
+      "cost": "budget",
+      "setting": "both",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1695425812104-8a9963d58887",
+        "alt": "A family walking on the beach holding hands",
+        "credit": "Jennifer Kalenberg",
+        "creditUrl": "https://unsplash.com/@jkalen71"
+      },
+      "text": "Sandcastles, pier arcades, crazy golf and chips on the prom.",
+      "scout": "Choose lifeguarded beaches and swim between the red and yellow flags.",
+      "slug": "beaches-and-seaside",
+      "tags": [
+        "beach",
+        "arcade"
+      ]
+    },
+    {
+      "id": "go-ape",
+      "title": "Go Ape treetop adventures",
+      "type": "adventure",
+      "ages": [
+        "kids",
+        "teens"
+      ],
+      "region": "uk",
+      "where": "Forests across the UK",
+      "cost": "mid",
+      "setting": "outdoor",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1637511077877-3c6a00eb32ba",
+        "alt": "Riding a zip line through a forest",
+        "credit": "Nadiia Ganzhyi",
+        "creditUrl": "https://unsplash.com/@nadiiag"
+      },
+      "text": "Rope bridges, zip wires and Tarzan swings high in the trees.",
+      "scout": "Check the age and height rules for each course before booking.",
+      "url": "https://goape.co.uk/",
+      "slug": "adventure-parks",
+      "tags": [
+        "zip line",
+        "high ropes"
+      ]
+    },
+    {
+      "id": "zip-world",
+      "title": "Zip World",
+      "type": "adventure",
+      "ages": [
+        "kids",
+        "teens"
+      ],
+      "region": "uk",
+      "where": "Wales and the Lake District",
+      "cost": "mid",
+      "setting": "both",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1531204709756-1c7a41bf8936",
+        "alt": "Sliding along a zip line",
+        "credit": "Perry Grone",
+        "creditUrl": "https://unsplash.com/@perrygrone"
+      },
+      "text": "Big zip lines, underground adventures and trampolines in caverns.",
+      "scout": "Weight and age limits apply to some rides. Check first.",
+      "url": "https://www.zipworld.co.uk/",
+      "slug": "adventure-parks",
+      "tags": [
+        "zip line",
+        "wales"
+      ]
+    },
+    {
+      "id": "ifly",
+      "title": "iFLY indoor skydiving",
+      "type": "adventure",
+      "ages": [
+        "kids",
+        "teens"
+      ],
+      "region": "uk",
+      "where": "Centres in the UK and worldwide",
+      "cost": "mid",
+      "setting": "indoor",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1507608869274-d3177c8bb4c7",
+        "alt": "Hot air balloons rising over the landscape",
+        "credit": "ian dooley",
+        "creditUrl": "https://unsplash.com/@sadswim"
+      },
+      "text": "Float on a column of air in a vertical wind tunnel. No plane needed.",
+      "scout": "Check minimum ages and weight limits for your centre.",
+      "url": "https://www.iflyworld.co.uk/",
+      "slug": "adventure-parks",
+      "tags": [
+        "skydiving",
+        "experience"
+      ]
+    },
+    {
+      "id": "high-ropes",
+      "title": "High ropes & climbing towers",
+      "type": "adventure",
+      "ages": [
+        "kids",
+        "teens"
+      ],
+      "region": "near",
+      "where": "Activity centres near you",
+      "cost": "mid",
+      "setting": "outdoor",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1637511077877-3c6a00eb32ba",
+        "alt": "Riding a zip line through a forest",
+        "credit": "Nadiia Ganzhyi",
+        "creditUrl": "https://unsplash.com/@nadiiag"
+      },
+      "text": "Many activity centres and farm parks have low and high ropes courses.",
+      "scout": "Low ropes courses suit younger kids. Start there.",
+      "slug": "adventure-parks",
+      "tags": [
+        "high ropes"
+      ]
+    },
+    {
+      "id": "trampoline-park",
+      "title": "Trampoline parks",
+      "type": "indoor",
+      "ages": [
+        "under5",
+        "kids",
+        "teens"
+      ],
+      "region": "near",
+      "where": "Trampoline parks near you",
+      "cost": "budget",
+      "setting": "indoor",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1751235640841-d8d1035a80f0",
+        "alt": "An indoor trampoline park",
+        "credit": "Lawrence Crayton",
+        "creditUrl": "https://unsplash.com/@lawrencecrayton"
+      },
+      "text": "Wall-to-wall trampolines, foam pits and dodgeball courts.",
+      "scout": "Look for toddler-only sessions for under-5s. Grip socks needed.",
+      "slug": "indoor-activities",
+      "tags": [
+        "trampoline",
+        "rainy day"
+      ]
+    },
+    {
+      "id": "bowling",
+      "title": "Bowling",
+      "type": "indoor",
+      "ages": [
+        "under5",
+        "kids",
+        "teens"
+      ],
+      "region": "near",
+      "where": "Bowling alleys near you",
+      "cost": "budget",
+      "setting": "indoor",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1538511059256-46e76f13f071",
+        "alt": "A bowling ball hitting the pins",
+        "credit": "Karla Rivera",
+        "creditUrl": "https://unsplash.com/@karla_rivera"
+      },
+      "text": "Bumpers for little ones and fierce family rivalries for teens.",
+      "scout": "Weekday daytime games are often cheaper.",
+      "slug": "indoor-activities",
+      "tags": [
+        "bowling",
+        "rainy day"
+      ]
+    },
+    {
+      "id": "laser-tag",
+      "title": "Laser tag",
+      "type": "indoor",
+      "ages": [
+        "kids",
+        "teens"
+      ],
+      "region": "near",
+      "where": "Laser tag arenas near you",
+      "cost": "budget",
+      "setting": "indoor",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1569002925653-ed18f55d7292",
+        "alt": "A neon sign for escape rooms",
+        "credit": "Zachary Keimig",
+        "creditUrl": "https://unsplash.com/@zacharykeimig"
+      },
+      "text": "Team games in a neon arena. Brilliant for birthdays.",
+      "scout": "Check minimum ages: some arenas are 7+.",
+      "slug": "indoor-activities",
+      "tags": [
+        "laser tag",
+        "birthday"
+      ]
+    },
+    {
+      "id": "soft-play",
+      "title": "Soft play",
+      "type": "indoor",
+      "ages": [
+        "under5"
+      ],
+      "region": "near",
+      "where": "Soft play centres near you",
+      "cost": "budget",
+      "setting": "indoor",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1751235600651-94bbbeb29567",
+        "alt": "An indoor obstacle course with a foam pit",
+        "credit": "Lawrence Crayton",
+        "creditUrl": "https://unsplash.com/@lawrencecrayton"
+      },
+      "text": "Slides, ball pits and climbing frames built for little ones.",
+      "scout": "Term-time weekday mornings are calmest.",
+      "slug": "toddler-days-out",
+      "tags": [
+        "toddler",
+        "rainy day"
+      ]
+    },
+    {
+      "id": "cinema",
+      "title": "Kids’ cinema mornings",
+      "type": "indoor",
+      "ages": [
+        "under5",
+        "kids",
+        "teens"
+      ],
+      "region": "near",
+      "where": "Cinemas near you",
+      "cost": "budget",
+      "setting": "indoor",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1569002925653-ed18f55d7292",
+        "alt": "A neon sign for escape rooms",
+        "credit": "Zachary Keimig",
+        "creditUrl": "https://unsplash.com/@zacharykeimig"
+      },
+      "text": "Many cinema chains run cheaper kids’ screenings in the holidays.",
+      "scout": "Check your local cinema’s holiday kids’ club.",
+      "slug": "indoor-activities",
+      "tags": [
+        "cinema",
+        "rainy day"
+      ]
+    },
+    {
+      "id": "arcade",
+      "title": "Arcades & games centres",
+      "type": "indoor",
+      "ages": [
+        "kids",
+        "teens"
+      ],
+      "region": "near",
+      "where": "Seafronts and leisure parks near you",
+      "cost": "budget",
+      "setting": "indoor",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1569002925653-ed18f55d7292",
+        "alt": "A neon sign for escape rooms",
+        "credit": "Zachary Keimig",
+        "creditUrl": "https://unsplash.com/@zacharykeimig"
+      },
+      "text": "Retro machines, air hockey and VR games.",
+      "scout": "Set a budget on a play card before you start.",
+      "slug": "indoor-activities",
+      "tags": [
+        "gaming",
+        "vr"
+      ]
+    },
+    {
+      "id": "climbing-wall",
+      "title": "Climbing & bouldering walls",
+      "type": "indoor",
+      "ages": [
+        "kids",
+        "teens"
+      ],
+      "region": "near",
+      "where": "Climbing centres near you",
+      "cost": "budget",
+      "setting": "indoor",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1564769662533-4f00a87b4056",
+        "alt": "Climbing an indoor bouldering wall",
+        "credit": "Yns Plt",
+        "creditUrl": "https://unsplash.com/@ynsplt"
+      },
+      "text": "Taster sessions teach the basics. Bouldering needs no ropes.",
+      "scout": "Book a family taster first: staff set you up safely.",
+      "slug": "indoor-activities",
+      "tags": [
+        "climbing",
+        "bouldering"
+      ]
+    },
+    {
+      "id": "escape-room",
+      "title": "Escape rooms",
+      "type": "escape",
+      "ages": [
+        "kids",
+        "teens"
+      ],
+      "region": "near",
+      "where": "Escape rooms near you",
+      "cost": "mid",
+      "setting": "indoor",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1569002925653-ed18f55d7292",
+        "alt": "A neon sign for escape rooms",
+        "credit": "Zachary Keimig",
+        "creditUrl": "https://unsplash.com/@zacharykeimig"
+      },
+      "text": "Solve puzzles as a team to “escape” in 60 minutes.",
+      "scout": "Ask for a family or beginner room, and the minimum age.",
+      "slug": "escape-rooms",
+      "tags": [
+        "puzzles",
+        "teamwork",
+        "birthday"
+      ]
+    },
+    {
+      "id": "treasure-trails",
+      "title": "Self-guided treasure trails",
+      "type": "escape",
+      "ages": [
+        "kids",
+        "teens"
+      ],
+      "region": "near",
+      "where": "Towns and villages near you",
+      "cost": "budget",
+      "setting": "outdoor",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1620420522286-994c1e94d863",
+        "alt": "A boy and girl walking across a green field",
+        "credit": "Alvin Mahmudov",
+        "creditUrl": "https://unsplash.com/@alvinmahmudov"
+      },
+      "text": "Follow clues around a town to solve a mystery, at your own pace.",
+      "scout": "Great for making a town walk feel like an adventure.",
+      "slug": "escape-rooms",
+      "tags": [
+        "treasure hunt",
+        "walking"
+      ]
+    },
+    {
+      "id": "go-karting",
+      "title": "Go-karting",
+      "type": "wheels",
+      "ages": [
+        "kids",
+        "teens"
+      ],
+      "region": "near",
+      "where": "Karting tracks near you",
+      "cost": "mid",
+      "setting": "both",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1505570554449-69ce7d4fa36b",
+        "alt": "Two go-kart drivers on a race track",
+        "credit": "David Armstrong",
+        "creditUrl": "https://unsplash.com/@armstrong99"
+      },
+      "text": "Junior and family sessions at indoor and outdoor tracks.",
+      "scout": "Age and height rules vary by track. Check before booking.",
+      "slug": "go-karting-and-skating",
+      "tags": [
+        "karting",
+        "racing",
+        "birthday"
+      ]
+    },
+    {
+      "id": "skate-park",
+      "title": "Skate parks",
+      "type": "wheels",
+      "ages": [
+        "kids",
+        "teens"
+      ],
+      "region": "near",
+      "where": "Public skate parks near you",
+      "cost": "free",
+      "setting": "outdoor",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1496886077455-6e206da90837",
+        "alt": "A skateboarder at a skate park at sunset",
+        "credit": "Robson Hatsukami Morgan",
+        "creditUrl": "https://unsplash.com/@robsonhmorgan"
+      },
+      "text": "Free ramps for scooters, skateboards and BMX.",
+      "scout": "Helmets on, and go early before it gets busy.",
+      "slug": "go-karting-and-skating",
+      "tags": [
+        "skateboard",
+        "scooter",
+        "free"
+      ]
+    },
+    {
+      "id": "roller-rink",
+      "title": "Roller skating rinks",
+      "type": "wheels",
+      "ages": [
+        "kids",
+        "teens"
+      ],
+      "region": "near",
+      "where": "Roller rinks near you",
+      "cost": "budget",
+      "setting": "indoor",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1582486759052-fb6b5c90fa50",
+        "alt": "Skate park ramps covered in graffiti",
+        "credit": "ALEXANDRE LALLEMAND",
+        "creditUrl": "https://unsplash.com/@alexandrelallemand"
+      },
+      "text": "Disco lights, music and roller skates. A retro favourite.",
+      "scout": "Beginners’ sessions are less hectic.",
+      "slug": "go-karting-and-skating",
+      "tags": [
+        "roller skating",
+        "disco"
+      ]
+    },
+    {
+      "id": "family-cycling",
+      "title": "Traffic-free family bike rides",
+      "type": "wheels",
+      "ages": [
+        "under5",
+        "kids",
+        "teens"
+      ],
+      "region": "near",
+      "where": "Trails and cycle paths near you",
+      "cost": "free",
+      "setting": "outdoor",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1721904310692-c31b681e7a35",
+        "alt": "A family walking through a field with their dog",
+        "credit": "Kateryna Hliznitsova",
+        "creditUrl": "https://unsplash.com/@kate_gliz"
+      },
+      "text": "Old railway paths and forest trails: flat, car-free and great with bike hire.",
+      "scout": "Choose a route with a café or playground halfway.",
+      "slug": "blog/family-cycling-days-out",
+      "tags": [
+        "cycling",
+        "free"
+      ]
+    },
+    {
+      "id": "surf-school",
+      "title": "Surf lessons in Cornwall & Devon",
+      "type": "water",
+      "ages": [
+        "kids",
+        "teens"
+      ],
+      "region": "uk",
+      "where": "North Cornwall and North Devon beaches",
+      "cost": "mid",
+      "setting": "outdoor",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1722573021678-78922ef03faa",
+        "alt": "A group of people learning to surf",
+        "credit": "Buddy AN",
+        "creditUrl": "https://unsplash.com/@stbuddyp"
+      },
+      "text": "Beginner surf lessons with wetsuit and board included at many surf schools.",
+      "scout": "Pick a school with qualified instructors and lifeguarded beaches.",
+      "slug": "surf-and-paddle",
+      "tags": [
+        "surfing",
+        "cornwall"
+      ]
+    },
+    {
+      "id": "the-wave",
+      "title": "The Wave",
+      "type": "water",
+      "ages": [
+        "kids",
+        "teens"
+      ],
+      "region": "uk",
+      "where": "Near Bristol, England",
+      "cost": "mid",
+      "setting": "outdoor",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1502933691298-84fc14542831",
+        "alt": "A surfer riding a wave on an orange board",
+        "credit": "Joseph Greve",
+        "creditUrl": "https://unsplash.com/@lime517"
+      },
+      "text": "An inland surf lake with waves on demand, and lessons for beginners.",
+      "scout": "Check minimum ages for lessons before booking.",
+      "url": "https://www.thewave.com/",
+      "slug": "surf-and-paddle",
+      "tags": [
+        "surfing",
+        "bristol"
+      ]
+    },
+    {
+      "id": "kayaking",
+      "title": "Kayaking & paddleboarding",
+      "type": "water",
+      "ages": [
+        "kids",
+        "teens"
+      ],
+      "region": "near",
+      "where": "Lakes, rivers and coasts near you",
+      "cost": "mid",
+      "setting": "outdoor",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1722573021678-78922ef03faa",
+        "alt": "A group of people learning to surf",
+        "credit": "Buddy AN",
+        "creditUrl": "https://unsplash.com/@stbuddyp"
+      },
+      "text": "Guided taster sessions on calm water are a great first go.",
+      "scout": "Always wear a buoyancy aid, and go with a guide first.",
+      "slug": "surf-and-paddle",
+      "tags": [
+        "kayak",
+        "paddleboard",
+        "sup"
+      ]
+    },
+    {
+      "id": "snowdome",
+      "title": "The Snowdome",
+      "type": "snow",
+      "ages": [
+        "kids",
+        "teens"
+      ],
+      "region": "uk",
+      "where": "Tamworth, Staffordshire, England",
+      "cost": "mid",
+      "setting": "indoor",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1613414871583-2bee2bcecc3f",
+        "alt": "People skating on an outdoor ice rink",
+        "credit": "Brian Kyed",
+        "creditUrl": "https://unsplash.com/@brnkd"
+      },
+      "text": "Real indoor snow for ski and snowboard lessons, sledging and ice skating.",
+      "scout": "Beginner lessons are the best way in. Gloves are a must.",
+      "url": "https://www.snowdome.co.uk/",
+      "slug": "snow-and-ice",
+      "tags": [
+        "skiing",
+        "snowboard",
+        "sledging"
+      ]
+    },
+    {
+      "id": "chill-factore",
+      "title": "Chill Factore",
+      "type": "snow",
+      "ages": [
+        "kids",
+        "teens"
+      ],
+      "region": "uk",
+      "where": "Manchester, England",
+      "cost": "mid",
+      "setting": "indoor",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1613414871583-2bee2bcecc3f",
+        "alt": "People skating on an outdoor ice rink",
+        "credit": "Brian Kyed",
+        "creditUrl": "https://unsplash.com/@brnkd"
+      },
+      "text": "An indoor real-snow slope with lessons and snow play.",
+      "scout": "Snow play sessions suit younger kids who aren’t ready to ski.",
+      "url": "https://www.chillfactore.com/",
+      "slug": "snow-and-ice",
+      "tags": [
+        "skiing",
+        "snow play"
+      ]
+    },
+    {
+      "id": "ice-rink",
+      "title": "Ice skating rinks",
+      "type": "snow",
+      "ages": [
+        "kids",
+        "teens"
+      ],
+      "region": "near",
+      "where": "Ice rinks near you (plus winter pop-ups)",
+      "cost": "budget",
+      "setting": "indoor",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1682953393270-1dd49c0c4989",
+        "alt": "Skating on an ice rink",
+        "credit": "Natalya Karpeka",
+        "creditUrl": "https://unsplash.com/@nktalya"
+      },
+      "text": "Year-round rinks and festive outdoor rinks in winter.",
+      "scout": "Skate aids help little ones find their feet.",
+      "slug": "snow-and-ice",
+      "tags": [
+        "ice skating",
+        "winter"
+      ]
+    },
+    {
+      "id": "winter-wonderland",
+      "title": "Hyde Park Winter Wonderland",
+      "type": "seasonal",
+      "ages": [
+        "under5",
+        "kids",
+        "teens"
+      ],
+      "region": "uk",
+      "where": "Hyde Park, London (winter)",
+      "cost": "mid",
+      "setting": "outdoor",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1607109946143-ee98d991846e",
+        "alt": "Twinkling red and white festive lights",
+        "credit": "Cole Ciarlello",
+        "creditUrl": "https://unsplash.com/@cole_ciarlello"
+      },
+      "text": "A huge seasonal festival with rides, an ice rink, markets and shows.",
+      "scout": "Weekday daytime visits are calmer. Some attractions are ticketed separately.",
+      "url": "https://hydeparkwinterwonderland.com/",
+      "slug": "seasonal-events",
+      "tags": [
+        "christmas",
+        "ice skating",
+        "london"
+      ]
+    },
+    {
+      "id": "jacobite",
+      "title": "The Jacobite steam train",
+      "type": "trains",
+      "ages": [
+        "under5",
+        "kids",
+        "teens"
+      ],
+      "region": "uk",
+      "where": "Fort William to Mallaig, Scotland",
+      "cost": "mid",
+      "setting": "outdoor",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1505832018823-50331d70d237",
+        "alt": "A steam train crossing the Glenfinnan Viaduct in the Scottish Highlands",
+        "credit": "Jack Anstey",
+        "creditUrl": "https://unsplash.com/@jack_anstey"
+      },
+      "text": "The “Hogwarts Express” route over the Glenfinnan Viaduct. Seasonal.",
+      "scout": "No tickets? Watching it cross the viaduct is free.",
+      "url": "https://westcoastrailways.co.uk/jacobite/steam-train-trip",
+      "slug": "blog/steam-train-days-out",
+      "tags": [
+        "harry potter",
+        "steam"
+      ]
+    },
+    {
+      "id": "heritage-railway",
+      "title": "Heritage steam railways",
+      "type": "trains",
+      "ages": [
+        "under5",
+        "kids",
+        "teens"
+      ],
+      "region": "near",
+      "where": "Preserved railways near you",
+      "cost": "budget",
+      "setting": "outdoor",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1535535112387-56ffe8db21ff",
+        "alt": "A heritage steam train passing through a forest",
+        "credit": "Denis Chick",
+        "creditUrl": "https://unsplash.com/@drc1948"
+      },
+      "text": "Short rides behind real steam engines, plus themed event days.",
+      "scout": "Check the timetable. Most don’t run every day.",
+      "slug": "blog/steam-train-days-out",
+      "tags": [
+        "steam",
+        "santa special"
+      ]
+    },
+    {
+      "id": "santa-experience",
+      "title": "Santa experiences",
+      "type": "seasonal",
+      "ages": [
+        "under5",
+        "kids"
+      ],
+      "region": "near",
+      "where": "Farms, gardens and railways near you (December)",
+      "cost": "mid",
+      "setting": "both",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1639178952543-1c0ea3cbacaa",
+        "alt": "A family gathered around a Christmas tree",
+        "credit": "Jakob Owens",
+        "creditUrl": "https://unsplash.com/@jakobowens1"
+      },
+      "text": "Grottos, elves, crafts and a gift from the big man himself.",
+      "scout": "Book in October for the best slots.",
+      "slug": "blog/christmas-days-out-family",
+      "tags": [
+        "christmas",
+        "santa"
+      ]
+    },
+    {
+      "id": "light-trail",
+      "title": "Christmas light trails",
+      "type": "seasonal",
+      "ages": [
+        "under5",
+        "kids",
+        "teens"
+      ],
+      "region": "near",
+      "where": "Gardens and estates near you (winter)",
+      "cost": "mid",
+      "setting": "outdoor",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1607109946143-ee98d991846e",
+        "alt": "Twinkling red and white festive lights",
+        "credit": "Cole Ciarlello",
+        "creditUrl": "https://unsplash.com/@cole_ciarlello"
+      },
+      "text": "Illuminated evening trails through gardens and parks.",
+      "scout": "Early-evening weekday slots are often cheaper.",
+      "slug": "seasonal-events",
+      "tags": [
+        "christmas",
+        "lights"
+      ]
+    },
+    {
+      "id": "wb-studio-tour",
+      "title": "Warner Bros. Studio Tour London",
+      "type": "film",
+      "ages": [
+        "kids",
+        "teens"
+      ],
+      "region": "uk",
+      "where": "Leavesden, near Watford, England",
+      "cost": "splurge",
+      "setting": "indoor",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1618944847023-38aa001235f0",
+        "alt": "A Platform 9¾ sign for the Hogwarts Express",
+        "credit": "Aditya Vyas",
+        "creditUrl": "https://unsplash.com/@aditya1702"
+      },
+      "text": "Real Harry Potter sets, props and costumes. Under-5s free.",
+      "scout": "Allow 3–4 hours and book direct.",
+      "url": "https://www.wbstudiotour.co.uk/",
+      "slug": "blog/harry-potter-studio-tour-tips",
+      "tags": [
+        "harry potter",
+        "rainy day"
+      ]
+    },
+    {
+      "id": "platform-934",
+      "title": "Platform 9¾ at King’s Cross",
+      "type": "film",
+      "ages": [
+        "under5",
+        "kids",
+        "teens"
+      ],
+      "region": "uk",
+      "where": "King’s Cross station, London",
+      "cost": "free",
+      "setting": "indoor",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1547756536-cde3673fa2e5",
+        "alt": "A red steam locomotive on a railway line",
+        "credit": "B K",
+        "creditUrl": "https://unsplash.com/@woolyart"
+      },
+      "text": "The trolley vanishing into the wall. Your own photo is free.",
+      "scout": "Go early to beat the queue.",
+      "slug": "harry-potter-days-out",
+      "tags": [
+        "harry potter",
+        "free"
+      ]
+    },
+    {
+      "id": "wb-studio-tour-tokyo",
+      "title": "Warner Bros. Studio Tour Tokyo",
+      "type": "film",
+      "ages": [
+        "kids",
+        "teens"
+      ],
+      "region": "world",
+      "where": "Tokyo, Japan",
+      "cost": "splurge",
+      "setting": "indoor",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1618944913480-b67ee16d7b77",
+        "alt": "A castle-style building lit up at night",
+        "credit": "Aditya Vyas",
+        "creditUrl": "https://unsplash.com/@aditya1702"
+      },
+      "text": "The Making of Harry Potter, in Tokyo since 2023.",
+      "scout": "Book timed tickets well ahead.",
+      "url": "https://www.wbstudiotour.jp/en/",
+      "slug": "film-and-tv-tours",
+      "tags": [
+        "harry potter",
+        "japan"
+      ]
+    },
+    {
+      "id": "universal-hollywood",
+      "title": "Universal Studios Hollywood",
+      "type": "film",
+      "ages": [
+        "kids",
+        "teens"
+      ],
+      "region": "us",
+      "where": "Los Angeles, California, USA",
+      "cost": "splurge",
+      "setting": "outdoor",
+      "image": {
+        "src": "https://images.unsplash.com/photo-1713426225330-014fbfd04aa0",
+        "alt": "Riders with arms in the air on a roller coaster",
+        "credit": "Hannes Knutsson",
+        "creditUrl": "https://unsplash.com/@hannesknutsson"
+      },
+      "text": "A working film studio with a famous Studio Tour, rides and a Wizarding World.",
+      "scout": "Do the Studio Tour early, before queues build.",
+      "url": "https://www.universalstudioshollywood.com/",
+      "slug": "film-and-tv-tours",
+      "tags": [
+        "movies",
+        "harry potter"
+      ]
+    }
+  ]
+}

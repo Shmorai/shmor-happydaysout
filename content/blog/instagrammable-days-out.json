@@ -1,0 +1,66 @@
+{
+  "updated": "2026-10-14",
+  "type": "post",
+  "date": "2026-09-03",
+  "eyebrow": "Teen pick · Photo spots",
+  "search": false,
+  "slug": "blog/instagrammable-days-out",
+  "title": "Photo-Worthy Days Out: Places Teens Will Want to Post",
+  "description": "Photo-worthy family days out teens will want to share: viaducts, castles, light trails, gardens and coastlines, plus tips for great photos without the queues.",
+  "h1": "Photo-worthy days out teens will want to post",
+  "intro": "Want a teenager who’s keen to come along? Pick somewhere that looks amazing on camera. Here are photo-worthy days out, many of them free.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1505832018823-50331d70d237",
+    "alt": "A steam train crossing the Glenfinnan Viaduct in the Scottish Highlands",
+    "credit": "Jack Anstey",
+    "creditUrl": "https://unsplash.com/@jack_anstey"
+  },
+  "keywords": [
+    "instagrammable places",
+    "photo spots",
+    "instagrammable days out",
+    "photo worthy places uk",
+    "best views",
+    "golden hour",
+    "photography days out"
+  ],
+  "cardText": "Viaducts, castles, light trails and coastlines made for photos.",
+  "blocks": [
+    {
+      "type": "scout",
+      "mood": "tip",
+      "title": "Scout’s photo tip",
+      "text": "<p>Go early or at golden hour (just after sunrise or before sunset). The light is softer and the crowds are smaller.</p>",
+      "points": [
+        "Respect “no photos” signs",
+        "Don’t stray off paths for a shot",
+        "Never stand near cliff edges"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Iconic and free",
+      "html": "<ul><li>The <a href=\"/blog/harry-potter-filming-locations-days-out/\">Glenfinnan Viaduct</a> when the Jacobite steams across.</li><li>The <a href=\"/nature-and-national-parks/\">Giant’s Causeway</a>’s hexagon columns.</li><li><a href=\"/beaches-and-seaside/\">The Jurassic Coast</a> and other dramatic coastlines.</li></ul>"
+    },
+    {
+      "h2": "Worth a ticket",
+      "html": "<ul><li>Fairy-tale castles, from <a href=\"/castles-and-history/\">Edinburgh to Neuschwanstein</a>.</li><li><a href=\"/seasonal-events/\">Christmas light trails</a>.</li><li>Kew’s glasshouses and treetop walkway.</li></ul>"
+    },
+    {
+      "h2": "Stay safe for the shot",
+      "html": "<p>No photo is worth a risk. Keep behind barriers, stay away from cliff edges and railway lines, and keep an eye on tides.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the best time of day for photos?",
+      "a": "Golden hour, just after sunrise or before sunset, gives soft, warm light and often fewer crowds."
+    }
+  ],
+  "related": [
+    "teen-days-out",
+    "castles-and-history",
+    "nature-and-national-parks"
+  ]
+}

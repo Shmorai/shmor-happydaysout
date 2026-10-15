@@ -1,0 +1,64 @@
+{
+  "updated": "2026-10-14",
+  "type": "post",
+  "date": "2026-08-17",
+  "eyebrow": "Ideas · Grandparents",
+  "search": false,
+  "slug": "blog/days-out-with-grandparents",
+  "title": "Days Out With Grandparents: Ideas for All Generations",
+  "description": "Days out for grandparents and grandchildren together: steam trains, gardens, castles, museums and gentle trails, plus senior and family ticket tips.",
+  "h1": "Days out with grandparents",
+  "intro": "Some of the best memories are made with grandparents. These days out work for every generation, with plenty of benches and cafés along the way.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1681311311317-a0561a8eef74",
+    "alt": "A family sitting on a picnic blanket in the grass",
+    "credit": "Reba Spike",
+    "creditUrl": "https://unsplash.com/@rebaspike"
+  },
+  "keywords": [
+    "days out with grandparents",
+    "grandparents and grandchildren",
+    "multi generational days out",
+    "senior discounts",
+    "days out for all ages"
+  ],
+  "cardText": "Days out that work for every generation.",
+  "blocks": [
+    {
+      "type": "scout",
+      "mood": "tip",
+      "title": "Scout’s three-generation tip",
+      "text": "<p>Pick somewhere with seats, cafés and a short loop, so everyone can go at their own pace and nobody’s left behind.</p>",
+      "points": [
+        "Ask about senior concession prices",
+        "Check accessibility and parking",
+        "Family tickets may include grandparents"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Gentle and nostalgic",
+      "html": "<ul><li><a href=\"/blog/steam-train-days-out/\">Steam train rides</a>: grandparents remember them, kids love them.</li><li>Gardens like Kew or the Eden Project.</li><li><a href=\"/castles-and-history/\">Castles</a> with storytelling events.</li></ul>"
+    },
+    {
+      "h2": "Indoors",
+      "html": "<p>Free <a href=\"/museums-and-science/\">museums</a> have lifts, cafés and benches. Aquariums are calm and fascinating for all ages.</p>"
+    },
+    {
+      "h2": "Gift idea",
+      "html": "<p>A shared <a href=\"/experience-days/\">experience</a>, like afternoon tea plus a zoo trip, makes a lovely gift from grandparents. Some memberships, like the National Trust, include grandchildren. See <a href=\"/blog/national-trust-vs-english-heritage/\">which membership suits</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What are good days out with grandparents?",
+      "a": "Steam trains, gardens, castles, museums, aquariums and gentle nature trails, ideally with plenty of seating and cafés."
+    }
+  ],
+  "related": [
+    "blog/steam-train-days-out",
+    "museums-and-science",
+    "blog/national-trust-vs-english-heritage"
+  ]
+}

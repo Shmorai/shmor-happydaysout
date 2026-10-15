@@ -1,0 +1,77 @@
+{
+  "updated": "2026-10-14",
+  "slug": "water-parks",
+  "nav": "Water parks",
+  "title": "Water Parks for Families: UK, Europe and the USA",
+  "description": "The best water parks for families: indoor water parks in the UK and Europe, outdoor slides in Tenerife and Orlando, local pools and safety tips.",
+  "eyebrow": "Water parks & pools",
+  "h1": "Water parks and splash days",
+  "intro": "Flumes, lazy rivers and wave pools: water parks are pure joy in any weather if you go indoors. Here are the best family water parks, near and far.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1642717841683-c0323214617c",
+    "alt": "Water slides at a water park",
+    "credit": "Konrad Burdyn",
+    "creditUrl": "https://unsplash.com/@kburdyn"
+  },
+  "blocks": [
+    {
+      "type": "scout",
+      "mood": "verdict",
+      "title": "Scout’s water park verdict",
+      "text": "<p>Indoor water parks are the ultimate rainy-day rescue. Outdoors, arrive early for a sunbed and slap on the suncream.</p>",
+      "facts": [
+        [
+          "Rain-proof",
+          "Indoor water parks"
+        ],
+        [
+          "Budget",
+          "Local leisure pools"
+        ],
+        [
+          "Watch out",
+          "Height limits on big slides"
+        ]
+      ],
+      "position": "top"
+    },
+    {
+      "type": "finder",
+      "title": "Water parks and pools",
+      "preset": {
+        "type": "waterpark"
+      }
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Water park tips",
+      "html": "<ul><li>Check height limits on the biggest slides before you promise anything.</li><li>Bring flip-flops, a waterproof phone pouch and a padlock for lockers.</li><li>Younger children should wear arm bands or a swim vest if they can’t swim confidently, and always need supervision.</li></ul><p>More in our <a href=\"/blog/water-parks-guide/\">water parks guide</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the best indoor water park in the UK?",
+      "a": "Popular choices include Sandcastle Waterpark in Blackpool and the indoor pools at Center Parcs villages. Many local leisure centres also have flumes and wave machines."
+    }
+  ],
+  "related": [
+    "blog/water-parks-guide",
+    "theme-parks",
+    "blog/rainy-day-days-out",
+    "beaches-and-seaside"
+  ],
+  "keywords": [
+    "water park",
+    "water parks",
+    "waterpark",
+    "indoor water park",
+    "flumes",
+    "water slides",
+    "swimming",
+    "wave pool",
+    "siam park",
+    "volcano bay"
+  ],
+  "cardText": "Indoor and outdoor water parks plus local pools."
+}

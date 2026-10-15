@@ -1,0 +1,82 @@
+{
+  "updated": "2026-10-14",
+  "type": "post",
+  "date": "2026-08-18",
+  "eyebrow": "Inclusive days out",
+  "search": false,
+  "slug": "blog/accessible-days-out",
+  "title": "Accessible Days Out: Carer Tickets, Passes and Tips",
+  "description": "Accessible family days out: carer tickets, Max Card and CEA Card discounts, ride access passes, quiet sessions, Changing Places toilets and how to plan ahead.",
+  "h1": "Accessible days out: tips for disabled children and families",
+  "intro": "Every family deserves a great day out. These schemes and tips help families with disabled children or additional needs plan with confidence.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1542037104857-ffbb0b9155fb",
+    "alt": "Two parents holding a toddler’s hands on a sunny walk",
+    "credit": "Jessica Rockowitz",
+    "creditUrl": "https://unsplash.com/@jessicarockowitz"
+  },
+  "keywords": [
+    "accessible days out",
+    "carer tickets",
+    "max card",
+    "cea card",
+    "ride access pass",
+    "sen friendly",
+    "quiet sessions",
+    "changing places toilets",
+    "autism friendly days out"
+  ],
+  "cardText": "Carer tickets, Max Card, CEA Card and ride access passes.",
+  "blocks": [
+    {
+      "type": "scout",
+      "mood": "tip",
+      "title": "Scout’s access tip",
+      "text": "<p>Check the attraction’s accessibility page and contact them before you go. Many offer free carer tickets, quiet times and access passes, but you may need to apply in advance.</p>",
+      "points": [
+        "Bring any proof of eligibility they ask for",
+        "Ask about quiet rooms and sensory maps",
+        "Look for Changing Places toilets"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Discount and carer schemes (UK)",
+      "html": "<ul><li><strong>Carer tickets:</strong> many attractions offer free or discounted entry for an essential carer.</li><li><strong>Max Card:</strong> a discount card for families of children with additional needs, accepted at participating attractions.</li><li><strong>CEA Card:</strong> lets a cardholder get a free ticket for a carer at participating cinemas.</li></ul>"
+    },
+    {
+      "h2": "Theme park access",
+      "html": "<p>Merlin parks use the <strong>Ride Access Pass</strong>, which you apply for online in advance. Disney has its own access services. Read our <a href=\"/blog/theme-park-queue-tips/\">queue tips</a> and check each park’s accessibility pages.</p>"
+    },
+    {
+      "h2": "Quiet and sensory-friendly",
+      "html": "<p>Look for relaxed or SEN-friendly sessions at cinemas, trampoline parks and museums, plus sensory maps and quiet rooms. Changing Places toilets (with a hoist and changing bench) are listed online. Use the <a href=\"/adventure-finder/\">adventure finder</a> to plan.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do carers get free entry to attractions?",
+      "a": "Many UK attractions offer free or discounted entry for an essential carer, sometimes with proof of eligibility. Check the attraction’s accessibility page."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Max Card",
+      "url": "https://www.mymaxcard.co.uk/"
+    },
+    {
+      "title": "CEA Card",
+      "url": "https://www.ceacard.co.uk/"
+    },
+    {
+      "title": "LEGOLAND Windsor: Ride Access Pass",
+      "url": "https://www.legoland.co.uk/plan-your-day/before-you-visit/accessibility/theme-park-accessibility/ride-access-pass/"
+    }
+  ],
+  "related": [
+    "discount-codes",
+    "blog/theme-park-queue-tips",
+    "indoor-activities"
+  ]
+}

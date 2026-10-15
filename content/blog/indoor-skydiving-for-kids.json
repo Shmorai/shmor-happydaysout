@@ -1,0 +1,65 @@
+{
+  "updated": "2026-10-14",
+  "type": "post",
+  "date": "2026-09-07",
+  "eyebrow": "Teen pick · Experiences",
+  "search": false,
+  "slug": "blog/indoor-skydiving-for-kids",
+  "title": "Indoor Skydiving for Kids: What It’s Like and What to Know",
+  "description": "Indoor skydiving for kids and teens explained: how the wind tunnel works, minimum ages, what to wear, how long you fly and why it makes a great experience gift.",
+  "h1": "Indoor skydiving for kids and teens",
+  "intro": "Fly like a superhero, no plane required. Indoor skydiving uses a vertical wind tunnel to float you on air, and it’s surprisingly kid-friendly.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1507608869274-d3177c8bb4c7",
+    "alt": "Hot air balloons rising over the landscape",
+    "credit": "ian dooley",
+    "creditUrl": "https://unsplash.com/@sadswim"
+  },
+  "keywords": [
+    "indoor skydiving",
+    "ifly",
+    "indoor skydiving for kids",
+    "wind tunnel",
+    "experience gift",
+    "indoor skydiving age"
+  ],
+  "cardText": "How the wind tunnel works, ages, flight time and what to wear.",
+  "blocks": [
+    {
+      "type": "scout",
+      "mood": "tip",
+      "title": "Scout’s flying tip",
+      "text": "<p>Flights are short (often a minute or two each), but it feels much longer. Buy two flights if you can: the second is when it clicks.</p>",
+      "points": [
+        "Check minimum age and weight rules",
+        "Wear trainers and comfy clothes",
+        "Arrive early for the training briefing"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "How it works",
+      "html": "<p>Fans blow air up a tall glass tunnel fast enough to lift you. You wear a flight suit, helmet and goggles, and an instructor flies alongside you, holding and guiding you.</p>"
+    },
+    {
+      "h2": "Who can fly",
+      "html": "<p>Centres set minimum ages and maximum weights, and some have height rules. Many welcome young children with an instructor. Check your centre’s rules before booking.</p>"
+    },
+    {
+      "h2": "Is it worth it?",
+      "html": "<p>It’s a pricier treat, so it makes a great <a href=\"/experience-days/\">experience gift</a> or <a href=\"/blog/teen-birthday-day-out-ideas/\">birthday day out</a>. Find it in our <a href=\"/adventure-parks/\">adventure parks guide</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is indoor skydiving safe for kids?",
+      "a": "It’s supervised by trained instructors who fly with you. Centres set age, weight and health rules, so check them before booking."
+    }
+  ],
+  "related": [
+    "adventure-parks",
+    "experience-days",
+    "teen-days-out"
+  ]
+}

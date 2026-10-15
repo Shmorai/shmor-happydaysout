@@ -51,6 +51,8 @@ function links(it, p, k, goLabel) {
 }
 
 module.exports = {
+  finder: require('./finder.js'), // adventure finder: see tools/finder.js
+
   scout(b, p, k) {
     const verdict = b.mood === 'verdict';
     const label = b.label || (verdict ? 'Scout’s verdict' : 'Scout’s tip');

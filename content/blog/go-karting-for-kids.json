@@ -1,0 +1,66 @@
+{
+  "updated": "2026-10-14",
+  "type": "post",
+  "date": "2026-09-10",
+  "eyebrow": "Teen pick · Karting",
+  "search": false,
+  "slug": "blog/go-karting-for-kids",
+  "title": "Go-Karting for Kids and Teens: Ages, Safety and Tips",
+  "description": "Go-karting for kids and teenagers: junior sessions, typical age and height rules, what to wear, safety briefings and how to make it a family race day.",
+  "h1": "Go-karting for kids and teens",
+  "intro": "Helmet on, lights go green, foot down. Go-karting is one of the most exciting days out for kids and teens, and parents can join the race too.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1505570554449-69ce7d4fa36b",
+    "alt": "Two go-kart drivers on a race track",
+    "credit": "David Armstrong",
+    "creditUrl": "https://unsplash.com/@armstrong99"
+  },
+  "keywords": [
+    "go karting for kids",
+    "go karting",
+    "junior karting",
+    "kids karting age",
+    "karting birthday",
+    "indoor karting",
+    "family karting"
+  ],
+  "cardText": "Junior sessions, age rules, what to wear and safety tips.",
+  "blocks": [
+    {
+      "type": "scout",
+      "mood": "tip",
+      "title": "Scout’s karting tip",
+      "text": "<p>Look for junior sessions with smaller, slower karts, and family sessions where adults race too. Every track sets its own age and height rules.</p>",
+      "points": [
+        "Wear closed shoes and long trousers",
+        "Tie back long hair",
+        "Listen carefully to the briefing"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Ages and heights",
+      "html": "<p>Most tracks set a minimum age and height for junior karts, and higher limits for adult karts. Some indoor tracks offer cadet karts for younger children. Check the track’s website before booking. The rules are strict.</p>"
+    },
+    {
+      "h2": "What to expect",
+      "html": "<ol><li>Safety briefing and flags explained.</li><li>Helmet (and often a race suit) provided.</li><li>Practice and qualifying laps, sometimes a race.</li><li>Lap times on a screen, often with a podium at the end.</li></ol>"
+    },
+    {
+      "h2": "Safety first",
+      "html": "<ul><li>Follow marshals’ flags at all times.</li><li>No bumping: most tracks penalise contact.</li><li>Tell staff about any medical conditions.</li></ul><p>More wheels fun in <a href=\"/go-karting-and-skating/\">karts, skate parks and bikes</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What age can you go karting?",
+      "a": "It depends on the track. Many offer junior sessions with minimum ages and heights, and some have cadet karts for younger children. Check before booking."
+    }
+  ],
+  "related": [
+    "go-karting-and-skating",
+    "teen-days-out",
+    "blog/teen-birthday-day-out-ideas"
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "updated": "2026-10-14",
+  "slug": "snow-and-ice",
+  "nav": "Snow & ice",
+  "title": "Snow and Ice Days Out: Indoor Skiing and Ice Skating",
+  "description": "Snow and ice days out for families: indoor real-snow slopes for ski and snowboard lessons, snow play, ice rinks, festive skating and first-timer tips.",
+  "eyebrow": "Snow & ice",
+  "h1": "Snow and ice days out",
+  "intro": "No mountains needed. Indoor real-snow centres and ice rinks bring winter fun to your doorstep all year round.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1613414871583-2bee2bcecc3f",
+    "alt": "People skating on an outdoor ice rink",
+    "credit": "Brian Kyed",
+    "creditUrl": "https://unsplash.com/@brnkd"
+  },
+  "blocks": [
+    {
+      "type": "scout",
+      "mood": "verdict",
+      "title": "Scout’s snowy verdict",
+      "text": "<p>Book a beginner lesson rather than just a slope pass. It’s safer, more fun and you’ll actually learn.</p>",
+      "facts": [
+        [
+          "Year-round",
+          "Indoor snow centres"
+        ],
+        [
+          "Cheapest",
+          "Public skating sessions"
+        ],
+        [
+          "Must bring",
+          "Gloves & warm layers"
+        ]
+      ],
+      "position": "top"
+    },
+    {
+      "type": "finder",
+      "title": "Snow and ice adventures",
+      "preset": {
+        "type": "snow"
+      }
+    }
+  ],
+  "sections": [
+    {
+      "h2": "First-timer tips",
+      "html": "<ul><li>Gloves are usually required on snow slopes and rinks.</li><li>Wear thick socks and layers. Helmets are often provided or recommended.</li><li>Skate aids help small children balance on the ice.</li></ul><p>More in <a href=\"/blog/indoor-snow-and-ski-centres/\">indoor snow centres</a> and <a href=\"/blog/ice-skating-with-kids/\">ice skating with kids</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can you ski indoors in the UK?",
+      "a": "Yes. Indoor real-snow centres such as the Snowdome in Tamworth and Chill Factore in Manchester offer lessons, slope time and snow play."
+    }
+  ],
+  "related": [
+    "blog/indoor-snow-and-ski-centres",
+    "blog/ice-skating-with-kids",
+    "seasonal-events",
+    "indoor-activities"
+  ],
+  "keywords": [
+    "ice skating",
+    "ice rink",
+    "skiing",
+    "indoor skiing",
+    "snowboarding",
+    "snow centre",
+    "sledging",
+    "snowdome",
+    "chill factore",
+    "winter days out"
+  ],
+  "cardText": "Indoor ski slopes, snow play and ice skating."
+}

@@ -1,0 +1,66 @@
+{
+  "updated": "2026-10-14",
+  "type": "post",
+  "date": "2026-08-23",
+  "eyebrow": "Museums · Space",
+  "search": false,
+  "slug": "blog/space-days-out",
+  "title": "Space Days Out for Kids: Rockets, Planetariums and More",
+  "description": "Space days out for kids and teens: the National Space Centre, Royal Observatory Greenwich, Science Museum, Kennedy Space Center and planetarium shows.",
+  "h1": "Space days out for kids and teens",
+  "intro": "Rockets, astronauts and the universe on a dome above your head. These are the best days out for space-mad kids and teens.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1687488057264-d3500aec2cc7",
+    "alt": "Two adults and a child looking out at a mountain view",
+    "credit": "Nils Huenerfuerst",
+    "creditUrl": "https://unsplash.com/@nhuenerfuerst"
+  },
+  "keywords": [
+    "space days out",
+    "national space centre",
+    "planetarium",
+    "royal observatory greenwich",
+    "kennedy space center",
+    "science museum space",
+    "rockets"
+  ],
+  "cardText": "Space centres, planetariums and real rockets.",
+  "blocks": [
+    {
+      "type": "scout",
+      "mood": "tip",
+      "title": "Scout’s space tip",
+      "text": "<p>Planetarium shows have set times and limited seats. Book or grab tickets as soon as you arrive.</p>",
+      "points": [
+        "Free: Science Museum space galleries",
+        "Ticketed: planetarium shows",
+        "Check launch schedules in Florida"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "UK",
+      "html": "<ul><li><strong>National Space Centre</strong>, Leicester: rockets, galleries and a planetarium.</li><li><strong>Royal Observatory Greenwich</strong>: the Prime Meridian and the Peter Harrison Planetarium.</li><li><strong>Science Museum</strong>, London: free space galleries.</li></ul>"
+    },
+    {
+      "h2": "USA",
+      "html": "<p><strong>Kennedy Space Center Visitor Complex</strong> in Florida has real rockets and the Space Shuttle Atlantis, an easy add-on to an <a href=\"https://traveldeals.shmor.ai/destinations/orlando/\">Orlando trip</a>. The Smithsonian’s National Air and Space Museum in Washington, DC is free.</p>"
+    },
+    {
+      "h2": "At home",
+      "html": "<p>Head outside after dark: see <a href=\"/blog/stargazing-dark-sky-places/\">stargazing with kids</a>. Browse <a href=\"/museums-and-science/\">museums and science</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is the Science Museum space gallery free?",
+      "a": "General admission to the Science Museum is free, including its permanent space galleries. Some exhibitions and experiences charge."
+    }
+  ],
+  "related": [
+    "museums-and-science",
+    "blog/stargazing-dark-sky-places",
+    "blog/science-centres-for-kids"
+  ]
+}

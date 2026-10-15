@@ -1,0 +1,75 @@
+{
+  "updated": "2026-10-14",
+  "slug": "film-and-tv-tours",
+  "nav": "Film tours",
+  "title": "Film and TV Tours: Harry Potter, Universal and More",
+  "description": "Film and TV days out for fans: the Warner Bros. Studio Tours in London and Tokyo, Universal Studios Hollywood, Platform 9¾ and Harry Potter filming locations.",
+  "eyebrow": "Film & TV tours",
+  "h1": "Film and TV tours for fans of all ages",
+  "intro": "Walk onto real film sets and see how movie magic is made. These tours are a dream day out for film-loving kids and teens.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1618944847023-38aa001235f0",
+    "alt": "A Platform 9¾ sign for the Hogwarts Express",
+    "credit": "Aditya Vyas",
+    "creditUrl": "https://unsplash.com/@aditya1702"
+  },
+  "blocks": [
+    {
+      "type": "scout",
+      "mood": "verdict",
+      "title": "Scout’s film-fan verdict",
+      "text": "<p>Studio tours sell timed tickets that go early for holidays. Book direct on the official site and allow plenty of time.</p>",
+      "facts": [
+        [
+          "Best for",
+          "Ages 7+ and fans"
+        ],
+        [
+          "Rainy day?",
+          "Mostly indoors"
+        ],
+        [
+          "Free extra",
+          "Platform 9¾ photo"
+        ]
+      ],
+      "position": "top"
+    },
+    {
+      "type": "finder",
+      "title": "Film and TV days out",
+      "preset": {
+        "type": "film"
+      }
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Plan your fan trip",
+      "html": "<p>See all our <a href=\"/harry-potter-days-out/\">Harry Potter days out</a>, the <a href=\"/blog/harry-potter-studio-tour-tips/\">Studio Tour tips</a> and <a href=\"/blog/harry-potter-filming-locations-days-out/\">filming locations</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Where can you see real Harry Potter sets?",
+      "a": "At the Warner Bros. Studio Tour London in Leavesden and the Warner Bros. Studio Tour Tokyo."
+    }
+  ],
+  "related": [
+    "harry-potter-days-out",
+    "blog/harry-potter-studio-tour-tips",
+    "blog/epic-universe-family-guide",
+    "theme-parks"
+  ],
+  "keywords": [
+    "film tour",
+    "studio tour",
+    "tv tour",
+    "movie locations",
+    "universal studios hollywood",
+    "warner bros studio tour",
+    "harry potter",
+    "film locations"
+  ],
+  "cardText": "Studio tours, film parks and movie locations."
+}

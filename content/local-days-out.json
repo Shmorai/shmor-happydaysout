@@ -2,7 +2,6 @@
   "updated": "2026-10-14",
   "slug": "local-days-out",
   "nav": "Near me",
-  "navOrder": 7,
   "title": "Days Out Near Me: Local Family Day Trip Ideas",
   "description": "Find great family days out near you: farm parks, pick-your-own, soft play, nature reserves, heritage railways and local events, plus how to find them fast.",
   "eyebrow": "Local days out",
@@ -75,6 +74,13 @@
           "cta": "Budget tips"
         }
       ]
+    },
+    {
+      "type": "finder",
+      "title": "Day outs you’ll find near you",
+      "preset": {
+        "region": "near"
+      }
     }
   ],
   "sections": [

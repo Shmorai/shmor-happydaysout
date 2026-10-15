@@ -1,0 +1,65 @@
+{
+  "updated": "2026-10-14",
+  "type": "post",
+  "date": "2026-09-12",
+  "eyebrow": "Teen pick · Birthdays",
+  "search": false,
+  "slug": "blog/teen-birthday-day-out-ideas",
+  "title": "Teen Birthday Day Out Ideas They’ll Actually Love",
+  "description": "Teen birthday day out ideas: escape rooms, go-karting, laser tag, trampoline parks, climbing, theme parks and city trips, plus group booking tips.",
+  "h1": "Teen birthday day out ideas",
+  "intro": "Too old for a bouncy castle, too young to go out alone? Here are birthday days out that teens will happily invite their mates to.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1522211041032-a7eb9a3f8c0f",
+    "alt": "Three go-karts racing around a bend",
+    "credit": "Alexander Andrews",
+    "creditUrl": "https://unsplash.com/@alex_andrews"
+  },
+  "keywords": [
+    "teen birthday ideas",
+    "teenage birthday party ideas",
+    "birthday day out",
+    "13th birthday ideas",
+    "birthday activities for teens",
+    "group activities"
+  ],
+  "cardText": "Escape rooms, karting, laser tag and more birthday ideas for teens.",
+  "blocks": [
+    {
+      "type": "scout",
+      "mood": "tip",
+      "title": "Scout’s party tip",
+      "text": "<p>Ask about group or party packages. They often include extras like food or private time, and can work out cheaper per person.</p>",
+      "points": [
+        "Book weekends early",
+        "Check the youngest guest meets age limits",
+        "Collect consent forms ahead if the venue needs them"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Active and competitive",
+      "html": "<ul><li><a href=\"/go-karting-and-skating/\">Go-karting</a>: junior sessions with a podium finish.</li><li><a href=\"/indoor-activities/\">Laser tag</a>: team battles in neon arenas.</li><li><a href=\"/indoor-activities/\">Trampoline parks</a>: dodgeball courts and foam pits.</li><li><a href=\"/indoor-activities/\">Climbing or bouldering</a>: a taster session with instructors.</li></ul>"
+    },
+    {
+      "h2": "Brainy and social",
+      "html": "<ul><li><a href=\"/escape-rooms/\">Escape rooms</a>: perfect for small groups.</li><li>Bowling plus pizza: a classic that still works.</li><li>A city day with a show or a <a href=\"/film-and-tv-tours/\">studio tour</a>.</li></ul>"
+    },
+    {
+      "h2": "Big-ticket treats",
+      "html": "<p>A <a href=\"/blog/thrill-rides-for-teens/\">thrill park</a>, a <a href=\"/surf-and-paddle/\">surf lesson</a> or <a href=\"/blog/indoor-skydiving-for-kids/\">indoor skydiving</a> makes a birthday unforgettable. Gift experiences can also be shared: see <a href=\"/experience-days/\">experience days</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What can I do for a 13th birthday?",
+      "a": "Popular choices include escape rooms, go-karting, laser tag, trampoline parks, climbing walls and theme parks. Let them choose and invite a few friends."
+    }
+  ],
+  "related": [
+    "teen-days-out",
+    "escape-rooms",
+    "indoor-activities"
+  ]
+}

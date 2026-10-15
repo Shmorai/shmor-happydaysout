@@ -1,0 +1,65 @@
+{
+  "updated": "2026-10-14",
+  "type": "post",
+  "date": "2026-08-26",
+  "eyebrow": "Outdoors · Camping",
+  "search": false,
+  "slug": "blog/first-family-camping-trip",
+  "title": "Your First Family Camping Trip: A Beginner’s Checklist",
+  "description": "Planning your first family camping trip? Choosing a campsite, what kit you really need, cooking, keeping kids warm at night and a practice run in the garden.",
+  "h1": "Your first family camping trip",
+  "intro": "Marshmallows, torch-lit tents and waking up outdoors. Camping is a cheap, brilliant adventure, and a bit of prep makes the first trip a happy one.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1756982477676-420df08af67c",
+    "alt": "A family walking together on a grassy hill",
+    "credit": "Seljan Salim",
+    "creditUrl": "https://unsplash.com/@seljansalim"
+  },
+  "keywords": [
+    "family camping",
+    "camping with kids",
+    "first camping trip",
+    "camping checklist",
+    "campsite",
+    "camping tips"
+  ],
+  "cardText": "Campsites, kit, cooking and keeping warm at night.",
+  "blocks": [
+    {
+      "type": "scout",
+      "mood": "tip",
+      "title": "Scout’s camping tip",
+      "text": "<p>Do a practice night in the garden first. You’ll find out what’s missing, and whether everyone actually likes it, without a long drive home.</p>",
+      "points": [
+        "Pick a campsite with good facilities first time",
+        "Nights get cold, even in summer",
+        "Pitch your tent before dark"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Choosing a campsite",
+      "html": "<p>For a first trip, choose a site with toilets, showers and a play area, not too far from home. Check whether it allows campfires, and how far the car park is from your pitch.</p>"
+    },
+    {
+      "h2": "The kit that matters",
+      "html": "<ul><li>A tent you’ve practised putting up.</li><li>Warm sleeping bags rated for the season, plus mats or airbeds.</li><li>Head torches for everyone.</li><li>A simple stove, pans and a cool box.</li><li>Layers, waterproofs and wellies.</li></ul>"
+    },
+    {
+      "h2": "Not sure about tents?",
+      "html": "<p>Try <a href=\"/blog/glamping-with-kids/\">glamping</a> first: beds, sometimes electricity, all the fun. Plan days out from the site with the <a href=\"/adventure-finder/\">adventure finder</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What age can kids go camping?",
+      "a": "Families camp with children of all ages, including babies. Choose sites with good facilities and plan for cold nights."
+    }
+  ],
+  "related": [
+    "blog/glamping-with-kids",
+    "nature-and-national-parks",
+    "blog/stargazing-dark-sky-places"
+  ]
+}

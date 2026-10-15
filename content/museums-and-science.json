@@ -1,0 +1,77 @@
+{
+  "updated": "2026-10-14",
+  "slug": "museums-and-science",
+  "nav": "Museums",
+  "title": "Museums and Science Centres for Kids and Teens",
+  "description": "The best museums and science centres for families: free national museums, hands-on science centres, space centres and planetariums in the UK, US and Europe.",
+  "eyebrow": "Museums & science",
+  "h1": "Museums and science centres for families",
+  "intro": "Dinosaurs, rockets, robots and hands-on experiments. Many of the best are free, and they’re the ultimate rainy-day plan.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1513038630932-13873b1a7f29",
+    "alt": "Visitors exploring a dinosaur fossil gallery",
+    "credit": "Chris Nguyen",
+    "creditUrl": "https://unsplash.com/@cspek"
+  },
+  "blocks": [
+    {
+      "type": "scout",
+      "mood": "verdict",
+      "title": "Scout’s museum verdict",
+      "text": "<p>Pick two or three galleries rather than trying to see everything. Ask at the desk for free kids’ trails and activity sheets.</p>",
+      "facts": [
+        [
+          "Free",
+          "UK national museums, Smithsonian"
+        ],
+        [
+          "Hands-on",
+          "Science centres"
+        ],
+        [
+          "Top tip",
+          "Arrive at opening"
+        ]
+      ],
+      "position": "top"
+    },
+    {
+      "type": "finder",
+      "title": "Museums and science centres",
+      "preset": {
+        "type": "museum"
+      }
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Make it fun",
+      "html": "<p>Turn a visit into a mission: spot five dinosaurs, find the oldest thing, or vote on the weirdest object. Read <a href=\"/blog/science-centres-for-kids/\">science centres for kids</a>, <a href=\"/blog/space-days-out/\">space days out</a> and <a href=\"/blog/free-museums-london-kids/\">free London museums</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Which museums are free in the UK?",
+      "a": "National museums, including the Natural History Museum, Science Museum, British Museum and the national museums of Scotland and Wales, have free general admission."
+    }
+  ],
+  "related": [
+    "blog/science-centres-for-kids",
+    "blog/space-days-out",
+    "free-days-out",
+    "indoor-activities"
+  ],
+  "keywords": [
+    "museum",
+    "museums",
+    "science centre",
+    "science museum",
+    "planetarium",
+    "space centre",
+    "dinosaurs",
+    "hands-on museum",
+    "free museums",
+    "kennedy space center"
+  ],
+  "cardText": "Free museums, hands-on science and space centres."
+}

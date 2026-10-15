@@ -1,0 +1,67 @@
+{
+  "updated": "2026-10-14",
+  "slug": "adventure-finder",
+  "nav": "Finder",
+  "navOrder": 0,
+  "title": "Adventure Finder: Family Days Out by Age, Place and Cost",
+  "description": "Find your next family day out: filter 100+ adventures by age, location, cost, indoor or outdoor and type. Theme parks, escape rooms, free days out and more.",
+  "eyebrow": "Adventure finder",
+  "h1": "Find your next adventure",
+  "h1Html": "Find your next <span class=\"hl\">adventure</span>",
+  "intro": "Filter more than 100 days out by age, location, cost and type. Tiny explorers, bored teenagers or the whole gang: Scout’s got something for everyone.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1637511077877-3c6a00eb32ba",
+    "alt": "Riding a zip line through a forest",
+    "credit": "Nadiia Ganzhyi",
+    "creditUrl": "https://unsplash.com/@nadiiag"
+  },
+  "search": false,
+  "blocks": [
+    {
+      "type": "scout",
+      "mood": "tip",
+      "title": "How to use the finder",
+      "text": "<p>Tap the chips to filter, or hit 🎲 Surprise me for a random idea. “Near you” means a kind of day out you’ll find near most homes, like trampoline parks or rock pooling.</p>",
+      "points": [
+        "Filters can be shared: copy the web address",
+        "Cost bands are a rough guide, not prices",
+        "Every card links to Scout’s guide or the official site"
+      ],
+      "position": "top"
+    },
+    {
+      "type": "finder",
+      "title": "All adventures",
+      "intro": "Pick an age, a place and a budget."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What do the cost bands mean?",
+      "a": "They’re a rough editorial guide to a typical family visit: Free, £ Budget (a cheap treat), ££ Mid-range (a typical paid attraction) and £££ Splurge (a big-ticket day or trip). They aren’t prices. Always check the official site."
+    },
+    {
+      "q": "What does “Near you” mean?",
+      "a": "Types of day out you’ll find near most homes, such as trampoline parks, farm parks, skate parks or rock pooling, rather than one specific venue."
+    }
+  ],
+  "related": [
+    "teen-days-out",
+    "toddler-days-out",
+    "free-days-out",
+    "theme-parks"
+  ],
+  "keywords": [
+    "days out finder",
+    "things to do",
+    "activity finder",
+    "family activities",
+    "things to do with kids",
+    "things to do with teenagers",
+    "days out by age",
+    "cheap days out",
+    "indoor activities",
+    "outdoor activities"
+  ],
+  "cardText": "Filter 100+ days out by age, place, cost and type."
+}

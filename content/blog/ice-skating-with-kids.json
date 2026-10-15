@@ -1,0 +1,66 @@
+{
+  "updated": "2026-10-14",
+  "type": "post",
+  "date": "2026-08-29",
+  "eyebrow": "Snow & ice · Winter",
+  "search": false,
+  "slug": "blog/ice-skating-with-kids",
+  "title": "Ice Skating With Kids: First-Timer Tips and Winter Rinks",
+  "description": "Ice skating with kids: year-round rinks and festive outdoor rinks, skate aids for little ones, what to wear, how to fall safely and getting cheaper sessions.",
+  "h1": "Ice skating with kids: first-timer tips",
+  "intro": "Wobbly legs, big grins and a hot chocolate afterwards. Ice skating is a winter classic, and many rinks are open all year round.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1682953393270-1dd49c0c4989",
+    "alt": "Skating on an ice rink",
+    "credit": "Natalya Karpeka",
+    "creditUrl": "https://unsplash.com/@nktalya"
+  },
+  "keywords": [
+    "ice skating",
+    "ice rink",
+    "ice skating with kids",
+    "outdoor ice rink",
+    "christmas ice rink",
+    "skate aid",
+    "learn to skate"
+  ],
+  "cardText": "Skate aids, what to wear and how to fall safely.",
+  "blocks": [
+    {
+      "type": "scout",
+      "mood": "tip",
+      "title": "Scout’s skating tip",
+      "text": "<p>Teach kids to bend their knees and fall sideways, not backwards. Skate aids (those penguin or seal helpers) are a game-changer for little ones.</p>",
+      "points": [
+        "Gloves are a must",
+        "Off-peak sessions are calmer",
+        "Book festive rinks early"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Year-round and festive rinks",
+      "html": "<p>Leisure centres and arenas often have public sessions all year. In winter, pop-up outdoor rinks appear at castles, museums and city squares, and at events like <a href=\"/seasonal-events/\">Hyde Park Winter Wonderland</a>.</p>"
+    },
+    {
+      "h2": "What to wear",
+      "html": "<ul><li>Gloves (many rinks require them).</li><li>Warm, flexible layers and thick socks.</li><li>A helmet is a smart idea for young children.</li></ul>"
+    },
+    {
+      "h2": "Saving money",
+      "html": "<p>Public sessions at regular rinks are usually cheaper than festive pop-ups, and weekday daytime sessions cost less. More in <a href=\"/snow-and-ice/\">snow and ice</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What age can kids ice skate?",
+      "a": "Many rinks welcome young children, often with skate aids. Check the rink’s minimum age and smallest skate sizes."
+    }
+  ],
+  "related": [
+    "snow-and-ice",
+    "seasonal-events",
+    "blog/christmas-days-out-family"
+  ]
+}
