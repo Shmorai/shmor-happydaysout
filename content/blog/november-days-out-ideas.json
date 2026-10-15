@@ -1,0 +1,65 @@
+{
+  "updated": "2026-10-14",
+  "type": "post",
+  "date": "2026-10-15",
+  "eyebrow": "Ideas · November",
+  "search": false,
+  "slug": "blog/november-days-out-ideas",
+  "title": "November Days Out: Quieter, Cheaper Family Adventures",
+  "description": "November family days out: why it’s a quiet, cheaper month, plus fireworks, woodland walks, museums, early festive events and rainy-day backups.",
+  "h1": "November days out: quieter, cheaper adventures",
+  "intro": "November is the secret season. Summer crowds are gone, Christmas hasn’t hit yet, and many attractions are calmer. Here’s how to make the most of it.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1605796637388-0757a79c26cc",
+    "alt": "A child in yellow wellies walking through autumn leaves",
+    "credit": "Zachary Kadolph",
+    "creditUrl": "https://unsplash.com/@zacharykadolph"
+  },
+  "keywords": [
+    "november days out",
+    "things to do in november",
+    "autumn days out",
+    "winter days out",
+    "quiet days out",
+    "november half term"
+  ],
+  "cardText": "Why November is quiet and cheap, and what to do with it.",
+  "blocks": [
+    {
+      "type": "scout",
+      "mood": "tip",
+      "title": "Scout’s November tip",
+      "text": "<p>Check opening dates. Some outdoor attractions close for winter or open only at weekends from November, while indoor ones carry on as normal.</p>",
+      "points": [
+        "Off-peak prices often apply",
+        "Daylight is short: start early",
+        "Pack layers and a flask"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Early November",
+      "html": "<p>Firework displays around Bonfire Night: see <a href=\"/blog/bonfire-night-fireworks-displays/\">Bonfire Night with kids</a>. Woodland walks are at their crunchiest, and wildlife like deer are easy to spot. See <a href=\"/blog/wildlife-watching-uk/\">wildlife watching</a>.</p>"
+    },
+    {
+      "h2": "Indoor favourites",
+      "html": "<ul><li><a href=\"/museums-and-science/\">Museums and science centres</a>.</li><li><a href=\"/water-parks/\">Indoor water parks</a>.</li><li><a href=\"/indoor-activities/\">Trampoline parks, bowling and climbing</a>.</li><li><a href=\"/blog/board-game-cafes-for-families/\">Board game cafés</a>.</li></ul>"
+    },
+    {
+      "h2": "Late November",
+      "html": "<p>Christmas markets, light trails and ice rinks start to open. Book the big festive days now: see the <a href=\"/blog/advent-days-out-calendar/\">advent calendar of days out</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is November a good time for days out?",
+      "a": "Yes. Attractions are often quieter and some offer off-peak prices. Check opening dates, as some outdoor attractions reduce hours in winter."
+    }
+  ],
+  "related": [
+    "seasonal-events",
+    "blog/rainy-day-days-out",
+    "blog/bonfire-night-fireworks-displays"
+  ]
+}

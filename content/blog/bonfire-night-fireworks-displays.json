@@ -1,0 +1,75 @@
+{
+  "updated": "2026-10-14",
+  "type": "post",
+  "date": "2026-10-15",
+  "eyebrow": "Seasonal · Bonfire Night",
+  "search": false,
+  "slug": "blog/bonfire-night-fireworks-displays",
+  "title": "Bonfire Night With Kids: Firework Displays and Safety",
+  "description": "Planning Bonfire Night with kids? Why organised firework displays are the safest choice, booking tips, ear defenders for little ones, sparkler safety and pets.",
+  "h1": "Bonfire Night with kids: firework displays and safety",
+  "intro": "Bonfire Night falls on Thursday 5 November in 2026, with lots of displays on the weekends either side. Here’s how to enjoy the bangs and sparkles safely, at any age.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1607109946143-ee98d991846e",
+    "alt": "Twinkling red and white festive lights",
+    "credit": "Cole Ciarlello",
+    "creditUrl": "https://unsplash.com/@cole_ciarlello"
+  },
+  "keywords": [
+    "bonfire night",
+    "fireworks",
+    "firework displays",
+    "fireworks near me",
+    "guy fawkes night",
+    "sparklers",
+    "fireworks safety",
+    "november 5th"
+  ],
+  "cardText": "Organised displays, booking, ear defenders and sparkler safety.",
+  "blocks": [
+    {
+      "type": "scout",
+      "mood": "tip",
+      "title": "Scout’s firework tip",
+      "text": "<p>Organised public displays are the safest (and often cheapest) way to see fireworks. Book online early: many sell cheaper advance tickets and some sell out.</p>",
+      "points": [
+        "Ear defenders for babies and toddlers",
+        "Gloves on for sparklers, and a bucket of water for used ones",
+        "Agree a meeting point in the crowd"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Find an organised display",
+      "html": "<p>Councils, schools, sports clubs and attractions run displays around 5 November, often with food stalls and fairground rides. Search your council’s website and local news for listings. Some heritage railways, castles and theme parks run firework events too: see <a href=\"/seasonal-events/\">seasonal events</a>.</p>"
+    },
+    {
+      "h2": "Little ones and loud bangs",
+      "html": "<ul><li>Bring ear defenders for babies and toddlers.</li><li>Stand further back: you still see the sky, but it’s less loud.</li><li>Early-evening or “quiet” displays suit younger children.</li></ul>"
+    },
+    {
+      "h2": "Sparkler safety",
+      "html": "<ul><li>Sparklers aren’t recommended for under-5s.</li><li>Wear gloves, hold them at arm’s length and light one at a time.</li><li>Put used sparklers hot end down in a bucket of water. They stay hot for a long time.</li></ul>"
+    },
+    {
+      "h2": "Pets",
+      "html": "<p>Fireworks can frighten pets. Our sister site has tips on <a href=\"https://petsavings.shmor.ai/blog/fireworks-and-pets/\">keeping pets calm during fireworks</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "When is Bonfire Night 2026?",
+      "a": "Bonfire Night is on Thursday 5 November 2026. Many organised displays take place on the weekends before and after."
+    },
+    {
+      "q": "What age can children use sparklers?",
+      "a": "Sparklers aren’t recommended for under-5s. Older children should wear gloves and always be supervised."
+    }
+  ],
+  "related": [
+    "seasonal-events",
+    "blog/christmas-days-out-family",
+    "local-days-out"
+  ]
+}

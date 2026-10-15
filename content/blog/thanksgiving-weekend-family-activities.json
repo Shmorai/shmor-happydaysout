@@ -1,0 +1,66 @@
+{
+  "updated": "2026-10-14",
+  "type": "post",
+  "date": "2026-10-15",
+  "eyebrow": "USA · Thanksgiving",
+  "search": false,
+  "slug": "blog/thanksgiving-weekend-family-activities",
+  "title": "Thanksgiving Weekend Family Activities and Days Out",
+  "description": "Family ideas for Thanksgiving weekend in the US: parades, turkey trots, free museums, national park walks, holiday lights and beating the crowds.",
+  "h1": "Thanksgiving weekend: family activities and days out",
+  "intro": "Thanksgiving falls on Thursday 26 November in 2026, giving many families a long weekend. Here are ways to get out of the house between the leftovers.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1605796637388-0757a79c26cc",
+    "alt": "A child in yellow wellies walking through autumn leaves",
+    "credit": "Zachary Kadolph",
+    "creditUrl": "https://unsplash.com/@zacharykadolph"
+  },
+  "keywords": [
+    "thanksgiving activities",
+    "thanksgiving weekend",
+    "things to do thanksgiving weekend",
+    "turkey trot",
+    "thanksgiving parade",
+    "black friday alternatives",
+    "holiday lights"
+  ],
+  "cardText": "Parades, turkey trots, museums and lights for the long weekend.",
+  "blocks": [
+    {
+      "type": "scout",
+      "mood": "tip",
+      "title": "Scout’s long-weekend tip",
+      "text": "<p>Skip the Black Friday malls and head outdoors. Parks and trails are often quiet while everyone else is shopping.</p>",
+      "points": [
+        "Book popular attractions ahead",
+        "Check holiday opening hours",
+        "Many holiday light shows open this weekend"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Thanksgiving Day",
+      "html": "<ul><li><strong>Parades:</strong> many cities hold Thanksgiving parades. Arrive early for a good spot, or watch on TV.</li><li><strong>Turkey trots:</strong> family-friendly fun runs and walks on Thanksgiving morning, often raising money for charity.</li></ul>"
+    },
+    {
+      "h2": "The weekend",
+      "html": "<ul><li><strong>Get outdoors:</strong> a walk in a state or <a href=\"/blog/us-national-parks-with-kids/\">national park</a>.</li><li><strong>Museums:</strong> the Smithsonian is free. See more <a href=\"/blog/free-days-out-usa-kids/\">free US days out</a>.</li><li><strong>Holiday lights</strong> and skating rinks often open around now.</li><li><strong>Theme parks</strong> begin their holiday seasons. See <a href=\"/disney-deals/\">Disney</a>.</li></ul>"
+    },
+    {
+      "h2": "Beat the crowds",
+      "html": "<p>Friday and Saturday are busy at attractions, so go early or pick outdoor plans. Use the <a href=\"/adventure-finder/?where=us\">adventure finder</a> for US ideas.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "When is Thanksgiving 2026?",
+      "a": "Thanksgiving in the US is on Thursday 26 November 2026."
+    }
+  ],
+  "related": [
+    "blog/free-days-out-usa-kids",
+    "blog/us-national-parks-with-kids",
+    "seasonal-events"
+  ]
+}

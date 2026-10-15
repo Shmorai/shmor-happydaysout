@@ -1,0 +1,65 @@
+{
+  "updated": "2026-10-14",
+  "type": "post",
+  "date": "2026-10-15",
+  "eyebrow": "Seasonal · Christmas",
+  "search": false,
+  "slug": "blog/christmas-markets-with-kids",
+  "title": "Christmas Markets With Kids: UK and Europe Family Guide",
+  "description": "Christmas markets with kids: when markets open, rides, skating and Santa, tips for buggies and crowds, and European markets worth a trip.",
+  "h1": "Christmas markets with kids",
+  "intro": "Twinkling stalls, hot chocolate and a carousel. Christmas markets are magical for kids if you time it right. Here’s how to enjoy them without the crowd crush.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1639178952543-1c0ea3cbacaa",
+    "alt": "A family gathered around a Christmas tree",
+    "credit": "Jakob Owens",
+    "creditUrl": "https://unsplash.com/@jakobowens1"
+  },
+  "keywords": [
+    "christmas markets",
+    "christmas markets with kids",
+    "uk christmas markets",
+    "european christmas markets",
+    "christmas market rides",
+    "festive days out"
+  ],
+  "cardText": "Timing, rides and skating, buggies and the best trips abroad.",
+  "blocks": [
+    {
+      "type": "scout",
+      "mood": "tip",
+      "title": "Scout’s market tip",
+      "text": "<p>Go on a weekday afternoon, just as the lights come on. You get the sparkle without the evening crowds.</p>",
+      "points": [
+        "Carriers beat buggies in busy aisles",
+        "Set a budget for treats and rides",
+        "Many markets are free to enter"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "When to go",
+      "html": "<p>Many UK markets open from mid to late November and run until just before Christmas. Weekends and evenings are busiest, so weekday afternoons are the sweet spot with children.</p>"
+    },
+    {
+      "h2": "What families love",
+      "html": "<ul><li>Carousels and small fairground rides.</li><li>Pop-up ice rinks. See <a href=\"/blog/ice-skating-with-kids/\">ice skating with kids</a>.</li><li>Santa’s grottos (often bookable in advance).</li><li>Treats: hot chocolate, waffles and roasted chestnuts.</li></ul>"
+    },
+    {
+      "h2": "Markets abroad",
+      "html": "<p>Europe’s famous markets in Germany, Austria and France make a magical short break. Our sister site has a guide to <a href=\"https://traveldeals.shmor.ai/blog/christmas-market-city-breaks/\">Christmas market city breaks</a>, and <a href=\"/blog/disneyland-paris-disney-adventure-world/\">Disneyland Paris</a> and Tivoli Gardens both run Christmas seasons.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "When do Christmas markets open in the UK?",
+      "a": "Many open from mid to late November and close just before Christmas, but dates vary. Check the market’s own website."
+    }
+  ],
+  "related": [
+    "blog/christmas-days-out-family",
+    "seasonal-events",
+    "blog/advent-days-out-calendar"
+  ]
+}

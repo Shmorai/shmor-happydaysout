@@ -555,3 +555,19 @@ h1, h2, h3 { font-weight: 700; }
   .hero-home { background: radial-gradient(circle at 100% 0%, #FFD23F 0 70px, rgba(255,210,63,.3) 71px 92px, transparent 93px), linear-gradient(155deg, #2B1A6B 0%, #6C3BFF 42%, #FF3D8B 78%, #FF7A1A 100%); }
   .quick-find label { flex-basis: 100%; }
 }
+
+/* Footer: brand + four short link groups, then a slim network/legal bar (2026-10-15) */
+.foot-grid { grid-template-columns: 1.4fr repeat(4, 1fr); gap: 28px 32px; }
+.foot-brand .brand { display: inline-flex; align-items: center; gap: 10px; }
+.foot-brand .brand img { width: 56px; height: 56px; }
+.foot-brand p { max-width: 300px; }
+.foot-grid ul { gap: 7px; }
+.foot-grid h4 { font-size: 16px; margin-bottom: 14px; }
+.foot-bar { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 8px 24px; margin-top: 32px; padding-top: 18px; border-top: 1px solid rgba(255,255,255,.15); font-size: 14px; }
+.foot-bar p { margin: 0; }
+.foot-bar a { text-decoration: none; color: #E4E8F5; }
+.foot-bar a:hover { color: var(--sun); }
+.foot-bar strong a { color: var(--sun); }
+.disclosure { margin-top: 16px; }
+@media (max-width: 1000px) { .foot-grid { grid-template-columns: repeat(2, 1fr); } .foot-brand { grid-column: 1 / -1; } }
+@media (max-width: 420px) { .foot-grid { gap: 24px 16px; } .foot-grid a { font-size: 14px; } }

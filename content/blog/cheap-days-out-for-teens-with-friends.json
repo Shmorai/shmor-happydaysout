@@ -1,0 +1,65 @@
+{
+  "updated": "2026-10-14",
+  "type": "post",
+  "date": "2026-10-15",
+  "eyebrow": "Teen pick · Budget",
+  "search": false,
+  "slug": "blog/cheap-days-out-for-teens-with-friends",
+  "title": "Cheap Days Out for Teens With Friends (Under a Tenner)",
+  "description": "Cheap days out teens can do with friends: skate parks, free museums, bowling, cinema, bike rides and city exploring, plus tips for going solo.",
+  "h1": "Cheap days out for teens with friends",
+  "intro": "Teenagers want independence and their mates, not a pricey family outing. These ideas are cheap or free, and some are perfect first trips without parents.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1582486759052-fb6b5c90fa50",
+    "alt": "Skate park ramps covered in graffiti",
+    "credit": "ALEXANDRE LALLEMAND",
+    "creditUrl": "https://unsplash.com/@alexandrelallemand"
+  },
+  "keywords": [
+    "cheap things to do with friends",
+    "teen activities cheap",
+    "things to do with friends",
+    "free things for teens",
+    "cheap days out teenagers",
+    "teen independence"
+  ],
+  "cardText": "Skate parks, museums, bowling deals and city exploring on a budget.",
+  "blocks": [
+    {
+      "type": "scout",
+      "mood": "tip",
+      "title": "Scout’s independence tip",
+      "text": "<p>Agree the plan, the route home and a check-in time before they go. A charged phone and a little emergency cash make first trips calmer for everyone.</p>",
+      "points": [
+        "Look for student and young person discounts",
+        "Off-peak and weekday deals are cheapest",
+        "Pack food: it’s the biggest hidden cost"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Free",
+      "html": "<ul><li><a href=\"/blog/skate-parks-and-scooter-days/\">Skate parks</a>.</li><li>Free <a href=\"/museums-and-science/\">museums</a> and galleries.</li><li>A park picnic or beach day.</li><li><a href=\"/blog/geocaching-family-treasure-hunt/\">Geocaching</a> around town.</li><li>Bike rides on <a href=\"/blog/family-cycling-days-out/\">traffic-free trails</a>.</li></ul>"
+    },
+    {
+      "h2": "Cheap treats",
+      "html": "<ul><li>Bowling (daytime and weekday games are often cheaper).</li><li>Cheaper cinema days and screenings.</li><li>Trampoline park sessions.</li><li>Charity shop crawls and markets.</li><li>An ice rink public session.</li></ul>"
+    },
+    {
+      "h2": "Bigger nights out, saved for",
+      "html": "<p><a href=\"/escape-rooms/\">Escape rooms</a> and <a href=\"/blog/go-karting-for-kids/\">go-karting</a> work out cheaper split between friends. See every idea in <a href=\"/teen-days-out/\">teen days out</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What can teenagers do with friends for free?",
+      "a": "Skate parks, free museums, parks and beaches, bike rides, geocaching and window-shopping are all free."
+    }
+  ],
+  "related": [
+    "teen-days-out",
+    "blog/skate-parks-and-scooter-days",
+    "free-days-out"
+  ]
+}

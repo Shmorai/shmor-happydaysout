@@ -1,0 +1,60 @@
+{
+  "updated": "2026-10-14",
+  "type": "post",
+  "date": "2026-10-15",
+  "eyebrow": "Seasonal · Christmas",
+  "search": false,
+  "slug": "blog/advent-days-out-calendar",
+  "title": "An Advent Calendar of Days Out: 24 Festive Family Ideas",
+  "description": "A days out advent calendar for December: 24 festive family ideas, from free light walks and carols to Santa trains, skating and panto.",
+  "h1": "An advent calendar of days out",
+  "intro": "Swap chocolate for memories. Here are 24 festive ideas for December, one for each door. Lots are free, and some are quick enough for a school night.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1607109946143-ee98d991846e",
+    "alt": "Twinkling red and white festive lights",
+    "credit": "Cole Ciarlello",
+    "creditUrl": "https://unsplash.com/@cole_ciarlello"
+  },
+  "keywords": [
+    "advent calendar ideas",
+    "december activities",
+    "christmas activities for kids",
+    "festive days out",
+    "free christmas activities",
+    "christmas lights"
+  ],
+  "cardText": "Twenty-four festive ideas for December, many of them free.",
+  "blocks": [
+    {
+      "type": "scout",
+      "mood": "tip",
+      "title": "Scout’s advent plan",
+      "text": "<p>Mix tiny treats (a light walk, hot chocolate) with two or three big ones you book early. Not every door needs a ticket!</p>"
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Doors 1–8: free and easy",
+      "html": "<ol><li>Walk to see the town Christmas lights</li><li>Library festive story time</li><li>Carol concert at a local church</li><li>Christmas lights “safari” by car or on foot</li><li>Frosty woodland walk with flask</li><li>Visit a free museum’s winter trail</li><li>Window-shopping for festive displays</li><li>Make bird feeders and visit a nature reserve</li></ol>"
+    },
+    {
+      "h2": "Doors 9–16: small treats",
+      "html": "<ol start=\"9\"><li>Ice skating session</li><li>Christmas market wander. See <a href=\"/blog/christmas-markets-with-kids/\">markets with kids</a></li><li>Kids’ cinema morning</li><li>Bowling and hot chocolate</li><li>Pick a real Christmas tree at a farm</li><li>Gingerbread workshop</li><li>Festive farm park day</li><li>Light trail (book early)</li></ol>"
+    },
+    {
+      "h2": "Doors 17–24: the big ones",
+      "html": "<ol start=\"17\"><li>Santa Special steam train</li><li>Pantomime</li><li>Santa’s grotto</li><li>Castle or stately home Christmas event</li><li>Winter wonderland</li><li>Theme park Christmas event</li><li>Festive escape room (teens!)</li><li>Christmas Eve walk and doorstep carols</li></ol><p>Plan the big ones with our <a href=\"/blog/christmas-days-out-family/\">Christmas days out guide</a> and the <a href=\"/adventure-finder/\">adventure finder</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What are free Christmas activities for kids?",
+      "a": "Christmas light walks, carol concerts, library story times, free museum trails and woodland walks are all free or nearly free."
+    }
+  ],
+  "related": [
+    "blog/christmas-days-out-family",
+    "seasonal-events",
+    "free-days-out"
+  ]
+}

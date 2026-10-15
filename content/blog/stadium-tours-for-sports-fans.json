@@ -1,0 +1,66 @@
+{
+  "updated": "2026-10-14",
+  "type": "post",
+  "date": "2026-10-15",
+  "eyebrow": "Teen pick · Sport",
+  "search": false,
+  "slug": "blog/stadium-tours-for-sports-fans",
+  "title": "Stadium Tours: A Family Day Out for Sports Fans",
+  "description": "Stadium tours for sports-mad kids and teens: what you see behind the scenes, booking tips, match-day restrictions and combining a tour with the club museum.",
+  "h1": "Stadium tours for sports-mad kids and teens",
+  "intro": "Sit in the dugout, walk the players’ tunnel and see the trophies up close. Stadium tours are a dream day out for young football, rugby and cricket fans.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1561524891-8e08ab8569f3",
+    "alt": "A family walking along a wooden boardwalk through a field at golden hour",
+    "credit": "Jessica Rockowitz",
+    "creditUrl": "https://unsplash.com/@jessicarockowitz"
+  },
+  "keywords": [
+    "stadium tour",
+    "stadium tours",
+    "football stadium tour",
+    "wembley tour",
+    "rugby stadium tour",
+    "sports days out",
+    "gifts for sports fans"
+  ],
+  "cardText": "Dugouts, tunnels and trophies: how stadium tours work.",
+  "blocks": [
+    {
+      "type": "scout",
+      "mood": "tip",
+      "title": "Scout’s stadium tip",
+      "text": "<p>Tours don’t usually run on match days, and dates change when fixtures move. Book a weekday in the school holidays and double-check the day before.</p>",
+      "points": [
+        "Many tours include the club museum",
+        "Look for family tickets",
+        "A tour voucher makes a great gift"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "What you’ll see",
+      "html": "<p>Tours vary, but often include the dressing rooms, the players’ tunnel, the pitchside dugouts, the press room and the trophy cabinet, with a guide sharing stories. Many big clubs and national stadiums run regular tours.</p>"
+    },
+    {
+      "h2": "Booking tips",
+      "html": "<ul><li>Book online. Popular slots sell out in the holidays.</li><li>Check for match-day and event closures.</li><li>Ask about accessibility: some routes include lots of stairs.</li></ul>"
+    },
+    {
+      "h2": "Gift idea",
+      "html": "<p>A stadium tour makes a brilliant <a href=\"/experience-days/\">experience gift</a> or <a href=\"/blog/teen-birthday-day-out-ideas/\">birthday day out</a> for a sports-mad teen. See <a href=\"/film-and-tv-tours/\">behind-the-scenes tours</a> for more.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do stadium tours run on match days?",
+      "a": "Usually not. Tours are often cancelled or limited on match and event days, so check the schedule before booking."
+    }
+  ],
+  "related": [
+    "experience-days",
+    "teen-days-out",
+    "film-and-tv-tours"
+  ]
+}

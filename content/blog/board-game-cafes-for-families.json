@@ -1,0 +1,65 @@
+{
+  "updated": "2026-10-14",
+  "type": "post",
+  "date": "2026-10-15",
+  "eyebrow": "Teen pick · Rainy day",
+  "search": false,
+  "slug": "blog/board-game-cafes-for-families",
+  "title": "Board Game Cafés: A Rainy Day Out for Families and Teens",
+  "description": "Board game cafés for families and teens: how cover charges work, staff who teach the rules, games for all ages, and why they suit rainy days.",
+  "h1": "Board game cafés: a rainy day out for families and teens",
+  "intro": "Hundreds of games, someone to teach you the rules, and snacks on tap. Board game cafés are a brilliant rainy-day out that gets teens off their phones.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1569002925653-ed18f55d7292",
+    "alt": "A neon sign for escape rooms",
+    "credit": "Zachary Keimig",
+    "creditUrl": "https://unsplash.com/@zacharykeimig"
+  },
+  "keywords": [
+    "board game cafe",
+    "board games",
+    "rainy day ideas",
+    "things to do with teenagers",
+    "family games",
+    "game cafe near me"
+  ],
+  "cardText": "How cover charges work, games for all ages and why teens love them.",
+  "blocks": [
+    {
+      "type": "scout",
+      "mood": "tip",
+      "title": "Scout’s game-night tip",
+      "text": "<p>Ask the staff for a recommendation. Tell them your ages and how long you’ve got, and they’ll pick a winner.</p>",
+      "points": [
+        "Book a table at weekends",
+        "Check the age policy (some are 18+ in the evening)",
+        "Quick party games suit mixed ages"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "How they work",
+      "html": "<p>Most board game cafés charge a per-person table or cover fee for a set time, with food and drinks on top. You can play anything from the library, and staff often teach the rules.</p>"
+    },
+    {
+      "h2": "Games for every age",
+      "html": "<ul><li><strong>Little ones:</strong> simple co-operative games and matching games.</li><li><strong>Ages 8+:</strong> quick card games and family strategy games.</li><li><strong>Teens:</strong> party and bluffing games, plus bigger strategy games.</li></ul>"
+    },
+    {
+      "h2": "Make a day of it",
+      "html": "<p>Pair it with a museum or the cinema. See <a href=\"/indoor-activities/\">indoor fun</a>, <a href=\"/blog/rainy-day-days-out/\">rainy day ideas</a> and <a href=\"/escape-rooms/\">escape rooms</a> for more puzzle fun.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Are board game cafés good for kids?",
+      "a": "Many welcome families during the day and have games for young children. Some are adults-only in the evenings, so check the age policy."
+    }
+  ],
+  "related": [
+    "indoor-activities",
+    "escape-rooms",
+    "blog/rainy-day-days-out"
+  ]
+}
