@@ -571,3 +571,12 @@ h1, h2, h3 { font-weight: 700; }
 .disclosure { margin-top: 16px; }
 @media (max-width: 1000px) { .foot-grid { grid-template-columns: repeat(2, 1fr); } .foot-brand { grid-column: 1 / -1; } }
 @media (max-width: 420px) { .foot-grid { gap: 24px 16px; } .foot-grid a { font-size: 14px; } }
+
+/* Menu folds into the menu button when it doesn't fit (set by site.js) */
+.nav-compact .menu { display: block; }
+.nav-compact .nav { display: none; position: absolute; left: 0; right: 0; top: 100%; flex-direction: column; gap: 0; background: var(--surface); border-bottom: 1px solid var(--line); padding: 8px 20px 16px; box-shadow: 0 12px 30px rgba(0,0,0,.18); z-index: 60; }
+.nav-compact .nav.open { display: flex; }
+.nav-compact .nav a { padding: 12px 0; border-bottom: 1px solid var(--line); }
+
+/* Let article columns shrink so wide tables scroll inside their box instead of widening the page */
+.content-grid > * { min-width: 0; }
