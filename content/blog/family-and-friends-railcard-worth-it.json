@@ -1,0 +1,93 @@
+{
+  "updated": "2026-11-19",
+  "type": "post",
+  "date": "2026-11-19",
+  "eyebrow": "Save money · Rail",
+  "search": false,
+  "slug": "blog/family-and-friends-railcard-worth-it",
+  "title": "Is the Family & Friends Railcard Worth It for Days Out?",
+  "description": "Is the Family & Friends Railcard worth it? How the 1/3 and 60% discounts work, a simple break-even sum, the restrictions and when you should skip it.",
+  "h1": "Is the Family & Friends Railcard worth it for days out?",
+  "intro": "A Family & Friends Railcard can take a third off adult tickets and 60% off child tickets. Whether it pays for itself depends on how often you travel, so here is the sum to do before you buy.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1547756536-cde3673fa2e5",
+    "alt": "A red steam locomotive on a railway line",
+    "credit": "B K",
+    "creditUrl": "https://unsplash.com/@woolyart"
+  },
+  "keywords": [
+    "family and friends railcard",
+    "family and friends railcard worth it",
+    "family railcard",
+    "railcard for families",
+    "train discount for kids",
+    "cheap train tickets families",
+    "family days out by train",
+    "railcard child discount"
+  ],
+  "cardText": "How the discounts work, the break-even sum and the small print.",
+  "blocks": [
+    {
+      "type": "scout",
+      "mood": "tip",
+      "title": "Scout’s rail tip",
+      "text": "<p>Work out the break-even before you buy: if your family’s full-price adult fares for the year would add up to more than about three times the card’s price, it is likely to pay for itself.</p>",
+      "points": [
+        "Children under 5 travel free, but you need at least one child ticket to unlock the adult discount",
+        "Check the time restrictions in London and the South East",
+        "A 3-year card is cheaper per year if you will keep using it"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "How the Family & Friends Railcard discounts work",
+      "html": "<p>As of November 2026, the official Railcard site lists the card at £35 for one year or £80 for three years. It gives <strong>1/3 off adult tickets</strong> and <strong>60% off child tickets</strong> (children aged 5 to 15) on eligible journeys.</p><ul><li>Any adult aged 16 or over can buy one, and up to two named adults can be on the same card.</li><li>Up to four adults and four children can travel together, but at least one named adult and one child must travel together.</li><li>Children under 5 travel free. To get the adult discount you still need to buy at least one child ticket, with a £1 minimum fare.</li></ul><p>Prices and rules can change, so always check the <a href=\"https://www.railcard.co.uk/family-and-friends-railcard/\" rel=\"noopener\">official Railcard page</a> before you pay.</p>"
+    },
+    {
+      "h2": "The break-even sum: when does a family railcard pay off?",
+      "html": "<p>You do not need a spreadsheet. A third off means the card saves you roughly one pound for every three pounds of full-price adult fares. At £35, that is about <strong>£105 of adult fares</strong> to break even on a one-year card, before counting any child savings. Because the child discount is bigger (60%), a family with children can reach break-even sooner.</p><p>As a rough guide: a couple of return day trips a year may not justify the card, but a family doing a day out by train most months almost certainly will. If you also use rail tickets to unlock 2-for-1 entry, see our guide to <a href=\"/blog/national-rail-2for1-days-out/\">National Rail 2FOR1 days out</a> and combine the savings.</p>"
+    },
+    {
+      "h2": "What the railcard does not cover",
+      "html": "<p>Read the small print before you rely on it. According to the official page:</p><ul><li>There is <strong>no discount on weekday morning peak tickets</strong> wholly within London and the South East (weekends and public holidays are exempt).</li><li>First Class tickets are excluded, apart from weekend First Class upgrades subject to availability.</li><li>Season tickets, most London Underground and DLR tickets, Eurostar and some group-save offers are excluded.</li><li>Standard Anytime, Off-Peak, Super Off-Peak and Advance tickets are included.</li></ul><p>Adults and children on the discounted tickets should normally travel on the same route and ticket type, and the named adult must stay with them for the whole journey.</p>"
+    },
+    {
+      "h2": "Getting more from your railcard on days out",
+      "html": "<ul><li><strong>Book Advance tickets early.</strong> The railcard discount applies on top of cheaper Advance fares where they are available.</li><li><strong>Travel off-peak.</strong> Pairing the discount with off-peak travel often gives the biggest saving. Our <a href=\"/blog/days-out-by-train-with-kids/\">days out by train with kids</a> guide has ideas that work well without a car.</li><li><strong>Add attraction deals.</strong> Check whether your destination offers <a href=\"/blog/kids-go-free-offers/\">kids-go-free offers</a> or a discount for rail ticket holders.</li><li><strong>Share it.</strong> Two named adults can share one card, which suits separated parents or grandparents who take the children out.</li></ul>"
+    },
+    {
+      "h2": "When you can skip it",
+      "html": "<p>If you mostly drive, only take a couple of trains a year, or travel mainly in the London and South East weekday morning peak, the card may not earn its price. Compare it with other ways to cut costs in our <a href=\"/blog/days-out-on-a-budget/\">days out on a budget</a> guide, and weigh it against memberships such as <a href=\"/blog/kids-pass-explained/\">Kids Pass</a> if you spend more on attractions than on travel.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How much is the Family & Friends Railcard?",
+      "a": "As of November 2026 the official Railcard site lists £35 for a 1-year card and £80 for a 3-year card. Check the official page for the current price before buying."
+    },
+    {
+      "q": "Do children need their own ticket with a Family & Friends Railcard?",
+      "a": "Children aged 5 to 15 need a child ticket to get the 60% discount. Children under 5 travel free, but you must buy at least one child ticket (minimum fare £1) to get the adult discount."
+    },
+    {
+      "q": "Can two adults use one Family & Friends Railcard?",
+      "a": "Yes. Up to two named adults can be on one card and they do not need to be related or travel together, though at least one named adult must travel with the child on discounted tickets."
+    },
+    {
+      "q": "Does the railcard work on weekday mornings in London?",
+      "a": "Not on tickets wholly within London and the South East in the weekday morning peak. Weekends and public holidays are exempt, so check the time restrictions on the official page."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Railcard.co.uk: Family & Friends Railcard",
+      "url": "https://www.railcard.co.uk/family-and-friends-railcard/"
+    }
+  ],
+  "related": [
+    "blog/national-rail-2for1-days-out",
+    "blog/days-out-by-train-with-kids",
+    "blog/days-out-on-a-budget"
+  ]
+}
