@@ -1,0 +1,92 @@
+{
+  "eyebrow": "Save money · Deals",
+  "title": "Black Friday Days Out: How to Spot a Real Deal",
+  "description": "Black Friday 2026 is 27 November. How to check family days out and theme park ticket deals are genuinely cheap, plus a simple pre-buy checklist.",
+  "h1": "Black Friday family days out: how to tell a real deal from a fake one",
+  "intro": "Black Friday falls on 27 November 2026 and Cyber Monday on 30 November, so theme park tickets, annual passes and experience gifts will be shouting “sale” everywhere. Here is how to check an offer is genuinely good before you pay.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1502136969935-8d8eef54d77b",
+    "alt": "People riding a spinning fairground ride",
+    "credit": "Ethan Hoover",
+    "creditUrl": "https://unsplash.com/@ethanchoover"
+  },
+  "keywords": [
+    "black friday days out",
+    "black friday theme park tickets",
+    "black friday family deals",
+    "cyber monday days out",
+    "cheap theme park tickets",
+    "are black friday deals real",
+    "annual pass black friday",
+    "family days out deals",
+    "christmas gift experience deals"
+  ],
+  "cardText": "A simple checklist for Black Friday tickets, passes and experience gifts.",
+  "blocks": [
+    {
+      "type": "scout",
+      "mood": "tip",
+      "title": "Scout’s sale tip",
+      "text": "<p>A big percentage off is only a deal if the starting price was ever real. Check what the same ticket cost last month, then check the terms: date, validity and refund rules.</p>",
+      "points": [
+        "Compare against the park’s own normal online price, not the “gate price”",
+        "Check the date range: some tickets are valid only on selected days",
+        "Buy only from the attraction itself or a seller you already trust"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "When is Black Friday 2026?",
+      "html": "<p>According to Which?, Black Friday 2026 is on <strong>27 November</strong> and Cyber Monday is on <strong>30 November</strong>. Some retailers run their offers across the whole weekend, and some start earlier in November, so a “Black Friday” price can appear before the day itself.</p><p>We have not verified any particular park’s or attraction’s Black Friday offer, and we do not list prices here because they change. Check the attraction’s official site on the day, and see our <a href=\"/discount-codes/\">discount codes page</a> for offers we have checked and dated.</p>"
+    },
+    {
+      "h2": "How to check a Black Friday ticket deal is genuinely cheap",
+      "html": "<p>Which?’s guide to checking Black Friday deals is aimed at shop goods, but its logic works just as well for days out:</p><ul><li><strong>Compare more than one seller.</strong> If several sellers offer a similar price but only one labels it a special offer, the deal may not be special.</li><li><strong>Check price history.</strong> Take a note of the ticket price now. Prices on dates in the following weeks can then show whether a sale is real.</li><li><strong>Be wary of “was” prices.</strong> A crossed-out price may be an “anchor” that does not reflect recent selling prices.</li><li><strong>Do not rely on the “gate price”.</strong> Walk-up prices are often the highest, so “save 40% on the gate price” may still be dearer than an ordinary advance booking.</li></ul><p>In 2024 Which? analysed nearly 200 Black Friday deals by checking prices six months either side of the sale, which is a good reminder that “Black Friday” on its own does not guarantee a bargain.</p>"
+    },
+    {
+      "h2": "Read the small print on tickets, passes and vouchers",
+      "html": "<p>A cheaper ticket can cost you more if it does not fit your plans. Before you buy, check:</p><ul><li><strong>Valid dates:</strong> some offers exclude school holidays, weekends or peak days.</li><li><strong>Booking and expiry:</strong> do you have to choose a date now, and what if your child is ill?</li><li><strong>Refund and change rules:</strong> sale tickets are often less flexible.</li><li><strong>Who it covers:</strong> family bundles may be set at a fixed number of adults and children.</li><li><strong>The seller:</strong> buy from the attraction’s own site or a retailer you already know. Our guide to <a href=\"/blog/how-to-spot-fake-discount-codes/\">spotting fake discount codes</a> shows what to avoid.</li></ul>"
+    },
+    {
+      "h2": "Annual passes and gift experiences: worth waiting for?",
+      "html": "<p>An annual pass can be good value if you will really visit often, so do the sum first: how many visits would make it cheaper than separate tickets? Our <a href=\"/blog/annual-pass-vs-day-tickets/\">annual pass vs day tickets</a> guide walks through it, and the <a href=\"/blog/merlin-annual-pass-changes/\">Merlin pass changes</a> post covers one of the best-known schemes.</p><p>For presents, an experience voucher can be a clever alternative to another toy. Check how long it is valid and whether it can be used on the day you want. See <a href=\"/blog/experience-day-gifts-for-families/\">experience day gifts for families</a> for ideas.</p>"
+    },
+    {
+      "h2": "Cheaper days out that do not depend on a sale",
+      "html": "<p>You do not need a sale to save. Kids-go-free schemes, rail 2-for-1 offers and free museums often beat a Black Friday headline price. Start with <a href=\"/blog/kids-go-free-offers/\">kids-go-free offers</a>, <a href=\"/blog/national-rail-2for1-days-out/\">National Rail 2FOR1</a> and our <a href=\"/free-days-out/\">free days out</a> page.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "When is Black Friday 2026?",
+      "a": "Which? lists Black Friday 2026 as 27 November and Cyber Monday as 30 November. Some retailers start their offers earlier in November."
+    },
+    {
+      "q": "Are Black Friday theme park deals worth it?",
+      "a": "Sometimes, but not automatically. Compare against the attraction’s normal advance price, check the valid dates and refund rules, and only buy from the attraction or a seller you trust."
+    },
+    {
+      "q": "How can I check if a Black Friday price is real?",
+      "a": "Which? suggests comparing several sellers, being wary of inflated “was” prices and not relying on a recommended retail price. Note the normal price before the sale so you have something to compare."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Which?: Black Friday 2026 coverage",
+      "url": "https://www.which.co.uk/news/black-friday/"
+    },
+    {
+      "title": "Which?: How to check if a Black Friday deal is real",
+      "url": "https://www.which.co.uk/reviews/black-friday/article/black-friday-deals/black-friday-deals-how-to-check-if-a-black-friday-deal-is-real"
+    }
+  ],
+  "related": [
+    "blog/how-to-spot-fake-discount-codes",
+    "blog/annual-pass-vs-day-tickets"
+  ],
+  "type": "post",
+  "date": "2026-11-21",
+  "updated": "2026-11-21",
+  "slug": "blog/black-friday-family-days-out-deals"
+}
